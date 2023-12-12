@@ -38,7 +38,7 @@ for (let lon = -180; lon < 180; lon += 1) {
         if (intersections.length > 0) {
             fs.mkdirSync(`./v1/${lon}`, {recursive: true});
 
-            fs.writeFileSync(name, JSON.stringify(turf.featureCollection(intersections), null, 2));
+            fs.writeFileSync(name, JSON.stringify(turf.featureCollection(intersections)));
 
             console.log(name, intersections.length, Math.round(performance.now() - start));
         }
@@ -64,7 +64,7 @@ function getIntersections(lon, lat) {
 }
 
 function isIntersectingBBox(bbox1, boundary) {
-    // this is 0 ms, unlike turf.intersect, which is 50 ms
+    // this is 0 ms, unlike turf.intersect, which is ~300 ms
     let bbox2 = boundary.bbox;
     if (!(
         bbox1[0] > bbox2[2] ||
