@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -223026,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Turkmenistan",
+        "local_name": "Türkmenistan",
+        "name_en": "Turkmenistan",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+          "name": "Türkmenistan",
+          "name:af": "Turkmenistan",
+          "name:am": "ቱርክመኒስታን",
+          "name:an": "Turkmenistán",
+          "name:ar": "تركمانستان",
+          "name:av": "Туркменистан",
+          "name:az": "Türkmənistan",
+          "name:ba": "Төрөкмәнстан",
+          "name:be": "Туркменістан",
+          "name:bg": "Туркменистан",
+          "name:bn": "তুর্কমেনিস্তান",
+          "name:bo": "ཏུརཀ་མེ་ནི་སུཏན།",
+          "name:br": "Turkmenistan",
+          "name:bs": "Turkmenistan",
+          "name:ca": "Turkmenistan",
+          "name:co": "Turkmenistan",
+          "name:cs": "Turkmenistán",
+          "name:cv": "Туркменистан",
+          "name:cy": "Turkmenistan",
+          "name:da": "Turkmenistan",
+          "name:de": "Turkmenistan",
+          "name:dv": "ތުރުކުމެނިސްތާން",
+          "name:ee": "Turkmenistan",
+          "name:el": "Τουρκμενιστάν",
+          "name:en": "Turkmenistan",
+          "name:eo": "Turkmenio",
+          "name:es": "Turkmenistán",
+          "name:et": "Türkmenistan",
+          "name:eu": "Turkmenistan",
+          "name:fa": "ترکمنستان",
+          "name:fi": "Turkmenistan",
+          "name:fo": "Turkmenistan",
+          "name:fr": "Turkménistan",
+          "name:fy": "Turkmenistan",
+          "name:ga": "An Tuircméanastáin",
+          "name:gd": "Turcmanastàn",
+          "name:gl": "Turcomenistán",
+          "name:gn": "Tuykomenitã",
+          "name:gu": "તુર્કમેનિસ્તાન",
+          "name:gv": "Yn Turkmenistaan",
+          "name:he": "טורקמניסטן",
+          "name:hi": "तुर्कमेनिस्तान",
+          "name:hr": "Turkmenistan",
+          "name:ht": "Tirkmenistan",
+          "name:hu": "Türkmenisztán",
+          "name:hy": "Թուրքմենստան",
+          "name:ia": "Turkmenistan",
+          "name:id": "Turkmenistan",
+          "name:ie": "Turkmenistan",
+          "name:io": "Turkmenistan",
+          "name:is": "Túrkmenistan",
+          "name:it": "Turkmenistan",
+          "name:ja": "トルクメニスタン",
+          "name:jv": "Turkmenistan",
+          "name:ka": "თურქმენეთი",
+          "name:kk": "Түрікменстан",
+          "name:km": "តួរមិនីស្ថាន",
+          "name:kn": "ತುರ್ಕಮೆನಿಸ್ತಾನ್",
+          "name:ko": "투르크메니스탄",
+          "name:ku": "Tirkmenistan",
+          "name:kv": "Туркменистан",
+          "name:kw": "Pow Turkmen",
+          "name:ky": "Түркмөнстан",
+          "name:la": "Turcomannia",
+          "name:li": "Turkmenistan",
+          "name:ln": "Turkmenistáni",
+          "name:lt": "Turkmėnija",
+          "name:lv": "Turkmenistāna",
+          "name:mk": "Туркменистан",
+          "name:ml": "തുർക്‌മെനിസ്ഥാൻ",
+          "name:mn": "Туркменистан",
+          "name:mr": "तुर्कमेनिस्तान",
+          "name:ms": "Turkmenistan",
+          "name:my": "တာ့ခ်မင်နစ္စတန်နိုင်ငံ",
+          "name:na": "Turkmenistan",
+          "name:ne": "तुर्कमेनिस्तान",
+          "name:nl": "Turkmenistan",
+          "name:nn": "Turkmenistan",
+          "name:no": "Turkmenistan",
+          "name:nv": "Tʼóokmen Bikéyah",
+          "name:oc": "Turcmenistan",
+          "name:or": "ତୁର୍କମେନିସ୍ଥାନ",
+          "name:os": "Туркмени",
+          "name:pa": "ਤੁਰਕਮੇਨਸਤਾਨ",
+          "name:pl": "Turkmenistan",
+          "name:ps": "ترکمنستان",
+          "name:pt": "Turquemenistão",
+          "name:qu": "Turkminsuyu",
+          "name:ro": "Turkmenistan",
+          "name:ru": "Туркменистан",
+          "name:rw": "Turukimenisitani",
+          "name:sa": "तुर्कमिनिस्थान",
+          "name:se": "Turkmenistan",
+          "name:sh": "Turkmenistan",
+          "name:sk": "Turkménsko",
+          "name:sl": "Turkmenistan",
+          "name:so": "Turkmenistan",
+          "name:sq": "Turkmenistani",
+          "name:sr": "Туркменистан",
+          "name:ss": "IThumekhi",
+          "name:su": "Turkménistan",
+          "name:sv": "Turkmenistan",
+          "name:sw": "Turkmenistan",
+          "name:ta": "துருக்மெனிஸ்தான்",
+          "name:te": "తుర్కమేనిస్తాన్",
+          "name:tg": "Туркманистон",
+          "name:th": "ประเทศเติร์กเมนิสถาน",
+          "name:tk": "Türkmenistan",
+          "name:tl": "Turkmenistan",
+          "name:tr": "Türkmenistan",
+          "name:tt": "Төрекмәнстан",
+          "name:ug": "تۈركمەنىستان",
+          "name:uk": "Туркменістан",
+          "name:ur": "ترکمانستان",
+          "name:uz": "Turkmaniston",
+          "name:vi": "Turkmenistan",
+          "name:vo": "Turkmenän",
+          "name:wo": "Turkumenistaan",
+          "name:yi": "טורקמעניסטאן",
+          "name:yo": "Turkmẹ́nìstán",
+          "name:zh": "土库曼斯坦 / 土庫曼",
+          "boundary": "administrative",
+          "int_name": "Türkmenistan",
+          "name:ace": "Turkmènistan",
+          "name:als": "Turkmenistan",
+          "name:ang": "Turcmenistan",
+          "name:arc": "ܛܘܪܩܡܢܣܛܐܢ",
+          "name:arz": "توركمينيستان",
+          "name:ast": "Turkmenistán",
+          "name:bar": "Tuakmenien",
+          "name:bcl": "Turkmenistan",
+          "name:bpy": "তুর্কমেনিস্তান",
+          "name:bug": "Turkmenistan",
+          "name:bxr": "Туркменистан",
+          "name:ceb": "Turkmenistan",
+          "name:ckb": "تورکمانستان",
+          "name:crh": "Türkmenistan",
+          "name:csb": "Turkmenistan",
+          "name:diq": "Tırkmenıstan",
+          "name:dsb": "Turkmeńska",
+          "name:ext": "Turkmenistán",
+          "name:frp": "Turcmènistan",
+          "name:gag": "Türkmenistan",
+          "name:hak": "Thú-khû-man-sṳ̂-thán",
+          "name:hif": "Turkmenistan",
+          "name:hsb": "Turkmenistan",
+          "name:ilo": "Turkmenistan",
+          "name:jbo": "turkmenistan",
+          "name:kbd": "Туркменстэн",
+          "name:lad": "Turkmenistan",
+          "name:lez": "Туьркменистан",
+          "name:lij": "Turkmenistan",
+          "name:lmo": "Turkmenistan",
+          "name:mhr": "Туркменистан",
+          "name:min": "Turkmenistan",
+          "name:mzn": "ترکمنون",
+          "name:nah": "Turcmenistan",
+          "name:nan": "Turkmenistan",
+          "name:nds": "Turkmenistan",
+          "name:nov": "Turkmenistan",
+          "name:pam": "Turkmenistan",
+          "name:pih": "Terkmenistaan",
+          "name:pms": "Turkmenistan",
+          "name:pnb": "ترکمانستان",
+          "name:rue": "Туркменістан",
+          "name:sah": "Түркменистаан",
+          "name:scn": "Turkmenistan",
+          "name:sco": "Turkmenistan",
+          "name:smn": "Turkmenistan",
+          "name:sms": "Turkmenistaan",
+          "name:szl": "Turkmynistōn",
+          "name:tzl": "Türkmenistan",
+          "name:udm": "Туркмения",
+          "name:vep": "Turkmenistan",
+          "name:vro": "Türkmenistan",
+          "name:war": "Turkmenistan",
+          "name:wuu": "土库曼斯坦",
+          "name:xal": "Йомудин Орн",
+          "name:yue": "土庫曼",
+          "name:zea": "Toerkmenistan",
+          "timezone": "Asia/Ashgabat",
+          "way_area": "52.837",
+          "wikidata": "Q874",
+          "ISO3166-1": "TM",
+          "wikipedia": "en:Turkmenistan",
+          "admin_level": "2",
+          "alt_name:eo": "Turkmenujo;Turkmenistano",
+          "name:bat-smg": "Torkmienėstans",
+          "name:roa-rup": "Turcmenistan",
+          "name:zh-Hans": "土库曼斯坦",
+          "name:zh-Hant": "土庫曼",
+          "name:be-tarask": "Туркмэністан",
+          "ISO3166-1:alpha2": "TM",
+          "ISO3166-1:alpha3": "TKM",
+          "default_language": "tk",
+          "official_name:es": "República de Turkmenistán",
+          "official_name:gn": "Tavakuairetã Tuykomenitã",
+          "official_name:pt": "República do Turquemenistão",
+          "ISO3166-1:numeric": "795"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              52.49650661604545,
+              40
+            ],
+            [
+              52.4990926,
+              39.9950587
+            ],
+            [
+              52.5027369,
+              39.9887931
+            ],
+            [
+              52.5044959,
+              39.9793729
+            ],
+            [
+              52.5065855,
+              39.9709673
+            ],
+            [
+              52.5091957,
+              39.962463
+            ],
+            [
+              52.5122848,
+              39.9540544
+            ],
+            [
+              52.5167343,
+              39.9438273
+            ],
+            [
+              52.5198745,
+              39.9375877
+            ],
+            [
+              52.5243604,
+              39.9295608
+            ],
+            [
+              52.5292957,
+              39.921692
+            ],
+            [
+              52.5359865,
+              39.9122045
+            ],
+            [
+              52.5404758,
+              39.9064879
+            ],
+            [
+              52.5466991,
+              39.8991815
+            ],
+            [
+              52.549964,
+              39.8956083
+            ],
+            [
+              52.5567923,
+              39.8886304
+            ],
+            [
+              52.562063,
+              39.8836288
+            ],
+            [
+              52.5756336,
+              39.8718653
+            ],
+            [
+              52.5834033,
+              39.8655002
+            ],
+            [
+              52.5874208,
+              39.8624169
+            ],
+            [
+              52.5957119,
+              39.8564562
+            ],
+            [
+              52.6020431,
+              39.8522223
+            ],
+            [
+              52.6087585,
+              39.8480505
+            ],
+            [
+              52.6202823,
+              39.8415048
+            ],
+            [
+              52.6279473,
+              39.8336044
+            ],
+            [
+              52.6332139,
+              39.8286027
+            ],
+            [
+              52.6389028,
+              39.8235833
+            ],
+            [
+              52.6466669,
+              39.8172181
+            ],
+            [
+              52.6547823,
+              39.8111196
+            ],
+            [
+              52.6589669,
+              39.808174
+            ],
+            [
+              52.6652938,
+              39.80394
+            ],
+            [
+              52.6756989,
+              39.7975355
+            ],
+            [
+              52.6810433,
+              39.7883876
+            ],
+            [
+              52.6870766,
+              39.7790127
+            ],
+            [
+              52.693442,
+              39.770262
+            ],
+            [
+              52.6963914,
+              39.7665321
+            ],
+            [
+              52.7026019,
+              39.7592254
+            ],
+            [
+              52.7058601,
+              39.7556521
+            ],
+            [
+              52.7126745,
+              39.7486739
+            ],
+            [
+              52.717935,
+              39.7436718
+            ],
+            [
+              52.726995,
+              39.7358093
+            ],
+            [
+              52.7376159,
+              39.7274222
+            ],
+            [
+              52.7440079,
+              39.7226507
+            ],
+            [
+              52.748377,
+              39.7195583
+            ],
+            [
+              52.757298,
+              39.7136607
+            ],
+            [
+              52.766083,
+              39.6994338
+            ],
+            [
+              52.7714024,
+              39.6917974
+            ],
+            [
+              52.7754658,
+              39.6864261
+            ],
+            [
+              52.779997,
+              39.6806677
+            ],
+            [
+              52.7850931,
+              39.6746835
+            ],
+            [
+              52.7958231,
+              39.6630111
+            ],
+            [
+              52.801457,
+              39.6573228
+            ],
+            [
+              52.8131544,
+              39.6463641
+            ],
+            [
+              52.8188276,
+              39.6413451
+            ],
+            [
+              52.8265712,
+              39.6349796
+            ],
+            [
+              52.8346651,
+              39.6288809
+            ],
+            [
+              52.843094,
+              39.6230603
+            ],
+            [
+              52.8498017,
+              39.6187675
+            ],
+            [
+              52.8591583,
+              39.6132553
+            ],
+            [
+              52.869211,
+              39.6077861
+            ],
+            [
+              52.8770272,
+              39.5984254
+            ],
+            [
+              52.883628,
+              39.5913341
+            ],
+            [
+              52.8923249,
+              39.5828707
+            ],
+            [
+              52.8993071,
+              39.5767465
+            ],
+            [
+              52.8962653,
+              39.5723369
+            ],
+            [
+              52.8901025,
+              39.5648562
+            ],
+            [
+              52.8855857,
+              39.5588449
+            ],
+            [
+              52.8802894,
+              39.5511276
+            ],
+            [
+              52.8773979,
+              39.5465302
+            ],
+            [
+              52.8707104,
+              39.5368896
+            ],
+            [
+              52.8682275,
+              39.5329656
+            ],
+            [
+              52.8635971,
+              39.5249963
+            ],
+            [
+              52.8584937,
+              39.5149579
+            ],
+            [
+              52.855707,
+              39.5086262
+            ],
+            [
+              52.852462,
+              39.5002567
+            ],
+            [
+              52.8501494,
+              39.4932509
+            ],
+            [
+              52.84642,
+              39.4830043
+            ],
+            [
+              52.8439278,
+              39.47459
+            ],
+            [
+              52.8423838,
+              39.46837
+            ],
+            [
+              52.8403395,
+              39.4574193
+            ],
+            [
+              52.8392666,
+              39.4487201
+            ],
+            [
+              52.8386843,
+              39.4399928
+            ],
+            [
+              52.8385544,
+              39.4335823
+            ],
+            [
+              52.8386547,
+              39.4286463
+            ],
+            [
+              52.8390842,
+              39.4191599
+            ],
+            [
+              52.8396502,
+              39.4120315
+            ],
+            [
+              52.8405432,
+              39.4049233
+            ],
+            [
+              52.8424932,
+              39.3943186
+            ],
+            [
+              52.8445201,
+              39.3861284
+            ],
+            [
+              52.8491288,
+              39.3693111
+            ],
+            [
+              52.8519002,
+              39.3611129
+            ],
+            [
+              52.8551151,
+              39.3530131
+            ],
+            [
+              52.8577407,
+              39.3471339
+            ],
+            [
+              52.8608523,
+              39.3408961
+            ],
+            [
+              52.8652993,
+              39.3328682
+            ],
+            [
+              52.8701918,
+              39.3249984
+            ],
+            [
+              52.8768264,
+              39.3155074
+            ],
+            [
+              52.8824196,
+              39.3083676
+            ],
+            [
+              52.8902315,
+              39.2993396
+            ],
+            [
+              52.8986608,
+              39.2906537
+            ],
+            [
+              52.9064432,
+              39.2834056
+            ],
+            [
+              52.9076253,
+              39.2763036
+            ],
+            [
+              52.9091801,
+              39.2689644
+            ],
+            [
+              52.9094181,
+              39.2635701
+            ],
+            [
+              52.8976266,
+              39.2561721
+            ],
+            [
+              52.8890732,
+              39.2502464
+            ],
+            [
+              52.8811083,
+              39.244357
+            ],
+            [
+              52.8749692,
+              39.2394624
+            ],
+            [
+              52.8690493,
+              39.2344074
+            ],
+            [
+              52.8648399,
+              39.2306025
+            ],
+            [
+              52.8595939,
+              39.2255415
+            ],
+            [
+              52.8530272,
+              39.2187193
+            ],
+            [
+              52.8468408,
+              39.2116858
+            ],
+            [
+              52.8438937,
+              39.2080937
+            ],
+            [
+              52.8396452,
+              39.2026196
+            ],
+            [
+              52.8282235,
+              39.1872889
+            ],
+            [
+              52.8234432,
+              39.1805136
+            ],
+            [
+              52.82051,
+              39.1760486
+            ],
+            [
+              52.816454,
+              39.1694027
+            ],
+            [
+              52.8116164,
+              39.1609935
+            ],
+            [
+              52.8078345,
+              39.1539167
+            ],
+            [
+              52.8052753,
+              39.1486663
+            ],
+            [
+              52.7976284,
+              39.131049
+            ],
+            [
+              52.7905752,
+              39.1126985
+            ],
+            [
+              52.7878201,
+              39.1042267
+            ],
+            [
+              52.7866213,
+              39.0999577
+            ],
+            [
+              52.7846237,
+              39.0915667
+            ],
+            [
+              52.7810543,
+              39.0713868
+            ],
+            [
+              52.780288,
+              39.0663526
+            ],
+            [
+              52.7795089,
+              39.0596209
+            ],
+            [
+              52.7788877,
+              39.0494945
+            ],
+            [
+              52.7789032,
+              39.0361578
+            ],
+            [
+              52.7793186,
+              39.0289393
+            ],
+            [
+              52.7808151,
+              39.0145442
+            ],
+            [
+              52.781395,
+              39.0106942
+            ],
+            [
+              52.781437674170384,
+              39
+            ],
+            [
+              53,
+              39
+            ],
+            [
+              53,
+              40
+            ],
+            [
+              52.49650661604545,
+              40
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

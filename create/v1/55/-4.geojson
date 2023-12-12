@@ -1,0 +1,941 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -536765,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Seychelles",
+        "local_name": "Sesel",
+        "name_en": "Seychelles",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+          "name": "Sesel",
+          "name:ab": "Сеишелтәи Адгьылбжьахақәа",
+          "name:af": "Seychelle",
+          "name:am": "ሲሸልስ",
+          "name:an": "Seychelles",
+          "name:ar": "سيشيل",
+          "name:az": "Seyşel adaları",
+          "name:ba": "Сейшел Утрауҙары",
+          "name:be": "Сейшэльскія Астравы",
+          "name:bg": "Сейшели",
+          "name:bh": "सेशेल्स",
+          "name:bi": "Seisel",
+          "name:bm": "Seshel",
+          "name:bn": "সেশেল",
+          "name:bo": "སེ་ཞེལ།",
+          "name:br": "Sechelez",
+          "name:bs": "Sejšeli",
+          "name:ca": "Seychelles",
+          "name:ce": "Сейшелан гlайреш",
+          "name:cs": "Seychely",
+          "name:cv": "Сейшел утравĕсем",
+          "name:cy": "Seychelles",
+          "name:da": "Seychellerne",
+          "name:de": "Seychellen",
+          "name:dv": "ތޭންގަދީބު",
+          "name:el": "Σεϋχέλλες",
+          "name:en": "Seychelles",
+          "name:eo": "Sejŝeloj",
+          "name:es": "Seychelles",
+          "name:et": "Seišellid",
+          "name:eu": "Seychelleak",
+          "name:fa": "سیشل",
+          "name:ff": "Seysel",
+          "name:fi": "Seychellit",
+          "name:fo": "Seyskelloyggjar",
+          "name:fr": "Seychelles",
+          "name:fy": "Seysjellen",
+          "name:ga": "Na Séiséil",
+          "name:gd": "Na h-Eileanan Sheiseall",
+          "name:gl": "Seixeles - Seychelles",
+          "name:gn": "Séichele",
+          "name:gv": "Ny h-Ellanyn Heshell",
+          "name:ha": "Seychelles",
+          "name:he": "סיישל",
+          "name:hi": "सेशेल्स",
+          "name:hr": "Sejšeli",
+          "name:ht": "Sechèl",
+          "name:hu": "Seychelle-szigetek",
+          "name:hy": "Սեյշելյան կղզիներ",
+          "name:ia": "Seychelles",
+          "name:id": "Seychelles",
+          "name:ie": "Seychelles",
+          "name:ig": "Seychelles",
+          "name:io": "Seycheli",
+          "name:is": "Seychelles-eyjar",
+          "name:it": "Seychelles",
+          "name:ja": "セーシェル",
+          "name:jv": "Sésèl",
+          "name:ka": "სეიშელის კუნძულები",
+          "name:kg": "Seychell",
+          "name:ki": "Seychelles",
+          "name:kk": "Сейшель Аралдары",
+          "name:kn": "ಸೆಶೆಲ್ಸ್",
+          "name:ko": "세이셸",
+          "name:ku": "Seyşel",
+          "name:kw": "Seychellys",
+          "name:ky": "Сейшел Аралдары",
+          "name:la": "Insulae Seisellenses",
+          "name:lb": "Seychellen",
+          "name:lg": "Seychelles",
+          "name:li": "Seychelle",
+          "name:ln": "Seyshel",
+          "name:lt": "Seišeliai",
+          "name:lv": "Seišelas",
+          "name:mg": "Seychelles",
+          "name:mi": "Heikere",
+          "name:mk": "Сејшели",
+          "name:ml": "സെയ്‌ഷെൽസ്",
+          "name:mn": "Сейшелийн арлууд",
+          "name:mr": "सेशेल्स",
+          "name:ms": "Seychelles",
+          "name:mt": "Seychelles",
+          "name:my": "ဆေးရှဲနိုင်ငံ",
+          "name:ne": "सेसेल्स",
+          "name:nl": "Seychellen",
+          "name:nn": "Seychellane",
+          "name:no": "Seychellene",
+          "name:nv": "Seishel",
+          "name:oc": "Seichèlas",
+          "name:om": "Siishelsi",
+          "name:or": "ସେସେଲଜ",
+          "name:os": "Сейшелтæ",
+          "name:pa": "ਸੇਸ਼ੈਲ",
+          "name:pi": "सेशेल",
+          "name:pl": "Seszele",
+          "name:ps": "سیشل",
+          "name:pt": "Seychelles",
+          "name:qu": "Sichillakuna",
+          "name:rm": "Seychellas",
+          "name:ro": "Seychelles",
+          "name:ru": "Сейшельские Острова",
+          "name:rw": "Seyishele",
+          "name:sa": "सेशेल",
+          "name:sc": "Seychelles",
+          "name:sd": "سيچيليس",
+          "name:se": "Seychellat",
+          "name:sg": "Sëyshêle",
+          "name:sh": "Sejšeli",
+          "name:si": "සීෂෙල්ස්",
+          "name:sk": "Seychely",
+          "name:sl": "Sejšeli",
+          "name:sm": "Seychelles",
+          "name:sn": "Seychelles",
+          "name:so": "Seyshelles",
+          "name:sq": "Sejshellet",
+          "name:sr": "Сејшели",
+          "name:ss": "ISeyishelesi",
+          "name:st": "Seychelles",
+          "name:su": "Seychéll",
+          "name:sv": "Seychellerna",
+          "name:sw": "Shelisheli",
+          "name:ta": "சீசெல்சு",
+          "name:te": "సేషెల్స్",
+          "name:tg": "Ҷазираҳои Сейшел",
+          "name:th": "ประเทศเซเชลส์",
+          "name:tk": "Seýşel Adalary",
+          "name:tl": "Seyshels",
+          "name:tr": "Seyşeller",
+          "name:ts": "Seychelles",
+          "name:tt": "Сейшел утраулары",
+          "name:ug": "سېيشېل ئاراللىرى",
+          "name:uk": "Сейшельські Острови",
+          "name:ur": "سیچیلیس",
+          "name:uz": "Seyshell orollari",
+          "name:vi": "Seychelles",
+          "name:vo": "Säceluäns",
+          "name:wo": "Seysel",
+          "name:yi": "סיישעל",
+          "name:yo": "Ṣèíhẹ́lẹ́sì",
+          "name:za": "Seychelles",
+          "name:zh": "塞舌尔 / 塞席爾",
+          "name:zu": "IsiSeyisheli",
+          "boundary": "administrative",
+          "name:als": "Seychellen",
+          "name:ary": "سيشيل",
+          "name:arz": "سيشيل",
+          "name:ast": "Seixeles",
+          "name:avk": "Seycella",
+          "name:azb": "سیشل",
+          "name:ban": "Seychelles",
+          "name:bar": "Seychelln",
+          "name:bcl": "Seytsilyes",
+          "name:bjn": "Seychelles",
+          "name:bpy": "সেইশেল দ্বীপপুঞ্জ",
+          "name:bxr": "Сейшелиин аралнууд",
+          "name:cdo": "Seychelles",
+          "name:ceb": "Seychelles",
+          "name:ckb": "سیشێل",
+          "name:crh": "Seyşeller",
+          "name:dag": "Seychelles",
+          "name:diq": "Seyşeli",
+          "name:dsb": "Seychelle",
+          "name:dty": "सेसेल्स",
+          "name:ext": "Seychelles",
+          "name:frp": "Sêch·èles",
+          "name:frr": "Seschelen",
+          "name:gag": "Seyşeller",
+          "name:gcr": "Séchèl",
+          "name:hak": "Seychelles",
+          "name:hif": "Seychelles",
+          "name:hsb": "Seychelle",
+          "name:ilo": "Seychelles",
+          "name:jam": "Seishelz",
+          "name:jbo": "secel",
+          "name:kaa": "Seyshel atawları",
+          "name:kab": "Seychelles",
+          "name:lfn": "Sexeles",
+          "name:lij": "Seychelles",
+          "name:lld": "Seychelles",
+          "name:lmo": "Seychelles",
+          "name:mhr": "Сейшел-влак",
+          "name:mrj": "Сейшелвлӓ",
+          "name:mzn": "سیشل",
+          "name:nan": "Seychelles",
+          "name:nds": "Seychellen",
+          "name:new": "सिशेल्स",
+          "name:nov": "Seyshels",
+          "name:nso": "Seychelles",
+          "name:olo": "Seišellit",
+          "name:pam": "Sesiel",
+          "name:pih": "Sieshels",
+          "name:pms": "Seychelles",
+          "name:pnb": "سشلز",
+          "name:sah": "Сейшеллар",
+          "name:scn": "Seicelli",
+          "name:sco": "Seychelles",
+          "name:shn": "မိူင်းသေးသျႄႇ",
+          "name:smn": "Seychelleh",
+          "name:sms": "Seycheeʹll",
+          "name:stq": "Seychelle",
+          "name:szl": "Seszele",
+          "name:tzl": "Seiceadías",
+          "name:udm": "Сейшел шормуӵъёс",
+          "name:vec": "Seychelles",
+          "name:vep": "Seišelan Sared",
+          "name:vls": "Seychelln",
+          "name:war": "Seychelles",
+          "name:wuu": "塞舌尔",
+          "name:xal": "Сейшел Арлин Орн",
+          "name:xmf": "სეიშელიშ კოკეფი",
+          "name:yue": "塞舌爾",
+          "name:zea": "Seychell'n",
+          "timezone": "Indian/Mahe",
+          "way_area": "4.38549",
+          "wikidata": "Q1042",
+          "ISO3166-1": "SC",
+          "wikipedia": "en:Seychelles",
+          "admin_level": "2",
+          "alt_name:it": "Seicelle",
+          "alt_name:pt": "Seicheles",
+          "name:nds_nl": "Seychellen",
+          "name:simple": "Seychelles",
+          "driving_side": "left",
+          "name:bat_smg": "Seišelē",
+          "name:cbk-zam": "Seychelles",
+          "name:zh-Hans": "塞舌尔",
+          "name:zh-Hant": "塞席爾",
+          "name:be-tarask": "Сэйшэлы",
+          "ISO3166-1:alpha2": "SC",
+          "ISO3166-1:alpha3": "SYC",
+          "official_name:cs": "Seychelská republika",
+          "ISO3166-1:numeric": "690"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                55.0016837,
+                -3.725
+              ],
+              [
+                55.0018831,
+                -3.735
+              ],
+              [
+                55.0025853,
+                -3.745
+              ],
+              [
+                55.0037958,
+                -3.755
+              ],
+              [
+                55.0051363,
+                -3.763
+              ],
+              [
+                55.0072882,
+                -3.773
+              ],
+              [
+                55.0099862,
+                -3.783
+              ],
+              [
+                55.0132537,
+                -3.793
+              ],
+              [
+                55.0162978,
+                -3.801
+              ],
+              [
+                55.0206721,
+                -3.811
+              ],
+              [
+                55.024656,
+                -3.819
+              ],
+              [
+                55.0296525,
+                -3.828
+              ],
+              [
+                55.0345986,
+                -3.836
+              ],
+              [
+                55.0400897,
+                -3.844
+              ],
+              [
+                55.0461832,
+                -3.852
+              ],
+              [
+                55.0529527,
+                -3.86
+              ],
+              [
+                55.0595056,
+                -3.867
+              ],
+              [
+                55.0667348,
+                -3.874
+              ],
+              [
+                55.0735555,
+                -3.88
+              ],
+              [
+                55.0810542,
+                -3.886
+              ],
+              [
+                55.0893656,
+                -3.892
+              ],
+              [
+                55.0970502,
+                -3.897
+              ],
+              [
+                55.1055981,
+                -3.902
+              ],
+              [
+                55.1152622,
+                -3.907
+              ],
+              [
+                55.1240718,
+                -3.911
+              ],
+              [
+                55.1342369,
+                -3.915
+              ],
+              [
+                55.1431633,
+                -3.918
+              ],
+              [
+                55.1538754,
+                -3.921
+              ],
+              [
+                55.1627019,
+                -3.923
+              ],
+              [
+                55.1742808,
+                -3.925
+              ],
+              [
+                55.1824912,
+                -3.926
+              ],
+              [
+                55.2001353,
+                -3.927
+              ],
+              [
+                55.2056169,
+                -3.927
+              ],
+              [
+                55.2232609,
+                -3.926
+              ],
+              [
+                55.2314713,
+                -3.925
+              ],
+              [
+                55.2377621,
+                -3.924
+              ],
+              [
+                55.2476936,
+                -3.922
+              ],
+              [
+                55.2557094,
+                -3.92
+              ],
+              [
+                55.2657219,
+                -3.917
+              ],
+              [
+                55.2742141,
+                -3.914
+              ],
+              [
+                55.2843201,
+                -3.91
+              ],
+              [
+                55.2931296,
+                -3.906
+              ],
+              [
+                55.3027937,
+                -3.901
+              ],
+              [
+                55.3113416,
+                -3.896
+              ],
+              [
+                55.3190262,
+                -3.891
+              ],
+              [
+                55.3274082,
+                -3.885
+              ],
+              [
+                55.3350318,
+                -3.879
+              ],
+              [
+                55.3430521,
+                -3.872
+              ],
+              [
+                55.3502813,
+                -3.865
+              ],
+              [
+                55.3568342,
+                -3.858
+              ],
+              [
+                55.3636036,
+                -3.85
+              ],
+              [
+                55.3719996,
+                -3.839
+              ],
+              [
+                55.3775626,
+                -3.831
+              ],
+              [
+                55.3825741,
+                -3.823
+              ],
+              [
+                55.3876108,
+                -3.814
+              ],
+              [
+                55.3915947,
+                -3.806
+              ],
+              [
+                55.3960059,
+                -3.796
+              ],
+              [
+                55.3990992,
+                -3.788
+              ],
+              [
+                55.4024252,
+                -3.778
+              ],
+              [
+                55.405179,
+                -3.768
+              ],
+              [
+                55.4073846,
+                -3.758
+              ],
+              [
+                55.4090604,
+                -3.748
+              ],
+              [
+                55.4102197,
+                -3.738
+              ],
+              [
+                55.4108715,
+                -3.728
+              ],
+              [
+                55.4110207,
+                -3.718
+              ],
+              [
+                55.4106685,
+                -3.708
+              ],
+              [
+                55.4098123,
+                -3.698
+              ],
+              [
+                55.4084687,
+                -3.688
+              ],
+              [
+                55.4066334,
+                -3.678
+              ],
+              [
+                55.4042634,
+                -3.668
+              ],
+              [
+                55.4019693,
+                -3.66
+              ],
+              [
+                55.3985826,
+                -3.65
+              ],
+              [
+                55.3954383,
+                -3.642
+              ],
+              [
+                55.3918859,
+                -3.634
+              ],
+              [
+                55.3849759,
+                -3.62
+              ],
+              [
+                55.379938,
+                -3.611
+              ],
+              [
+                55.3749256,
+                -3.603
+              ],
+              [
+                55.3686249,
+                -3.594
+              ],
+              [
+                55.3623696,
+                -3.586
+              ],
+              [
+                55.3554169,
+                -3.578
+              ],
+              [
+                55.3486806,
+                -3.571
+              ],
+              [
+                55.3412389,
+                -3.564
+              ],
+              [
+                55.3342049,
+                -3.558
+              ],
+              [
+                55.3264533,
+                -3.552
+              ],
+              [
+                55.3178328,
+                -3.546
+              ],
+              [
+                55.3098275,
+                -3.541
+              ],
+              [
+                55.2991538,
+                -3.535
+              ],
+              [
+                55.2911048,
+                -3.531
+              ],
+              [
+                55.2820021,
+                -3.527
+              ],
+              [
+                55.2714083,
+                -3.523
+              ],
+              [
+                55.2619835,
+                -3.52
+              ],
+              [
+                55.2504162,
+                -3.517
+              ],
+              [
+                55.240487,
+                -3.515
+              ],
+              [
+                55.2341977,
+                -3.514
+              ],
+              [
+                55.2259892,
+                -3.513
+              ],
+              [
+                55.2083495,
+                -3.512
+              ],
+              [
+                55.2025465,
+                -3.512
+              ],
+              [
+                55.1849068,
+                -3.513
+              ],
+              [
+                55.1766983,
+                -3.514
+              ],
+              [
+                55.170409,
+                -3.515
+              ],
+              [
+                55.1604798,
+                -3.517
+              ],
+              [
+                55.1524657,
+                -3.519
+              ],
+              [
+                55.1424554,
+                -3.522
+              ],
+              [
+                55.133965,
+                -3.525
+              ],
+              [
+                55.1241895,
+                -3.529
+              ],
+              [
+                55.1135643,
+                -3.534
+              ],
+              [
+                55.1059404,
+                -3.538
+              ],
+              [
+                55.0973937,
+                -3.543
+              ],
+              [
+                55.0882612,
+                -3.549
+              ],
+              [
+                55.0800976,
+                -3.555
+              ],
+              [
+                55.0715581,
+                -3.562
+              ],
+              [
+                55.0638936,
+                -3.569
+              ],
+              [
+                55.0569663,
+                -3.576
+              ],
+              [
+                55.0506757,
+                -3.583
+              ],
+              [
+                55.0441692,
+                -3.591
+              ],
+              [
+                55.0383087,
+                -3.599
+              ],
+              [
+                55.032405,
+                -3.608
+              ],
+              [
+                55.0271607,
+                -3.617
+              ],
+              [
+                55.0219999,
+                -3.627
+              ],
+              [
+                55.0183418,
+                -3.635
+              ],
+              [
+                55.0143485,
+                -3.645
+              ],
+              [
+                55.0115923,
+                -3.653
+              ],
+              [
+                55.0086677,
+                -3.663
+              ],
+              [
+                55.0062977,
+                -3.673
+              ],
+              [
+                55.0044624,
+                -3.683
+              ],
+              [
+                55.0033691,
+                -3.691
+              ],
+              [
+                55.0024355,
+                -3.701
+              ],
+              [
+                55.0020332,
+                -3.709
+              ],
+              [
+                55.0016837,
+                -3.725
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                55.4590302,
+                -3.7994201
+              ],
+              [
+                55.4613762,
+                -3.8326252
+              ],
+              [
+                55.4634062,
+                -3.8457828
+              ],
+              [
+                55.4720001,
+                -3.8805914
+              ],
+              [
+                55.4866169,
+                -3.9133119
+              ],
+              [
+                55.506792,
+                -3.9429025
+              ],
+              [
+                55.5318835,
+                -3.9684208
+              ],
+              [
+                55.5633112,
+                -3.9913249
+              ],
+              [
+                55.581334231657266,
+                -4
+              ],
+              [
+                55.748463420640704,
+                -4
+              ],
+              [
+                55.7589262,
+                -3.9955029
+              ],
+              [
+                55.7874913,
+                -3.9769252
+              ],
+              [
+                55.7954926,
+                -3.9706909
+              ],
+              [
+                55.8114577,
+                -3.9568375
+              ],
+              [
+                55.8210888,
+                -3.9468809
+              ],
+              [
+                55.8344151,
+                -3.930453
+              ],
+              [
+                55.8421778,
+                -3.9189676
+              ],
+              [
+                55.8524604,
+                -3.9004648
+              ],
+              [
+                55.8581188,
+                -3.8877998
+              ],
+              [
+                55.8662753,
+                -3.8635171
+              ],
+              [
+                55.8727459,
+                -3.8315392
+              ],
+              [
+                55.8736446,
+                -3.7911554
+              ],
+              [
+                55.8687124,
+                -3.754673
+              ],
+              [
+                55.8572395,
+                -3.7197063
+              ],
+              [
+                55.8396116,
+                -3.6874282
+              ],
+              [
+                55.8164207,
+                -3.6589212
+              ],
+              [
+                55.7866674,
+                -3.6338915
+              ],
+              [
+                55.7516771,
+                -3.6142199
+              ],
+              [
+                55.7134869,
+                -3.601952
+              ],
+              [
+                55.67363,
+                -3.5975799
+              ],
+              [
+                55.6323351,
+                -3.6006427
+              ],
+              [
+                55.5919384,
+                -3.6122996
+              ],
+              [
+                55.5815181,
+                -3.6165493
+              ],
+              [
+                55.5521453,
+                -3.6319557
+              ],
+              [
+                55.5257055,
+                -3.6520205
+              ],
+              [
+                55.5029236,
+                -3.6761934
+              ],
+              [
+                55.4844242,
+                -3.7038117
+              ],
+              [
+                55.470715,
+                -3.7341181
+              ],
+              [
+                55.462172,
+                -3.7662815
+              ],
+              [
+                55.4590302,
+                -3.7994201
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

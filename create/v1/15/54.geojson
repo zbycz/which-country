@@ -1,0 +1,937 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -50046,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Denmark",
+        "local_name": "Danmark",
+        "name_en": "Denmark",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+          "name": "Danmark",
+          "name:af": "Denemarke",
+          "name:am": "ዴንማርክ",
+          "name:an": "Dinamarca",
+          "name:ar": "الدنمارك",
+          "name:az": "Danimarka",
+          "name:ba": "Дания",
+          "name:be": "Данія",
+          "name:bg": "Дания",
+          "name:bi": "Denmark",
+          "name:bn": "ডেনমার্ক",
+          "name:bo": "དན་མྲག",
+          "name:br": "Danmark",
+          "name:bs": "Danska",
+          "name:ca": "Dinamarca",
+          "name:ce": "Дани",
+          "name:co": "Danimarca",
+          "name:cs": "Dánsko",
+          "name:cu": "Данїꙗ",
+          "name:cv": "Дани",
+          "name:cy": "Denmarc",
+          "name:da": "Danmark",
+          "name:de": "Dänemark",
+          "name:dv": "ޑެންމާކު",
+          "name:dz": "ཌེན་མཱཀ་",
+          "name:ee": "Denmark",
+          "name:el": "Δανία",
+          "name:en": "Denmark",
+          "name:eo": "Danio",
+          "name:es": "Dinamarca",
+          "name:et": "Taani",
+          "name:eu": "Danimarka",
+          "name:fa": "دانمارک",
+          "name:fi": "Tanska",
+          "name:fo": "Danmark",
+          "name:fr": "Danemark",
+          "name:fy": "Denemark",
+          "name:ga": "An Danmhairg",
+          "name:gd": "An Danmhairg",
+          "name:gl": "Dinamarca",
+          "name:gn": "Ndinamayka",
+          "name:gv": "Yn Danvarg",
+          "name:he": "דנמרק",
+          "name:hi": "डेनमार्क",
+          "name:hr": "Danska",
+          "name:ht": "Danmak",
+          "name:hu": "Dánia",
+          "name:hy": "Դանիա",
+          "name:ia": "Danmark",
+          "name:id": "Denmark",
+          "name:ie": "Dania",
+          "name:io": "Dania",
+          "name:is": "Danmörk",
+          "name:it": "Danimarca",
+          "name:ja": "デンマーク",
+          "name:jv": "Denmark",
+          "name:ka": "დანია",
+          "name:kg": "Danemark",
+          "name:ki": "Denmark",
+          "name:kk": "Дания",
+          "name:kl": "Danmarki",
+          "name:kn": "ಡೆನ್ಮಾರ್ಕ್",
+          "name:ko": "덴마크",
+          "name:ku": "Danîmarka",
+          "name:kv": "Дания",
+          "name:kw": "Danmark",
+          "name:ky": "Дания",
+          "name:la": "Dania",
+          "name:lb": "Dänemark",
+          "name:lg": "Denimaaka",
+          "name:li": "Denemarke",
+          "name:ln": "Danemark",
+          "name:lt": "Danija",
+          "name:lv": "Dānija",
+          "name:mg": "Danmarka",
+          "name:mi": "Tenemāka",
+          "name:mk": "Данска",
+          "name:ml": "ഡെന്മാർക്ക്",
+          "name:mn": "Дани",
+          "name:mr": "डेन्मार्क",
+          "name:ms": "Denmark",
+          "name:mt": "Danimarka",
+          "name:my": "ဒိန်းမတ်နိုင်ငံ",
+          "name:na": "Denemark",
+          "name:ne": "डेनमार्क",
+          "name:nl": "Denemarken",
+          "name:nn": "Danmark",
+          "name:no": "Danmark",
+          "name:nv": "Déinish Dineʼé Bikéyah",
+          "name:oc": "Danemarc",
+          "name:or": "ଡେନମାର୍କ",
+          "name:os": "Дани",
+          "name:pl": "Dania",
+          "name:ps": "ډېنمارک",
+          "name:pt": "Dinamarca",
+          "name:qu": "Dansuyu",
+          "name:rm": "Danemarc",
+          "name:rn": "Danemarke",
+          "name:ro": "Danemarca",
+          "name:ru": "Дания",
+          "name:rw": "Danimarike",
+          "name:sa": "डेनमार्क",
+          "name:sc": "Danimarca",
+          "name:se": "Dánmárku",
+          "name:sh": "Danska",
+          "name:si": "ඩෙන්මාර්කය",
+          "name:sk": "Dánsko",
+          "name:sl": "Danska",
+          "name:so": "Denmark",
+          "name:sq": "Danimarka",
+          "name:sr": "Данска",
+          "name:ss": "IDenimakhi",
+          "name:st": "Denmark",
+          "name:su": "Dénmark",
+          "name:sv": "Danmark",
+          "name:sw": "Denmark",
+          "name:ta": "டென்மார்க்",
+          "name:te": "డెన్మార్క్",
+          "name:tg": "Дания",
+          "name:th": "ประเทศเดนมาร์ก",
+          "name:tk": "Daniýa",
+          "name:tl": "Dinamarka",
+          "name:tr": "Danimarka",
+          "name:tt": "Дания",
+          "name:ug": "دانىيە",
+          "name:uk": "Данія",
+          "name:ur": "ڈنمارک",
+          "name:uz": "Daniya",
+          "name:vi": "Đan Mạch",
+          "name:vo": "Danän",
+          "name:wo": "Danmaark",
+          "name:yi": "דענמארק",
+          "name:yo": "Dẹ́nmárkì",
+          "name:zh": "丹麦 / 丹麥",
+          "name:zu": "IDenimaki",
+          "boundary": "administrative",
+          "int_name": "Denmark",
+          "name:ace": "Denmark",
+          "name:als": "Dänemark",
+          "name:ang": "Denemearc",
+          "name:arc": "ܕܐܢܡܐܪܩ",
+          "name:arz": "دنمارك",
+          "name:ast": "Dinamarca",
+          "name:bar": "Dänemark",
+          "name:bcl": "Denmark",
+          "name:bpy": "ডেনমার্ক",
+          "name:bxr": "Дани",
+          "name:cdo": "Dăng-măk",
+          "name:ceb": "Dinamarka",
+          "name:chr": "ᏕᏂᎹᎩ",
+          "name:ckb": "دانمارک",
+          "name:crh": "Danimarka",
+          "name:csb": "Dëńskô",
+          "name:diq": "Danimarka",
+          "name:dsb": "Dańska",
+          "name:ext": "Dinamarca",
+          "name:frp": "Danemârc",
+          "name:frr": "Dånmark",
+          "name:fur": "Danimarcje",
+          "name:gag": "Daniya",
+          "name:gan": "丹麥",
+          "name:hak": "Tan-ma̍k",
+          "name:haw": "Kenemaka",
+          "name:hif": "Denmark",
+          "name:hsb": "Danska",
+          "name:ilo": "Dinamarka",
+          "name:jbo": "danmark",
+          "name:kaa": "Daniya",
+          "name:kbd": "Даниэ",
+          "name:koi": "Данмарк",
+          "name:krc": "Дания",
+          "name:ksh": "Dänemark",
+          "name:lad": "Danimarka",
+          "name:lij": "Danemarca",
+          "name:lmo": "Danimarca",
+          "name:ltg": "Daneja",
+          "name:lzh": "丹麥",
+          "name:mdf": "Данмастор",
+          "name:mhr": "Даний",
+          "name:nah": "Dinamarca",
+          "name:nan": "Tan-kok",
+          "name:nap": "Danemarca",
+          "name:nds": "Däänmark",
+          "name:nov": "Dania",
+          "name:nrm": "Dannemar",
+          "name:pag": "Dinamarka",
+          "name:pam": "Dinamarka",
+          "name:pap": "Dinamarka",
+          "name:pcd": "Danemark",
+          "name:pdc": "Denemarrick",
+          "name:pih": "Denmark",
+          "name:pms": "Danimarca",
+          "name:pnb": "ڈنمارک",
+          "name:pnt": "Δανία",
+          "name:rmy": "Danemarka",
+          "name:rue": "Даньско",
+          "name:sah": "Дания",
+          "name:scn": "Danimarca",
+          "name:sco": "Denmark",
+          "name:sje": "Danmarrka",
+          "name:smn": "Tanska",
+          "name:sms": "Tanska",
+          "name:stq": "Deenemäärk",
+          "name:szl": "Dynymark",
+          "name:tet": "Dinamarka",
+          "name:tok": "ma Tansi",
+          "name:tpi": "Denmak",
+          "name:tzl": "Danmarc",
+          "name:udm": "Дания",
+          "name:vec": "Danimarca",
+          "name:vep": "Danii",
+          "name:vls": "Denemarkn",
+          "name:vro": "Taani",
+          "name:war": "Dinamarka",
+          "name:xal": "Данскгин Нутг",
+          "name:xmf": "დანია",
+          "name:yue": "丹麥",
+          "name:zea": "Denemarken",
+          "ref:nuts": "DK0",
+          "timezone": "Europe/Copenhagen",
+          "way_area": "12.5361",
+          "wikidata": "Q35",
+          "ISO3166-1": "DK",
+          "wikipedia": "da:Danmark",
+          "ref:nuts:1": "DK0",
+          "admin_level": "2",
+          "alt_name:eo": "Danujo;Danlando",
+          "name:nds-nl": "Denmaark",
+          "name:bat-smg": "Danėjė",
+          "name:roa-rup": "Danimarca",
+          "name:zh-Hans": "丹麦",
+          "name:zh-Hant": "丹麥",
+          "wikipedia:en": "en:Denmark",
+          "name:roa-tara": "Danemarche",
+          "official_name": "Kongeriget Danmark",
+          "name:be-tarask": "Данія",
+          "ISO3166-1:alpha2": "DK",
+          "ISO3166-1:alpha3": "DNK",
+          "default_language": "da",
+          "official_name:cs": "Dánské království",
+          "official_name:de": "Königreich Dänemark",
+          "official_name:el": "Βασίλειο της Δανίας",
+          "official_name:en": "Kingdom of Denmark",
+          "official_name:eo": "Reĝlando Danio",
+          "ISO3166-1:numeric": "208",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "13"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              54.788104580087236
+            ],
+            [
+              15.0057321,
+              54.7874132
+            ],
+            [
+              15.0243781,
+              54.7857287
+            ],
+            [
+              15.0327986,
+              54.7851147
+            ],
+            [
+              15.0571991,
+              54.7839502
+            ],
+            [
+              15.0801356,
+              54.7836972
+            ],
+            [
+              15.0959931,
+              54.7840092
+            ],
+            [
+              15.1076941,
+              54.7844277
+            ],
+            [
+              15.1304946,
+              54.7858977
+            ],
+            [
+              15.1530816,
+              54.7882217
+            ],
+            [
+              15.1769186,
+              54.7916372
+            ],
+            [
+              15.1987966,
+              54.7956367
+            ],
+            [
+              15.2201786,
+              54.8004507
+            ],
+            [
+              15.2409766,
+              54.8060592
+            ],
+            [
+              15.2611006,
+              54.8124377
+            ],
+            [
+              15.2725281,
+              54.8165162
+            ],
+            [
+              15.2822116,
+              54.8202092
+            ],
+            [
+              15.3007366,
+              54.8280437
+            ],
+            [
+              15.3183421,
+              54.8365592
+            ],
+            [
+              15.3300166,
+              54.8428702
+            ],
+            [
+              15.3380741,
+              54.8474742
+            ],
+            [
+              15.3536196,
+              54.8572382
+            ],
+            [
+              15.3680331,
+              54.8675667
+            ],
+            [
+              15.3737931,
+              54.8721107
+            ],
+            [
+              15.3884196,
+              54.8813172
+            ],
+            [
+              15.4028501,
+              54.8916407
+            ],
+            [
+              15.4160861,
+              54.9024852
+            ],
+            [
+              15.4280696,
+              54.9138042
+            ],
+            [
+              15.4387491,
+              54.9255492
+            ],
+            [
+              15.4467276,
+              54.9357772
+            ],
+            [
+              15.4487306,
+              54.9385732
+            ],
+            [
+              15.4566681,
+              54.9510192
+            ],
+            [
+              15.4631786,
+              54.9637372
+            ],
+            [
+              15.4682336,
+              54.9766727
+            ],
+            [
+              15.4699381,
+              54.9822332
+            ],
+            [
+              15.4712591,
+              54.9873832
+            ],
+            [
+              15.4748711,
+              54.9915197
+            ],
+            [
+              15.481417554305404,
+              55
+            ],
+            [
+              15,
+              55
+            ],
+            [
+              15,
+              54.788104580087236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -49715,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Poland",
+        "local_name": "Polska",
+        "name_en": "Poland",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+          "name": "Polska",
+          "name:ab": "Полша",
+          "name:af": "Pole",
+          "name:ak": "Poland",
+          "name:am": "ፖላንድ",
+          "name:an": "Polonia",
+          "name:ar": "بولندا",
+          "name:ay": "Puluña",
+          "name:az": "Polşa",
+          "name:ba": "Польша",
+          "name:be": "Польшча",
+          "name:bg": "Полша",
+          "name:bi": "Poland",
+          "name:bn": "পোল্যান্ড",
+          "name:bo": "ཕོ་ལན།",
+          "name:br": "Polonia",
+          "name:bs": "Poljska",
+          "name:ca": "Polònia",
+          "name:ce": "Польша",
+          "name:co": "Polonia",
+          "name:cs": "Polsko",
+          "name:cu": "Пол҄ьска",
+          "name:cv": "Польша",
+          "name:cy": "Gwlad Pwyl",
+          "name:da": "Polen",
+          "name:de": "Polen",
+          "name:dv": "ޕޮލެންޑު",
+          "name:ee": "Poland",
+          "name:el": "Πολωνία",
+          "name:en": "Poland",
+          "name:eo": "Pollando",
+          "name:es": "Polonia",
+          "name:et": "Poola",
+          "name:eu": "Polonia",
+          "name:fa": "لهستان",
+          "name:ff": "Poloonya",
+          "name:fi": "Puola",
+          "name:fo": "Pólland",
+          "name:fr": "Pologne",
+          "name:fy": "Poalen",
+          "name:ga": "An Pholainn",
+          "name:gd": "A' Phòlainn",
+          "name:gl": "Polonia",
+          "name:gn": "Poloña",
+          "name:gu": "પોલેંડ",
+          "name:gv": "Yn Pholynn",
+          "name:ha": "Poland",
+          "name:he": "פולין",
+          "name:hi": "पोलैंड",
+          "name:hr": "Poljska",
+          "name:ht": "Polòy",
+          "name:hu": "Lengyelország",
+          "name:hy": "Լեհաստան",
+          "name:ia": "Polonia",
+          "name:id": "Polandia",
+          "name:ie": "Polonia",
+          "name:ig": "Poland",
+          "name:io": "Polonia",
+          "name:is": "Pólland",
+          "name:it": "Polonia",
+          "name:iu": "ᐳᓚᓐᑦ",
+          "name:ja": "ポーランド",
+          "name:jv": "Polandia",
+          "name:ka": "პოლონეთი",
+          "name:kg": "Pologne",
+          "name:kk": "Польша",
+          "name:kl": "Poleni",
+          "name:km": "ប្រទេសប៉ូឡូញ",
+          "name:kn": "ಪೋಲೆಂಡ್",
+          "name:ko": "폴란드",
+          "name:ku": "Polonya",
+          "name:kv": "Польша",
+          "name:kw": "Poloni",
+          "name:ky": "Польша",
+          "name:la": "Polonia",
+          "name:lb": "Polen",
+          "name:lg": "Bupoolo",
+          "name:li": "Pole",
+          "name:ln": "Poloni",
+          "name:lt": "Lenkija",
+          "name:lv": "Polija",
+          "name:mg": "Polonia",
+          "name:mi": "Pōrana",
+          "name:mk": "Полска",
+          "name:ml": "പോളണ്ട്",
+          "name:mn": "Польш",
+          "name:mr": "पोलंड",
+          "name:ms": "Poland",
+          "name:mt": "Polonja",
+          "name:my": "ပိုလန်နိုင်ငံ",
+          "name:na": "Poran",
+          "name:ne": "पोल्याण्ड",
+          "name:nl": "Polen",
+          "name:nn": "Polen",
+          "name:no": "Polen",
+          "name:nv": "Póolish Dineʼé Bikéyah",
+          "name:oc": "Polonha",
+          "name:or": "ପୋଲାଣ୍ଡ",
+          "name:os": "Польшæ",
+          "name:pa": "ਪੋਲੈਂਡ",
+          "name:pl": "Polska",
+          "name:ps": "پولنډ",
+          "name:pt": "Polónia",
+          "name:qu": "Pulunya",
+          "name:rm": "Pologna",
+          "name:rn": "Polonia",
+          "name:ro": "Polonia",
+          "name:ru": "Польша",
+          "name:rw": "Polonye",
+          "name:sa": "पोलैंड",
+          "name:sc": "Polonia",
+          "name:se": "Polska",
+          "name:sg": "Pölôni",
+          "name:sh": "Poljska",
+          "name:si": "පෝලන්තය",
+          "name:sk": "Poľsko",
+          "name:sl": "Poljska",
+          "name:sm": "Polagi",
+          "name:so": "Boland",
+          "name:sq": "Polonia",
+          "name:sr": "Пољска",
+          "name:ss": "IPholandi",
+          "name:st": "Poland",
+          "name:su": "Polandia",
+          "name:sv": "Polen",
+          "name:sw": "Poland",
+          "name:ta": "போலந்து",
+          "name:te": "పోలాండ్",
+          "name:tg": "Лаҳистон",
+          "name:th": "ประเทศโปแลนด์",
+          "name:tk": "Polşa",
+          "name:tl": "Polonya",
+          "name:tr": "Polonya",
+          "name:tt": "Польша",
+          "name:ug": "پولشا",
+          "name:uk": "Польща",
+          "name:ur": "پولینڈ",
+          "name:uz": "Polsha",
+          "name:vi": "Ba Lan",
+          "name:vo": "Polän",
+          "name:wa": "Pologne",
+          "name:wo": "Poloñ",
+          "name:yi": "פוילן",
+          "name:yo": "Polandi",
+          "name:zh": "波兰",
+          "name:zu": "IPolandi",
+          "boundary": "administrative",
+          "currency": "PLN",
+          "int_name": "Polska",
+          "name:ace": "Polandia",
+          "name:als": "Polen",
+          "name:ang": "Polaland",
+          "name:arc": "ܦܘܠܢܕ",
+          "name:arz": "بولاندا",
+          "name:ast": "Polonia",
+          "name:bar": "Poin",
+          "name:bcl": "Polonya",
+          "name:bpy": "পোল্যান্ড",
+          "name:bxr": "Польш",
+          "name:cdo": "Pŏ̤-làng",
+          "name:ceb": "Polonya",
+          "name:chr": "ᏉᎳᏂ",
+          "name:chy": "Poland",
+          "name:ckb": "پۆڵەندا",
+          "name:crh": "Lehistan",
+          "name:csb": "Pòlskô",
+          "name:diq": "Polonya",
+          "name:dsb": "Pólska",
+          "name:eml": "Pulógna",
+          "name:ext": "Poloña",
+          "name:frp": "Pologne",
+          "name:frr": "Poolen",
+          "name:fur": "Polonie",
+          "name:gag": "Polşa",
+          "name:gan": "波蘭",
+          "name:hak": "Pô-làn",
+          "name:haw": "Pōlani",
+          "name:hif": "Poland",
+          "name:hsb": "Pólska",
+          "name:ilo": "Polonia",
+          "name:jbo": "polskas",
+          "name:kaa": "Polsha",
+          "name:kbd": "Лахь жылэ",
+          "name:koi": "Польска",
+          "name:krc": "Польша",
+          "name:lad": "Polonia",
+          "name:lez": "Польша",
+          "name:lij": "Polonia",
+          "name:lmo": "Pulònia",
+          "name:ltg": "Puoleja",
+          "name:lzh": "波蘭",
+          "name:mdf": "Полень мастор",
+          "name:mhr": "Польшо",
+          "name:mrj": "Польша",
+          "name:mwl": "Polónia",
+          "name:mzn": "لهستون",
+          "name:nah": "Polonia",
+          "name:nan": "Polska",
+          "name:nap": "Pulonnia",
+          "name:nds": "Polen",
+          "name:nov": "Polonia",
+          "name:nrm": "Polongne",
+          "name:pam": "Polonya",
+          "name:pap": "Polonia",
+          "name:pcd": "Polonne",
+          "name:pdc": "Polen",
+          "name:pfl": "Pole",
+          "name:pih": "Poeland",
+          "name:pms": "Polònia",
+          "name:pnb": "پولینڈ",
+          "name:pnt": "Πολωνία",
+          "name:rmy": "Polska",
+          "name:rue": "Польско",
+          "name:sah": "Польша",
+          "name:scn": "Pulonia",
+          "name:sco": "Poland",
+          "name:smn": "Puola",
+          "name:sms": "Puola",
+          "name:stq": "Polen",
+          "name:szl": "Polska",
+          "name:tet": "Polónia",
+          "name:tok": "ma Posuka",
+          "name:tpi": "Polan",
+          "name:tzl": "Polognh",
+          "name:udm": "Польша",
+          "name:vec": "Połonia",
+          "name:vep": "Pol'šanma",
+          "name:vls": "Pooln",
+          "name:vro": "Poola",
+          "name:war": "Polonya",
+          "name:wuu": "波兰",
+          "name:xal": "Польшин Орн",
+          "name:xmf": "პოლონეთი",
+          "name:yue": "波蘭",
+          "name:zea": "Poôl'n",
+          "timezone": "Europe/Warsaw",
+          "way_area": "42.4413",
+          "wikidata": "Q36",
+          "ISO3166-1": "PL",
+          "wikipedia": "pl:Polska",
+          "short_name": "RP",
+          "teryt:terc": "1",
+          "admin_level": "2",
+          "alt_name:ar": "بولونيا",
+          "alt_name:eo": "Polio;Polujo",
+          "name:dative": "Polsce",
+          "name:nds-nl": "Pooln",
+          "long_name:ar": "Rzeczpospolita Polska",
+          "name:bat-smg": "Lėnkėjė",
+          "name:map-bms": "Polandia",
+          "name:roa-tara": "Pulonie",
+          "official_name": "Rzeczpospolita Polska",
+          "short_name:be": "РП",
+          "name:be-tarask": "Польшча",
+          "ISO3166-1:alpha2": "PL",
+          "ISO3166-1:alpha3": "POL",
+          "default_language": "pl",
+          "official_name:ar": "الجمهورية البولندية",
+          "official_name:be": "Рэспубліка Польшча",
+          "official_name:cs": "Polská republika",
+          "official_name:de": "Republik Polen",
+          "official_name:el": "Δημοκρατία της Πολωνίας",
+          "official_name:en": "Republic of Poland",
+          "official_name:eo": "Pola Respubliko",
+          "official_name:es": "República de Polonia",
+          "official_name:fi": "Puolan tasavalta",
+          "official_name:fr": "République de Pologne",
+          "official_name:pl": "Rzeczpospolita Polska",
+          "official_name:ru": "Республика Польша",
+          "official_name:sr": "Република Пољска",
+          "ISO3166-1:numeric": "616",
+          "daytime_headlight": "yes",
+          "official_name:be-tarask": "Рэспубліка Польшча",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "8"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              54
+            ],
+            [
+              16,
+              54
+            ],
+            [
+              16,
+              54.47974041390895
+            ],
+            [
+              15.9763972,
+              54.4654667
+            ],
+            [
+              15.9677389,
+              54.4613056
+            ],
+            [
+              15.9552917,
+              54.4571417
+            ],
+            [
+              15.9432278,
+              54.4527306
+            ],
+            [
+              15.9398556,
+              54.4520167
+            ],
+            [
+              15.9079306,
+              54.4480639
+            ],
+            [
+              15.8218389,
+              54.4418806
+            ],
+            [
+              15.8077556,
+              54.4406556
+            ],
+            [
+              15.7903,
+              54.4386417
+            ],
+            [
+              15.7581694,
+              54.43405
+            ],
+            [
+              15.7444556,
+              54.4318278
+            ],
+            [
+              15.7309139,
+              54.429275
+            ],
+            [
+              15.6889083,
+              54.42
+            ],
+            [
+              15.6790417,
+              54.4176278
+            ],
+            [
+              15.6693083,
+              54.415075
+            ],
+            [
+              15.624675,
+              54.4025473
+            ],
+            [
+              15.6085806,
+              54.3990111
+            ],
+            [
+              15.585825,
+              54.3945389
+            ],
+            [
+              15.5557639,
+              54.390375
+            ],
+            [
+              15.5426583,
+              54.3903778
+            ],
+            [
+              15.532,
+              54.3901611
+            ],
+            [
+              15.5107417,
+              54.3891473
+            ],
+            [
+              15.4896389,
+              54.3873584
+            ],
+            [
+              15.4687667,
+              54.3848028
+            ],
+            [
+              15.455025,
+              54.3826778
+            ],
+            [
+              15.4448222,
+              54.3808639
+            ],
+            [
+              15.4313833,
+              54.3781584
+            ],
+            [
+              15.4214389,
+              54.3759139
+            ],
+            [
+              15.4116194,
+              54.3734917
+            ],
+            [
+              15.3987389,
+              54.3699834
+            ],
+            [
+              15.3861222,
+              54.3661639
+            ],
+            [
+              15.3768444,
+              54.3630973
+            ],
+            [
+              15.3572861,
+              54.3608723
+            ],
+            [
+              15.3150722,
+              54.3548028
+            ],
+            [
+              15.275625,
+              54.3505667
+            ],
+            [
+              15.2475083,
+              54.3469584
+            ],
+            [
+              15.2307278,
+              54.3456361
+            ],
+            [
+              15.213275,
+              54.3437278
+            ],
+            [
+              15.1925972,
+              54.3407389
+            ],
+            [
+              15.1756361,
+              54.3376723
+            ],
+            [
+              15.158975,
+              54.3340945
+            ],
+            [
+              15.1426583,
+              54.3300139
+            ],
+            [
+              15.1267306,
+              54.3254417
+            ],
+            [
+              15.1096528,
+              54.3198417
+            ],
+            [
+              15.1002222,
+              54.317725
+            ],
+            [
+              15.0311716,
+              54.3010803
+            ],
+            [
+              15,
+              54.2940544704229
+            ],
+            [
+              15,
+              54
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

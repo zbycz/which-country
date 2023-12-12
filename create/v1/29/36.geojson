@@ -1,0 +1,1281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192307,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Greece",
+        "local_name": "Ελλάς",
+        "name_en": "Greece",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+          "name": "Ελλάς",
+          "name:ab": "Барзентәыла",
+          "name:af": "Griekeland",
+          "name:am": "ግሪክ",
+          "name:an": "Grecia",
+          "name:ar": "اليونان",
+          "name:ay": "Grisya",
+          "name:az": "Yunanıstan",
+          "name:ba": "Греция",
+          "name:be": "Грэцыя",
+          "name:bg": "Гърция",
+          "name:bi": "Greece",
+          "name:bn": "গ্রিস",
+          "name:bo": "ཀེ་རི་སི།",
+          "name:br": "Gres",
+          "name:bs": "Grčka",
+          "name:ca": "Grècia",
+          "name:ce": "Греци",
+          "name:co": "Grecia",
+          "name:cs": "Řecko",
+          "name:cu": "Грьци",
+          "name:cv": "Греци",
+          "name:cy": "Gwlad Groeg",
+          "name:da": "Grækenland",
+          "name:de": "Griechenland",
+          "name:dv": "ޔޫނާން",
+          "name:dz": "གྲྀས",
+          "name:ee": "Greece",
+          "name:el": "Ελλάδα",
+          "name:en": "Greece",
+          "name:eo": "Grekio",
+          "name:es": "Grecia",
+          "name:et": "Kreeka",
+          "name:eu": "Grezia",
+          "name:fa": "یونان",
+          "name:fi": "Kreikka",
+          "name:fo": "Grikkaland",
+          "name:fr": "Grèce",
+          "name:fy": "Grikelân",
+          "name:ga": "An Ghréig",
+          "name:gd": "A' Ghrèig",
+          "name:gl": "Grecia",
+          "name:gn": "Gyresia",
+          "name:gu": "ગ્રીસ",
+          "name:gv": "Yn Ghreag",
+          "name:he": "יוון",
+          "name:hi": "यूनान",
+          "name:hr": "Grčka",
+          "name:ht": "Grès",
+          "name:hu": "Görögország",
+          "name:hy": "Հունաստան",
+          "name:ia": "Grecia",
+          "name:id": "Yunani",
+          "name:ie": "Grecia",
+          "name:io": "Grekia",
+          "name:is": "Grikkland",
+          "name:it": "Grecia",
+          "name:ja": "ギリシャ",
+          "name:jv": "Yunani",
+          "name:ka": "საბერძნეთი",
+          "name:kg": "Gelesi",
+          "name:ki": "Ngiriki",
+          "name:kk": "Грекия",
+          "name:kl": "Grækerit Nunaat",
+          "name:kn": "ಗ್ರೀಸ್",
+          "name:ko": "그리스",
+          "name:ku": "Yewnanistan",
+          "name:kv": "Эллада",
+          "name:kw": "Pow Grek",
+          "name:ky": "Греция",
+          "name:la": "Graecia",
+          "name:lb": "Griicheland",
+          "name:lg": "Buyonaani",
+          "name:li": "Griekeland",
+          "name:ln": "Gresi",
+          "name:lt": "Graikija",
+          "name:lv": "Grieķija",
+          "name:mg": "Grisy",
+          "name:mi": "Kirihi",
+          "name:mk": "Грција",
+          "name:ml": "ഗ്രീസ്",
+          "name:mn": "Грек",
+          "name:mr": "ग्रीस",
+          "name:ms": "Greece",
+          "name:mt": "Greċja",
+          "name:my": "ဂရိနိုင်ငံ",
+          "name:na": "Grit",
+          "name:ne": "ग्रीस",
+          "name:nl": "Griekenland",
+          "name:nn": "Hellas",
+          "name:no": "Hellas",
+          "name:nv": "Gwíík Dineʼé Bikéyah",
+          "name:oc": "Grècia",
+          "name:or": "ଗ୍ରୀସ",
+          "name:os": "Грекъ",
+          "name:pa": "ਯੂਨਾਨ",
+          "name:pl": "Grecja",
+          "name:ps": "يونان",
+          "name:pt": "Grécia",
+          "name:qu": "Grisya",
+          "name:rm": "Grezia",
+          "name:rn": "Grecia",
+          "name:ro": "Grecia",
+          "name:ru": "Греция",
+          "name:rw": "Ubugereki",
+          "name:sa": "यवनदेशः",
+          "name:sc": "Grèghia",
+          "name:se": "Greika",
+          "name:sh": "Grčka",
+          "name:si": "ග්‍රීසිය",
+          "name:sk": "Grécko",
+          "name:sl": "Grčija",
+          "name:sm": "Kuliti",
+          "name:so": "Giriig",
+          "name:sq": "Greqia",
+          "name:sr": "Грчка",
+          "name:ss": "IGrikhi",
+          "name:su": "Yunani",
+          "name:sv": "Grekland",
+          "name:sw": "Ugiriki",
+          "name:ta": "கிரேக்க நாடு",
+          "name:te": "గ్రీస్",
+          "name:tg": "Юнон",
+          "name:th": "ประเทศกรีซ",
+          "name:tk": "Gresiýa",
+          "name:tl": "Gresya",
+          "name:tr": "Yunanistan",
+          "name:tt": "Греция",
+          "name:ug": "Grétsiye",
+          "name:uk": "Греція",
+          "name:ur": "یونان",
+          "name:uz": "Yunoniston",
+          "name:vi": "Hy Lạp",
+          "name:vo": "Grikän",
+          "name:wo": "Girees",
+          "name:yi": "גריכנלאנד",
+          "name:yo": "Gríìsì",
+          "name:zh": "希腊",
+          "name:zu": "IGreki",
+          "alt_name": "Ελλάδα",
+          "boundary": "administrative",
+          "int_name": "Greece",
+          "name:ace": "Yunani",
+          "name:als": "Griechenland",
+          "name:ang": "Crēcland",
+          "name:arc": "ܝܘܢ",
+          "name:arz": "اليونان",
+          "name:ast": "Grecia",
+          "name:bar": "Griachaland",
+          "name:bcl": "Gresya",
+          "name:bpy": "গ্রীস",
+          "name:bxr": "Грек улас",
+          "name:cdo": "Hĭ-lé-nà̤",
+          "name:ceb": "Gresya",
+          "name:chr": "ᎪᎢ",
+          "name:ckb": "یۆنان",
+          "name:crh": "Yunanistan",
+          "name:csb": "Greckô",
+          "name:diq": "Yunanıstan",
+          "name:dsb": "Grichiska",
+          "name:ext": "Grécia",
+          "name:frp": "Grèce",
+          "name:frr": "Griichenlönj",
+          "name:fur": "Grecie",
+          "name:gag": "Grețiya",
+          "name:gan": "希臘",
+          "name:hak": "Hî-lia̍p",
+          "name:haw": "Helene",
+          "name:hif": "Greece",
+          "name:hsb": "Grjekska",
+          "name:ilo": "Gresia",
+          "name:jbo": "xesygu'e",
+          "name:kaa": "Gretsiya",
+          "name:kbd": "Алыджей",
+          "name:koi": "Эллада",
+          "name:krc": "Греция",
+          "name:lad": "Gresia",
+          "name:lez": "Греция",
+          "name:lij": "Greçia",
+          "name:lmo": "Grecia",
+          "name:ltg": "Grekeja",
+          "name:lzh": "希臘共和國",
+          "name:mdf": "Грекмастор",
+          "name:mhr": "Греций",
+          "name:mwl": "Grécia",
+          "name:mzn": "یونان",
+          "name:nah": "Grecia",
+          "name:nan": "Hi-lia̍p",
+          "name:nap": "Grecia",
+          "name:nds": "Grekenland",
+          "name:nov": "Grekia",
+          "name:nrm": "Grêce",
+          "name:pag": "Gresia",
+          "name:pam": "Grekya",
+          "name:pcd": "Grèche",
+          "name:pih": "Griese",
+          "name:pms": "Grecia",
+          "name:pnb": "یونان",
+          "name:pnt": "Ελλάδα",
+          "name:rue": "Ґреція",
+          "name:sah": "Греция",
+          "name:scn": "Grecia",
+          "name:sco": "Greece",
+          "name:smn": "Kreikka",
+          "name:sms": "Kreikka",
+          "name:srn": "Grikikondre",
+          "name:stq": "Griechenlound",
+          "name:szl": "Grecyjŏ",
+          "name:tet": "Grésia",
+          "name:tok": "ma Elena",
+          "name:tpi": "Gris",
+          "name:tzl": "Graicea",
+          "name:udm": "Греция",
+          "name:vec": "Gresia",
+          "name:vep": "Grekanma",
+          "name:vls": "Grieknland",
+          "name:vro": "Kreeka",
+          "name:war": "Gresya",
+          "name:wuu": "希腊",
+          "name:xal": "Грисин Орн",
+          "name:xmf": "საბერძნეთი",
+          "name:yue": "希臘",
+          "name:zea": "Griek'nland",
+          "ref:nuts": "EL",
+          "timezone": "Europe/Athens",
+          "way_area": "24.7793",
+          "wikidata": "Q41",
+          "ISO3166-1": "GR",
+          "wikipedia": "el:Ελλάδα",
+          "admin_level": "2",
+          "alt_name:eo": "Grekujo;Helenio;Helenujo",
+          "name:nds-nl": "Griekenlaand",
+          "name:bat-smg": "Graikėjė",
+          "name:roa-rup": "Gârția",
+          "name:zh-Hans": "希腊",
+          "name:zh-Hant": "希臘",
+          "name:roa-tara": "Grecie",
+          "official_name": "Ελληνική Δημοκρατία",
+          "name:be-tarask": "Грэцыя",
+          "ISO3166-1:alpha2": "GR",
+          "ISO3166-1:alpha3": "GRC",
+          "default_language": "el",
+          "official_name:cs": "Řecká republika",
+          "official_name:eo": "Helena Respubliko",
+          "official_name:fi": "Helleenien tasavalta",
+          "official_name:pl": "Republika Grecka",
+          "ISO3166-1:numeric": "300",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "12"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.3864668,
+              36.1515941
+            ],
+            [
+              29.3865715,
+              36.1477095
+            ],
+            [
+              29.3869053,
+              36.1437827
+            ],
+            [
+              29.3876818,
+              36.138764
+            ],
+            [
+              29.3885192,
+              36.1350309
+            ],
+            [
+              29.3895731,
+              36.1313336
+            ],
+            [
+              29.3910819,
+              36.1270622
+            ],
+            [
+              29.3928604,
+              36.1228916
+            ],
+            [
+              29.3946166,
+              36.1193722
+            ],
+            [
+              29.3972733,
+              36.1147906
+            ],
+            [
+              29.3994965,
+              36.1114475
+            ],
+            [
+              29.4019118,
+              36.1081925
+            ],
+            [
+              29.405422,
+              36.1040019
+            ],
+            [
+              29.4082644,
+              36.10098
+            ],
+            [
+              29.412322,
+              36.0971251
+            ],
+            [
+              29.418949,
+              36.0917467
+            ],
+            [
+              29.4261722,
+              36.0868951
+            ],
+            [
+              29.4326011,
+              36.0832857
+            ],
+            [
+              29.4406078,
+              36.0795573
+            ],
+            [
+              29.4490393,
+              36.0763262
+            ],
+            [
+              29.4578073,
+              36.0737454
+            ],
+            [
+              29.4653157,
+              36.0721081
+            ],
+            [
+              29.4744999,
+              36.0707741
+            ],
+            [
+              29.4825676,
+              36.0701843
+            ],
+            [
+              29.4867985,
+              36.0663073
+            ],
+            [
+              29.4924436,
+              36.0618273
+            ],
+            [
+              29.4987969,
+              36.0575096
+            ],
+            [
+              29.5051008,
+              36.0538726
+            ],
+            [
+              29.5118686,
+              36.0505805
+            ],
+            [
+              29.5190469,
+              36.0476857
+            ],
+            [
+              29.5249821,
+              36.0457113
+            ],
+            [
+              29.5326427,
+              36.0436697
+            ],
+            [
+              29.5371322,
+              36.0427207
+            ],
+            [
+              29.5431938,
+              36.0417197
+            ],
+            [
+              29.5524009,
+              36.040792
+            ],
+            [
+              29.5618772,
+              36.0405596
+            ],
+            [
+              29.5665364,
+              36.0407063
+            ],
+            [
+              29.572283,
+              36.0411333
+            ],
+            [
+              29.5766581,
+              36.0387818
+            ],
+            [
+              29.5820898,
+              36.0362185
+            ],
+            [
+              29.5862887,
+              36.0344802
+            ],
+            [
+              29.5920362,
+              36.0324157
+            ],
+            [
+              29.5979331,
+              36.0306479
+            ],
+            [
+              29.6024398,
+              36.0295211
+            ],
+            [
+              29.6085414,
+              36.0282889
+            ],
+            [
+              29.6148489,
+              36.0273158
+            ],
+            [
+              29.6249747,
+              36.026346
+            ],
+            [
+              29.6344695,
+              36.0261863
+            ],
+            [
+              29.64394,
+              36.0267571
+            ],
+            [
+              29.6528156,
+              36.0279589
+            ],
+            [
+              29.63192,
+              36.05687
+            ],
+            [
+              29.68381,
+              36.08097
+            ],
+            [
+              29.6455,
+              36.12568
+            ],
+            [
+              29.61134,
+              36.14827
+            ],
+            [
+              29.61147,
+              36.14959
+            ],
+            [
+              29.61252,
+              36.15222
+            ],
+            [
+              29.6147,
+              36.16824
+            ],
+            [
+              29.59148,
+              36.1761
+            ],
+            [
+              29.56564,
+              36.16093
+            ],
+            [
+              29.53711,
+              36.163
+            ],
+            [
+              29.51131,
+              36.18387
+            ],
+            [
+              29.46683,
+              36.16555
+            ],
+            [
+              29.3870761,
+              36.1611506
+            ],
+            [
+              29.386586,
+              36.1560218
+            ],
+            [
+              29.3864668,
+              36.1515941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -174737,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Turkey",
+        "local_name": "Türkiye",
+        "name_en": "Turkey",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+          "name": "Türkiye",
+          "name:aa": "Torusko",
+          "name:ab": "Ҭырқәтәыла",
+          "name:af": "Turkye",
+          "name:ak": "Turki",
+          "name:am": "ቱርክ",
+          "name:an": "Turquía",
+          "name:ar": "تركيا",
+          "name:av": "Туркия",
+          "name:ay": "Turkiya",
+          "name:az": "Türkiyə",
+          "name:ba": "Төркиә",
+          "name:be": "Турцыя",
+          "name:bg": "Турция",
+          "name:bi": "Turkey",
+          "name:bn": "তুরস্ক",
+          "name:bo": "ཏུར་ཀི།",
+          "name:br": "Turkia",
+          "name:bs": "Turska",
+          "name:ca": "Turquia",
+          "name:ce": "Туркойчоь",
+          "name:co": "Turchia",
+          "name:cr": "ᑐᕒᑭ",
+          "name:cs": "Turecko",
+          "name:cu": "Тѷрци",
+          "name:cv": "Турци",
+          "name:cy": "Twrci",
+          "name:da": "Tyrkiet",
+          "name:de": "Türkei",
+          "name:dv": "ތުރުކީވިލާތް",
+          "name:dz": "བྱའི་རིགས་ཅིག",
+          "name:ee": "Turkey",
+          "name:el": "Τουρκία",
+          "name:en": "Turkey",
+          "name:eo": "Turkio",
+          "name:es": "Turquía",
+          "name:et": "Türgi",
+          "name:eu": "Turkia",
+          "name:fa": "ترکیه",
+          "name:fi": "Turkki",
+          "name:fo": "Turkaland",
+          "name:fr": "Turquie",
+          "name:fy": "Turkije",
+          "name:ga": "An Tuirc",
+          "name:gd": "An Tuirc",
+          "name:gl": "Turquía",
+          "name:gn": "Tuykia",
+          "name:gu": "તુર્કસ્તાન",
+          "name:gv": "Yn Turkee",
+          "name:ha": "Turkiyya",
+          "name:he": "טורקיה",
+          "name:hi": "तुर्की",
+          "name:hr": "Turska",
+          "name:ht": "Tiki",
+          "name:hu": "Törökország",
+          "name:hy": "Թուրքիա",
+          "name:ia": "Turchia",
+          "name:id": "Turki",
+          "name:ie": "Turcia",
+          "name:ik": "Turkey",
+          "name:io": "Turkia",
+          "name:is": "Tyrkland",
+          "name:it": "Turchia",
+          "name:ja": "トルコ",
+          "name:jv": "Turki",
+          "name:ka": "თურქეთი",
+          "name:kg": "Turki",
+          "name:ki": "Turkey",
+          "name:kk": "Түркия",
+          "name:kl": "Tyrkia",
+          "name:km": "តួកគី",
+          "name:kn": "ಟರ್ಕಿ",
+          "name:ko": "튀르키예",
+          "name:ku": "Tirkiye",
+          "name:kv": "Турция",
+          "name:kw": "Turki",
+          "name:ky": "Түркия",
+          "name:la": "Turcia",
+          "name:lb": "Tierkei",
+          "name:lg": "Buturuki",
+          "name:li": "Turkije",
+          "name:ln": "Turkí",
+          "name:lt": "Turkija",
+          "name:lv": "Turcija",
+          "name:mg": "Torkia",
+          "name:mi": "Tākei",
+          "name:mk": "Турција",
+          "name:ml": "തുർക്കി",
+          "name:mn": "Турк",
+          "name:mr": "तुर्कस्तान",
+          "name:ms": "Turki",
+          "name:mt": "Turkija",
+          "name:my": "တူရကီနိုင်ငံ",
+          "name:na": "Terki",
+          "name:ne": "टर्की",
+          "name:nl": "Turkije",
+          "name:nn": "Tyrkia",
+          "name:no": "Tyrkia",
+          "name:nv": "Tʼóok Bikéyah",
+          "name:oc": "Turquia",
+          "name:or": "ତୁର୍କୀ",
+          "name:os": "Турк",
+          "name:pa": "ਤੁਰਕੀ",
+          "name:pl": "Turcja",
+          "name:ps": "تورکيه",
+          "name:pt": "Turquia",
+          "name:qu": "Turkiya",
+          "name:rm": "Tirchia",
+          "name:rn": "Turukiya",
+          "name:ro": "Turcia",
+          "name:ru": "Турция",
+          "name:rw": "Turukiya",
+          "name:sa": "तुर्की",
+          "name:sc": "Turkia",
+          "name:se": "Durka",
+          "name:sh": "Turska",
+          "name:si": "තුර්කිය",
+          "name:sk": "Turecko",
+          "name:sl": "Turčija",
+          "name:sm": "Take",
+          "name:so": "Turkiga",
+          "name:sq": "Turqia",
+          "name:sr": "Турска",
+          "name:ss": "IThekhi",
+          "name:su": "Turki",
+          "name:sv": "Turkiet",
+          "name:sw": "Uturuki",
+          "name:ta": "துருக்கி",
+          "name:te": "టర్కీ",
+          "name:tg": "Туркия",
+          "name:th": "ประเทศตุรกี",
+          "name:ti": "ቱርኪ",
+          "name:tk": "Türkiýe",
+          "name:tl": "Turkiya",
+          "name:tr": "Türkiye",
+          "name:tt": "Төркия",
+          "name:tw": "Turkey",
+          "name:ty": "Turiti",
+          "name:ug": "تۈركىيە",
+          "name:uk": "Туреччина",
+          "name:ur": "ترکی",
+          "name:uz": "Turkiya",
+          "name:vi": "Thổ Nhĩ Kỳ",
+          "name:vo": "Türkän",
+          "name:wa": "Tourkeye",
+          "name:wo": "Tirki",
+          "name:xh": "ITurkiya",
+          "name:yi": "טערקיי",
+          "name:yo": "Túrkì",
+          "name:za": "Dujwjgiz",
+          "name:zh": "土耳其",
+          "name:zu": "ITheki",
+          "boundary": "administrative",
+          "int_name": "Türkiye",
+          "name:ace": "Turuki",
+          "name:ady": "Тыркуе",
+          "name:als": "Türkei",
+          "name:ang": "Turcland",
+          "name:apc": "تركيا",
+          "name:arc": "ܛܘܪܩܝܐ",
+          "name:ary": "أنقارا",
+          "name:arz": "توركيا",
+          "name:ast": "Turquía",
+          "name:azb": "تورکیه",
+          "name:bar": "Tiakei",
+          "name:bcl": "Turkiya",
+          "name:bjn": "Turki",
+          "name:bpy": "তুরস্ক",
+          "name:bug": "Turki",
+          "name:bxr": "Тюрк Улас",
+          "name:cdo": "Tū-ī-gì",
+          "name:ceb": "Turkiya",
+          "name:chr": "ᎬᏂᏱ",
+          "name:chy": "Turkey",
+          "name:ckb": "تورکیا",
+          "name:cnr": "Турска",
+          "name:crh": "Türkiye",
+          "name:csb": "Tëreckô",
+          "name:din": "Turkia",
+          "name:diq": "Tırkiya",
+          "name:dsb": "Turkojska",
+          "name:eml": "Turchî",
+          "name:ext": "Turquia",
+          "name:frp": "Turquie",
+          "name:frr": "Türkei",
+          "name:fur": "Turchie",
+          "name:gag": "Türkiye",
+          "name:gan": "土耳其",
+          "name:glk": "تۊرکيه",
+          "name:got": "𐍄𐍅𐍂𐌺𐌾𐌰",
+          "name:hak": "Thú-ngí-khì",
+          "name:haw": "Tureke",
+          "name:hif": "Turkey",
+          "name:hsb": "Turkowska",
+          "name:hyw": "Թուրքիա",
+          "name:ilo": "Turkia",
+          "name:inh": "Туркий",
+          "name:jbo": "turk",
+          "name:kaa": "Túrkiya",
+          "name:kab": "Tturk",
+          "name:kbd": "Тырку",
+          "name:kiu": "Tırkiya",
+          "name:koi": "Тюркия",
+          "name:krc": "Тюрк",
+          "name:ksh": "Türkei",
+          "name:lad": "Turkia",
+          "name:lbe": "Туркия",
+          "name:lez": "Турция",
+          "name:lij": "Turchia",
+          "name:lmo": "Türchia",
+          "name:ltg": "Turceja",
+          "name:lzh": "土耳其",
+          "name:mdf": "Туркамастор",
+          "name:mhr": "Турций",
+          "name:mrj": "Турци",
+          "name:mwl": "Turquie",
+          "name:mzn": "ترکیه",
+          "name:nah": "Turquia",
+          "name:nan": "Türkiye",
+          "name:nap": "Turchia",
+          "name:nds": "Törkie",
+          "name:new": "टर्की",
+          "name:nov": "Turkia",
+          "name:nrm": "Turtchie",
+          "name:nso": "Turkey",
+          "name:pam": "Turkia",
+          "name:pap": "Turkia",
+          "name:pcd": "Turkie",
+          "name:pdc": "Turkie",
+          "name:pes": "ترکیه",
+          "name:pfl": "Tirkei",
+          "name:pih": "Turkii",
+          "name:pms": "Turchìa",
+          "name:pnb": "ترکی",
+          "name:pnt": "Τουρκία",
+          "name:prs": "ترکیه",
+          "name:rmy": "Turkiya",
+          "name:rue": "Турція",
+          "name:sah": "Түркийэ",
+          "name:scn": "Turchìa",
+          "name:sco": "Turkey",
+          "name:smn": "Turkki",
+          "name:sms": "Turkk",
+          "name:srn": "Turkiyakondre",
+          "name:stq": "Turkäi",
+          "name:szl": "Turcyjŏ",
+          "name:tet": "Turkia",
+          "name:tpi": "Teki",
+          "name:tsd": "Τουρκία",
+          "name:tum": "Turkey",
+          "name:tzl": "Türchia",
+          "name:udm": "Турция",
+          "name:vec": "Turchia",
+          "name:vep": "Turcii",
+          "name:vls": "Turkeye",
+          "name:vro": "Türgü",
+          "name:war": "Turkeya",
+          "name:wuu": "土耳其",
+          "name:xal": "Түргүдин Орн",
+          "name:xmf": "თურქეთი",
+          "name:yue": "土耳其",
+          "name:zea": "Turkije",
+          "name:zza": "Tırkiya",
+          "timezone": "Europe/Istanbul",
+          "way_area": "89.1987",
+          "wikidata": "Q43",
+          "ISO3166-1": "TR",
+          "name:vlca": "Turquia",
+          "wikipedia": "tr:Türkiye",
+          "population": "85279553",
+          "admin_level": "2",
+          "alt_name:ar": "تركيا",
+          "alt_name:eo": "Turkujo",
+          "alt_name:vi": "Thổ Nhĩ Kì",
+          "name:nds-nl": "Turkije",
+          "old_name:ko": "터키",
+          "alt_name:haw": "Kuleke",
+          "alt_name:lad": "Turkiya",
+          "alt_name:tzl": "ma Tuki",
+          "name:bat-smg": "Torkėjė",
+          "name:cbk-zam": "Turquía",
+          "name:ks-Arab": "تُرکی",
+          "name:mn-Mong": "ᠲᠦᠷᠻ",
+          "name:roa-rup": "Turchia",
+          "name:zh-Hans": "土耳其",
+          "name:zh-Hant": "土耳其",
+          "name:cnr-Latn": "Turska",
+          "name:lad-Hebr": "טורקײה",
+          "name:roa-tara": "Turchie",
+          "official_name": "Türkiye Cumhuriyeti",
+          "name:be-tarask": "Турэччына",
+          "population:date": "2022",
+          "ISO3166-1:alpha2": "TR",
+          "ISO3166-1:alpha3": "TUR",
+          "default_language": "tr",
+          "official_name:ar": "الجمهورية التركية",
+          "official_name:cs": "Turecká republika",
+          "official_name:de": "Republik Turkei",
+          "official_name:el": "Δημοκρατία της Τουρκίας",
+          "official_name:en": "Republic of Türkiye",
+          "official_name:eo": "Turka Respubliko",
+          "official_name:es": "República de Turquía",
+          "official_name:fi": "Turkin tasavalta",
+          "official_name:fr": "République de Turquie",
+          "official_name:he": "הרפובליקה הטורקית",
+          "official_name:ko": "튀르키예 공화국",
+          "official_name:ku": "Komara Tirkiyeyê",
+          "official_name:ky": "Түркия Республикасы",
+          "official_name:ru": "Турецкая Республика",
+          "official_name:zh": "土耳其共和國 / 土耳其共和国",
+          "ISO3166-1:numeric": "792",
+          "official_name:xal": "Түргүдин Орн",
+          "official_name:zh-Hans": "土耳其共和国",
+          "official_name:zh-Hant": "土耳其共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29,
+              36.386502626125605
+            ],
+            [
+              29.0005848,
+              36.3811641
+            ],
+            [
+              29.0015708,
+              36.3761948
+            ],
+            [
+              29.0029412,
+              36.3712845
+            ],
+            [
+              29.0046905,
+              36.3664527
+            ],
+            [
+              29.0079073,
+              36.3589213
+            ],
+            [
+              29.010392,
+              36.3541781
+            ],
+            [
+              29.0131789,
+              36.3496707
+            ],
+            [
+              29.0163108,
+              36.3453125
+            ],
+            [
+              29.0206918,
+              36.3401004
+            ],
+            [
+              29.0265968,
+              36.3342336
+            ],
+            [
+              29.0331592,
+              36.3288386
+            ],
+            [
+              29.0390883,
+              36.3247377
+            ],
+            [
+              29.0458844,
+              36.3207423
+            ],
+            [
+              29.0519045,
+              36.3160655
+            ],
+            [
+              29.0587979,
+              36.311572
+            ],
+            [
+              29.0649827,
+              36.3054456
+            ],
+            [
+              29.071577,
+              36.3000194
+            ],
+            [
+              29.0751051,
+              36.2975004
+            ],
+            [
+              29.0800313,
+              36.2943557
+            ],
+            [
+              29.0838817,
+              36.2921644
+            ],
+            [
+              29.0884668,
+              36.2898297
+            ],
+            [
+              29.0918239,
+              36.2867653
+            ],
+            [
+              29.0963382,
+              36.283096
+            ],
+            [
+              29.1011354,
+              36.2796678
+            ],
+            [
+              29.1061957,
+              36.2764947
+            ],
+            [
+              29.113202,
+              36.2726995
+            ],
+            [
+              29.1215456,
+              36.2690089
+            ],
+            [
+              29.1302873,
+              36.2659755
+            ],
+            [
+              29.1347826,
+              36.2647142
+            ],
+            [
+              29.1400873,
+              36.2634513
+            ],
+            [
+              29.1433596,
+              36.2621201
+            ],
+            [
+              29.1480097,
+              36.2591428
+            ],
+            [
+              29.1532883,
+              36.2561712
+            ],
+            [
+              29.1586984,
+              36.2535189
+            ],
+            [
+              29.1628869,
+              36.2517142
+            ],
+            [
+              29.1715593,
+              36.2485964
+            ],
+            [
+              29.1802834,
+              36.2462223
+            ],
+            [
+              29.1856285,
+              36.2404875
+            ],
+            [
+              29.1914119,
+              36.2352489
+            ],
+            [
+              29.1975977,
+              36.2305347
+            ],
+            [
+              29.2079201,
+              36.2220381
+            ],
+            [
+              29.2262886,
+              36.2081867
+            ],
+            [
+              29.229055,
+              36.2043628
+            ],
+            [
+              29.2316196,
+              36.2012032
+            ],
+            [
+              29.234365,
+              36.198144
+            ],
+            [
+              29.2372851,
+              36.195192
+            ],
+            [
+              29.2436233,
+              36.1896349
+            ],
+            [
+              29.2470274,
+              36.1870421
+            ],
+            [
+              29.2516523,
+              36.1838825
+            ],
+            [
+              29.2534251,
+              36.1798432
+            ],
+            [
+              29.2552218,
+              36.1763271
+            ],
+            [
+              29.257222,
+              36.1728832
+            ],
+            [
+              29.2594213,
+              36.1695192
+            ],
+            [
+              29.2618148,
+              36.1662427
+            ],
+            [
+              29.265299,
+              36.1620224
+            ],
+            [
+              29.2681242,
+              36.1589778
+            ],
+            [
+              29.2711242,
+              36.1560441
+            ],
+            [
+              29.2764944,
+              36.1514188
+            ],
+            [
+              29.2822982,
+              36.1471484
+            ],
+            [
+              29.2884997,
+              36.1432593
+            ],
+            [
+              29.2950606,
+              36.1397758
+            ],
+            [
+              29.3005408,
+              36.1372954
+            ],
+            [
+              29.3076448,
+              36.1345944
+            ],
+            [
+              29.3135037,
+              36.1327635
+            ],
+            [
+              29.3194936,
+              36.1312339
+            ],
+            [
+              29.3256564,
+              36.1300002
+            ],
+            [
+              29.3332949,
+              36.1289223
+            ],
+            [
+              29.3394659,
+              36.1284068
+            ],
+            [
+              29.34664,
+              36.1282021
+            ],
+            [
+              29.34664,
+              36.15892
+            ],
+            [
+              29.46683,
+              36.16555
+            ],
+            [
+              29.51131,
+              36.18387
+            ],
+            [
+              29.53711,
+              36.163
+            ],
+            [
+              29.56564,
+              36.16093
+            ],
+            [
+              29.59148,
+              36.1761
+            ],
+            [
+              29.6147,
+              36.16824
+            ],
+            [
+              29.61252,
+              36.15222
+            ],
+            [
+              29.61147,
+              36.14959
+            ],
+            [
+              29.61134,
+              36.14827
+            ],
+            [
+              29.6455,
+              36.12568
+            ],
+            [
+              29.68381,
+              36.08097
+            ],
+            [
+              29.63192,
+              36.05687
+            ],
+            [
+              29.67299551226743,
+              36
+            ],
+            [
+              30,
+              36
+            ],
+            [
+              30,
+              37
+            ],
+            [
+              29,
+              37
+            ],
+            [
+              29,
+              36.46120474459482
+            ],
+            [
+              29.0027406,
+              36.4606107
+            ],
+            [
+              29.0041464,
+              36.4552758
+            ],
+            [
+              29.0058366,
+              36.4504476
+            ],
+            [
+              29.0099895,
+              36.441194
+            ],
+            [
+              29.0119521,
+              36.4373572
+            ],
+            [
+              29.0088109,
+              36.4310844
+            ],
+            [
+              29.0064939,
+              36.4250876
+            ],
+            [
+              29.0052406,
+              36.4208921
+            ],
+            [
+              29.0038518,
+              36.4152959
+            ],
+            [
+              29.0025352,
+              36.4111392
+            ],
+            [
+              29.0013515,
+              36.406215
+            ],
+            [
+              29.0002026,
+              36.3987397
+            ],
+            [
+              29,
+              36.396060118909645
+            ],
+            [
+              29,
+              36.386502626125605
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

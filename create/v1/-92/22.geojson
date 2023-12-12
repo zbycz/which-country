@@ -1,0 +1,655 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -114686,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Mexico",
+        "local_name": "México",
+        "name_en": "Mexico",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+          "name": "México",
+          "name:af": "Meksiko",
+          "name:am": "ሜክሲኮ",
+          "name:an": "Mexico",
+          "name:ar": "المكسيك",
+          "name:ay": "Mïxiku",
+          "name:az": "Meksika",
+          "name:ba": "Мексика",
+          "name:be": "Мексіка",
+          "name:bg": "Мексико",
+          "name:bi": "Mexico",
+          "name:bm": "Mɛkisiki",
+          "name:bn": "মেক্সিকো",
+          "name:bo": "མེག་སི་ཀོ།",
+          "name:br": "Mec'hiko",
+          "name:bs": "Meksiko",
+          "name:ca": "Mèxic",
+          "name:ce": "Мексика",
+          "name:co": "Messicu",
+          "name:cr": "ᒣᐠᓰᑰ",
+          "name:cs": "Mexiko",
+          "name:cv": "Мексика",
+          "name:cy": "Mexico",
+          "name:da": "Mexico",
+          "name:de": "Mexiko",
+          "name:dv": "މެކްސިކޯ",
+          "name:dz": "མེཀ་སི་ཀོ",
+          "name:ee": "Mexico",
+          "name:el": "Μεξικό",
+          "name:en": "Mexico",
+          "name:eo": "Meksiko",
+          "name:es": "México",
+          "name:et": "Mehhiko",
+          "name:eu": "Mexiko",
+          "name:fa": "مکزیک",
+          "name:fi": "Meksiko",
+          "name:fo": "Meksiko",
+          "name:fr": "Mexique",
+          "name:fy": "Meksiko",
+          "name:ga": "Meicsiceo",
+          "name:gd": "Meagsago",
+          "name:gl": "México",
+          "name:gn": "Méhiko",
+          "name:gu": "મેક્સિકો",
+          "name:gv": "Meksico",
+          "name:he": "מקסיקו",
+          "name:hi": "मेक्सिको",
+          "name:hr": "Meksiko",
+          "name:ht": "Meksik",
+          "name:hu": "Mexikó",
+          "name:hy": "Մեքսիկա",
+          "name:ia": "Mexico",
+          "name:id": "Meksiko",
+          "name:ik": "Miasiku",
+          "name:io": "Mexikia",
+          "name:is": "Mexíkó",
+          "name:it": "Messico",
+          "name:iu": "ᒦᒃᓰᖂ",
+          "name:ja": "メキシコ",
+          "name:jv": "Mèksiko",
+          "name:ka": "მექსიკა",
+          "name:kk": "Мексика",
+          "name:kl": "Mexico",
+          "name:km": "ម៉ិកស៊ិក",
+          "name:kn": "ಮೆಕ್ಸಿಕೋ",
+          "name:ko": "멕시코",
+          "name:ku": "Meksîk",
+          "name:kv": "Мексика",
+          "name:kw": "Meksiko",
+          "name:ky": "Мексика",
+          "name:la": "Mexicum",
+          "name:lb": "Mexiko",
+          "name:li": "Mexico",
+          "name:ln": "Mexiko",
+          "name:lt": "Meksika",
+          "name:lv": "Meksika",
+          "name:mg": "Meksika",
+          "name:mi": "Mēhiko",
+          "name:mk": "Мексико",
+          "name:ml": "മെക്സിക്കോ",
+          "name:mn": "Мексик",
+          "name:mr": "मेक्सिको",
+          "name:ms": "Mexico",
+          "name:mt": "Messiku",
+          "name:my": "မက္ကဆီကိုနိုင်ငံ",
+          "name:na": "Meketiko",
+          "name:ne": "मेक्सिको",
+          "name:nl": "Mexico",
+          "name:nn": "Mexico",
+          "name:no": "Mexico",
+          "name:nv": "Naakaii Bikéyah",
+          "name:oc": "Mexic",
+          "name:or": "ମେକ୍ସିକୋ",
+          "name:os": "Мексикæ",
+          "name:pa": "ਮੈਕਸੀਕੋ",
+          "name:pl": "Meksyk",
+          "name:pt": "México",
+          "name:qu": "Mishiku",
+          "name:rm": "Mexico",
+          "name:ro": "Mexic",
+          "name:ru": "Мексика",
+          "name:rw": "Megizike",
+          "name:sc": "Mèssico",
+          "name:se": "Meksiko",
+          "name:sh": "Meksiko",
+          "name:sk": "Mexiko",
+          "name:sl": "Mehika",
+          "name:sm": "Mexico",
+          "name:sn": "Mexico",
+          "name:so": "Meksiko",
+          "name:sq": "Meksika",
+          "name:sr": "Мексико",
+          "name:ss": "IMekisikho",
+          "name:su": "Méksiko",
+          "name:sv": "Mexiko",
+          "name:sw": "Mexiko",
+          "name:ta": "மெக்சிக்கோ",
+          "name:te": "మెక్సికో",
+          "name:tg": "Мексика",
+          "name:th": "ประเทศเม็กซิโก",
+          "name:tk": "Meksika",
+          "name:tl": "Mehiko",
+          "name:tr": "Meksika",
+          "name:tt": "Мексика",
+          "name:tw": "Mexico",
+          "name:ug": "مېكسىكا",
+          "name:uk": "Мексика",
+          "name:ur": "میکسیکو",
+          "name:uz": "Meksika",
+          "name:vi": "México",
+          "name:vo": "Mäxikän",
+          "name:wo": "Meksik",
+          "name:yi": "מעקסיקא",
+          "name:yo": "Mẹ́ksíkò",
+          "name:zh": "墨西哥",
+          "name:zu": "IMekisiko",
+          "boundary": "administrative",
+          "currency": "MXN",
+          "name:ace": "Meksiko",
+          "name:als": "Mexiko",
+          "name:ang": "Mexico",
+          "name:arc": "ܡܟܣܝܩܘ",
+          "name:arz": "الميكسيك",
+          "name:ast": "Méxicu",
+          "name:atj": "Meksiko",
+          "name:azb": "مکزیک",
+          "name:bar": "Mexiko",
+          "name:bcl": "Mehiko",
+          "name:bpy": "মেক্সিকো",
+          "name:bxr": "Мексико",
+          "name:cdo": "Mĕ̤k-să̤-gŏ̤",
+          "name:ceb": "Mehiko",
+          "name:chr": "ᎠᏂᏍᏆᏂ",
+          "name:chy": "Mé'šeeséve'ho'évenó",
+          "name:ckb": "مەکسیک",
+          "name:crh": "Meksika",
+          "name:crk": "mêksîkô",
+          "name:diq": "Meksika",
+          "name:dsb": "Mexiko",
+          "name:ext": "Méjicu",
+          "name:frp": "Mexique",
+          "name:frr": "Meksikoo",
+          "name:fur": "Messic",
+          "name:gag": "Meksika",
+          "name:gan": "墨西哥",
+          "name:hak": "Me̍t-sî-kô",
+          "name:haw": "Mekiko",
+          "name:hif": "Mexico",
+          "name:hsb": "Mexiko",
+          "name:ilo": "Méhiko",
+          "name:jbo": "mexygu'e",
+          "name:kbd": "Мексикэ",
+          "name:krc": "Мексика",
+          "name:lad": "Meksiko",
+          "name:lez": "Мексика",
+          "name:lij": "Mescico",
+          "name:lmo": "Messich",
+          "name:ltg": "Meksika",
+          "name:lzh": "墨西哥",
+          "name:mdf": "Мексик",
+          "name:mhr": "Мексике",
+          "name:mia": "iihpaawalonki",
+          "name:mrj": "Мексика",
+          "name:mwl": "México",
+          "name:mzn": "مکزیک",
+          "name:nah": "Mēxihco",
+          "name:nan": "Be̍k-se-ko",
+          "name:nap": "Messico",
+          "name:nds": "Mexiko",
+          "name:new": "मेक्सिको",
+          "name:nov": "Mexiko",
+          "name:nrm": "Mexique",
+          "name:pag": "Mexico",
+          "name:pam": "Mexico",
+          "name:pap": "Mexico",
+          "name:pdc": "Mexiko",
+          "name:pfl": "Mexiko",
+          "name:pih": "Meksikoe",
+          "name:pms": "Méssich",
+          "name:pnb": "میکسیکو",
+          "name:rmy": "Mexiko",
+          "name:rue": "Мексіко",
+          "name:sah": "Мексика",
+          "name:scn": "Mèssicu",
+          "name:sco": "Mexico",
+          "name:smn": "Meksiko",
+          "name:sms": "Meksiko",
+          "name:srn": "Meksikokondre",
+          "name:stq": "Mexiko",
+          "name:szl": "Meksyk",
+          "name:tpi": "Meksiko",
+          "name:tzl": "Mexico",
+          "name:vec": "Mèsico",
+          "name:vep": "Meksik",
+          "name:vro": "Mehhiko",
+          "name:war": "Mehiko",
+          "name:win": "Reeziporoporo Mąą",
+          "name:xal": "Мексикудин Ниицәтә Орн Нутгуд",
+          "name:xmf": "მექსიკა",
+          "name:yue": "墨西哥",
+          "way_area": "200.236",
+          "wikidata": "Q96",
+          "ISO3166-1": "MX",
+          "wikipedia": "es:México",
+          "admin_level": "2",
+          "alt_name:nv": "Méhigo",
+          "alt_name:vi": "Mê-hi-cô;Mễ Tây Cơ;Mễ",
+          "border_type": "nation",
+          "name:nds-nl": "Mexico",
+          "name:simple": "Mexico",
+          "alt_name:chr": "ᎺᏏᎪ",
+          "name:bat-smg": "Meksėka",
+          "name:cbk-zam": "México",
+          "name:zh-Hans": "墨西哥",
+          "name:zh-Hant": "墨西哥",
+          "name:roa-tara": "Messeche",
+          "official_name": "Estados Unidos Mexicanos",
+          "name:be-tarask": "Мэксыка",
+          "ISO3166-1:alpha2": "MX",
+          "ISO3166-1:alpha3": "MEX",
+          "default_language": "es",
+          "official_name:cs": "Spojené státy mexické",
+          "official_name:sv": "Mexikos förenta stater",
+          "ISO3166-1:numeric": "484"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.629694,
+              22.130029
+            ],
+            [
+              -91.629302,
+              22.118572
+            ],
+            [
+              -91.628364,
+              22.108421
+            ],
+            [
+              -91.626875,
+              22.098326
+            ],
+            [
+              -91.624804,
+              22.08813
+            ],
+            [
+              -91.621991,
+              22.077375
+            ],
+            [
+              -91.618848,
+              22.067616
+            ],
+            [
+              -91.614438,
+              22.056052
+            ],
+            [
+              -91.610166,
+              22.046382
+            ],
+            [
+              -91.60497,
+              22.036157
+            ],
+            [
+              -91.599778,
+              22.027191
+            ],
+            [
+              -91.594105,
+              22.018482
+            ],
+            [
+              -91.587966,
+              22.010053
+            ],
+            [
+              -91.581377,
+              22.001925
+            ],
+            [
+              -91.5796453384576,
+              22
+            ],
+            [
+              -91.2184174031754,
+              22
+            ],
+            [
+              -91.211976,
+              22.007613
+            ],
+            [
+              -91.206241,
+              22.015099
+            ],
+            [
+              -91.200312,
+              22.023658
+            ],
+            [
+              -91.195511,
+              22.031368
+            ],
+            [
+              -91.190423,
+              22.040507
+            ],
+            [
+              -91.185882,
+              22.049775
+            ],
+            [
+              -91.18185,
+              22.059246
+            ],
+            [
+              -91.178339,
+              22.068895
+            ],
+            [
+              -91.175358,
+              22.078698
+            ],
+            [
+              -91.172913,
+              22.088629
+            ],
+            [
+              -91.171012,
+              22.098663
+            ],
+            [
+              -91.16966,
+              22.108774
+            ],
+            [
+              -91.16893,
+              22.117664
+            ],
+            [
+              -91.168616,
+              22.127849
+            ],
+            [
+              -91.168783,
+              22.138268
+            ],
+            [
+              -91.169461,
+              22.148437
+            ],
+            [
+              -91.170692,
+              22.158562
+            ],
+            [
+              -91.172221,
+              22.167363
+            ],
+            [
+              -91.17449,
+              22.177408
+            ],
+            [
+              -91.17728,
+              22.18726
+            ],
+            [
+              -91.180604,
+              22.196967
+            ],
+            [
+              -91.183944,
+              22.205323
+            ],
+            [
+              -91.188245,
+              22.214692
+            ],
+            [
+              -91.193051,
+              22.223845
+            ],
+            [
+              -91.198045,
+              22.232273
+            ],
+            [
+              -91.203784,
+              22.240944
+            ],
+            [
+              -91.209992,
+              22.249336
+            ],
+            [
+              -91.21665,
+              22.257423
+            ],
+            [
+              -91.223741,
+              22.265185
+            ],
+            [
+              -91.230427,
+              22.271836
+            ],
+            [
+              -91.237276,
+              22.278069
+            ],
+            [
+              -91.247113,
+              22.286274
+            ],
+            [
+              -91.255628,
+              22.29268
+            ],
+            [
+              -91.264481,
+              22.298674
+            ],
+            [
+              -91.273651,
+              22.304242
+            ],
+            [
+              -91.281916,
+              22.308753
+            ],
+            [
+              -91.291614,
+              22.313483
+            ],
+            [
+              -91.301559,
+              22.317749
+            ],
+            [
+              -91.310442,
+              22.321092
+            ],
+            [
+              -91.320779,
+              22.324458
+            ],
+            [
+              -91.331286,
+              22.32733
+            ],
+            [
+              -91.341936,
+              22.329703
+            ],
+            [
+              -91.352703,
+              22.331568
+            ],
+            [
+              -91.363558,
+              22.332922
+            ],
+            [
+              -91.374472,
+              22.333761
+            ],
+            [
+              -91.385419,
+              22.334083
+            ],
+            [
+              -91.395627,
+              22.333942
+            ],
+            [
+              -91.406784,
+              22.333309
+            ],
+            [
+              -91.413971,
+              22.333309
+            ],
+            [
+              -91.420813,
+              22.3331
+            ],
+            [
+              -91.429008,
+              22.332583
+            ],
+            [
+              -91.438151,
+              22.33167
+            ],
+            [
+              -91.448976,
+              22.330124
+            ],
+            [
+              -91.458368,
+              22.328353
+            ],
+            [
+              -91.467666,
+              22.326195
+            ],
+            [
+              -91.478153,
+              22.323261
+            ],
+            [
+              -91.489756,
+              22.319386
+            ],
+            [
+              -91.499894,
+              22.315534
+            ],
+            [
+              -91.509809,
+              22.311208
+            ],
+            [
+              -91.520663,
+              22.305788
+            ],
+            [
+              -91.531166,
+              22.2998
+            ],
+            [
+              -91.540376,
+              22.293906
+            ],
+            [
+              -91.549071,
+              22.287714
+            ],
+            [
+              -91.557416,
+              22.28112
+            ],
+            [
+              -91.565391,
+              22.274139
+            ],
+            [
+              -91.572974,
+              22.26679
+            ],
+            [
+              -91.581123,
+              22.257986
+            ],
+            [
+              -91.587819,
+              22.249926
+            ],
+            [
+              -91.594814,
+              22.240493
+            ],
+            [
+              -91.600536,
+              22.231808
+            ],
+            [
+              -91.605778,
+              22.222863
+            ],
+            [
+              -91.611082,
+              22.21252
+            ],
+            [
+              -91.615256,
+              22.203101
+            ],
+            [
+              -91.619346,
+              22.192288
+            ],
+            [
+              -91.622422,
+              22.18251
+            ],
+            [
+              -91.624961,
+              22.172599
+            ],
+            [
+              -91.627101,
+              22.161748
+            ],
+            [
+              -91.628518,
+              22.151645
+            ],
+            [
+              -91.629384,
+              22.141487
+            ],
+            [
+              -91.629694,
+              22.130029
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

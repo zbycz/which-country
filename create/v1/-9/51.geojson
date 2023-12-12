@@ -1,0 +1,678 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -62273,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Ireland",
+        "local_name": "Éire / Ireland",
+        "name_en": "Ireland",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+          "name": "Éire / Ireland",
+          "name:ab": "Ирландиа",
+          "name:af": "Ierland",
+          "name:ak": "Aereland",
+          "name:am": "አየርላንድ",
+          "name:an": "Irlanda",
+          "name:ar": "أيرلندا",
+          "name:av": "Ирландия",
+          "name:ay": "Irlandiya",
+          "name:az": "İrlandiya",
+          "name:ba": "Ирландия",
+          "name:be": "Ірландыя",
+          "name:bg": "Ирландия",
+          "name:bh": "आयरलैंड रिपब्लिक",
+          "name:bi": "Ireland",
+          "name:bm": "Irilandi",
+          "name:bn": "আয়ারল্যান্ড",
+          "name:bo": "ཨ་ཡར་ལནཌ།",
+          "name:br": "Iwerzhon",
+          "name:bs": "Irska",
+          "name:ca": "Irlanda",
+          "name:ce": "Ирланди",
+          "name:ch": "Irlanda",
+          "name:co": "Irlanda",
+          "name:cs": "Irsko",
+          "name:cu": "Єирь",
+          "name:cv": "Ирланди Республики",
+          "name:cy": "Iwerddon",
+          "name:da": "Irland",
+          "name:de": "Irland",
+          "name:dv": "އަޔަލޭންޑުގެ ޖުމްހޫރިއްޔާ",
+          "name:dz": "ཨཱ་ཡ་ལེནཌ",
+          "name:ee": "Ireland nutome",
+          "name:el": "Ιρλανδία",
+          "name:en": "Ireland",
+          "name:eo": "Irlando",
+          "name:es": "Irlanda",
+          "name:et": "Iirimaa",
+          "name:eu": "Irlanda",
+          "name:fa": "ایرلند",
+          "name:ff": "Irlannda",
+          "name:fi": "Irlanti",
+          "name:fo": "Írland",
+          "name:fr": "Irlande",
+          "name:fy": "Ierlân",
+          "name:ga": "Éire",
+          "name:gd": "Èirinn",
+          "name:gl": "Irlanda",
+          "name:gn": "Ilandia",
+          "name:gu": "આયર્લેંડ",
+          "name:gv": "Nerin",
+          "name:ha": "Ayalan",
+          "name:he": "אירלנד",
+          "name:hi": "आयरलैंड",
+          "name:hr": "Irska",
+          "name:ht": "Ilann",
+          "name:hu": "Írország",
+          "name:hy": "Իռլանդիա",
+          "name:ia": "Irlanda",
+          "name:id": "Irlandia",
+          "name:ie": "Irland",
+          "name:ig": "Ireland",
+          "name:io": "Irlando",
+          "name:is": "Írland",
+          "name:it": "Irlanda",
+          "name:ja": "アイルランド",
+          "name:jv": "Republik Irlandia",
+          "name:ka": "ირლანდია",
+          "name:ki": "Ayalandi",
+          "name:kk": "Ирландия",
+          "name:kl": "Irlandi",
+          "name:km": "អៀរឡង់",
+          "name:kn": "ಐರ್ಲೆಂಡ್",
+          "name:ko": "아일랜드",
+          "name:ks": "اَیَرلینٛڑ",
+          "name:ku": "Îrland",
+          "name:kv": "Ирландия",
+          "name:kw": "Repoblek Iwerdhon",
+          "name:ky": "Ирландия",
+          "name:la": "Hibernia",
+          "name:lb": "Irland",
+          "name:lg": "Ayalandi",
+          "name:li": "Ierland",
+          "name:ln": "Irelandɛ",
+          "name:lo": "ໄອແລນ",
+          "name:lt": "Airija",
+          "name:lv": "Īrija",
+          "name:mg": "Irlandy",
+          "name:mi": "Airangi",
+          "name:mk": "Ирска",
+          "name:ml": "അയർലാൻഡ്",
+          "name:mn": "Ирланд",
+          "name:mr": "आयर्लंड",
+          "name:ms": "Ireland",
+          "name:mt": "Irlanda",
+          "name:my": "အိုင်ယာလန်",
+          "name:na": "Ripubrikit Airerand",
+          "name:ne": "आइरल्याण्ड",
+          "name:nl": "Ierland",
+          "name:nn": "Irland",
+          "name:no": "Irland",
+          "name:nv": "Bitsiighaʼ Łichííʼí Bikéyah",
+          "name:oc": "Republica d'Irlanda",
+          "name:om": "Aayerlaandi",
+          "name:or": "ଆୟରଲ୍ୟାଣ୍ଡ",
+          "name:os": "Ирланди",
+          "name:pa": "ਆਇਰਲੈਂਡ ਗਣਰਾਜ",
+          "name:pl": "Irlandia",
+          "name:ps": "د آيرلېنډ جمهوريت",
+          "name:pt": "Irlanda",
+          "name:qu": "Ilanda",
+          "name:rm": "Irlanda",
+          "name:rn": "Irilandi",
+          "name:ro": "Irlanda",
+          "name:ru": "Ирландия",
+          "name:rw": "Irilande",
+          "name:sa": "ऐर्लेण्ड् गणराज्यम्",
+          "name:sc": "Irlanda",
+          "name:sd": "جمھوريا آئرلينڊ",
+          "name:se": "Irlánda",
+          "name:sg": "Irlânde",
+          "name:sh": "Irska",
+          "name:si": "අයර්ලන්තය",
+          "name:sk": "Írsko",
+          "name:sl": "Irska",
+          "name:sm": "Ripapelika o Aialani",
+          "name:sn": "Ireland",
+          "name:so": "Ayrlaand",
+          "name:sq": "Irlandë",
+          "name:sr": "Ирска",
+          "name:ss": "IYalendi",
+          "name:sv": "Irland",
+          "name:sw": "Ayalandi",
+          "name:ta": "அயர்லாந்து",
+          "name:te": "ఐర్ లాండ్",
+          "name:tg": "Ҷумҳурии Ирландия",
+          "name:th": "สาธารณรัฐไอร์แลนด์",
+          "name:ti": "አየርላንድ",
+          "name:tk": "Irlandiýa",
+          "name:tl": "Irlanda",
+          "name:to": "ʻAealani",
+          "name:tr": "İrlanda",
+          "name:ts": "Ireland",
+          "name:tt": "Ирландия",
+          "name:uk": "Ірландія",
+          "name:ur": "آئرلینڈ",
+          "name:uz": "Irlandiya",
+          "name:ve": "Ireland",
+          "name:vi": "Ai-len",
+          "name:vo": "Lireyän",
+          "name:wa": "Irlande",
+          "name:wo": "Irlaand",
+          "name:yi": "אירלאנד",
+          "name:yo": "Orílẹ́ède Ailandi",
+          "name:za": "Aiwjlanz Gunghozgoz",
+          "name:zh": "爱尔兰 / 愛爾蘭",
+          "name:zu": "i-Ireland",
+          "alt_name": "Republic of Ireland",
+          "boundary": "administrative",
+          "currency": "EUR",
+          "int_name": "Ireland",
+          "name:ace": "Irlandia",
+          "name:ady": "Ирландие",
+          "name:als": "Irland",
+          "name:ang": "Īrland Cynewīse",
+          "name:arc": "ܩܘܛܢܝܘܬܐ ܕܐܝܪܠܢܕ",
+          "name:ary": "إرلاندا",
+          "name:arz": "جمهورية ايرلاندا",
+          "name:ast": "República d'Irlanda",
+          "name:avk": "Eirea",
+          "name:awa": "आयरलैंड गणराज्य",
+          "name:azb": "ایرلند",
+          "name:ban": "Irlandia",
+          "name:bar": "Irland",
+          "name:bcl": "Irlandya",
+          "name:bpy": "আয়ারল্যান্ড",
+          "name:bug": "Irlandia",
+          "name:bxr": "Ирланд",
+          "name:cdo": "Ái-ī-làng",
+          "name:ceb": "Irlanda",
+          "name:chr": "ᎠᎢᎴᏂᏗ",
+          "name:chy": "Ireland",
+          "name:ckb": "ئیرلەند",
+          "name:crh": "İrlandiya",
+          "name:csb": "Irlandëjô",
+          "name:diq": "Cumhuriyetê İrlanda",
+          "name:dsb": "Irska",
+          "name:dty": "गणतन्त्र आयरल्यान्ड",
+          "name:eml": "Irlànda",
+          "name:ext": "Irlanda",
+          "name:frp": "Irlande",
+          "name:frr": "Irlönj",
+          "name:fur": "Irlande",
+          "name:gag": "İrlandiya",
+          "name:gan": "愛爾蘭",
+          "name:gcr": "Irlann",
+          "name:gom": "आयर्लंड",
+          "name:got": "𐌴𐌹𐍂𐌰𐌻𐌰𐌽𐌳",
+          "name:hak": "Ireland",
+          "name:haw": "‘Ilelani",
+          "name:hif": "Republic of Ireland",
+          "name:hsb": "Irska",
+          "name:hyw": "Իրլանտա",
+          "name:ilo": "Republika iti Irlánda",
+          "name:jam": "Ripoblik a Airilan",
+          "name:jbo": "airland",
+          "name:kaa": "İrlandiya",
+          "name:kab": "Lirlund",
+          "name:kbd": "Ирлэнд",
+          "name:koi": "Ирму",
+          "name:krc": "Ирландия",
+          "name:ksh": "Irrland",
+          "name:lad": "Irlanda",
+          "name:lez": "Ирландия",
+          "name:lij": "Éire",
+          "name:lld": "Irlanda",
+          "name:lmo": "Irlanda",
+          "name:ltg": "Eireja",
+          "name:lzh": "愛爾蘭共和國",
+          "name:mad": "Republik Irlandia",
+          "name:mdf": "Ирландия мастор",
+          "name:mhr": "Ирландий",
+          "name:mrj": "Ирланди",
+          "name:mwl": "Irlanda",
+          "name:myv": "Ирландия Мастор",
+          "name:mzn": "ایرلند جمهوری",
+          "name:nah": "Irtlālpan",
+          "name:nan": "Éire",
+          "name:nds": "Irland",
+          "name:new": "गणतन्त्र आयरल्यान्द",
+          "name:nov": "Republike de Irlande",
+          "name:nrm": "Républyique d'Irlande",
+          "name:nso": "Ireland",
+          "name:pag": "Irlanda",
+          "name:pam": "Irlanda",
+          "name:pap": "Irlandia",
+          "name:pcd": "Irlinde",
+          "name:pdc": "Irland",
+          "name:pih": "Repablik o' Airiland",
+          "name:pms": "Irlanda",
+          "name:pnb": "لوکراج آئرلینڈ",
+          "name:pnt": "Ιρλανδία",
+          "name:rmy": "Republika Irland",
+          "name:rue": "Ірьско",
+          "name:sah": "Ирландия Республиката",
+          "name:sat": "ᱟᱭᱟᱨᱞᱮᱱᱰ ᱨᱮᱱᱟᱜ ᱟᱹᱯᱱᱟᱹᱛ",
+          "name:scn": "Irlanda",
+          "name:sco": "Republic o Ireland",
+          "name:shn": "မိူင်းဢၢႆႇယႃႇလႅၼ်ႇ",
+          "name:smn": "Irland",
+          "name:sms": "Irlantt",
+          "name:srn": "Irikondre",
+          "name:stq": "Irlound",
+          "name:szl": "Irlandyjŏ",
+          "name:tet": "Irlanda",
+          "name:tok": "ma Alan",
+          "name:tpi": "Ripablik bilong Aialan",
+          "name:tzl": "Oira",
+          "name:udm": "Ирландия",
+          "name:vec": "Irlanda",
+          "name:vep": "Irlandii",
+          "name:vls": "Republiek Ierland",
+          "name:vro": "Iirimaa",
+          "name:war": "Republika han Irlanda",
+          "name:wuu": "爱尔兰",
+          "name:xal": "Гәәлгүдин Орн",
+          "name:xmf": "ირლანდია",
+          "name:yue": "愛爾蘭共和國",
+          "name:zea": "Ierland",
+          "timezone": "Europe/Dublin",
+          "way_area": "14.613",
+          "wikidata": "Q27",
+          "ISO3166-1": "IE",
+          "wikipedia": "en:Republic of Ireland",
+          "population": "5123536",
+          "ref:nuts:1": "IE0",
+          "admin_level": "2",
+          "alt_name:vi": "Ireland;Ái Nhĩ Lan",
+          "description": "Republic of Ireland",
+          "geonames:id": "2963597",
+          "is_in:ocean": "Atlantic",
+          "name:nds-nl": "Ierlaand",
+          "capital_city": "Dublin",
+          "driving_side": "left",
+          "name:bat-smg": "Airėjė",
+          "name:roa-rup": "Irlanda",
+          "name:zh-Hans": "爱尔兰",
+          "name:zh-Hant": "愛爾蘭",
+          "name:roa-tara": "Irlanne",
+          "official_name": "Éire",
+          "name:be-tarask": "Ірляндыя",
+          "name:zh_pinyin": "Àiěrlán",
+          "name:zh-min-nan": "Ài-ní-lân",
+          "population:date": "2022",
+          "ISO3166-1:alpha2": "IE",
+          "ISO3166-1:alpha3": "IRL",
+          "default_language": "en",
+          "official_name:cs": "Irská republika",
+          "official_name:en": "Ireland",
+          "official_name:eo": "Respubliko de Irlando",
+          "official_name:fi": "Irlannin tasavalta",
+          "official_name:ga": "Éire",
+          "official_name:io": "Republiko di Irlando",
+          "official_name:la": "Hibernia",
+          "official_name:pt": "República da Irlanda",
+          "ISO3166-1:numeric": "372",
+          "country_code_fips": "EI"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9,
+              51.3242729917003
+            ],
+            [
+              -8.9971649,
+              51.326
+            ],
+            [
+              -8.9894585,
+              51.331
+            ],
+            [
+              -8.9862708,
+              51.331
+            ],
+            [
+              -8.9580339,
+              51.33
+            ],
+            [
+              -8.9468843,
+              51.33
+            ],
+            [
+              -8.9186473,
+              51.331
+            ],
+            [
+              -8.9055071,
+              51.332
+            ],
+            [
+              -8.8954388,
+              51.333
+            ],
+            [
+              -8.8869749,
+              51.334
+            ],
+            [
+              -8.8728469,
+              51.336
+            ],
+            [
+              -8.8610227,
+              51.338
+            ],
+            [
+              -8.8506837,
+              51.34
+            ],
+            [
+              -8.8370878,
+              51.343
+            ],
+            [
+              -8.8251329,
+              51.346
+            ],
+            [
+              -8.8110255,
+              51.35
+            ],
+            [
+              -8.7984834,
+              51.354
+            ],
+            [
+              -8.7836931,
+              51.358
+            ],
+            [
+              -8.7735973,
+              51.361
+            ],
+            [
+              -8.7613815,
+              51.365
+            ],
+            [
+              -8.7503036,
+              51.369
+            ],
+            [
+              -8.744487,
+              51.37
+            ],
+            [
+              -8.7076758,
+              51.37
+            ],
+            [
+              -8.6794141,
+              51.371
+            ],
+            [
+              -8.6662624,
+              51.372
+            ],
+            [
+              -8.6561852,
+              51.373
+            ],
+            [
+              -8.6477139,
+              51.374
+            ],
+            [
+              -8.6335735,
+              51.376
+            ],
+            [
+              -8.6217389,
+              51.378
+            ],
+            [
+              -8.6066346,
+              51.381
+            ],
+            [
+              -8.5936381,
+              51.384
+            ],
+            [
+              -8.5821138,
+              51.387
+            ],
+            [
+              -8.5716979,
+              51.39
+            ],
+            [
+              -8.5591448,
+              51.394
+            ],
+            [
+              -8.5477982,
+              51.398
+            ],
+            [
+              -8.534595,
+              51.403
+            ],
+            [
+              -8.528279,
+              51.404
+            ],
+            [
+              -8.4999962,
+              51.405
+            ],
+            [
+              -8.4868347,
+              51.406
+            ],
+            [
+              -8.4682724,
+              51.408
+            ],
+            [
+              -8.4541215,
+              51.41
+            ],
+            [
+              -8.4369461,
+              51.413
+            ],
+            [
+              -8.4183042,
+              51.417
+            ],
+            [
+              -8.4026234,
+              51.421
+            ],
+            [
+              -8.3857488,
+              51.426
+            ],
+            [
+              -8.3738256,
+              51.43
+            ],
+            [
+              -8.3604133,
+              51.435
+            ],
+            [
+              -8.348322,
+              51.44
+            ],
+            [
+              -8.3373061,
+              51.445
+            ],
+            [
+              -8.3271923,
+              51.45
+            ],
+            [
+              -8.3160692,
+              51.456
+            ],
+            [
+              -8.3058986,
+              51.462
+            ],
+            [
+              -8.2965574,
+              51.468
+            ],
+            [
+              -8.2879505,
+              51.474
+            ],
+            [
+              -8.2787381,
+              51.481
+            ],
+            [
+              -8.2703292,
+              51.488
+            ],
+            [
+              -8.261587,
+              51.496
+            ],
+            [
+              -8.2545746,
+              51.503
+            ],
+            [
+              -8.24634,
+              51.512
+            ],
+            [
+              -8.2404435,
+              51.519
+            ],
+            [
+              -8.2343742,
+              51.527
+            ],
+            [
+              -8.231505,
+              51.528
+            ],
+            [
+              -8.219012,
+              51.531
+            ],
+            [
+              -8.2078535,
+              51.534
+            ],
+            [
+              -8.1914273,
+              51.539
+            ],
+            [
+              -8.1825779,
+              51.542
+            ],
+            [
+              -8.1743345,
+              51.545
+            ],
+            [
+              -8.1568653,
+              51.552
+            ],
+            [
+              -8.1434905,
+              51.558
+            ],
+            [
+              -8.1295193,
+              51.565
+            ],
+            [
+              -8.1222006,
+              51.569
+            ],
+            [
+              -8.1118946,
+              51.575
+            ],
+            [
+              -8.103978,
+              51.579
+            ],
+            [
+              -8.0947552,
+              51.584
+            ],
+            [
+              -8.0878578,
+              51.588
+            ],
+            [
+              -8.0797746,
+              51.593
+            ],
+            [
+              -8.0755043,
+              51.594
+            ],
+            [
+              -8.060328,
+              51.597
+            ],
+            [
+              -8.0432672,
+              51.601
+            ],
+            [
+              -8.0286057,
+              51.605
+            ],
+            [
+              -8.0093268,
+              51.611
+            ],
+            [
+              -8.0046641,
+              51.612
+            ],
+            [
+              -8,
+              51.61254768670737
+            ],
+            [
+              -8,
+              52
+            ],
+            [
+              -9,
+              52
+            ],
+            [
+              -9,
+              51.3242729917003
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

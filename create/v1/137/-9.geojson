@@ -1,0 +1,632 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -304751,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Indonesia",
+        "local_name": "Indonesia",
+        "name_en": "Indonesia",
+        "all_tags": {
+          "ref": "ID",
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+          "name": "Indonesia",
+          "name:af": "Indonesië",
+          "name:ak": "Indonesia",
+          "name:am": "ኢንዶኔዥያ",
+          "name:an": "Indonesia",
+          "name:ar": "إندونيسيا",
+          "name:ay": "Indunisya",
+          "name:az": "İndoneziya",
+          "name:ba": "Индонезия",
+          "name:be": "Інданезія",
+          "name:bg": "Индонезия",
+          "name:bi": "Indonesia",
+          "name:bn": "ইন্দোনেশিয়া",
+          "name:bo": "ཨིན་རྡུ་ནི་ཤིས་ཡ།",
+          "name:br": "Indonezia",
+          "name:bs": "Indonezija",
+          "name:ca": "Indonèsia",
+          "name:ce": "Индонези",
+          "name:ch": "Indonesia",
+          "name:co": "Indunesia",
+          "name:cs": "Indonésie",
+          "name:cu": "Їндонисїꙗ",
+          "name:cv": "Индонези",
+          "name:cy": "Indonesia",
+          "name:da": "Indonesien",
+          "name:de": "Indonesien",
+          "name:dv": "އިންޑޮނޭޝިޔާ",
+          "name:el": "Ινδονησία",
+          "name:en": "Indonesia",
+          "name:eo": "Indonezio",
+          "name:es": "Indonesia",
+          "name:et": "Indoneesia",
+          "name:eu": "Indonesia",
+          "name:fa": "اندونزی",
+          "name:fi": "Indonesia",
+          "name:fo": "Indonesia",
+          "name:fr": "Indonésie",
+          "name:fy": "Yndoneezje",
+          "name:ga": "An Indinéis",
+          "name:gd": "An Innd-Innse",
+          "name:gl": "Indonesia",
+          "name:gn": "Indonesia",
+          "name:gu": "ઈંડોનેશિયા",
+          "name:gv": "Yn Indoneesh",
+          "name:he": "אינדונזיה",
+          "name:hi": "इंडोनेशिया",
+          "name:hr": "Indonezija",
+          "name:ht": "Endonezi",
+          "name:hu": "Indonézia",
+          "name:hy": "Ինդոնեզիա",
+          "name:ia": "Indonesia",
+          "name:id": "Indonesia",
+          "name:ie": "Indonesia",
+          "name:io": "Indonezia",
+          "name:is": "Indónesía",
+          "name:it": "Indonesia",
+          "name:iu": "ᐄᓅᓯᐊ",
+          "name:ja": "インドネシア",
+          "name:jv": "Indonésia",
+          "name:ka": "ინდონეზია",
+          "name:ki": "Indonesia",
+          "name:kk": "Индонезия",
+          "name:kl": "Indonesia",
+          "name:km": "ឥណ្ឌូនេស៊ី",
+          "name:kn": "ಇಂಡೋನೇಷ್ಯಾ",
+          "name:ko": "인도네시아",
+          "name:ku": "Îndonezya",
+          "name:kv": "Индонезия",
+          "name:kw": "Indonesi",
+          "name:ky": "Индонезия",
+          "name:la": "Indonesia",
+          "name:lb": "Indonesien",
+          "name:li": "Indonesië",
+          "name:ln": "Indonezí",
+          "name:lt": "Indonezija",
+          "name:lv": "Indonēzija",
+          "name:mg": "Indonezia",
+          "name:mi": "Initonīhia",
+          "name:mk": "Индонезија",
+          "name:ml": "ഇന്തോനേഷ്യ",
+          "name:mn": "Индонез",
+          "name:mr": "इंडोनेशिया",
+          "name:ms": "Indonesia",
+          "name:mt": "Indoneżja",
+          "name:my": "အင်ဒိုနီးရှားနိုင်ငံ",
+          "name:na": "Indonitsiya",
+          "name:ne": "इण्डोनेशिया",
+          "name:nl": "Indonesië",
+          "name:nn": "Indonesia",
+          "name:no": "Indonesia",
+          "name:nv": "Indoníízha",
+          "name:oc": "Indonesia",
+          "name:om": "Indoneeshiyaa",
+          "name:or": "ଇଣ୍ଡୋନେସିଆ",
+          "name:os": "Индонези",
+          "name:pa": "ਇੰਡੋਨੇਸ਼ੀਆ",
+          "name:pl": "Indonezja",
+          "name:ps": "اندونيزيا",
+          "name:pt": "Indonésia",
+          "name:qu": "Indunisya",
+          "name:rm": "Indonesia",
+          "name:ro": "Indonezia",
+          "name:ru": "Индонезия",
+          "name:rw": "Indonesiya",
+          "name:sa": "इण्डोनेशिया",
+          "name:se": "Indonesia",
+          "name:sg": "Ênndonezïi",
+          "name:sh": "Indonezija",
+          "name:si": "ඉන්දුනීසියාව",
+          "name:sk": "Indonézia",
+          "name:sl": "Indonezija",
+          "name:sm": "Indyunisia",
+          "name:so": "Indunisiya",
+          "name:sq": "Indonezia",
+          "name:sr": "Индонезија",
+          "name:ss": "INdonesiya",
+          "name:su": "Indonésia",
+          "name:sv": "Indonesien",
+          "name:sw": "Indonesia",
+          "name:ta": "இந்தோனேசியா",
+          "name:te": "ఇండోనేషియా",
+          "name:tg": "Индонезия",
+          "name:th": "ประเทศอินโดนีเซีย",
+          "name:tk": "Indoneziýa",
+          "name:tl": "Indonesya",
+          "name:tr": "Endonezya",
+          "name:tt": "Индонезия",
+          "name:ug": "ھىندونېزىيە",
+          "name:uk": "Індонезія",
+          "name:ur": "انڈونیشیا",
+          "name:uz": "Indoneziya",
+          "name:vi": "Indonesia",
+          "name:vo": "Lindäna-Seänuäns",
+          "name:wa": "Indonezeye",
+          "name:wo": "Endoneesi",
+          "name:yi": "אינדאנעזיע",
+          "name:yo": "Indonésíà",
+          "name:za": "Yindunizsihya",
+          "name:zh": "印度尼西亚 / 印度尼西亞",
+          "alt_name": "Negara Kesatuan Republik Indonesia",
+          "boundary": "administrative",
+          "name:als": "Indonesien",
+          "name:ang": "Indonesia",
+          "name:arz": "اندونيسيا",
+          "name:ast": "Indonesia",
+          "name:bar": "Indonesien",
+          "name:bcl": "Indonesya",
+          "name:bjn": "Indunisia",
+          "name:bpy": "ইন্দোনেশিয়া",
+          "name:bug": "Indonesia",
+          "name:bxr": "Индонези",
+          "name:ceb": "Indonesia",
+          "name:chr": "ᎢᏂᏙᏂᏍᏯ",
+          "name:ckb": "ئیندۆنیزیا",
+          "name:crh": "İndoneziya",
+          "name:csb": "Jindonezjô",
+          "name:diq": "İndonezya",
+          "name:dsb": "Indoneziska",
+          "name:ext": "Indonésia",
+          "name:frp": "Endonèsie",
+          "name:frr": "Indoneesien",
+          "name:fur": "Indonesie",
+          "name:gag": "İndoneziya",
+          "name:gan": "印度尼西亞",
+          "name:hak": "Yin-thu-nì-sî-â",
+          "name:haw": "‘Inidonesia",
+          "name:hif": "Indonesia",
+          "name:hsb": "Indoneska",
+          "name:ilo": "Indonesia",
+          "name:jbo": "bidgu'e",
+          "name:kbd": "Индонезиэ",
+          "name:lez": "Индонезия",
+          "name:lij": "Indonexia",
+          "name:lmo": "Indunesia",
+          "name:lrc": "ٱندونزی",
+          "name:lzh": "印度尼西亞",
+          "name:mhr": "Индонезий",
+          "name:min": "Indonesia",
+          "name:mrj": "Индонези",
+          "name:mzn": "اندونزی",
+          "name:nah": "Indonesia",
+          "name:nan": "Ìn-nî",
+          "name:nap": "Indonesia",
+          "name:nds": "Indonesien",
+          "name:new": "इन्दोनेसिया",
+          "name:nov": "Indonesia",
+          "name:pag": "Indonesiya",
+          "name:pam": "Indonesia",
+          "name:pap": "Indonesia",
+          "name:pih": "Endonesya",
+          "name:pms": "Indonesia",
+          "name:pnb": "انڈونیشیا",
+          "name:rue": "Індонезія",
+          "name:sah": "Индонезия",
+          "name:scn": "Indunesia",
+          "name:sco": "Indonesie",
+          "name:smn": "Indonesia",
+          "name:sms": "Indonesia",
+          "name:srn": "Indonesikondre",
+          "name:stq": "Indonesien",
+          "name:szl": "Indōnezyjŏ",
+          "name:tet": "Indonézia",
+          "name:tok": "ma Intonesija",
+          "name:tpi": "Indonisia",
+          "name:tzl": "Indonesía",
+          "name:udm": "Индонезия",
+          "name:vec": "Indonexia",
+          "name:vep": "Indonezii",
+          "name:vro": "Indoneesiä",
+          "name:war": "Indonesia",
+          "name:wuu": "印度尼西亚",
+          "name:xal": "Эндонесин Орн",
+          "name:yue": "印尼",
+          "name:zea": "Indonesië",
+          "way_area": "428.9",
+          "wikidata": "Q252",
+          "ISO3166-1": "ID",
+          "wikipedia": "id:Indonesia",
+          "population": "270203917",
+          "short_name": "NKRI",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:nds-nl": "Indonezie",
+          "name:simple": "Indonesia",
+          "driving_side": "left",
+          "name:bat-smg": "Induonezėjė",
+          "name:cbk-zam": "Indonesia",
+          "name:map-bms": "Indonesia",
+          "name:zh-Hans": "印度尼西亚",
+          "name:zh-Hant": "印度尼西亞",
+          "name:roa-tara": "Indonesie",
+          "official_name": "Republik Indonesia",
+          "name:be-tarask": "Інданэзія",
+          "ISO3166-1:alpha2": "ID",
+          "ISO3166-1:alpha3": "IDN",
+          "default_language": "id",
+          "official_name:ar": "جمهورية إندونيسيا",
+          "official_name:cs": "Indonéská republika",
+          "official_name:de": "Republik Indonesien",
+          "official_name:en": "Republic of Indonesia",
+          "official_name:es": "República de Indonesia",
+          "official_name:fa": "جمهوری اندونزی",
+          "official_name:ku": "Komara Îndonezya",
+          "official_name:ru": "Республика Индонезия",
+          "official_name:ur": "جمہوریہ انڈونیشیا",
+          "official_name:zh": "印度尼西亚共和国 / 印度尼西亞共和國",
+          "ISO3166-1:numeric": "360",
+          "official_name:bjn": "Ripublik Indunisia",
+          "official_name:ckb": "کۆماری ئیندۆنیزیا",
+          "official_name:zh-Hans": "印度尼西亚共和国",
+          "official_name:zh-Hant": "印度尼西亞共和國",
+          "population:census:2020": "https://en.wikipedia.org/wiki/Indonesia#cite_note-2020census-8"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.4389278,
+              -8.419655
+            ],
+            [
+              137.4389464,
+              -8.4266151
+            ],
+            [
+              137.439313,
+              -8.4356172
+            ],
+            [
+              137.4400848,
+              -8.4445938
+            ],
+            [
+              137.4420038,
+              -8.4592807
+            ],
+            [
+              137.4430684,
+              -8.4655638
+            ],
+            [
+              137.4443326,
+              -8.4718102
+            ],
+            [
+              137.4466006,
+              -8.4810969
+            ],
+            [
+              137.449557,
+              -8.4910514
+            ],
+            [
+              137.4532259,
+              -8.5014125
+            ],
+            [
+              137.456751,
+              -8.5100361
+            ],
+            [
+              137.4635681,
+              -8.524808
+            ],
+            [
+              137.4691244,
+              -8.5353612
+            ],
+            [
+              137.4749602,
+              -8.5451694
+            ],
+            [
+              137.4804085,
+              -8.5533681
+            ],
+            [
+              137.4878189,
+              -8.5633793
+            ],
+            [
+              137.493904,
+              -8.570847
+            ],
+            [
+              137.5003414,
+              -8.578016
+            ],
+            [
+              137.5048216,
+              -8.5826213
+            ],
+            [
+              137.5113661,
+              -8.5889678
+            ],
+            [
+              137.5187353,
+              -8.5957286
+            ],
+            [
+              137.526433,
+              -8.6021167
+            ],
+            [
+              137.5338138,
+              -8.6077493
+            ],
+            [
+              137.5387046,
+              -8.6112516
+            ],
+            [
+              137.5462324,
+              -8.6162286
+            ],
+            [
+              137.5547785,
+              -8.621321
+            ],
+            [
+              137.5635698,
+              -8.6270834
+            ],
+            [
+              137.5717538,
+              -8.6318801
+            ],
+            [
+              137.5781155,
+              -8.6352659
+            ],
+            [
+              137.5862489,
+              -8.6392243
+            ],
+            [
+              137.5945525,
+              -8.6428155
+            ],
+            [
+              137.6030098,
+              -8.6460321
+            ],
+            [
+              137.6129849,
+              -8.6493298
+            ],
+            [
+              137.6219392,
+              -8.6518328
+            ],
+            [
+              137.6310001,
+              -8.6539223
+            ],
+            [
+              137.6432134,
+              -8.6560576
+            ],
+            [
+              137.6565256,
+              -8.6577566
+            ],
+            [
+              137.6663779,
+              -8.6586108
+            ],
+            [
+              137.6746638,
+              -8.658993
+            ],
+            [
+              137.6841127,
+              -8.6590587
+            ],
+            [
+              137.6966962,
+              -8.6584613
+            ],
+            [
+              137.7085601,
+              -8.6572302
+            ],
+            [
+              137.7177631,
+              -8.6558592
+            ],
+            [
+              137.7268926,
+              -8.6540672
+            ],
+            [
+              137.7359292,
+              -8.651858
+            ],
+            [
+              137.7448537,
+              -8.6492365
+            ],
+            [
+              137.7552689,
+              -8.6455933
+            ],
+            [
+              138,
+              -8.643639322097274
+            ],
+            [
+              138,
+              -8
+            ],
+            [
+              137.55910050564466,
+              -8
+            ],
+            [
+              137.5318,
+              -8.0674882
+            ],
+            [
+              137.5275093,
+              -8.0745522
+            ],
+            [
+              137.5200126,
+              -8.0880371
+            ],
+            [
+              137.5157933,
+              -8.0966199
+            ],
+            [
+              137.5118349,
+              -8.1057562
+            ],
+            [
+              137.5029286,
+              -8.1287868
+            ],
+            [
+              137.5000608,
+              -8.1372152
+            ],
+            [
+              137.4969107,
+              -8.1456156
+            ],
+            [
+              137.4909088,
+              -8.1640334
+            ],
+            [
+              137.4865678,
+              -8.1794091
+            ],
+            [
+              137.4850345,
+              -8.1854013
+            ],
+            [
+              137.4821516,
+              -8.1981734
+            ],
+            [
+              137.4810347,
+              -8.2039028
+            ],
+            [
+              137.4778936,
+              -8.2134295
+            ],
+            [
+              137.4751506,
+              -8.2233077
+            ],
+            [
+              137.4737576,
+              -8.2292028
+            ],
+            [
+              137.4718318,
+              -8.2391601
+            ],
+            [
+              137.4699045,
+              -8.2475275
+            ],
+            [
+              137.4652946,
+              -8.2652401
+            ],
+            [
+              137.4638644,
+              -8.2713677
+            ],
+            [
+              137.4626275,
+              -8.2775369
+            ],
+            [
+              137.4614046,
+              -8.2849974
+            ],
+            [
+              137.4594705,
+              -8.2943094
+            ],
+            [
+              137.4584343,
+              -8.3005237
+            ],
+            [
+              137.4572372,
+              -8.3092339
+            ],
+            [
+              137.4548935,
+              -8.3197003
+            ],
+            [
+              137.453709,
+              -8.3259918
+            ],
+            [
+              137.4527264,
+              -8.3323177
+            ],
+            [
+              137.4516345,
+              -8.3418436
+            ],
+            [
+              137.4499658,
+              -8.3491104
+            ],
+            [
+              137.4482879,
+              -8.357993
+            ],
+            [
+              137.4450059,
+              -8.3698894
+            ],
+            [
+              137.4430068,
+              -8.3790445
+            ],
+            [
+              137.4416346,
+              -8.3869173
+            ],
+            [
+              137.4407027,
+              -8.3933377
+            ],
+            [
+              137.4399795,
+              -8.3997848
+            ],
+            [
+              137.4394658,
+              -8.4062518
+            ],
+            [
+              137.4389278,
+              -8.419655
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

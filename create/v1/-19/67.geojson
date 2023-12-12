@@ -1,0 +1,602 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -299133,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Iceland",
+        "local_name": "Ísland",
+        "name_en": "Iceland",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+          "name": "Ísland",
+          "name:af": "Ysland",
+          "name:am": "አይስላንድ",
+          "name:an": "Islandia",
+          "name:ar": "آيسلندا",
+          "name:az": "İslandiya",
+          "name:ba": "Исландия",
+          "name:be": "Ісландыя",
+          "name:bg": "Исландия",
+          "name:bi": "Iceland",
+          "name:bm": "Aisland",
+          "name:bn": "আইসল্যান্ড",
+          "name:bo": "ཨཡིསུ་ལེན་ཌ།",
+          "name:br": "Island",
+          "name:bs": "Island",
+          "name:ca": "Islàndia",
+          "name:ce": "Исланди",
+          "name:co": "Islanda",
+          "name:cs": "Island",
+          "name:cu": "Исландъ",
+          "name:cv": "Исланди",
+          "name:cy": "Gwlad yr Iâ",
+          "name:da": "Island",
+          "name:de": "Island",
+          "name:dv": "އައިސްލަންޑަން",
+          "name:dz": "ཨའིསི་ལེནཌ་",
+          "name:ee": "Iceland",
+          "name:el": "Ισλανδία",
+          "name:en": "Iceland",
+          "name:eo": "Islando",
+          "name:es": "Islandia",
+          "name:et": "Island",
+          "name:eu": "Islandia",
+          "name:fa": "ایسلند",
+          "name:ff": "Islannda",
+          "name:fi": "Islanti",
+          "name:fo": "Ísland",
+          "name:fr": "Islande",
+          "name:fy": "Yslân",
+          "name:ga": "An Íoslainn",
+          "name:gd": "Innis Tìle",
+          "name:gl": "Islandia",
+          "name:gn": "Iylanda",
+          "name:gu": "આઈસલેંડ",
+          "name:gv": "Yn Eeslynn",
+          "name:he": "איסלנד",
+          "name:hi": "आइसलैण्ड",
+          "name:hr": "Island",
+          "name:ht": "Islann",
+          "name:hu": "Izland",
+          "name:hy": "Իսլանդիա",
+          "name:ia": "Islanda",
+          "name:id": "Islandia",
+          "name:ie": "Island",
+          "name:io": "Islando",
+          "name:is": "Ísland",
+          "name:it": "Islanda",
+          "name:ja": "アイスランド",
+          "name:jv": "Islandia",
+          "name:ka": "ისლანდია",
+          "name:kg": "Islande",
+          "name:kk": "Исландия",
+          "name:kl": "Islandi",
+          "name:km": "ប្រទេសអាយឡែន",
+          "name:kn": "ಐಸ್‍ಲ್ಯಾಂಡ್",
+          "name:ko": "아이슬란드",
+          "name:ku": "Îslenda",
+          "name:kv": "Исландия",
+          "name:kw": "Island",
+          "name:ky": "Исландия",
+          "name:la": "Islandia",
+          "name:lb": "Island",
+          "name:lg": "Isilandi",
+          "name:li": "Iesland",
+          "name:ln": "Islandi",
+          "name:lo": "ອິດສະລັງ",
+          "name:lt": "Islandija",
+          "name:lv": "Islande",
+          "name:mi": "Tiorangi",
+          "name:mk": "Исланд",
+          "name:ml": "ഐസ്‌ലാന്റ്",
+          "name:mn": "Исланд",
+          "name:mr": "आइसलँड",
+          "name:ms": "Iceland",
+          "name:mt": "Iżlanda",
+          "name:my": "အိုက်စလန်နိုင်ငံ",
+          "name:na": "Aiterand",
+          "name:ne": "आइसल्याण्ड",
+          "name:nl": "IJsland",
+          "name:nn": "Island",
+          "name:no": "Island",
+          "name:nv": "Tin Bikéyah",
+          "name:oc": "Islàndia",
+          "name:or": "ଆଇସଲ୍ୟାଣ୍ଡ",
+          "name:os": "Исланди",
+          "name:pa": "ਆਈਸਲੈਂਡ",
+          "name:pl": "Islandia",
+          "name:ps": "آيسلېنډ",
+          "name:pt": "Islândia",
+          "name:qu": "Islandya",
+          "name:rm": "Islanda",
+          "name:ro": "Islanda",
+          "name:ru": "Исландия",
+          "name:rw": "Isilande",
+          "name:sa": "आइसलैंड",
+          "name:sc": "Islanda",
+          "name:se": "Islánda",
+          "name:sg": "Islânde",
+          "name:sh": "Island",
+          "name:si": "අයිස්ලන්තය",
+          "name:sk": "Island",
+          "name:sl": "Islandija",
+          "name:sm": "Aiselani",
+          "name:so": "Island",
+          "name:sq": "Islanda",
+          "name:sr": "Исланд",
+          "name:ss": "Echweni",
+          "name:st": "Iceland",
+          "name:su": "Islandia",
+          "name:sv": "Island",
+          "name:sw": "Iceland",
+          "name:ta": "ஐசுலாந்து",
+          "name:te": "ఐస్‌లాండ్",
+          "name:tg": "Исландия",
+          "name:th": "ประเทศไอซ์แลนด์",
+          "name:tk": "Islandiýa",
+          "name:tl": "Lupangyelo",
+          "name:tr": "İzlanda",
+          "name:tt": "Исландия",
+          "name:ug": "ئىسلاندىيە",
+          "name:uk": "Ісландія",
+          "name:ur": "آئس لینڈ",
+          "name:uz": "Islandiya",
+          "name:vi": "Iceland",
+          "name:vo": "Lisladeän",
+          "name:wa": "Izlande",
+          "name:wo": "Islaand",
+          "name:yi": "איסלאנד",
+          "name:yo": "Íslándì",
+          "name:zh": "冰岛 / 冰島",
+          "name:zu": "I-Ayisilandi",
+          "boundary": "administrative",
+          "int_name": "Iceland",
+          "name:ace": "Islandia",
+          "name:als": "Island",
+          "name:ang": "Īsland",
+          "name:arz": "ايسلاندا",
+          "name:ast": "Islandia",
+          "name:bar": "Island",
+          "name:bcl": "Islanda",
+          "name:bpy": "আইসল্যান্ড",
+          "name:bxr": "Исланд",
+          "name:ceb": "Islandya",
+          "name:chr": "ᎤᏁᏍᏓᎶᎢ",
+          "name:ckb": "ئایسلەند",
+          "name:crh": "İslandiya",
+          "name:csb": "Islandëjô",
+          "name:diq": "İslanda",
+          "name:dsb": "Islandska",
+          "name:eml": "Islanda",
+          "name:ext": "Islándia",
+          "name:frp": "Islande",
+          "name:frr": "Islönj",
+          "name:fur": "Islande",
+          "name:gag": "İslandiya",
+          "name:hak": "Pên-tó",
+          "name:haw": "ʻĀina Hau",
+          "name:hif": "Iceland",
+          "name:hsb": "Islandska",
+          "name:ilo": "Islandia",
+          "name:jbo": "island",
+          "name:kaa": "İslandiya",
+          "name:kab": "Island",
+          "name:kbd": "Ислэнд",
+          "name:koi": "Исланд",
+          "name:krc": "Исландия",
+          "name:lad": "Islandia",
+          "name:lez": "Исландия",
+          "name:lij": "Islanda",
+          "name:lmo": "Islanda",
+          "name:ltg": "Īslandeja",
+          "name:lzh": "冰島",
+          "name:mdf": "Исланда",
+          "name:mhr": "Исландий",
+          "name:mwl": "Eislándia",
+          "name:nah": "Iztlālpan",
+          "name:nan": "Peng-tó",
+          "name:nds": "Iesland",
+          "name:nov": "Islande",
+          "name:nrm": "Islaunde",
+          "name:pam": "Islandya",
+          "name:pcd": "Islinde",
+          "name:pih": "Iseland",
+          "name:pms": "Islanda",
+          "name:pnb": "آئس لینڈ",
+          "name:pnt": "Ισλανδία",
+          "name:rue": "Ісланд",
+          "name:sah": "Исландия",
+          "name:scn": "Islandia",
+          "name:sco": "Iceland",
+          "name:smn": "Island",
+          "name:sms": "Islantt",
+          "name:stq": "Ieslound",
+          "name:szl": "Islandyjŏ",
+          "name:tet": "Izlándia",
+          "name:tok": "ma Isilan",
+          "name:tpi": "Aislan",
+          "name:tzl": "Ispäts",
+          "name:udm": "Исландия",
+          "name:vec": "Islanda",
+          "name:vep": "Islandii",
+          "name:vls": "Ysland",
+          "name:vro": "Island",
+          "name:war": "Islandya",
+          "name:wuu": "冰岛",
+          "name:xal": "Ислгудин Орн",
+          "name:xmf": "ისლანდია",
+          "name:yue": "冰島",
+          "name:zea": "Iesland",
+          "timezone": "Atlantic/Reykjavik",
+          "way_area": "33.7404",
+          "wikidata": "Q189",
+          "ISO3166-1": "IS",
+          "wikipedia": "is:Ísland",
+          "population": "320000",
+          "admin_level": "2",
+          "name:nds-nl": "Ieslaand",
+          "name:bat-smg": "Islandėjė",
+          "name:roa-rup": "Islanda",
+          "name:zh-Hans": "冰岛",
+          "name:zh-Hant": "冰島",
+          "name:roa-tara": "Islanne",
+          "official_name": "Lýðveldið Ísland",
+          "name:be-tarask": "Ісьляндыя",
+          "ISO3166-1:alpha2": "IS",
+          "ISO3166-1:alpha3": "ISL",
+          "default_language": "is",
+          "official_name:cs": "Islandská republika",
+          "official_name:de": "Republik Island",
+          "official_name:en": "Republic of Iceland",
+          "official_name:eo": "Islanda Respubliko",
+          "official_name:fi": "Islannin tasavalta",
+          "official_name:fr": "République d'Islande",
+          "official_name:is": "Lýðveldið Ísland",
+          "official_name:pt": "República da Islândia",
+          "official_name:sv": "Republiken Island",
+          "ISO3166-1:numeric": "352"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -19,
+              67
+            ],
+            [
+              -18.3355053,
+              67
+            ],
+            [
+              -18.3136326,
+              67.008
+            ],
+            [
+              -18.2963177,
+              67.015
+            ],
+            [
+              -18.2805686,
+              67.022
+            ],
+            [
+              -18.2642577,
+              67.03
+            ],
+            [
+              -18.2495507,
+              67.038
+            ],
+            [
+              -18.2362873,
+              67.046
+            ],
+            [
+              -18.2301564,
+              67.05
+            ],
+            [
+              -18.2229351,
+              67.055
+            ],
+            [
+              -18.2123505,
+              67.063
+            ],
+            [
+              -18.2074843,
+              67.067
+            ],
+            [
+              -18.2006931,
+              67.073
+            ],
+            [
+              -18.1925479,
+              67.081
+            ],
+            [
+              -18.1888506,
+              67.085
+            ],
+            [
+              -18.1837581,
+              67.091
+            ],
+            [
+              -18.1806583,
+              67.095
+            ],
+            [
+              -18.1764406,
+              67.101
+            ],
+            [
+              -18.1739112,
+              67.105
+            ],
+            [
+              -18.1705328,
+              67.111
+            ],
+            [
+              -18.1685534,
+              67.115
+            ],
+            [
+              -18.1659874,
+              67.121
+            ],
+            [
+              -18.1645425,
+              67.125
+            ],
+            [
+              -18.1627697,
+              67.131
+            ],
+            [
+              -18.1618488,
+              67.135
+            ],
+            [
+              -18.1608564,
+              67.141
+            ],
+            [
+              -18.1604531,
+              67.145
+            ],
+            [
+              -18.1602346,
+              67.151
+            ],
+            [
+              -18.1604797,
+              67.157
+            ],
+            [
+              -18.1609012,
+              67.161
+            ],
+            [
+              -18.1619219,
+              67.167
+            ],
+            [
+              -18.1628628,
+              67.171
+            ],
+            [
+              -18.1646678,
+              67.177
+            ],
+            [
+              -18.166136,
+              67.181
+            ],
+            [
+              -18.1697167,
+              67.189
+            ],
+            [
+              -18.1718342,
+              67.193
+            ],
+            [
+              -18.175352,
+              67.199
+            ],
+            [
+              -18.179284,
+              67.205
+            ],
+            [
+              -18.1821927,
+              67.209
+            ],
+            [
+              -18.1869974,
+              67.215
+            ],
+            [
+              -18.1905018,
+              67.219
+            ],
+            [
+              -18.1982584,
+              67.227
+            ],
+            [
+              -18.2047549,
+              67.233
+            ],
+            [
+              -18.2094229,
+              67.237
+            ],
+            [
+              -18.2196052,
+              67.245
+            ],
+            [
+              -18.2265704,
+              67.25
+            ],
+            [
+              -18.2324931,
+              67.254
+            ],
+            [
+              -18.2453294,
+              67.262
+            ],
+            [
+              -18.2595905,
+              67.27
+            ],
+            [
+              -18.2754294,
+              67.278
+            ],
+            [
+              -18.2907359,
+              67.285
+            ],
+            [
+              -18.3075697,
+              67.292
+            ],
+            [
+              -18.3261516,
+              67.299
+            ],
+            [
+              -18.3436922,
+              67.305
+            ],
+            [
+              -18.366161,
+              67.312
+            ],
+            [
+              -18.3875549,
+              67.318
+            ],
+            [
+              -18.4073432,
+              67.323
+            ],
+            [
+              -18.4293622,
+              67.328
+            ],
+            [
+              -18.4542647,
+              67.333
+            ],
+            [
+              -18.4769718,
+              67.337
+            ],
+            [
+              -18.5031798,
+              67.341
+            ],
+            [
+              -18.5261993,
+              67.344
+            ],
+            [
+              -18.5538287,
+              67.347
+            ],
+            [
+              -18.5765984,
+              67.349
+            ],
+            [
+              -18.606472,
+              67.351
+            ],
+            [
+              -18.6276568,
+              67.352
+            ],
+            [
+              -18.6731855,
+              67.353
+            ],
+            [
+              -18.6878638,
+              67.353
+            ],
+            [
+              -18.7333925,
+              67.352
+            ],
+            [
+              -18.7545773,
+              67.351
+            ],
+            [
+              -18.770808,
+              67.35
+            ],
+            [
+              -18.7964298,
+              67.348
+            ],
+            [
+              -18.8262736,
+              67.345
+            ],
+            [
+              -18.8505847,
+              67.342
+            ],
+            [
+              -18.871497,
+              67.339
+            ],
+            [
+              -18.8957951,
+              67.335
+            ],
+            [
+              -18.92212,
+              67.33
+            ],
+            [
+              -18.9451962,
+              67.325
+            ],
+            [
+              -18.9658157,
+              67.32
+            ],
+            [
+              -18.9880112,
+              67.314
+            ],
+            [
+              -19,
+              67.31039420127124
+            ],
+            [
+              -19,
+              67
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1616 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192830,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cameroon",
+        "local_name": "Cameroun",
+        "name_en": "Cameroon",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+          "name": "Cameroun",
+          "name:af": "Kameroen",
+          "name:am": "ካሜሩን",
+          "name:an": "Camerún",
+          "name:ar": "الكاميرون",
+          "name:az": "Kamerun",
+          "name:ba": "Камерун",
+          "name:be": "Камерун",
+          "name:bg": "Камерун",
+          "name:bm": "Kamerun",
+          "name:bn": "ক্যামেরুন",
+          "name:bo": "ཁམ་མུ་རོན།",
+          "name:br": "Kameroun",
+          "name:bs": "Kamerun",
+          "name:ca": "Camerun",
+          "name:cs": "Kamerun",
+          "name:cv": "Камерун",
+          "name:cy": "Camerŵn",
+          "name:da": "Cameroun",
+          "name:de": "Kamerun",
+          "name:dv": "ކެމަރޫން",
+          "name:ee": "Cameroon",
+          "name:el": "Καμερούν",
+          "name:en": "Cameroon",
+          "name:eo": "Kameruno",
+          "name:es": "Camerún",
+          "name:et": "Kamerun",
+          "name:eu": "Kamerun",
+          "name:fa": "کامرون",
+          "name:ff": "Kamerun",
+          "name:fi": "Kamerun",
+          "name:fo": "Kamerun",
+          "name:fr": "Cameroun",
+          "name:fy": "Kameroen",
+          "name:ga": "Camarún",
+          "name:gd": "Camarun",
+          "name:gl": "Camerún",
+          "name:gn": "Kamerũ",
+          "name:gv": "Cameroon",
+          "name:ha": "Kameru",
+          "name:he": "קמרון",
+          "name:hi": "कैमरुन",
+          "name:hr": "Kamerun",
+          "name:ht": "Kamewoun",
+          "name:hu": "Kamerun",
+          "name:hy": "Կամերուն",
+          "name:ia": "Camerun",
+          "name:id": "Kamerun",
+          "name:ie": "Cameroon",
+          "name:ig": "Kameroon",
+          "name:io": "Kamerun",
+          "name:is": "Kamerún",
+          "name:it": "Camerun",
+          "name:ja": "カメルーン",
+          "name:jv": "Kamerun",
+          "name:ka": "კამერუნი",
+          "name:kg": "Kamerun",
+          "name:ki": "Cameroon",
+          "name:kk": "Камерун",
+          "name:kn": "ಕ್ಯಾಮರೂನ್",
+          "name:ko": "카메룬",
+          "name:ks": "کیٚمِروٗن",
+          "name:ku": "Kamerûn",
+          "name:kw": "Kameroun",
+          "name:la": "Cameronia",
+          "name:lb": "Kamerun",
+          "name:li": "Kameroen",
+          "name:ln": "Kamerun",
+          "name:lt": "Kamerūnas",
+          "name:lv": "Kamerūna",
+          "name:mi": "Kamarūna",
+          "name:mk": "Камерун",
+          "name:ml": "കാമറൂൺ",
+          "name:mn": "Камерун",
+          "name:mr": "कामेरून",
+          "name:ms": "Cameroon",
+          "name:mt": "Kamerun",
+          "name:my": "ကင်မရွန်းနိုင်ငံ",
+          "name:na": "Kamerun",
+          "name:ne": "क्यामेरून",
+          "name:nl": "Kameroen",
+          "name:nn": "Kamerun",
+          "name:no": "Kamerun",
+          "name:nv": "Táłtłʼááh Chʼosh Daadánígíí Bitooh",
+          "name:oc": "Cameron",
+          "name:or": "କାମେରୁନ",
+          "name:os": "Камерун",
+          "name:pa": "ਕੈਮਰੂਨ",
+          "name:pl": "Kamerun",
+          "name:ps": "کامرون",
+          "name:pt": "Camarões",
+          "name:qu": "Kamirun",
+          "name:rm": "Camerun",
+          "name:ro": "Camerun",
+          "name:ru": "Камерун",
+          "name:rw": "Kameruni",
+          "name:sa": "केमेरून",
+          "name:sc": "Camerùn",
+          "name:se": "Kamerun",
+          "name:sg": "Kamerün",
+          "name:sh": "Kamerun",
+          "name:sk": "Kamerun",
+          "name:sl": "Kamerun",
+          "name:sn": "Cameroon",
+          "name:so": "Kamiruun",
+          "name:sq": "Kameruni",
+          "name:sr": "Камерун",
+          "name:ss": "IKhameruni",
+          "name:su": "Kamerun",
+          "name:sv": "Kamerun",
+          "name:sw": "Kamerun",
+          "name:ta": "கமரூன்",
+          "name:te": "కామెరూన్",
+          "name:tg": "Камерун",
+          "name:th": "ประเทศแคเมอรูน",
+          "name:tk": "Kamerun",
+          "name:tl": "Kamerun",
+          "name:tr": "Kamerun",
+          "name:ts": "Cameroon",
+          "name:tt": "Камерун",
+          "name:ug": "كامېرۇن",
+          "name:uk": "Камерун",
+          "name:ur": "کیمرون",
+          "name:uz": "Kamerun",
+          "name:vi": "Cameroon",
+          "name:vo": "Kamerunän",
+          "name:wo": "Kamerun",
+          "name:yi": "קאמערון",
+          "name:yo": "Kamẹrúùn",
+          "name:zh": "喀麦隆 / 喀麥隆",
+          "name:zu": "IKamerooni",
+          "boundary": "administrative",
+          "currency": "XAF",
+          "name:als": "Kamerun",
+          "name:ang": "Camerun",
+          "name:arc": "ܩܐܡܪܘܢ",
+          "name:arz": "الكاميرون",
+          "name:ast": "Camerún",
+          "name:azb": "کامرون",
+          "name:bar": "Kamerun",
+          "name:bcl": "Kameron",
+          "name:bjn": "Kamerun",
+          "name:bpy": "ক্যামেরুন",
+          "name:bxr": "Камерун",
+          "name:ceb": "Kamerun",
+          "name:ckb": "کامیروون",
+          "name:crh": "Kamerun",
+          "name:din": "Kameröön",
+          "name:diq": "Kamerun",
+          "name:dsb": "Kamerun",
+          "name:ext": "Camerún",
+          "name:frp": "Cameron",
+          "name:gag": "Kamerun",
+          "name:grc": "Καμεροῦνον",
+          "name:hif": "Cameroon",
+          "name:hsb": "Kamerun",
+          "name:ilo": "Kamerun",
+          "name:jbo": "kamerun",
+          "name:kaa": "Kamerun",
+          "name:kab": "Kamirun",
+          "name:lad": "Kamerun",
+          "name:lij": "Camerun",
+          "name:lmo": "Camerun",
+          "name:min": "Kamerun",
+          "name:mrj": "Камерун",
+          "name:mzn": "کامرون",
+          "name:nah": "Camerun",
+          "name:nan": "Cameroon",
+          "name:nds": "Kamerun",
+          "name:new": "क्यामेरून",
+          "name:nov": "Kamerun",
+          "name:nso": "Cameroon",
+          "name:pam": "Cameroon",
+          "name:pih": "Cameroon",
+          "name:pms": "Cameron",
+          "name:pnb": "کیمرون",
+          "name:pnt": "Καμερούν",
+          "name:sah": "Камерун",
+          "name:scn": "Camerun",
+          "name:sco": "Cameroon",
+          "name:smn": "Kamerun",
+          "name:sms": "Kameruun",
+          "name:stq": "Kamerun",
+          "name:syc": "ܩܐܡܪܘܢ",
+          "name:szl": "Kamerun",
+          "name:tzl": "Camerun",
+          "name:vec": "Camerun",
+          "name:vep": "Kamerun",
+          "name:vro": "Kamõrun",
+          "name:war": "Camerun",
+          "name:wuu": "喀麦隆",
+          "name:xal": "Камерудин Орн",
+          "name:yue": "喀麥隆",
+          "timezone": "Africa/Douala",
+          "way_area": "38.7059",
+          "wikidata": "Q1009",
+          "ISO3166-1": "CM",
+          "wikipedia": "fr:Cameroun",
+          "admin_level": "2",
+          "name:simple": "Cameroon",
+          "name:bat-smg": "Kamerūns",
+          "name:roa-rup": "Camerun",
+          "name:zh-Hans": "喀麦隆",
+          "name:zh-Hant": "喀麥隆",
+          "official_name": "République du Cameroun",
+          "name:be-tarask": "Камэрун",
+          "ISO3166-1:alpha2": "CM",
+          "ISO3166-1:alpha3": "CMR",
+          "official_name:ar": "جمهورية الكاميرون",
+          "official_name:cs": "Kamerunská republika",
+          "official_name:de": "Republik Kamerun",
+          "official_name:es": "República de Camerún",
+          "official_name:fa": "جمهوری کامرون",
+          "official_name:fr": "République du Cameroun",
+          "official_name:gn": "Kamerũ Tavakuairetã",
+          "official_name:pt": "República dos Camarões",
+          "official_name:sr": "Република Камерун",
+          "official_name:ur": "جمہوریہ کیمرون",
+          "ISO3166-1:numeric": "120",
+          "official_name:azb": "کامرون جومهوریتی",
+          "official_name:ckb": "کۆماری کامیروون",
+          "official_name:din": "Paankɔc Kameröön"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.802119558032699,
+              4
+            ],
+            [
+              8.80392,
+              3.9963138
+            ],
+            [
+              8.8194403,
+              3.9735704
+            ],
+            [
+              8.8313462,
+              3.9604468
+            ],
+            [
+              8.8817286,
+              3.9461762
+            ],
+            [
+              8.8929028,
+              3.9419027
+            ],
+            [
+              8.9319096,
+              3.9252751
+            ],
+            [
+              8.967267,
+              3.9114999
+            ],
+            [
+              8.9832547,
+              3.9059364
+            ],
+            [
+              9,
+              3.8932045803390847
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              8.802119558032699,
+              4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192791,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Equatorial Guinea",
+        "local_name": "Guinea Ecuatorial",
+        "name_en": "Equatorial Guinea",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+          "name": "Guinea Ecuatorial",
+          "name:af": "Ekwatoriaal-Guinee",
+          "name:ak": "Gini Ikuweta",
+          "name:am": "ኢኳቶሪያል ጊኔ",
+          "name:an": "Guinea Equatorial",
+          "name:ar": "غينيا الاستوائية",
+          "name:az": "Ekvatorial Qvineya",
+          "name:ba": "Экватор Гвинеяһы",
+          "name:be": "Экватарыяльная Гвінея",
+          "name:bg": "Екваториална Гвинея",
+          "name:bh": "भूमध्यरेखीय गिनी",
+          "name:bm": "Cɛmajan Gine",
+          "name:bn": "বিষুবীয় গিনি",
+          "name:bo": "ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།",
+          "name:br": "Ginea ar C'heheder",
+          "name:bs": "Ekvatorijalna Gvineja",
+          "name:ca": "Guinea Equatorial",
+          "name:ce": "Дуьнена асанан Гвине",
+          "name:co": "Guinea Equatoriale",
+          "name:cs": "Rovníková Guinea",
+          "name:cv": "Экваториаллă Гвиней",
+          "name:cy": "Gini Gyhydeddol",
+          "name:da": "Ækvatorialguinea",
+          "name:de": "Äquatorialguinea",
+          "name:dv": "އިކުއެޓޯރިއަލް ގިނީ",
+          "name:dz": "ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི",
+          "name:ee": "Gini Ekwatoria",
+          "name:el": "Ισημερινή Γουινέα",
+          "name:en": "Equatorial Guinea",
+          "name:eo": "Ekvatora Gvineo",
+          "name:es": "Guinea Ecuatorial",
+          "name:et": "Ekvatoriaal-Guinea",
+          "name:eu": "Ekuatore Ginea",
+          "name:fa": "گینه استوایی",
+          "name:ff": "Gine Ekwatoriyal",
+          "name:fi": "Päiväntasaajan Guinea",
+          "name:fo": "Ekvatorguinea",
+          "name:fr": "Guinée équatoriale",
+          "name:fy": "Ekwatoriaal-Guinee",
+          "name:ga": "an Ghuine Mheánchriosach",
+          "name:gd": "Gini Mheadhan-Chriosach",
+          "name:gl": "Guinea Ecuatorial",
+          "name:gn": "Ginéa Ekuatogua",
+          "name:gu": "ઇક્વેટોરિયલ ગિની",
+          "name:gv": "Guinea Chryss ny Cruinney",
+          "name:ha": "Gini Ikwatoriya",
+          "name:he": "גינאה המשוונית",
+          "name:hi": "भूमध्यरेखीय गिनी",
+          "name:hr": "Ekvatorska Gvineja",
+          "name:ht": "Gine ekwateryal",
+          "name:hu": "Egyenlítői-Guinea",
+          "name:hy": "Հասարակածային Գվինեա",
+          "name:ia": "Guinea Equatorial",
+          "name:id": "Guinea Khatulistiwa",
+          "name:ie": "Equatorial Guinéa",
+          "name:ig": "Equatorial Guinea",
+          "name:io": "Equatorala Guinea",
+          "name:is": "Miðbaugs-Gínea",
+          "name:it": "Guinea Equatoriale",
+          "name:ja": "赤道ギニア",
+          "name:jv": "Guinea Khatulistiwa",
+          "name:ka": "ეკვატორული გვინეა",
+          "name:kg": "Ginea ya Ekwatelo",
+          "name:ki": "Ginekweta",
+          "name:kk": "Экваторлық Гвинея",
+          "name:km": "ហ្គីណេអេក្វាទ័រ",
+          "name:kn": "ವಿಷುವದ್ರೇಖೆಯ ಗಿನಿ",
+          "name:ko": "적도 기니",
+          "name:ks": "اِکوِٹورِیَل گِنی",
+          "name:ku": "Gîneya Rojbendî",
+          "name:kw": "Gyni Ekwadoriel",
+          "name:la": "Guinea Aequatorensis",
+          "name:lb": "Equatorialguinea",
+          "name:lg": "Equatorial Guinea",
+          "name:li": "Equatoriaal Guinee",
+          "name:ln": "Gine-Ekwatorial",
+          "name:lo": "ອີຄົວໂທເລຍກີເນຍ",
+          "name:lt": "Pusiaujo Gvinėja",
+          "name:lv": "Ekvatoriālā Gvineja",
+          "name:mg": "Ginea Ekoatorialy",
+          "name:mi": "Kini Ekuatoria",
+          "name:mk": "Екваторска Гвинеја",
+          "name:ml": "ഇക്വറ്റോറിയൽ ഗിനി",
+          "name:mr": "इक्वेटोरीयल गिनी",
+          "name:ms": "Guinea Khatulistiwa",
+          "name:mt": "Gwinea Ekwatorjali",
+          "name:my": "အီကွေတာဂီနီနိုင်ငံ",
+          "name:na": "Gini t Ekwador",
+          "name:nb": "Ekvatorial-Guinea",
+          "name:ne": "इक्वेटोरियल गिनी",
+          "name:nl": "Equatoriaal Guinee",
+          "name:nn": "Ekvatorial-Guinea",
+          "name:no": "Ekvatorial-Guinea",
+          "name:nv": "Gíní Nahasdzáán Ałníiʼgi Siʼánígíí",
+          "name:oc": "Guinèa Eqüatoriala",
+          "name:om": "Iqu’aatoriyaal Giinii",
+          "name:or": "ବିଷୁବରେଖୀୟ ଗିନି",
+          "name:os": "Экваториалон Гвиней",
+          "name:pa": "ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ",
+          "name:pl": "Gwinea Równikowa",
+          "name:ps": "اېکواټوريال ګوينا",
+          "name:pt": "Guiné Equatorial",
+          "name:qu": "Chawpipacha Khiniya",
+          "name:rm": "Guinea Equatoriala",
+          "name:ro": "Guineea Ecuatorială",
+          "name:ru": "Экваториальная Гвинея",
+          "name:rw": "Gineya Ekwatoriyale",
+          "name:sc": "Guinea Ecuadoriale",
+          "name:se": "Ekvatoriála Guinea",
+          "name:sg": "Ginëe tî Ekuatëre",
+          "name:sh": "Ekvatorijalna Gvineja",
+          "name:si": "සමක ගිනියාව",
+          "name:sk": "Rovníková Guinea",
+          "name:sl": "Ekvatorialna Gvineja",
+          "name:sm": "Kini Ekuatoria",
+          "name:sn": "Equatorial Guinea",
+          "name:so": "Ikweetiga Guinea",
+          "name:sq": "Guinea Ekuatoriale",
+          "name:sr": "Екваторијална Гвинеја",
+          "name:st": "Equatorial Guinea",
+          "name:su": "Guinéa Khatulistiwa",
+          "name:sv": "Ekvatorialguinea",
+          "name:sw": "Guinea ya Ikweta",
+          "name:ta": "எக்குவடோரியல் கினி",
+          "name:te": "ఎక్వేటోరియాల్ గినియా",
+          "name:tg": "Гвинеяи Истивоӣ",
+          "name:th": "อิเควทอเรียลกินี",
+          "name:ti": "ኢኳቶሪያል ጊኒ",
+          "name:tk": "Ekwatorial Gwineýa",
+          "name:tl": "Gineang Ekwatoriyal",
+          "name:to": "ʻEkueta Kini",
+          "name:tr": "Ekvator Ginesi",
+          "name:ts": "Gineya ya le Nkaveni",
+          "name:tt": "Экваториа́ль Гвине́я",
+          "name:ug": "ئېكۋاتور گۋىنېيىسى",
+          "name:uk": "Екваторіа́льна Ґвіне́я",
+          "name:ur": "استوائی گنی",
+          "name:uz": "Ekvatorli Gvineya",
+          "name:vi": "Guinea Xích Đạo",
+          "name:vo": "Kveatora-Gineyän",
+          "name:wo": "Gineg yamoo",
+          "name:yi": "עקוואטארישע גינע",
+          "name:yo": "Guinea Alágedeméjì",
+          "name:zh": "赤道几内亚 / 赤道幾內亞",
+          "name:zu": "iGini Enkabazwe",
+          "boundary": "administrative",
+          "name:als": "Equatorialginea",
+          "name:arz": "جينيا الاستوائيه",
+          "name:ast": "Guinea Ecuatorial",
+          "name:bar": "Equatorialguinea",
+          "name:bcl": "Guineyang Ekwatoryal",
+          "name:bjn": "Guinea Katulistiwa",
+          "name:bpy": "একুয়াটরিয়াল গায়ানা",
+          "name:bxr": "Экваторын Гвиней",
+          "name:cdo": "Chiáh-dô̤ Guinea",
+          "name:ceb": "Gineang Ekwatoryal",
+          "name:ckb": "گینێی ئیستوایی",
+          "name:crh": "Ekvatorial Gvineya",
+          "name:diq": "Gineya Ekwatori",
+          "name:dsb": "Ekwatorialna Guineja",
+          "name:dty": "इक्वेटोरियल गिनिया",
+          "name:ext": "Guinea Equatorial",
+          "name:frp": "Guinê èquatoriâla",
+          "name:frr": "Ekwatoriaal-Guinea",
+          "name:gag": "Ekvatorial Gvineya",
+          "name:hak": "Chhak-tho Guinea",
+          "name:hif": "Equatorial Guinea",
+          "name:hsb": "Ekwatorialna Gineja",
+          "name:ilo": "Guinea Ekuatorial",
+          "name:jam": "Ekuatuorial Gini",
+          "name:jbo": "guineas. zei brazbani",
+          "name:kaa": "Ekvatorial Gvineya",
+          "name:kab": "Ginya Tasebgast",
+          "name:kbp": "Kinee-Ekwatoriyaaalɩ",
+          "name:ksh": "Äquatorial Jineeja",
+          "name:lad": "Ginea Ekvatoriala",
+          "name:lez": "Экваториал Гвинея",
+          "name:lij": "Guinea Equatoriâ",
+          "name:lmo": "Guinea Equaturiala",
+          "name:lrc": "گینە ئوستوڤایی",
+          "name:lzh": "赤道幾內亞",
+          "name:min": "Guinea Khatulistiwa",
+          "name:mrj": "Экваториаль Гвиней",
+          "name:mzn": "استوایی گینه",
+          "name:nah": "Guinea Tlahcotlālticpac",
+          "name:nan": "Chhiah-tō Guinea",
+          "name:nds": "Äquatoriaal-Guinea",
+          "name:new": "इक्वेटोरियल गिनी",
+          "name:nov": "Equatoral Gini",
+          "name:nso": "Equatorial Guinea",
+          "name:olo": "Ekvuatourielline Gvinei",
+          "name:pam": "Equatorial Guinea",
+          "name:pih": "Ekwatoryal Gini",
+          "name:pms": "Guinea Equatorial",
+          "name:pnb": "استوائی گنی",
+          "name:sah": "Экуатор Гуинеята",
+          "name:scn": "Guinia Ecuaturiali",
+          "name:sco": "Equatorial Guinea",
+          "name:smn": "Peeivitäsideijee Guinea",
+          "name:sms": "Peiʹvvtaʹssjeei Guinea",
+          "name:stq": "Äquatorioal Guinea",
+          "name:szl": "Růwńikowo Gwinyjo",
+          "name:tok": "ma Kinejekatolija",
+          "name:vec": "Guinea Equatorial",
+          "name:vep": "Ekvatorialine Gvinei",
+          "name:vls": "Equatorioal-Guinea",
+          "name:vro": "Ekvatoriaal-Ginea",
+          "name:war": "Guinea Ecuatorial",
+          "name:wuu": "赤道幾內亞",
+          "name:xal": "Экватор Гвинемудин Орн",
+          "name:xmf": "ეკვატორული გვინეა",
+          "name:yue": "赤道畿內亞",
+          "name:zea": "Equatoriaol Hunea",
+          "timezone": "Africa/Malabo",
+          "way_area": "3.23097",
+          "wikidata": "Q983",
+          "ISO3166-1": "GQ",
+          "wikipedia": "es:Guinea Ecuatorial",
+          "admin_level": "2",
+          "alt_name:fr": "Guinée-Équatoriale",
+          "alt_name:ga": "an Ghuine Mheánchiorclach",
+          "alt_name:gd": "Guinea a’ Chrios Mheadhain;Gini Mheadhan-chearcallach",
+          "alt_name:ha": "Ginen Ekweita",
+          "alt_name:hr": "Ekvatorijalna Gvineja",
+          "alt_name:se": "Ekvatoriála Guinea",
+          "alt_name:su": "Guinéa Ékuator",
+          "name:bat-smg": "Ekvatuorė Gvinėjė",
+          "name:zh-Hans": "赤道几内亚",
+          "name:zh-Hant": "赤道幾內亞",
+          "official_name": "República de Guinea Ecuatorial",
+          "name:be-tarask": "Экватарыя́льная Гвінэ́я",
+          "name:zh_pinyin": "Chìdào Jīnèiyà",
+          "ISO3166-1:alpha2": "GQ",
+          "ISO3166-1:alpha3": "GNQ",
+          "official_name:af": "Republiek Ekwatoriaal-Guinee",
+          "official_name:am": "የኢኳቶሪያል ጊኔ ሪፐብሊከ",
+          "official_name:an": "República de Guinea Ecuatorial",
+          "official_name:ar": "جمهورية غينيا الاستوائية",
+          "official_name:az": "Ekvatorial Qvineya Respublikası",
+          "official_name:ba": "Экватор Гвинеяһы Республикаһы",
+          "official_name:be": "Рэспубліка Экватарыяльная Гвінея",
+          "official_name:bh": "Република Екваториална Гвинея",
+          "official_name:bm": "Cɛmajan Gine ka fasojamana",
+          "official_name:bn": "বিষুবীয় গিনির প্রজাতন্ত্র",
+          "official_name:br": "Republik Ginea ar C'heheder",
+          "official_name:bs": "Republika Ekvatorijalna Gvineja",
+          "official_name:ca": "República Guinea Equatorial",
+          "official_name:cs": "Republika Rovníková Guinea",
+          "official_name:cy": "Gweriniaeth Gini Gyhydeddol",
+          "official_name:da": "Republikken Ækvatorialguinea",
+          "official_name:de": "Republik Äquatorialguinea",
+          "official_name:el": "Δημοκρατία της Ισημερινής Γουινέας",
+          "official_name:en": "Republic of Equatorial Guinea",
+          "official_name:eo": "Ekvatorgvinea Respubliko",
+          "official_name:es": "República de Guinea Ecuatorial",
+          "official_name:et": "Ekvatoriaal-Guinea Vabariik",
+          "official_name:eu": "Ekuatore Gineako Errepublika",
+          "official_name:fa": "جمهوری گینه استوایی",
+          "official_name:fi": "Päiväntasaajan Guinean tasavalta",
+          "official_name:fo": "Lýðveldið Ekvatorguinea",
+          "official_name:fr": "République de Guinée équatoriale",
+          "official_name:fy": "Republyk Ekwatoriaal-Guinee",
+          "official_name:gl": "República da Guinea Ecuatorial",
+          "official_name:gn": "Tavakuairetã Ginéa Ekuatogua",
+          "official_name:gv": "Pobblaght Ghuinea Chryss ny Cruinney",
+          "official_name:ha": "Jamhuriyar Gini Ikwatoriya",
+          "official_name:he": "רפובליקת גינאה המשוונית",
+          "official_name:hi": "भूमध्यरेखीय गिनी गणराज्य",
+          "official_name:hr": "Republika Ekvatorska Gvineja",
+          "official_name:hu": "Egyenlítői-Guinea-i Köztársaság",
+          "official_name:ia": "Republica de Guinea Equatorial",
+          "official_name:id": "Republik Guinea Khatulistiwa",
+          "official_name:io": "Republiko Equatorala Guinea",
+          "official_name:it": "Repubblica della Guinea Equatoriale",
+          "official_name:ja": "赤道ギニア共和国",
+          "official_name:ka": "ეკვატორული გვინეის რესპუბლიკა",
+          "official_name:kg": "Repubilika ya Ginea ya Ekwatelo",
+          "official_name:kk": "Экваторлық Гвинея Республика",
+          "official_name:kn": "ವಿಷುವದ್ರೇಖೆಯ ಗಿನಿ ಗಣರಾಜ್ಯ",
+          "official_name:ko": "적도 기니 공화국",
+          "official_name:kw": "Repoblek Gyni Ekwadoriel",
+          "official_name:la": "res publica Guineae Aequinoctialis",
+          "official_name:lb": "Republik Equatorialguinea",
+          "official_name:li": "Rippubliek Equatoriaol Guinee",
+          "official_name:ln": "Republíki ya Gine-Ekwatorial",
+          "official_name:lt": "Pusiaujo Gvinėjos Respublika",
+          "official_name:lv": "Ekvatoriālās Gvinejas Republika",
+          "official_name:mi": "Whenua Tū Wehe o Kini Ekuatoria",
+          "official_name:mk": "Република Екваторска Гвинеја",
+          "official_name:ml": "റിപ്പബ്ലിക്ക് ഓഫ് ഇക്വറ്റോറിയൽ ഗിനി",
+          "official_name:mr": "इक्वेटोरीयल गिनीचे प्रजासत्ताक",
+          "official_name:ms": "Republik Guinea Khatulistiwa",
+          "official_name:my": "အီကွေတာဂီနီသမ္မတနိုင်ငံ",
+          "official_name:ne": "गणतन्त्र इक्वेटोरियल गिनी",
+          "official_name:nl": "Republiek Equatoriaal-Guinea",
+          "official_name:nn": "Republikken Ekvatorial-Guinea",
+          "official_name:no": "Republikken Ekvatorial-Guinea",
+          "official_name:oc": "Republica de Guinèa Eqüatoriala",
+          "official_name:om": "Riippabiliika Iqu’aatoriyaal Giinii",
+          "official_name:os": "Республикæ Экваториалон Гвиней",
+          "official_name:pa": "ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ ਦਾ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Gwinei Równikowej",
+          "official_name:pt": "República da Guiné Equatorial",
+          "official_name:qu": "Chawpipacha Khiniya Ripuwlika",
+          "official_name:ro": "Republica Guineea Ecuatorială",
+          "official_name:ru": "Республика Экваториальная Гвинея",
+          "official_name:sg": "Ködörösêse tî Ginëe tî Ekuatëre",
+          "official_name:sh": "Republika Ekvatorijalna Gvineja",
+          "official_name:sk": "Republika Rovníkovej Guiney",
+          "official_name:sl": "Republika Ekvatorialna Gvineja",
+          "official_name:so": "Jamhuuriyadda Ikweetiga Guinea",
+          "official_name:sq": "Republika e Guinesë Ekuatoriale",
+          "official_name:sr": "Република Екваторијална Гвинеја",
+          "official_name:su": "Républik Guinéa Khatulistiwa",
+          "official_name:sv": "Republiken Ekvatorialguinea",
+          "official_name:sw": "Jamhuri ya Guinea ya Ikweta",
+          "official_name:ta": "எக்குவடோரியல் கினி குடியரசு",
+          "official_name:th": "สาธารณรัฐอิเควทอเรียลกินี",
+          "official_name:tk": "Ekwatorial Gwineýa Respublikasy",
+          "official_name:tr": "Ekvator Ginesi Cumhuriyeti",
+          "official_name:tt": "Экваториа́ль Гвине́я Җөмһүрияте́",
+          "official_name:ug": "ئېكۋاتور گۋىنېيىسى جۇمھۇرىيىتى",
+          "official_name:uk": "Респу́бліка Екваторіа́льна Ґвіне́я",
+          "official_name:ur": "جمہوریہ استوائی گنی",
+          "official_name:uz": "Ekvator Gvineyasi Respublikasi",
+          "official_name:vi": "Cộng hòa Guinea Xích Đạo",
+          "official_name:wo": "Réewum Gineg yamoo",
+          "official_name:yi": "רעפובליק פון עקוואַטארישער גינע",
+          "official_name:yo": "Orile-ede Olominira ile Guinea Agedemejiaye",
+          "official_name:zh": "赤道几内亚共和国 / 赤道幾內亞共和國",
+          "official_name:zu": "IRiphabliki weGini Enkabazwe",
+          "ISO3166-1:numeric": "226",
+          "official_name:als": "Republik Equatorialginea",
+          "official_name:arz": "جمهورية غينيا الاستوائيه",
+          "official_name:ast": "República de Guinea Ecuatorial",
+          "official_name:bar": "Republik Equatorialguinea",
+          "official_name:bjn": "Republik Guinea Katulistiwa",
+          "official_name:bpy": "প্রজাতন্ত্রি একুয়াটরিয়াল গায়ানা",
+          "official_name:ckb": "کۆماری گینێی ئیستوایی",
+          "official_name:diq": "Cumhuriyetê Gineya Ekwatori",
+          "official_name:dsb": "Republika Ekwatorialna Guineja",
+          "official_name:frr": "Republiik Ekwatoriaal-Guinea",
+          "official_name:hif": "Republic of Equatorial Guinea",
+          "official_name:hsb": "Republika Ekwatorialna Gineja",
+          "official_name:ilo": "Republika iti Guinea Ekuatorial",
+          "official_name:jam": "Ripoblik a Ekuatuorial Gini",
+          "official_name:lad": "Repuvlika Ginea Ekvatoriala",
+          "official_name:lez": "Республика Экваториал Гвинея",
+          "official_name:lrc": "کوٙمأرە ڤولات گینە ئوستوڤایی",
+          "official_name:min": "Republik Guinea Khatulistiwa",
+          "official_name:mrj": "Экваториаль Гвиней Республика",
+          "official_name:nah": "Tlācatlahtohcāyōtl Guinea Tlahcotlālticpac",
+          "official_name:nan": "Chhiah-tō Guinea Kiōng-hô-kok",
+          "official_name:nso": "Repabliki ya Equatorial Guinea",
+          "official_name:olo": "Ekvuatouriellizen Gvinein Tazavaldu",
+          "official_name:pam": "Republic of Equatorial Guinea",
+          "official_name:sah": "Экуатор Гуинеятын Республиката",
+          "official_name:sco": "Republic o Equatorial Guinea",
+          "official_name:szl": "Republika Růwńikowyj Gwinyji",
+          "official_name:vep": "Ekvatorialižen Gvinejan Tazovaldkund",
+          "official_name:vro": "Ekvatoriaal-Ginea Vabariik",
+          "official_name:xmf": "ეკვატორული გვინეაშ რესპუბლიკა",
+          "official_name:zh-Hans": "赤道几内亚共和国",
+          "official_name:zh-Hant": "赤道幾內亞共和國",
+          "official_name:be-tarask": "Рэспу́бліка Экватарыя́льная Гвінэ́я"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.2144249,
+              3.359
+            ],
+            [
+              8.2146663,
+              3.351
+            ],
+            [
+              8.2152295,
+              3.343
+            ],
+            [
+              8.2161173,
+              3.335
+            ],
+            [
+              8.2173341,
+              3.327
+            ],
+            [
+              8.2184662,
+              3.321
+            ],
+            [
+              8.2207809,
+              3.311
+            ],
+            [
+              8.2223016,
+              3.303
+            ],
+            [
+              8.225027,
+              3.291
+            ],
+            [
+              8.2304646,
+              3.271
+            ],
+            [
+              8.2336166,
+              3.261
+            ],
+            [
+              8.2365632,
+              3.253
+            ],
+            [
+              8.2390329,
+              3.247
+            ],
+            [
+              8.2417352,
+              3.241
+            ],
+            [
+              8.2446806,
+              3.235
+            ],
+            [
+              8.2479702,
+              3.223
+            ],
+            [
+              8.2520329,
+              3.211
+            ],
+            [
+              8.2552254,
+              3.203
+            ],
+            [
+              8.2578881,
+              3.197
+            ],
+            [
+              8.2623383,
+              3.188
+            ],
+            [
+              8.2685774,
+              3.177
+            ],
+            [
+              8.2743724,
+              3.168
+            ],
+            [
+              8.2778698,
+              3.163
+            ],
+            [
+              8.285586,
+              3.153
+            ],
+            [
+              8.2898418,
+              3.148
+            ],
+            [
+              8.3009413,
+              3.136
+            ],
+            [
+              8.3060276,
+              3.131
+            ],
+            [
+              8.3103708,
+              3.127
+            ],
+            [
+              8.3149842,
+              3.123
+            ],
+            [
+              8.3238026,
+              3.116
+            ],
+            [
+              8.3292809,
+              3.112
+            ],
+            [
+              8.3379742,
+              3.106
+            ],
+            [
+              8.3491906,
+              3.099
+            ],
+            [
+              8.3598112,
+              3.093
+            ],
+            [
+              8.3657584,
+              3.09
+            ],
+            [
+              8.3745623,
+              3.086
+            ],
+            [
+              8.3794389,
+              3.084
+            ],
+            [
+              8.3905103,
+              3.08
+            ],
+            [
+              8.400516,
+              3.077
+            ],
+            [
+              8.4077772,
+              3.074
+            ],
+            [
+              8.418754,
+              3.07
+            ],
+            [
+              8.4248512,
+              3.068
+            ],
+            [
+              8.4413051,
+              3.063
+            ],
+            [
+              8.4486867,
+              3.061
+            ],
+            [
+              8.4575071,
+              3.059
+            ],
+            [
+              8.4627915,
+              3.058
+            ],
+            [
+              8.4751881,
+              3.056
+            ],
+            [
+              8.4836744,
+              3.053
+            ],
+            [
+              8.4936798,
+              3.05
+            ],
+            [
+              8.5093603,
+              3.046
+            ],
+            [
+              8.5181806,
+              3.044
+            ],
+            [
+              8.5297512,
+              3.042
+            ],
+            [
+              8.5379556,
+              3.041
+            ],
+            [
+              8.5555868,
+              3.04
+            ],
+            [
+              8.566427,
+              3.039
+            ],
+            [
+              8.5706071,
+              3.038
+            ],
+            [
+              8.5743509,
+              3.037
+            ],
+            [
+              8.5818436,
+              3.033
+            ],
+            [
+              8.5879601,
+              3.03
+            ],
+            [
+              8.5946656,
+              3.027
+            ],
+            [
+              8.6048235,
+              3.023
+            ],
+            [
+              8.6165945,
+              3.019
+            ],
+            [
+              8.6234688,
+              3.017
+            ],
+            [
+              8.6314787,
+              3.015
+            ],
+            [
+              8.6414028,
+              3.013
+            ],
+            [
+              8.6476889,
+              3.012
+            ],
+            [
+              8.6558931,
+              3.011
+            ],
+            [
+              8.6735238,
+              3.01
+            ],
+            [
+              8.6806014,
+              3.01
+            ],
+            [
+              8.698232,
+              3.011
+            ],
+            [
+              8.7064363,
+              3.012
+            ],
+            [
+              8.7127223,
+              3.013
+            ],
+            [
+              8.7226465,
+              3.015
+            ],
+            [
+              8.7342078,
+              3.018
+            ],
+            [
+              8.7464507,
+              3.022
+            ],
+            [
+              8.754216,
+              3.025
+            ],
+            [
+              8.7611511,
+              3.028
+            ],
+            [
+              8.7694305,
+              3.032
+            ],
+            [
+              8.7803099,
+              3.038
+            ],
+            [
+              8.7898155,
+              3.044
+            ],
+            [
+              8.7941606,
+              3.047
+            ],
+            [
+              8.8008986,
+              3.052
+            ],
+            [
+              8.8094337,
+              3.059
+            ],
+            [
+              8.8181256,
+              3.067
+            ],
+            [
+              8.8230696,
+              3.072
+            ],
+            [
+              8.8285687,
+              3.078
+            ],
+            [
+              8.8375186,
+              3.087
+            ],
+            [
+              8.8411839,
+              3.091
+            ],
+            [
+              8.847143,
+              3.098
+            ],
+            [
+              8.8623656,
+              3.118
+            ],
+            [
+              8.865838,
+              3.123
+            ],
+            [
+              8.8709808,
+              3.131
+            ],
+            [
+              8.8744976,
+              3.137
+            ],
+            [
+              8.8792669,
+              3.146
+            ],
+            [
+              8.8850706,
+              3.152
+            ],
+            [
+              8.8921847,
+              3.159
+            ],
+            [
+              8.8995197,
+              3.167
+            ],
+            [
+              8.919297,
+              3.191
+            ],
+            [
+              8.9231782,
+              3.196
+            ],
+            [
+              8.9295586,
+              3.205
+            ],
+            [
+              8.9341387,
+              3.212
+            ],
+            [
+              8.940081,
+              3.222
+            ],
+            [
+              8.9452731,
+              3.232
+            ],
+            [
+              8.9480551,
+              3.238
+            ],
+            [
+              8.9506012,
+              3.244
+            ],
+            [
+              8.9543458,
+              3.254
+            ],
+            [
+              8.9602828,
+              3.272
+            ],
+            [
+              8.964805,
+              3.288
+            ],
+            [
+              8.9684746,
+              3.304
+            ],
+            [
+              8.9689283,
+              3.305
+            ],
+            [
+              8.9738902,
+              3.312
+            ],
+            [
+              8.979034,
+              3.32
+            ],
+            [
+              8.9836626,
+              3.328
+            ],
+            [
+              8.9883221,
+              3.337
+            ],
+            [
+              8.9920863,
+              3.345
+            ],
+            [
+              8.9954307,
+              3.353
+            ],
+            [
+              8.9983777,
+              3.361
+            ],
+            [
+              9,
+              3.366146401040508
+            ],
+            [
+              9,
+              3.8932045803390847
+            ],
+            [
+              8.9832547,
+              3.9059364
+            ],
+            [
+              8.967267,
+              3.9114999
+            ],
+            [
+              8.9319096,
+              3.9252751
+            ],
+            [
+              8.8929028,
+              3.9419027
+            ],
+            [
+              8.8817286,
+              3.9461762
+            ],
+            [
+              8.8313462,
+              3.9604468
+            ],
+            [
+              8.8275588,
+              3.961
+            ],
+            [
+              8.8176268,
+              3.963
+            ],
+            [
+              8.8151133,
+              3.964
+            ],
+            [
+              8.8048978,
+              3.969
+            ],
+            [
+              8.7979573,
+              3.972
+            ],
+            [
+              8.7901859,
+              3.975
+            ],
+            [
+              8.7843921,
+              3.977
+            ],
+            [
+              8.7779333,
+              3.979
+            ],
+            [
+              8.7633988,
+              3.983
+            ],
+            [
+              8.7545716,
+              3.985
+            ],
+            [
+              8.7492831,
+              3.986
+            ],
+            [
+              8.7429919,
+              3.987
+            ],
+            [
+              8.7347809,
+              3.988
+            ],
+            [
+              8.7171356,
+              3.989
+            ],
+            [
+              8.7095094,
+              3.989
+            ],
+            [
+              8.6918641,
+              3.988
+            ],
+            [
+              8.6836531,
+              3.987
+            ],
+            [
+              8.6773619,
+              3.986
+            ],
+            [
+              8.6674296,
+              3.984
+            ],
+            [
+              8.658915,
+              3.982
+            ],
+            [
+              8.6515277,
+              3.98
+            ],
+            [
+              8.6450688,
+              3.978
+            ],
+            [
+              8.6392751,
+              3.976
+            ],
+            [
+              8.6339894,
+              3.974
+            ],
+            [
+              8.626798,
+              3.971
+            ],
+            [
+              8.6162774,
+              3.966
+            ],
+            [
+              8.6106342,
+              3.963
+            ],
+            [
+              8.6036182,
+              3.959
+            ],
+            [
+              8.5937317,
+              3.953
+            ],
+            [
+              8.584775,
+              3.947
+            ],
+            [
+              8.5780324,
+              3.942
+            ],
+            [
+              8.5709254,
+              3.937
+            ],
+            [
+              8.5644114,
+              3.932
+            ],
+            [
+              8.5550272,
+              3.924
+            ],
+            [
+              8.5507451,
+              3.92
+            ],
+            [
+              8.544766,
+              3.914
+            ],
+            [
+              8.5383893,
+              3.907
+            ],
+            [
+              8.5341877,
+              3.902
+            ],
+            [
+              8.5280137,
+              3.894
+            ],
+            [
+              8.5237875,
+              3.888
+            ],
+            [
+              8.5198788,
+              3.882
+            ],
+            [
+              8.5145651,
+              3.873
+            ],
+            [
+              8.5102986,
+              3.865
+            ],
+            [
+              8.5045327,
+              3.853
+            ],
+            [
+              8.4953972,
+              3.841
+            ],
+            [
+              8.4867277,
+              3.828
+            ],
+            [
+              8.4819837,
+              3.823
+            ],
+            [
+              8.4775519,
+              3.818
+            ],
+            [
+              8.4703507,
+              3.811
+            ],
+            [
+              8.4599549,
+              3.8
+            ],
+            [
+              8.4523155,
+              3.791
+            ],
+            [
+              8.4469497,
+              3.784
+            ],
+            [
+              8.4440961,
+              3.78
+            ],
+            [
+              8.4413871,
+              3.776
+            ],
+            [
+              8.4363759,
+              3.768
+            ],
+            [
+              8.4340621,
+              3.764
+            ],
+            [
+              8.4292918,
+              3.755
+            ],
+            [
+              8.4264286,
+              3.749
+            ],
+            [
+              8.4238049,
+              3.743
+            ],
+            [
+              8.4214108,
+              3.737
+            ],
+            [
+              8.4179077,
+              3.727
+            ],
+            [
+              8.414468,
+              3.715
+            ],
+            [
+              8.4116742,
+              3.703
+            ],
+            [
+              8.4105429,
+              3.697
+            ],
+            [
+              8.4096003,
+              3.691
+            ],
+            [
+              8.4082703,
+              3.679
+            ],
+            [
+              8.4077893,
+              3.671
+            ],
+            [
+              8.4076298,
+              3.663
+            ],
+            [
+              8.4072345,
+              3.662
+            ],
+            [
+              8.3987447,
+              3.659
+            ],
+            [
+              8.3889702,
+              3.655
+            ],
+            [
+              8.3804352,
+              3.651
+            ],
+            [
+              8.3710236,
+              3.646
+            ],
+            [
+              8.3543138,
+              3.636
+            ],
+            [
+              8.3464741,
+              3.631
+            ],
+            [
+              8.3393602,
+              3.626
+            ],
+            [
+              8.3328486,
+              3.621
+            ],
+            [
+              8.3245779,
+              3.614
+            ],
+            [
+              8.3181552,
+              3.608
+            ],
+            [
+              8.3103851,
+              3.6
+            ],
+            [
+              8.3041807,
+              3.593
+            ],
+            [
+              8.2976257,
+              3.585
+            ],
+            [
+              8.2914696,
+              3.577
+            ],
+            [
+              8.2885415,
+              3.573
+            ],
+            [
+              8.28307,
+              3.565
+            ],
+            [
+              8.2785412,
+              3.559
+            ],
+            [
+              8.2749979,
+              3.554
+            ],
+            [
+              8.2685677,
+              3.544
+            ],
+            [
+              8.2639577,
+              3.536
+            ],
+            [
+              8.2602996,
+              3.529
+            ],
+            [
+              8.2527431,
+              3.513
+            ],
+            [
+              8.2494507,
+              3.505
+            ],
+            [
+              8.2464058,
+              3.497
+            ],
+            [
+              8.2416938,
+              3.483
+            ],
+            [
+              8.2386015,
+              3.475
+            ],
+            [
+              8.2365363,
+              3.469
+            ],
+            [
+              8.2309625,
+              3.455
+            ],
+            [
+              8.2276376,
+              3.445
+            ],
+            [
+              8.2253908,
+              3.437
+            ],
+            [
+              8.2230779,
+              3.427
+            ],
+            [
+              8.221612,
+              3.419
+            ],
+            [
+              8.2204796,
+              3.411
+            ],
+            [
+              8.2187389,
+              3.403
+            ],
+            [
+              8.2169405,
+              3.393
+            ],
+            [
+              8.2156278,
+              3.383
+            ],
+            [
+              8.2150552,
+              3.377
+            ],
+            [
+              8.2145742,
+              3.369
+            ],
+            [
+              8.2144249,
+              3.359
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2067731,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Thailand",
+        "local_name": "ประเทศไทย",
+        "name_en": "Thailand",
+        "all_tags": {
+          "fee": "no",
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+          "name": "ประเทศไทย",
+          "name:af": "Thailand",
+          "name:am": "ታይላንድ",
+          "name:an": "Tailandia",
+          "name:ar": "تايلاند",
+          "name:az": "Tailand",
+          "name:ba": "Таиланд",
+          "name:be": "Тайланд",
+          "name:bg": "Тайланд",
+          "name:bn": "থাইল্যান্ড",
+          "name:bo": "ཐའི་ལེན།",
+          "name:br": "Thailand",
+          "name:bs": "Tajland",
+          "name:ca": "Tailàndia",
+          "name:ce": "Таиланд",
+          "name:cs": "Thajsko",
+          "name:cv": "Таиланд",
+          "name:cy": "Gwlad Thai",
+          "name:da": "Thailand",
+          "name:de": "Thailand",
+          "name:dv": "ސިޔާމު",
+          "name:dz": "ཐཱའི་ལེནཌ",
+          "name:el": "Ταϊλάνδη",
+          "name:en": "Thailand",
+          "name:eo": "Tajlando",
+          "name:es": "Tailandia",
+          "name:et": "Tai",
+          "name:eu": "Thailandia",
+          "name:fa": "تایلند",
+          "name:fi": "Thaimaa",
+          "name:fo": "Teiland",
+          "name:fr": "Thaïlande",
+          "name:fy": "Tailân",
+          "name:ga": "An Téalainn",
+          "name:gd": "Dùthaich nan Tàidh",
+          "name:gl": "Tailandia",
+          "name:gn": "Tailandia",
+          "name:gu": "થાઇલેન્ડ",
+          "name:gv": "Yn Çheer Thai",
+          "name:he": "תאילנד",
+          "name:hi": "थाईलैण्ड",
+          "name:hr": "Tajland",
+          "name:ht": "Tayilann",
+          "name:hu": "Thaiföld",
+          "name:hy": "Թաիլանդ",
+          "name:ia": "Thailanda",
+          "name:id": "Thailand",
+          "name:ie": "Thailand",
+          "name:io": "Tailando",
+          "name:is": "Taíland",
+          "name:it": "Thailandia",
+          "name:ja": "タイ王国",
+          "name:jv": "Thailand",
+          "name:ka": "ტაილანდი",
+          "name:ki": "Thailand",
+          "name:kk": "Тайланд",
+          "name:kl": "Thailandi",
+          "name:km": "ថៃ",
+          "name:kn": "ಥೈಲ್ಯಾಂಡ್",
+          "name:ko": "태국",
+          "name:ks": "تھائی لینڈ",
+          "name:ku": "Taylenda",
+          "name:kv": "Таиланд",
+          "name:kw": "Pow Tay",
+          "name:la": "Thailandia",
+          "name:lb": "Thailand",
+          "name:li": "Thailand",
+          "name:lo": "ປະເທດໄທ",
+          "name:lt": "Tailandas",
+          "name:lv": "Taizeme",
+          "name:mg": "Tailandy",
+          "name:mi": "Tairana",
+          "name:mk": "Тајланд",
+          "name:ml": "തായ്‌ലാന്റ്",
+          "name:mn": "Тайланд",
+          "name:mr": "थायलंड",
+          "name:ms": "Thailand",
+          "name:my": "ထိုင်းနိုင်ငံ",
+          "name:na": "Thailand",
+          "name:ne": "थाइल्याण्ड",
+          "name:nl": "Thailand",
+          "name:nn": "Thailand",
+          "name:no": "Thailand",
+          "name:nv": "Tʼáí Bikéyah",
+          "name:oc": "Tailàndia",
+          "name:or": "ଥାଇଲାଣ୍ଡ",
+          "name:os": "Таиланд",
+          "name:pa": "ਥਾਈਲੈਂਡ",
+          "name:pl": "Tajlandia",
+          "name:ps": "تايلنډ",
+          "name:pt": "Tailândia",
+          "name:qu": "Thaysuyu",
+          "name:ro": "Thailanda",
+          "name:ru": "Таиланд",
+          "name:rw": "Tayilande",
+          "name:sa": "श्यामदेश",
+          "name:sd": "ٿائيلينڊ",
+          "name:se": "Thaieana",
+          "name:sg": "Tailânde",
+          "name:sh": "Tajland",
+          "name:sk": "Thajsko",
+          "name:sl": "Tajska",
+          "name:so": "Tayland",
+          "name:sq": "Tajlanda",
+          "name:sr": "Тајланд",
+          "name:ss": "IThayilandi",
+          "name:su": "Thailand",
+          "name:sv": "Thailand",
+          "name:sw": "Uthai",
+          "name:ta": "தாய்லாந்து",
+          "name:te": "థాయిలాండ్",
+          "name:tg": "Таиланд",
+          "name:th": "ประเทศไทย",
+          "name:tk": "Tailand",
+          "name:tl": "Taylandiya",
+          "name:tr": "Tayland",
+          "name:tt": "Таиланд",
+          "name:tw": "Thailand",
+          "name:ug": "تايلاند",
+          "name:uk": "Таїланд",
+          "name:ur": "تھائی لینڈ",
+          "name:uz": "Tailand",
+          "name:vi": "Thái Lan",
+          "name:vo": "Tayän",
+          "name:wo": "Taaylaand",
+          "name:yi": "טיילאנד",
+          "name:yo": "Tháílàndì",
+          "name:za": "Daigoz",
+          "name:zh": "泰国 / 泰國",
+          "boundary": "administrative",
+          "name:als": "Thailand",
+          "name:ang": "Thailand",
+          "name:arz": "تايلاندا",
+          "name:ast": "Tailandia",
+          "name:azb": "تایلند",
+          "name:bar": "Thailand",
+          "name:bcl": "Tailandya",
+          "name:bpy": "টাইলান্ডিয়া",
+          "name:bug": "Thailand",
+          "name:bxr": "Таиланд",
+          "name:ceb": "Tailandya",
+          "name:chr": "ᏔᏱᎦᏙᎯ",
+          "name:ckb": "تایلەند",
+          "name:crh": "Tayland",
+          "name:csb": "Tajlandiô",
+          "name:diq": "Taylanda",
+          "name:dsb": "Thailandska",
+          "name:ext": "Tailándia",
+          "name:frp": "Tayilande",
+          "name:fur": "Tailandie",
+          "name:gag": "Tailand",
+          "name:gan": "泰國",
+          "name:hak": "Thai-koet",
+          "name:haw": "Tailani",
+          "name:hif": "Thailand",
+          "name:hsb": "Thailandska",
+          "name:ilo": "Tailandia",
+          "name:jbo": "tais",
+          "name:kbd": "Тайлэнд",
+          "name:lez": "Таиланд",
+          "name:lij": "Thailandia",
+          "name:lmo": "Thailandia",
+          "name:lrc": "تاؽلٱند",
+          "name:lzh": "泰國",
+          "name:mhr": "Таиланд",
+          "name:min": "Thailand",
+          "name:mzn": "تایلند",
+          "name:nah": "Taitlālpan",
+          "name:nan": "Thài-kok",
+          "name:nds": "Thailand",
+          "name:new": "थाइल्याण्ड",
+          "name:nov": "Tailande",
+          "name:pam": "Tailandya",
+          "name:pap": "Thailand",
+          "name:pih": "Tailan",
+          "name:pms": "Thailandia",
+          "name:pnb": "تھائی لینڈ",
+          "name:rue": "Таїланд",
+          "name:sah": "Тайлаан",
+          "name:scn": "Thailandia",
+          "name:sco": "Thailand",
+          "name:srn": "Taikondre",
+          "name:stq": "Thailound",
+          "name:szl": "Tajlandyjŏ",
+          "name:tpi": "Tailan",
+          "name:tzl": "Taiphäts",
+          "name:udm": "Таиланд",
+          "name:vec": "Thailandia",
+          "name:vro": "Tai",
+          "name:war": "Taylandya",
+          "name:wuu": "泰国",
+          "name:xal": "Тагилмудин Нутг",
+          "name:yue": "泰國",
+          "name:zea": "Thailand",
+          "timezone": "Asia/Bangkok",
+          "way_area": "52.5396",
+          "wikidata": "Q869",
+          "ISO3166-1": "TH",
+          "wikipedia": "en:Thailand",
+          "admin_level": "2",
+          "alt_name:eo": "Tajujo",
+          "alt_name:ko": "타이",
+          "name:nds-nl": "Thailaand",
+          "driving_side": "left",
+          "name:bat-smg": "Tailands",
+          "name:kk-Arab": "تايلاند",
+          "name:map-bms": "Thailand",
+          "name:zh-Hans": "泰国",
+          "name:zh-Hant": "泰國",
+          "name:roa-tara": "Thailandie",
+          "official_name": "ราชอาณาจักรไทย",
+          "name:be-tarask": "Тайлянд",
+          "ISO3166-1:alpha2": "TH",
+          "ISO3166-1:alpha3": "THA",
+          "default_language": "th",
+          "official_name:ar": "مملكة تايلاند",
+          "official_name:cs": "Thajské království",
+          "official_name:en": "Kingdom of Thailand",
+          "official_name:eo": "Tajlanda Reĝlando",
+          "official_name:fa": "پادشاهی تایلند",
+          "official_name:ko": "타이왕국",
+          "official_name:pl": "Królestwo Tajlandii",
+          "official_name:ur": "تمملکت تھائی لینڈ",
+          "ISO3166-1:numeric": "764"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              98.06767676652021,
+              8
+            ],
+            [
+              98.0756055,
+              7.9687871
+            ],
+            [
+              98.0690004,
+              7.9323819
+            ],
+            [
+              98.0680969,
+              7.8869385
+            ],
+            [
+              98.0691811,
+              7.8632682
+            ],
+            [
+              98.0735176,
+              7.8372489
+            ],
+            [
+              98.0805645,
+              7.8129462
+            ],
+            [
+              98.0905928,
+              7.7968649
+            ],
+            [
+              98.09773,
+              7.6795072
+            ],
+            [
+              98.106132,
+              7.6556562
+            ],
+            [
+              98.1161603,
+              7.6361417
+            ],
+            [
+              98.1340485,
+              7.6153625
+            ],
+            [
+              98.1609534,
+              7.586879
+            ],
+            [
+              98.1391078,
+              7.5509467
+            ],
+            [
+              98.1232975,
+              7.4967399
+            ],
+            [
+              98.1220327,
+              7.4286201
+            ],
+            [
+              98.1223941,
+              7.4129905
+            ],
+            [
+              98.1232975,
+              7.4018781
+            ],
+            [
+              98.1304348,
+              7.377214
+            ],
+            [
+              98.142812,
+              7.3548085
+            ],
+            [
+              98.166663,
+              7.3269823
+            ],
+            [
+              98.1847319,
+              7.309591
+            ],
+            [
+              98.2037043,
+              7.2943228
+            ],
+            [
+              98.2519483,
+              7.2715559
+            ],
+            [
+              98.2711917,
+              7.2659545
+            ],
+            [
+              98.2913386,
+              7.2614373
+            ],
+            [
+              98.3167287,
+              7.2611826
+            ],
+            [
+              98.3356075,
+              7.2621601
+            ],
+            [
+              98.3594584,
+              7.2679421
+            ],
+            [
+              98.3801474,
+              7.2743566
+            ],
+            [
+              98.3996618,
+              7.2818552
+            ],
+            [
+              98.4393231,
+              7.3086876
+            ],
+            [
+              98.4642582,
+              7.3326289
+            ],
+            [
+              98.4846761,
+              7.3560281
+            ],
+            [
+              98.4924989,
+              7.3660273
+            ],
+            [
+              98.5060642,
+              7.4151908
+            ],
+            [
+              98.512569,
+              7.4502445
+            ],
+            [
+              98.5334085,
+              7.4724091
+            ],
+            [
+              98.548466,
+              7.4946941
+            ],
+            [
+              98.5585846,
+              7.512763
+            ],
+            [
+              98.5666554,
+              7.5310728
+            ],
+            [
+              98.5713533,
+              7.548419
+            ],
+            [
+              98.5984567,
+              7.5458894
+            ],
+            [
+              98.6295353,
+              7.5087878
+            ],
+            [
+              98.6553736,
+              7.4870852
+            ],
+            [
+              98.6871095,
+              7.4661405
+            ],
+            [
+              98.685752,
+              7.3818563
+            ],
+            [
+              98.6888237,
+              7.3652329
+            ],
+            [
+              98.6937023,
+              7.3515909
+            ],
+            [
+              98.7251423,
+              7.2902468
+            ],
+            [
+              98.7322795,
+              7.2795862
+            ],
+            [
+              98.7577567,
+              7.2588069
+            ],
+            [
+              98.7807946,
+              7.2429966
+            ],
+            [
+              98.8211335,
+              7.223708
+            ],
+            [
+              98.8488693,
+              7.2165708
+            ],
+            [
+              98.8613368,
+              7.215577
+            ],
+            [
+              98.8643182,
+              7.1708564
+            ],
+            [
+              98.8713651,
+              7.1267682
+            ],
+            [
+              98.8845554,
+              7.0898172
+            ],
+            [
+              98.8953064,
+              7.0760849
+            ],
+            [
+              98.9170348,
+              7.0522565
+            ],
+            [
+              98.9504083,
+              7.0259237
+            ],
+            [
+              98.9651036,
+              7.0162056
+            ],
+            [
+              98.9784375,
+              7.0111768
+            ],
+            [
+              99,
+              7.004415894774223
+            ],
+            [
+              99,
+              8
+            ],
+            [
+              98.06767676652021,
+              8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

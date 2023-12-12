@@ -1,0 +1,2213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192830,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cameroon",
+        "local_name": "Cameroun",
+        "name_en": "Cameroon",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+          "name": "Cameroun",
+          "name:af": "Kameroen",
+          "name:am": "ካሜሩን",
+          "name:an": "Camerún",
+          "name:ar": "الكاميرون",
+          "name:az": "Kamerun",
+          "name:ba": "Камерун",
+          "name:be": "Камерун",
+          "name:bg": "Камерун",
+          "name:bm": "Kamerun",
+          "name:bn": "ক্যামেরুন",
+          "name:bo": "ཁམ་མུ་རོན།",
+          "name:br": "Kameroun",
+          "name:bs": "Kamerun",
+          "name:ca": "Camerun",
+          "name:cs": "Kamerun",
+          "name:cv": "Камерун",
+          "name:cy": "Camerŵn",
+          "name:da": "Cameroun",
+          "name:de": "Kamerun",
+          "name:dv": "ކެމަރޫން",
+          "name:ee": "Cameroon",
+          "name:el": "Καμερούν",
+          "name:en": "Cameroon",
+          "name:eo": "Kameruno",
+          "name:es": "Camerún",
+          "name:et": "Kamerun",
+          "name:eu": "Kamerun",
+          "name:fa": "کامرون",
+          "name:ff": "Kamerun",
+          "name:fi": "Kamerun",
+          "name:fo": "Kamerun",
+          "name:fr": "Cameroun",
+          "name:fy": "Kameroen",
+          "name:ga": "Camarún",
+          "name:gd": "Camarun",
+          "name:gl": "Camerún",
+          "name:gn": "Kamerũ",
+          "name:gv": "Cameroon",
+          "name:ha": "Kameru",
+          "name:he": "קמרון",
+          "name:hi": "कैमरुन",
+          "name:hr": "Kamerun",
+          "name:ht": "Kamewoun",
+          "name:hu": "Kamerun",
+          "name:hy": "Կամերուն",
+          "name:ia": "Camerun",
+          "name:id": "Kamerun",
+          "name:ie": "Cameroon",
+          "name:ig": "Kameroon",
+          "name:io": "Kamerun",
+          "name:is": "Kamerún",
+          "name:it": "Camerun",
+          "name:ja": "カメルーン",
+          "name:jv": "Kamerun",
+          "name:ka": "კამერუნი",
+          "name:kg": "Kamerun",
+          "name:ki": "Cameroon",
+          "name:kk": "Камерун",
+          "name:kn": "ಕ್ಯಾಮರೂನ್",
+          "name:ko": "카메룬",
+          "name:ks": "کیٚمِروٗن",
+          "name:ku": "Kamerûn",
+          "name:kw": "Kameroun",
+          "name:la": "Cameronia",
+          "name:lb": "Kamerun",
+          "name:li": "Kameroen",
+          "name:ln": "Kamerun",
+          "name:lt": "Kamerūnas",
+          "name:lv": "Kamerūna",
+          "name:mi": "Kamarūna",
+          "name:mk": "Камерун",
+          "name:ml": "കാമറൂൺ",
+          "name:mn": "Камерун",
+          "name:mr": "कामेरून",
+          "name:ms": "Cameroon",
+          "name:mt": "Kamerun",
+          "name:my": "ကင်မရွန်းနိုင်ငံ",
+          "name:na": "Kamerun",
+          "name:ne": "क्यामेरून",
+          "name:nl": "Kameroen",
+          "name:nn": "Kamerun",
+          "name:no": "Kamerun",
+          "name:nv": "Táłtłʼááh Chʼosh Daadánígíí Bitooh",
+          "name:oc": "Cameron",
+          "name:or": "କାମେରୁନ",
+          "name:os": "Камерун",
+          "name:pa": "ਕੈਮਰੂਨ",
+          "name:pl": "Kamerun",
+          "name:ps": "کامرون",
+          "name:pt": "Camarões",
+          "name:qu": "Kamirun",
+          "name:rm": "Camerun",
+          "name:ro": "Camerun",
+          "name:ru": "Камерун",
+          "name:rw": "Kameruni",
+          "name:sa": "केमेरून",
+          "name:sc": "Camerùn",
+          "name:se": "Kamerun",
+          "name:sg": "Kamerün",
+          "name:sh": "Kamerun",
+          "name:sk": "Kamerun",
+          "name:sl": "Kamerun",
+          "name:sn": "Cameroon",
+          "name:so": "Kamiruun",
+          "name:sq": "Kameruni",
+          "name:sr": "Камерун",
+          "name:ss": "IKhameruni",
+          "name:su": "Kamerun",
+          "name:sv": "Kamerun",
+          "name:sw": "Kamerun",
+          "name:ta": "கமரூன்",
+          "name:te": "కామెరూన్",
+          "name:tg": "Камерун",
+          "name:th": "ประเทศแคเมอรูน",
+          "name:tk": "Kamerun",
+          "name:tl": "Kamerun",
+          "name:tr": "Kamerun",
+          "name:ts": "Cameroon",
+          "name:tt": "Камерун",
+          "name:ug": "كامېرۇن",
+          "name:uk": "Камерун",
+          "name:ur": "کیمرون",
+          "name:uz": "Kamerun",
+          "name:vi": "Cameroon",
+          "name:vo": "Kamerunän",
+          "name:wo": "Kamerun",
+          "name:yi": "קאמערון",
+          "name:yo": "Kamẹrúùn",
+          "name:zh": "喀麦隆 / 喀麥隆",
+          "name:zu": "IKamerooni",
+          "boundary": "administrative",
+          "currency": "XAF",
+          "name:als": "Kamerun",
+          "name:ang": "Camerun",
+          "name:arc": "ܩܐܡܪܘܢ",
+          "name:arz": "الكاميرون",
+          "name:ast": "Camerún",
+          "name:azb": "کامرون",
+          "name:bar": "Kamerun",
+          "name:bcl": "Kameron",
+          "name:bjn": "Kamerun",
+          "name:bpy": "ক্যামেরুন",
+          "name:bxr": "Камерун",
+          "name:ceb": "Kamerun",
+          "name:ckb": "کامیروون",
+          "name:crh": "Kamerun",
+          "name:din": "Kameröön",
+          "name:diq": "Kamerun",
+          "name:dsb": "Kamerun",
+          "name:ext": "Camerún",
+          "name:frp": "Cameron",
+          "name:gag": "Kamerun",
+          "name:grc": "Καμεροῦνον",
+          "name:hif": "Cameroon",
+          "name:hsb": "Kamerun",
+          "name:ilo": "Kamerun",
+          "name:jbo": "kamerun",
+          "name:kaa": "Kamerun",
+          "name:kab": "Kamirun",
+          "name:lad": "Kamerun",
+          "name:lij": "Camerun",
+          "name:lmo": "Camerun",
+          "name:min": "Kamerun",
+          "name:mrj": "Камерун",
+          "name:mzn": "کامرون",
+          "name:nah": "Camerun",
+          "name:nan": "Cameroon",
+          "name:nds": "Kamerun",
+          "name:new": "क्यामेरून",
+          "name:nov": "Kamerun",
+          "name:nso": "Cameroon",
+          "name:pam": "Cameroon",
+          "name:pih": "Cameroon",
+          "name:pms": "Cameron",
+          "name:pnb": "کیمرون",
+          "name:pnt": "Καμερούν",
+          "name:sah": "Камерун",
+          "name:scn": "Camerun",
+          "name:sco": "Cameroon",
+          "name:smn": "Kamerun",
+          "name:sms": "Kameruun",
+          "name:stq": "Kamerun",
+          "name:syc": "ܩܐܡܪܘܢ",
+          "name:szl": "Kamerun",
+          "name:tzl": "Camerun",
+          "name:vec": "Camerun",
+          "name:vep": "Kamerun",
+          "name:vro": "Kamõrun",
+          "name:war": "Camerun",
+          "name:wuu": "喀麦隆",
+          "name:xal": "Камерудин Орн",
+          "name:yue": "喀麥隆",
+          "timezone": "Africa/Douala",
+          "way_area": "38.7059",
+          "wikidata": "Q1009",
+          "ISO3166-1": "CM",
+          "wikipedia": "fr:Cameroun",
+          "admin_level": "2",
+          "name:simple": "Cameroon",
+          "name:bat-smg": "Kamerūns",
+          "name:roa-rup": "Camerun",
+          "name:zh-Hans": "喀麦隆",
+          "name:zh-Hant": "喀麥隆",
+          "official_name": "République du Cameroun",
+          "name:be-tarask": "Камэрун",
+          "ISO3166-1:alpha2": "CM",
+          "ISO3166-1:alpha3": "CMR",
+          "official_name:ar": "جمهورية الكاميرون",
+          "official_name:cs": "Kamerunská republika",
+          "official_name:de": "Republik Kamerun",
+          "official_name:es": "República de Camerún",
+          "official_name:fa": "جمهوری کامرون",
+          "official_name:fr": "République du Cameroun",
+          "official_name:gn": "Kamerũ Tavakuairetã",
+          "official_name:pt": "República dos Camarões",
+          "official_name:sr": "Република Камерун",
+          "official_name:ur": "جمہوریہ کیمرون",
+          "ISO3166-1:numeric": "120",
+          "official_name:azb": "کامرون جومهوریتی",
+          "official_name:ckb": "کۆماری کامیروون",
+          "official_name:din": "Paankɔc Kameröön"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                10.108730020122374,
+                7
+              ],
+              [
+                10.167015063097514,
+                7
+              ],
+              [
+                10.166766,
+                7.000234
+              ],
+              [
+                10.166248,
+                7.000879
+              ],
+              [
+                10.165965,
+                7.001587
+              ],
+              [
+                10.166173,
+                7.002198
+              ],
+              [
+                10.168097,
+                7.00469
+              ],
+              [
+                10.168412,
+                7.006525
+              ],
+              [
+                10.16994,
+                7.008764
+              ],
+              [
+                10.171576,
+                7.009923
+              ],
+              [
+                10.172889,
+                7.010322
+              ],
+              [
+                10.174148,
+                7.010499
+              ],
+              [
+                10.174923,
+                7.010929
+              ],
+              [
+                10.17629,
+                7.012768
+              ],
+              [
+                10.176482,
+                7.01329
+              ],
+              [
+                10.176459,
+                7.013912
+              ],
+              [
+                10.175914,
+                7.01471
+              ],
+              [
+                10.173318,
+                7.015912
+              ],
+              [
+                10.172336,
+                7.016004
+              ],
+              [
+                10.170731,
+                7.01575
+              ],
+              [
+                10.1667,
+                7.017793
+              ],
+              [
+                10.164919,
+                7.018495
+              ],
+              [
+                10.163706,
+                7.019286
+              ],
+              [
+                10.161088,
+                7.01977
+              ],
+              [
+                10.160059,
+                7.020284
+              ],
+              [
+                10.158262,
+                7.02086
+              ],
+              [
+                10.158178,
+                7.021094
+              ],
+              [
+                10.158485,
+                7.02177
+              ],
+              [
+                10.160166,
+                7.023666
+              ],
+              [
+                10.160612,
+                7.024595
+              ],
+              [
+                10.160612,
+                7.02491
+              ],
+              [
+                10.160289,
+                7.025421
+              ],
+              [
+                10.159614,
+                7.02562
+              ],
+              [
+                10.159122,
+                7.026012
+              ],
+              [
+                10.15903,
+                7.026542
+              ],
+              [
+                10.159168,
+                7.026741
+              ],
+              [
+                10.15979,
+                7.026803
+              ],
+              [
+                10.160113,
+                7.027079
+              ],
+              [
+                10.16141,
+                7.02924
+              ],
+              [
+                10.161756,
+                7.032653
+              ],
+              [
+                10.162232,
+                7.034258
+              ],
+              [
+                10.162255,
+                7.035744
+              ],
+              [
+                10.161932,
+                7.036273
+              ],
+              [
+                10.161111,
+                7.036842
+              ],
+              [
+                10.156834,
+                7.037901
+              ],
+              [
+                10.154469,
+                7.038104
+              ],
+              [
+                10.153103,
+                7.038726
+              ],
+              [
+                10.151813,
+                7.038657
+              ],
+              [
+                10.150528,
+                7.038377
+              ],
+              [
+                10.108730020122374,
+                7
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                10.554131848261205,
+                7
+              ],
+              [
+                10.70790899651112,
+                7
+              ],
+              [
+                10.707437,
+                7.001384
+              ],
+              [
+                10.70427,
+                7.00668
+              ],
+              [
+                10.703615,
+                7.008454
+              ],
+              [
+                10.702887,
+                7.009474
+              ],
+              [
+                10.702086,
+                7.010201
+              ],
+              [
+                10.70036,
+                7.013327
+              ],
+              [
+                10.698519,
+                7.013987
+              ],
+              [
+                10.697263,
+                7.013932
+              ],
+              [
+                10.696008,
+                7.014078
+              ],
+              [
+                10.694916,
+                7.014497
+              ],
+              [
+                10.691858,
+                7.016198
+              ],
+              [
+                10.690712,
+                7.016544
+              ],
+              [
+                10.689801,
+                7.016599
+              ],
+              [
+                10.688946,
+                7.01618
+              ],
+              [
+                10.687636,
+                7.015962
+              ],
+              [
+                10.68452,
+                7.016131
+              ],
+              [
+                10.683941,
+                7.016016
+              ],
+              [
+                10.683304,
+                7.016235
+              ],
+              [
+                10.683068,
+                7.016762
+              ],
+              [
+                10.683086,
+                7.019911
+              ],
+              [
+                10.682886,
+                7.020875
+              ],
+              [
+                10.682486,
+                7.021658
+              ],
+              [
+                10.682001,
+                7.022158
+              ],
+              [
+                10.679719,
+                7.023123
+              ],
+              [
+                10.679319,
+                7.023523
+              ],
+              [
+                10.679027,
+                7.024342
+              ],
+              [
+                10.679646,
+                7.029666
+              ],
+              [
+                10.67961,
+                7.031704
+              ],
+              [
+                10.679992,
+                7.036936
+              ],
+              [
+                10.679937,
+                7.037974
+              ],
+              [
+                10.679646,
+                7.038738
+              ],
+              [
+                10.678627,
+                7.039739
+              ],
+              [
+                10.675879,
+                7.041059
+              ],
+              [
+                10.674259,
+                7.042615
+              ],
+              [
+                10.672894,
+                7.043506
+              ],
+              [
+                10.668756,
+                7.045121
+              ],
+              [
+                10.666779,
+                7.047119
+              ],
+              [
+                10.663995,
+                7.048411
+              ],
+              [
+                10.660865,
+                7.049558
+              ],
+              [
+                10.65879,
+                7.051196
+              ],
+              [
+                10.657716,
+                7.051541
+              ],
+              [
+                10.656751,
+                7.051432
+              ],
+              [
+                10.656128,
+                7.051097
+              ],
+              [
+                10.655807,
+                7.050379
+              ],
+              [
+                10.655751,
+                7.049376
+              ],
+              [
+                10.655932,
+                7.047683
+              ],
+              [
+                10.655732,
+                7.04519
+              ],
+              [
+                10.654834,
+                7.043824
+              ],
+              [
+                10.654019,
+                7.042907
+              ],
+              [
+                10.652682,
+                7.042681
+              ],
+              [
+                10.651294,
+                7.042825
+              ],
+              [
+                10.648912,
+                7.043759
+              ],
+              [
+                10.644995,
+                7.04468
+              ],
+              [
+                10.640791,
+                7.047337
+              ],
+              [
+                10.639753,
+                7.047574
+              ],
+              [
+                10.637733,
+                7.047283
+              ],
+              [
+                10.636623,
+                7.047265
+              ],
+              [
+                10.635494,
+                7.047465
+              ],
+              [
+                10.631509,
+                7.049594
+              ],
+              [
+                10.630453,
+                7.049794
+              ],
+              [
+                10.629361,
+                7.049721
+              ],
+              [
+                10.627396,
+                7.048957
+              ],
+              [
+                10.626632,
+                7.048848
+              ],
+              [
+                10.624648,
+                7.049512
+              ],
+              [
+                10.623865,
+                7.050222
+              ],
+              [
+                10.622373,
+                7.053079
+              ],
+              [
+                10.621736,
+                7.053771
+              ],
+              [
+                10.621153,
+                7.054135
+              ],
+              [
+                10.61806,
+                7.055318
+              ],
+              [
+                10.615311,
+                7.057511
+              ],
+              [
+                10.614256,
+                7.058912
+              ],
+              [
+                10.612463,
+                7.060578
+              ],
+              [
+                10.610762,
+                7.061678
+              ],
+              [
+                10.605411,
+                7.068257
+              ],
+              [
+                10.603958,
+                7.070991
+              ],
+              [
+                10.601735,
+                7.072625
+              ],
+              [
+                10.598113,
+                7.074482
+              ],
+              [
+                10.596603,
+                7.075574
+              ],
+              [
+                10.59564,
+                7.076657
+              ],
+              [
+                10.595438,
+                7.077621
+              ],
+              [
+                10.595711,
+                7.079259
+              ],
+              [
+                10.597203,
+                7.082453
+              ],
+              [
+                10.597767,
+                7.084036
+              ],
+              [
+                10.599515,
+                7.085438
+              ],
+              [
+                10.600898,
+                7.087076
+              ],
+              [
+                10.601098,
+                7.087767
+              ],
+              [
+                10.601316,
+                7.091562
+              ],
+              [
+                10.601589,
+                7.092545
+              ],
+              [
+                10.602099,
+                7.0932
+              ],
+              [
+                10.602809,
+                7.093782
+              ],
+              [
+                10.603591,
+                7.094146
+              ],
+              [
+                10.604119,
+                7.094656
+              ],
+              [
+                10.60441,
+                7.095293
+              ],
+              [
+                10.604392,
+                7.097058
+              ],
+              [
+                10.603864,
+                7.09916
+              ],
+              [
+                10.603846,
+                7.100143
+              ],
+              [
+                10.604064,
+                7.101289
+              ],
+              [
+                10.605622,
+                7.10559
+              ],
+              [
+                10.605646,
+                7.106318
+              ],
+              [
+                10.605428,
+                7.107192
+              ],
+              [
+                10.604093,
+                7.109946
+              ],
+              [
+                10.600245,
+                7.116328
+              ],
+              [
+                10.599663,
+                7.117638
+              ],
+              [
+                10.599323,
+                7.118924
+              ],
+              [
+                10.599493,
+                7.121521
+              ],
+              [
+                10.599881,
+                7.123765
+              ],
+              [
+                10.600269,
+                7.125027
+              ],
+              [
+                10.60039,
+                7.126435
+              ],
+              [
+                10.600464,
+                7.130026
+              ],
+              [
+                10.600267,
+                7.131669
+              ],
+              [
+                10.599177,
+                7.134551
+              ],
+              [
+                10.598741,
+                7.138919
+              ],
+              [
+                10.597988,
+                7.140933
+              ],
+              [
+                10.596791,
+                7.142962
+              ],
+              [
+                10.595295,
+                7.146672
+              ],
+              [
+                10.594785,
+                7.147594
+              ],
+              [
+                10.594203,
+                7.148128
+              ],
+              [
+                10.593645,
+                7.148371
+              ],
+              [
+                10.592286,
+                7.148565
+              ],
+              [
+                10.588968,
+                7.148432
+              ],
+              [
+                10.587084,
+                7.148526
+              ],
+              [
+                10.586074,
+                7.148759
+              ],
+              [
+                10.585079,
+                7.149366
+              ],
+              [
+                10.584327,
+                7.150264
+              ],
+              [
+                10.58372,
+                7.151477
+              ],
+              [
+                10.582871,
+                7.154243
+              ],
+              [
+                10.582094,
+                7.155869
+              ],
+              [
+                10.581148,
+                7.157082
+              ],
+              [
+                10.579983,
+                7.158126
+              ],
+              [
+                10.578333,
+                7.159048
+              ],
+              [
+                10.574426,
+                7.160431
+              ],
+              [
+                10.5715768,
+                7.1622433
+              ],
+              [
+                10.5711247,
+                7.1600142
+              ],
+              [
+                10.5685487,
+                7.1558484
+              ],
+              [
+                10.5678161,
+                7.1518472
+              ],
+              [
+                10.5663811,
+                7.1457936
+              ],
+              [
+                10.5652443,
+                7.116516
+              ],
+              [
+                10.5617283,
+                7.0931638
+              ],
+              [
+                10.5616671,
+                7.0900179
+              ],
+              [
+                10.564389,
+                7.08763
+              ],
+              [
+                10.5639251,
+                7.085963
+              ],
+              [
+                10.5615446,
+                7.084962
+              ],
+              [
+                10.5598414,
+                7.0849824
+              ],
+              [
+                10.5605387,
+                7.0803697
+              ],
+              [
+                10.5597969,
+                7.078048
+              ],
+              [
+                10.5595116,
+                7.0754998
+              ],
+              [
+                10.5603027,
+                7.0730481
+              ],
+              [
+                10.5611664,
+                7.069384
+              ],
+              [
+                10.5600252,
+                7.063155
+              ],
+              [
+                10.5593915,
+                7.0609821
+              ],
+              [
+                10.5604508,
+                7.060323
+              ],
+              [
+                10.5608495,
+                7.0579554
+              ],
+              [
+                10.5590518,
+                7.0569763
+              ],
+              [
+                10.5584159,
+                7.0542184
+              ],
+              [
+                10.5580054,
+                7.0473683
+              ],
+              [
+                10.5583468,
+                7.0468906
+              ],
+              [
+                10.5594481,
+                7.046934
+              ],
+              [
+                10.5596024,
+                7.0455474
+              ],
+              [
+                10.5586752,
+                7.0443078
+              ],
+              [
+                10.5598178,
+                7.0317976
+              ],
+              [
+                10.5570718,
+                7.0200042
+              ],
+              [
+                10.554131848261205,
+                7
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192787,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Nigeria",
+        "local_name": "Nigeria",
+        "name_en": "Nigeria",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+          "name": "Nigeria",
+          "name:af": "Nigerië",
+          "name:ak": "Nigeria",
+          "name:am": "ናይጄሪያ",
+          "name:an": "Nicheria",
+          "name:ar": "نيجيريا",
+          "name:az": "Nigeriya",
+          "name:ba": "Нигерия",
+          "name:be": "Нігерыя",
+          "name:bg": "Нигерия",
+          "name:bm": "Nijeria",
+          "name:bn": "নাইজেরিয়া",
+          "name:bo": "ནི་ཇི་རི་ཡ།",
+          "name:br": "Nigeria",
+          "name:bs": "Nigerija",
+          "name:ca": "Nigèria",
+          "name:ce": "Нигери",
+          "name:cs": "Nigérie",
+          "name:cv": "Нигери",
+          "name:cy": "Nigeria",
+          "name:da": "Nigeria",
+          "name:de": "Nigeria",
+          "name:dv": "ނައިޖީރިއާ",
+          "name:ee": "Nigeria",
+          "name:el": "Νιγηρία",
+          "name:en": "Nigeria",
+          "name:eo": "Niĝerio",
+          "name:es": "Nigeria",
+          "name:et": "Nigeeria",
+          "name:eu": "Nigeria",
+          "name:fa": "نیجریه",
+          "name:ff": "Niiseriya",
+          "name:fi": "Nigeria",
+          "name:fo": "Nigeria",
+          "name:fr": "Nigéria",
+          "name:fy": "Nigearia",
+          "name:ga": "An Nigéir",
+          "name:gd": "Nìgeiria",
+          "name:gl": "Nixeria",
+          "name:gn": "Niheria",
+          "name:gu": "નાઈજેરિયા",
+          "name:gv": "Yn Naigeer",
+          "name:ha": "Nijeriya",
+          "name:he": "ניגריה",
+          "name:hi": "नाईजीरिया",
+          "name:hr": "Nigerija",
+          "name:ht": "Nijerya",
+          "name:hu": "Nigéria",
+          "name:hy": "Նիգերիա",
+          "name:ia": "Nigeria",
+          "name:id": "Nigeria",
+          "name:ie": "Nigeria",
+          "name:ig": "Naigeria",
+          "name:io": "Nigeria",
+          "name:is": "Nígería",
+          "name:it": "Nigeria",
+          "name:ja": "ナイジェリア",
+          "name:jv": "Nigeria",
+          "name:ka": "ნიგერია",
+          "name:kg": "Nizeria",
+          "name:kk": "Нигерия",
+          "name:kn": "ನೈಜೀರಿಯ",
+          "name:ko": "나이지리아",
+          "name:ks": "نایجیرِیا",
+          "name:ku": "Nîjerya",
+          "name:kw": "Nijeri",
+          "name:la": "Nigeria",
+          "name:lb": "Nigeria",
+          "name:li": "Nigeria",
+          "name:ln": "Nizeria",
+          "name:lt": "Nigerija",
+          "name:lv": "Nigērija",
+          "name:mg": "Nizeria",
+          "name:mi": "Ngāitiria",
+          "name:mk": "Нигерија",
+          "name:ml": "നൈജീരിയ",
+          "name:mn": "Нигери",
+          "name:mr": "नायजेरिया",
+          "name:ms": "Nigeria",
+          "name:mt": "Niġerja",
+          "name:my": "နိုင်ဂျီးရီးယားနိုင်ငံ",
+          "name:ne": "नाइजेरिया",
+          "name:nl": "Nigeria",
+          "name:nn": "Nigeria",
+          "name:no": "Nigeria",
+          "name:oc": "Nigèria",
+          "name:or": "ନାଇଜେରିଆ",
+          "name:os": "Нигери",
+          "name:pa": "ਨਾਈਜੀਰੀਆ",
+          "name:pl": "Nigeria",
+          "name:ps": "نايجېريا",
+          "name:pt": "Nigéria",
+          "name:qu": "Niqirya",
+          "name:ro": "Nigeria",
+          "name:ru": "Нигерия",
+          "name:rw": "Nijeriya",
+          "name:sa": "नैजीरिया",
+          "name:sc": "Nigéria",
+          "name:se": "Nigeria",
+          "name:sg": "Nizerïa",
+          "name:sh": "Nigerija",
+          "name:sk": "Nigéria",
+          "name:sl": "Nigerija",
+          "name:sn": "Nigeria",
+          "name:so": "Nayjeeriya",
+          "name:sq": "Nigeria",
+          "name:sr": "Нигерија",
+          "name:ss": "INayijeriya",
+          "name:su": "Nigeria",
+          "name:sv": "Nigeria",
+          "name:sw": "Nigeria",
+          "name:ta": "நைஜீரியா",
+          "name:te": "నైజీరియా",
+          "name:tg": "Ниҷерия",
+          "name:th": "ประเทศไนจีเรีย",
+          "name:ti": "ናይጂሪያ",
+          "name:tk": "Nigeriýa",
+          "name:tl": "Nigerya",
+          "name:tr": "Nijerya",
+          "name:ts": "Nigeria",
+          "name:tt": "Нигерия",
+          "name:ug": "نىگېرىيە",
+          "name:uk": "Нігерія",
+          "name:ur": "نائجیریا",
+          "name:uz": "Nigeriya",
+          "name:vi": "Nigeria",
+          "name:vo": "Nigeriyän",
+          "name:wa": "Nidjeria",
+          "name:xh": "INigeria",
+          "name:yi": "ניגעריע",
+          "name:yo": "Nàìjíríà",
+          "name:za": "Nizywlihya",
+          "name:zh": "尼日利亚 / 奈及利亞",
+          "name:zu": "INigeria",
+          "boundary": "administrative",
+          "name:als": "Nigeria",
+          "name:ang": "Nigeria",
+          "name:arz": "نايجيريا",
+          "name:ast": "Nixeria",
+          "name:bar": "Nigeria",
+          "name:bcl": "Nigerya",
+          "name:bjn": "Nigeria",
+          "name:bpy": "নাইজেরিয়া",
+          "name:bxr": "Нигери",
+          "name:ceb": "Nigeria",
+          "name:ckb": "نێجیریا",
+          "name:crh": "Nigeriya",
+          "name:din": "Naijeria",
+          "name:diq": "Nicerya",
+          "name:dsb": "Nigerija",
+          "name:ext": "Nigéria",
+          "name:frp": "Nig·èria",
+          "name:gag": "Nigeriya",
+          "name:gan": "尼日利亞",
+          "name:hak": "Nai-khi̍p-li-â",
+          "name:hif": "Nigeria",
+          "name:hsb": "Nigerija",
+          "name:ilo": "Nigeria",
+          "name:jbo": "gugdrnaidjiria",
+          "name:lad": "Nijeria",
+          "name:lez": "Нигерия",
+          "name:lij": "Nigeria",
+          "name:lmo": "Nigeria",
+          "name:ltg": "Nigereja",
+          "name:lzh": "尼日利亞",
+          "name:mrj": "Нигери",
+          "name:nah": "Nigeria",
+          "name:nan": "Nigeria",
+          "name:nds": "Nigeria",
+          "name:nov": "Nigeria",
+          "name:nso": "Nigeria",
+          "name:pam": "Nigeria",
+          "name:pap": "Nigeria",
+          "name:pih": "Niijiirya",
+          "name:pms": "Nigeria",
+          "name:pnb": "نائیجیریا",
+          "name:rue": "Ніґерія",
+          "name:sah": "Нигерия",
+          "name:scn": "Nigeria",
+          "name:sco": "Nigerie",
+          "name:smn": "Nigeria",
+          "name:sms": "Nigeria",
+          "name:stq": "Nigeria",
+          "name:szl": "Ńigeryjo",
+          "name:tpi": "Naijiria",
+          "name:tzl": "Nigeria",
+          "name:vec": "Nigeria",
+          "name:vro": "Nigeeriä",
+          "name:war": "Nigerya",
+          "name:wuu": "尼日利亚",
+          "name:xal": "Нигермудин Ниицәтә Орн",
+          "name:yue": "尼日利亞",
+          "timezone": "Africa/Lagos",
+          "way_area": "76.459",
+          "wikidata": "Q1033",
+          "ISO3166-1": "NG",
+          "wikipedia": "en:Nigeria",
+          "admin_level": "2",
+          "name:simple": "Nigeria",
+          "name:bat-smg": "Nigerėjė",
+          "name:zh-Hans": "尼日利亚",
+          "name:zh-Hant": "奈及利亞",
+          "name:roa-tara": "Nigerie",
+          "name:be-tarask": "Нігерыя",
+          "ISO3166-1:alpha2": "NG",
+          "ISO3166-1:alpha3": "NGA",
+          "default_language": "en",
+          "official_name:ar": "جمهورية نيجيريا الاتحادية",
+          "official_name:cs": "Nigerijská federativní republika",
+          "official_name:en": "Federal Republic of Nigeria",
+          "official_name:fa": "جمهوری فدرال نیجریه",
+          "ISO3166-1:numeric": "566"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              7
+            ],
+            [
+              10.108730020122374,
+              7
+            ],
+            [
+              10.150528,
+              7.038377
+            ],
+            [
+              10.151813,
+              7.038657
+            ],
+            [
+              10.153103,
+              7.038726
+            ],
+            [
+              10.154469,
+              7.038104
+            ],
+            [
+              10.156834,
+              7.037901
+            ],
+            [
+              10.161111,
+              7.036842
+            ],
+            [
+              10.161932,
+              7.036273
+            ],
+            [
+              10.162255,
+              7.035744
+            ],
+            [
+              10.162232,
+              7.034258
+            ],
+            [
+              10.161756,
+              7.032653
+            ],
+            [
+              10.16141,
+              7.02924
+            ],
+            [
+              10.160113,
+              7.027079
+            ],
+            [
+              10.15979,
+              7.026803
+            ],
+            [
+              10.159168,
+              7.026741
+            ],
+            [
+              10.15903,
+              7.026542
+            ],
+            [
+              10.159122,
+              7.026012
+            ],
+            [
+              10.159614,
+              7.02562
+            ],
+            [
+              10.160289,
+              7.025421
+            ],
+            [
+              10.160612,
+              7.02491
+            ],
+            [
+              10.160612,
+              7.024595
+            ],
+            [
+              10.160166,
+              7.023666
+            ],
+            [
+              10.158485,
+              7.02177
+            ],
+            [
+              10.158178,
+              7.021094
+            ],
+            [
+              10.158262,
+              7.02086
+            ],
+            [
+              10.160059,
+              7.020284
+            ],
+            [
+              10.161088,
+              7.01977
+            ],
+            [
+              10.163706,
+              7.019286
+            ],
+            [
+              10.164919,
+              7.018495
+            ],
+            [
+              10.1667,
+              7.017793
+            ],
+            [
+              10.170731,
+              7.01575
+            ],
+            [
+              10.172336,
+              7.016004
+            ],
+            [
+              10.173318,
+              7.015912
+            ],
+            [
+              10.175914,
+              7.01471
+            ],
+            [
+              10.176459,
+              7.013912
+            ],
+            [
+              10.176482,
+              7.01329
+            ],
+            [
+              10.17629,
+              7.012768
+            ],
+            [
+              10.174923,
+              7.010929
+            ],
+            [
+              10.174148,
+              7.010499
+            ],
+            [
+              10.172889,
+              7.010322
+            ],
+            [
+              10.171576,
+              7.009923
+            ],
+            [
+              10.16994,
+              7.008764
+            ],
+            [
+              10.168412,
+              7.006525
+            ],
+            [
+              10.168097,
+              7.00469
+            ],
+            [
+              10.166173,
+              7.002198
+            ],
+            [
+              10.165965,
+              7.001587
+            ],
+            [
+              10.166248,
+              7.000879
+            ],
+            [
+              10.166766,
+              7.000234
+            ],
+            [
+              10.167015063097514,
+              7
+            ],
+            [
+              10.554131848261205,
+              7
+            ],
+            [
+              10.5570718,
+              7.0200042
+            ],
+            [
+              10.5598178,
+              7.0317976
+            ],
+            [
+              10.5586752,
+              7.0443078
+            ],
+            [
+              10.5596024,
+              7.0455474
+            ],
+            [
+              10.5594481,
+              7.046934
+            ],
+            [
+              10.5583468,
+              7.0468906
+            ],
+            [
+              10.5580054,
+              7.0473683
+            ],
+            [
+              10.5584159,
+              7.0542184
+            ],
+            [
+              10.5590518,
+              7.0569763
+            ],
+            [
+              10.5608495,
+              7.0579554
+            ],
+            [
+              10.5604508,
+              7.060323
+            ],
+            [
+              10.5593915,
+              7.0609821
+            ],
+            [
+              10.5600252,
+              7.063155
+            ],
+            [
+              10.5611664,
+              7.069384
+            ],
+            [
+              10.5603027,
+              7.0730481
+            ],
+            [
+              10.5595116,
+              7.0754998
+            ],
+            [
+              10.5597969,
+              7.078048
+            ],
+            [
+              10.5605387,
+              7.0803697
+            ],
+            [
+              10.5598414,
+              7.0849824
+            ],
+            [
+              10.5615446,
+              7.084962
+            ],
+            [
+              10.5639251,
+              7.085963
+            ],
+            [
+              10.564389,
+              7.08763
+            ],
+            [
+              10.5616671,
+              7.0900179
+            ],
+            [
+              10.5617283,
+              7.0931638
+            ],
+            [
+              10.5652443,
+              7.116516
+            ],
+            [
+              10.5663811,
+              7.1457936
+            ],
+            [
+              10.5678161,
+              7.1518472
+            ],
+            [
+              10.5685487,
+              7.1558484
+            ],
+            [
+              10.5711247,
+              7.1600142
+            ],
+            [
+              10.5715768,
+              7.1622433
+            ],
+            [
+              10.574426,
+              7.160431
+            ],
+            [
+              10.578333,
+              7.159048
+            ],
+            [
+              10.579983,
+              7.158126
+            ],
+            [
+              10.581148,
+              7.157082
+            ],
+            [
+              10.582094,
+              7.155869
+            ],
+            [
+              10.582871,
+              7.154243
+            ],
+            [
+              10.58372,
+              7.151477
+            ],
+            [
+              10.584327,
+              7.150264
+            ],
+            [
+              10.585079,
+              7.149366
+            ],
+            [
+              10.586074,
+              7.148759
+            ],
+            [
+              10.587084,
+              7.148526
+            ],
+            [
+              10.588968,
+              7.148432
+            ],
+            [
+              10.592286,
+              7.148565
+            ],
+            [
+              10.593645,
+              7.148371
+            ],
+            [
+              10.594203,
+              7.148128
+            ],
+            [
+              10.594785,
+              7.147594
+            ],
+            [
+              10.595295,
+              7.146672
+            ],
+            [
+              10.596791,
+              7.142962
+            ],
+            [
+              10.597988,
+              7.140933
+            ],
+            [
+              10.598741,
+              7.138919
+            ],
+            [
+              10.599177,
+              7.134551
+            ],
+            [
+              10.600267,
+              7.131669
+            ],
+            [
+              10.600464,
+              7.130026
+            ],
+            [
+              10.60039,
+              7.126435
+            ],
+            [
+              10.600269,
+              7.125027
+            ],
+            [
+              10.599881,
+              7.123765
+            ],
+            [
+              10.599493,
+              7.121521
+            ],
+            [
+              10.599323,
+              7.118924
+            ],
+            [
+              10.599663,
+              7.117638
+            ],
+            [
+              10.600245,
+              7.116328
+            ],
+            [
+              10.604093,
+              7.109946
+            ],
+            [
+              10.605428,
+              7.107192
+            ],
+            [
+              10.605646,
+              7.106318
+            ],
+            [
+              10.605622,
+              7.10559
+            ],
+            [
+              10.604064,
+              7.101289
+            ],
+            [
+              10.603846,
+              7.100143
+            ],
+            [
+              10.603864,
+              7.09916
+            ],
+            [
+              10.604392,
+              7.097058
+            ],
+            [
+              10.60441,
+              7.095293
+            ],
+            [
+              10.604119,
+              7.094656
+            ],
+            [
+              10.603591,
+              7.094146
+            ],
+            [
+              10.602809,
+              7.093782
+            ],
+            [
+              10.602099,
+              7.0932
+            ],
+            [
+              10.601589,
+              7.092545
+            ],
+            [
+              10.601316,
+              7.091562
+            ],
+            [
+              10.601098,
+              7.087767
+            ],
+            [
+              10.600898,
+              7.087076
+            ],
+            [
+              10.599515,
+              7.085438
+            ],
+            [
+              10.597767,
+              7.084036
+            ],
+            [
+              10.597203,
+              7.082453
+            ],
+            [
+              10.595711,
+              7.079259
+            ],
+            [
+              10.595438,
+              7.077621
+            ],
+            [
+              10.59564,
+              7.076657
+            ],
+            [
+              10.596603,
+              7.075574
+            ],
+            [
+              10.598113,
+              7.074482
+            ],
+            [
+              10.601735,
+              7.072625
+            ],
+            [
+              10.603958,
+              7.070991
+            ],
+            [
+              10.605411,
+              7.068257
+            ],
+            [
+              10.610762,
+              7.061678
+            ],
+            [
+              10.612463,
+              7.060578
+            ],
+            [
+              10.614256,
+              7.058912
+            ],
+            [
+              10.615311,
+              7.057511
+            ],
+            [
+              10.61806,
+              7.055318
+            ],
+            [
+              10.621153,
+              7.054135
+            ],
+            [
+              10.621736,
+              7.053771
+            ],
+            [
+              10.622373,
+              7.053079
+            ],
+            [
+              10.623865,
+              7.050222
+            ],
+            [
+              10.624648,
+              7.049512
+            ],
+            [
+              10.626632,
+              7.048848
+            ],
+            [
+              10.627396,
+              7.048957
+            ],
+            [
+              10.629361,
+              7.049721
+            ],
+            [
+              10.630453,
+              7.049794
+            ],
+            [
+              10.631509,
+              7.049594
+            ],
+            [
+              10.635494,
+              7.047465
+            ],
+            [
+              10.636623,
+              7.047265
+            ],
+            [
+              10.637733,
+              7.047283
+            ],
+            [
+              10.639753,
+              7.047574
+            ],
+            [
+              10.640791,
+              7.047337
+            ],
+            [
+              10.644995,
+              7.04468
+            ],
+            [
+              10.648912,
+              7.043759
+            ],
+            [
+              10.651294,
+              7.042825
+            ],
+            [
+              10.652682,
+              7.042681
+            ],
+            [
+              10.654019,
+              7.042907
+            ],
+            [
+              10.654834,
+              7.043824
+            ],
+            [
+              10.655732,
+              7.04519
+            ],
+            [
+              10.655932,
+              7.047683
+            ],
+            [
+              10.655751,
+              7.049376
+            ],
+            [
+              10.655807,
+              7.050379
+            ],
+            [
+              10.656128,
+              7.051097
+            ],
+            [
+              10.656751,
+              7.051432
+            ],
+            [
+              10.657716,
+              7.051541
+            ],
+            [
+              10.65879,
+              7.051196
+            ],
+            [
+              10.660865,
+              7.049558
+            ],
+            [
+              10.663995,
+              7.048411
+            ],
+            [
+              10.666779,
+              7.047119
+            ],
+            [
+              10.668756,
+              7.045121
+            ],
+            [
+              10.672894,
+              7.043506
+            ],
+            [
+              10.674259,
+              7.042615
+            ],
+            [
+              10.675879,
+              7.041059
+            ],
+            [
+              10.678627,
+              7.039739
+            ],
+            [
+              10.679646,
+              7.038738
+            ],
+            [
+              10.679937,
+              7.037974
+            ],
+            [
+              10.679992,
+              7.036936
+            ],
+            [
+              10.67961,
+              7.031704
+            ],
+            [
+              10.679646,
+              7.029666
+            ],
+            [
+              10.679027,
+              7.024342
+            ],
+            [
+              10.679319,
+              7.023523
+            ],
+            [
+              10.679719,
+              7.023123
+            ],
+            [
+              10.682001,
+              7.022158
+            ],
+            [
+              10.682486,
+              7.021658
+            ],
+            [
+              10.682886,
+              7.020875
+            ],
+            [
+              10.683086,
+              7.019911
+            ],
+            [
+              10.683068,
+              7.016762
+            ],
+            [
+              10.683304,
+              7.016235
+            ],
+            [
+              10.683941,
+              7.016016
+            ],
+            [
+              10.68452,
+              7.016131
+            ],
+            [
+              10.687636,
+              7.015962
+            ],
+            [
+              10.688946,
+              7.01618
+            ],
+            [
+              10.689801,
+              7.016599
+            ],
+            [
+              10.690712,
+              7.016544
+            ],
+            [
+              10.691858,
+              7.016198
+            ],
+            [
+              10.694916,
+              7.014497
+            ],
+            [
+              10.696008,
+              7.014078
+            ],
+            [
+              10.697263,
+              7.013932
+            ],
+            [
+              10.698519,
+              7.013987
+            ],
+            [
+              10.70036,
+              7.013327
+            ],
+            [
+              10.702086,
+              7.010201
+            ],
+            [
+              10.702887,
+              7.009474
+            ],
+            [
+              10.703615,
+              7.008454
+            ],
+            [
+              10.70427,
+              7.00668
+            ],
+            [
+              10.707437,
+              7.001384
+            ],
+            [
+              10.70790899651112,
+              7
+            ],
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              8
+            ],
+            [
+              10,
+              8
+            ],
+            [
+              10,
+              7
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

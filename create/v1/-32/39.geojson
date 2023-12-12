@@ -1,0 +1,591 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -295480,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Portugal",
+        "local_name": "Portugal",
+        "name_en": "Portugal",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+          "name": "Portugal",
+          "name:af": "Portugal",
+          "name:am": "ፖርቱጋል",
+          "name:an": "Portugal",
+          "name:ar": "البرتغال",
+          "name:ay": "Purtuwal",
+          "name:az": "Portuqaliya",
+          "name:ba": "Португалия",
+          "name:be": "Партугалія",
+          "name:bg": "Португалия",
+          "name:bi": "Portugal",
+          "name:bn": "পর্তুগাল",
+          "name:bo": "པོ་ཅུ་གྷལ།",
+          "name:br": "Portugal",
+          "name:bs": "Portugal",
+          "name:ca": "Portugal",
+          "name:ce": "Португали",
+          "name:co": "Portugallu",
+          "name:cs": "Portugalsko",
+          "name:cu": "Портогалїꙗ",
+          "name:cv": "Португали",
+          "name:cy": "Portiwgal",
+          "name:da": "Portugal",
+          "name:de": "Portugal",
+          "name:dv": "ޕޯޗުގަލް",
+          "name:dz": "པོར་ཅུ་གལ་",
+          "name:ee": "Portugal",
+          "name:el": "Πορτογαλία",
+          "name:en": "Portugal",
+          "name:eo": "Portugalio",
+          "name:es": "Portugal",
+          "name:et": "Portugal",
+          "name:eu": "Portugal",
+          "name:fa": "پرتغال",
+          "name:fi": "Portugali",
+          "name:fo": "Portugal",
+          "name:fr": "Portugal",
+          "name:fy": "Portegal",
+          "name:ga": "An Phortaingéil",
+          "name:gd": "A' Phortagail",
+          "name:gl": "Portugal",
+          "name:gn": "Poytuga",
+          "name:gu": "પોર્ટુગલ",
+          "name:gv": "Yn Phortiugal",
+          "name:he": "פורטוגל",
+          "name:hi": "पुर्तगाल",
+          "name:hr": "Portugal",
+          "name:ht": "Pòtigal",
+          "name:hu": "Portugália",
+          "name:hy": "Պորտուգալիա",
+          "name:ia": "Portugal",
+          "name:id": "Portugal",
+          "name:ie": "Portugal",
+          "name:io": "Portugal",
+          "name:is": "Portúgal",
+          "name:it": "Portogallo",
+          "name:ja": "ポルトガル",
+          "name:jv": "Portugal",
+          "name:ka": "პორტუგალია",
+          "name:kg": "Mputulukesi",
+          "name:kk": "Португалия",
+          "name:kl": "Portugal",
+          "name:km": "ប្រទេស ព័រទុយហ្គាល់",
+          "name:kn": "ಪೋರ್ಚುಗಲ್",
+          "name:ko": "포르투갈",
+          "name:ku": "Portûgal",
+          "name:kv": "Португалия",
+          "name:kw": "Portyngal",
+          "name:ky": "Португалия",
+          "name:la": "Portugallia",
+          "name:lb": "Portugal",
+          "name:li": "Portugal",
+          "name:ln": "Pulutugal",
+          "name:lt": "Portugalija",
+          "name:lv": "Portugāle",
+          "name:mg": "Pôrtogaly",
+          "name:mi": "Potukara",
+          "name:mk": "Португалија",
+          "name:ml": "പോർച്ചുഗൽ",
+          "name:mn": "Португал",
+          "name:mr": "पोर्तुगाल",
+          "name:ms": "Portugal",
+          "name:mt": "Portugall",
+          "name:my": "ပေါ်တူဂီနိုင်ငံ",
+          "name:na": "Portsiugar",
+          "name:ne": "पोर्चुगल",
+          "name:nl": "Portugal",
+          "name:nn": "Portugal",
+          "name:no": "Portugal",
+          "name:oc": "Portugal",
+          "name:or": "ପର୍ତ୍ତୁଗାଲ",
+          "name:os": "Португали",
+          "name:pl": "Portugalia",
+          "name:ps": "پرتګال",
+          "name:pt": "Portugal",
+          "name:qu": "Purtugal",
+          "name:rm": "Portugal",
+          "name:rn": "Portugal",
+          "name:ro": "Portugalia",
+          "name:ru": "Португалия",
+          "name:rw": "Porutigali",
+          "name:sa": "पुर्तगाल",
+          "name:sc": "Portogallo",
+          "name:se": "Portugal",
+          "name:sh": "Portugal",
+          "name:si": "පෘතුගාලය",
+          "name:sk": "Portugalsko",
+          "name:sl": "Portugalska",
+          "name:sm": "Portugal",
+          "name:so": "Bortuqaal",
+          "name:sq": "Portugalia",
+          "name:sr": "Португалија",
+          "name:ss": "IPhuthukezi",
+          "name:st": "Portugal",
+          "name:su": "Portugal",
+          "name:sv": "Portugal",
+          "name:sw": "Ureno",
+          "name:ta": "போர்த்துகல்",
+          "name:te": "పోర్చుగల్",
+          "name:tg": "Португалия",
+          "name:th": "ประเทศโปรตุเกส",
+          "name:tk": "Portugaliýa",
+          "name:tl": "Portugal",
+          "name:tr": "Portekiz",
+          "name:tt": "Португалия",
+          "name:ty": "Pōtītī",
+          "name:ug": "Portugaliye",
+          "name:uk": "Португалія",
+          "name:ur": "پرتگال",
+          "name:uz": "Portugaliya",
+          "name:vi": "Bồ Đào Nha",
+          "name:vo": "Portugän",
+          "name:wa": "Portugal",
+          "name:wo": "Portugaal",
+          "name:yi": "פארטוגאל",
+          "name:yo": "Pọ́rtúgàl",
+          "name:zh": "葡萄牙",
+          "name:zu": "IPhothugali",
+          "boundary": "administrative",
+          "currency": "EUR",
+          "int_name": "Portugal",
+          "name:als": "Portugal",
+          "name:ang": "Portugal",
+          "name:arc": "ܦܘܪܛܘܓܠ",
+          "name:arz": "البرتغال",
+          "name:ast": "Portugal",
+          "name:bar": "Portugal",
+          "name:bcl": "Portugal",
+          "name:bpy": "পর্তুগাল",
+          "name:bug": "Portugis",
+          "name:bxr": "Португал",
+          "name:cdo": "Può-dò̤-ngà",
+          "name:ceb": "Portugal",
+          "name:chr": "ᏉᏧᎦᎵ",
+          "name:ckb": "پورتوگال",
+          "name:crh": "Portugaliya",
+          "name:csb": "Pòrtugalskô",
+          "name:diq": "Portekiz",
+          "name:dsb": "Portugalska",
+          "name:ext": "Portugal",
+          "name:frp": "Portugal",
+          "name:frr": "Portugal",
+          "name:fur": "Portugal",
+          "name:gag": "Portugaliya",
+          "name:hak": "Phù-thò-ngà",
+          "name:haw": "Potugala",
+          "name:hif": "Portugal",
+          "name:hsb": "Portugalska",
+          "name:ilo": "Portugal",
+          "name:jbo": "potygu'e",
+          "name:kaa": "Portugaliya",
+          "name:kab": "Portugal",
+          "name:kbd": "Португал",
+          "name:koi": "Португал",
+          "name:krc": "Португалия",
+          "name:lad": "Portugal",
+          "name:lez": "Португалия",
+          "name:lij": "Pòrtogallo",
+          "name:lmo": "Portugàl",
+          "name:ltg": "Portugaleja",
+          "name:lzh": "葡萄牙",
+          "name:mdf": "Португалия",
+          "name:mhr": "Португалий",
+          "name:min": "Portugis",
+          "name:mwl": "Pertual",
+          "name:mzn": "پرتغال",
+          "name:nah": "Portugal",
+          "name:nan": "Phû-tô-gâ",
+          "name:nap": "Purtuallo",
+          "name:nds": "Portugal",
+          "name:nov": "Portugal",
+          "name:nrm": "Portûnga",
+          "name:nso": "Portugal",
+          "name:pam": "Portugal",
+          "name:pap": "Portugal",
+          "name:pcd": "Portugal",
+          "name:pih": "Porchugal",
+          "name:pms": "Portugal",
+          "name:pnb": "پرتگال",
+          "name:pnt": "Πορτογαλία",
+          "name:rmy": "Portugaliya",
+          "name:rue": "Портуґалія",
+          "name:sah": "Португалия",
+          "name:scn": "Purtugallu",
+          "name:sco": "Portugal",
+          "name:smn": "Portugal",
+          "name:sms": "Portugal",
+          "name:srn": "Portugesokondre",
+          "name:stq": "Portugal",
+          "name:szl": "Portugalijŏ",
+          "name:tet": "Portugál",
+          "name:tok": "ma Potuke",
+          "name:tpi": "Posugol",
+          "name:tzl": "Portugal",
+          "name:udm": "Португалия",
+          "name:vec": "Portogało",
+          "name:vep": "Portugalii",
+          "name:vls": "Portugal",
+          "name:vro": "Portugal",
+          "name:war": "Portugal",
+          "name:wuu": "葡萄牙",
+          "name:xal": "Португишин Орн",
+          "name:xmf": "პორტუგალია",
+          "name:yue": "葡萄牙",
+          "name:zea": "Portuhal",
+          "way_area": "16.5165",
+          "wikidata": "Q45",
+          "ISO3166-1": "PT",
+          "wikipedia": "pt:Portugal",
+          "population": "10344802",
+          "admin_level": "2",
+          "alt_name:eo": "Portugalujo",
+          "alt_name:la": "Lusitania",
+          "name:nds-nl": "Portugal",
+          "driving_side": "right",
+          "name:bat-smg": "Puortogalėjė",
+          "name:cbk-zam": "Portugal",
+          "name:sr-Latn": "Portugalija",
+          "name:zh-Hans": "葡萄牙",
+          "name:zh-Hant": "葡萄牙",
+          "name:roa-tara": "Purtugalle",
+          "official_name": "República Portuguesa",
+          "name:be-tarask": "Партугалія",
+          "population:date": "2021",
+          "ISO3166-1:alpha2": "PT",
+          "ISO3166-1:alpha3": "PRT",
+          "default_language": "pt",
+          "official_name:ar": "الجمهورية البرتغالية",
+          "official_name:cs": "Portugalská republika",
+          "official_name:el": "Πορτογαλική Δημοκρατία",
+          "official_name:eo": "Portugala Respubliko",
+          "official_name:es": "República Portuguesa",
+          "official_name:fi": "Portugalin tasavalta",
+          "official_name:ku": "Komara Portûgal",
+          "official_name:ur": "جمہوریہ پرتگال",
+          "official_name:zh": "葡萄牙共和国",
+          "ISO3166-1:numeric": "620",
+          "official_name:ckb": "کۆماری پورتوگال",
+          "official_name:zh-Hans": "葡萄牙共和国",
+          "official_name:zh-Hant": "葡萄牙共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -31.5575303,
+              39.4456383
+            ],
+            [
+              -31.5572592,
+              39.4323546
+            ],
+            [
+              -31.5558682,
+              39.4191133
+            ],
+            [
+              -31.5503015,
+              39.3857368
+            ],
+            [
+              -31.5482897,
+              39.3757037
+            ],
+            [
+              -31.544687,
+              39.3627155
+            ],
+            [
+              -31.5399992,
+              39.3499376
+            ],
+            [
+              -31.5342466,
+              39.3374249
+            ],
+            [
+              -31.512893,
+              39.2959079
+            ],
+            [
+              -31.5065608,
+              39.2845981
+            ],
+            [
+              -31.4999215,
+              39.27441
+            ],
+            [
+              -31.4874338,
+              39.2565244
+            ],
+            [
+              -31.4786675,
+              39.245119
+            ],
+            [
+              -31.4689637,
+              39.2341827
+            ],
+            [
+              -31.4583636,
+              39.2237624
+            ],
+            [
+              -31.446913,
+              39.2139027
+            ],
+            [
+              -31.4346613,
+              39.2046451
+            ],
+            [
+              -31.4216604,
+              39.1960297
+            ],
+            [
+              -31.4079663,
+              39.1880925
+            ],
+            [
+              -31.3955074,
+              39.1817529
+            ],
+            [
+              -31.3832588,
+              39.1759077
+            ],
+            [
+              -31.3683579,
+              39.1694247
+            ],
+            [
+              -31.3529466,
+              39.1637121
+            ],
+            [
+              -31.3370904,
+              39.1587943
+            ],
+            [
+              -31.3208572,
+              39.1546923
+            ],
+            [
+              -31.3043155,
+              39.1514234
+            ],
+            [
+              -31.287536,
+              39.1490017
+            ],
+            [
+              -31.2705897,
+              39.1474372
+            ],
+            [
+              -31.2535489,
+              39.1467368
+            ],
+            [
+              -31.2364854,
+              39.1469033
+            ],
+            [
+              -31.2194724,
+              39.147936
+            ],
+            [
+              -31.208125,
+              39.149112
+            ],
+            [
+              -31.1297057,
+              39.1585775
+            ],
+            [
+              -31.1241607,
+              39.1592923
+            ],
+            [
+              -31.1074589,
+              39.1620301
+            ],
+            [
+              -31.0910215,
+              39.16561
+            ],
+            [
+              -31.0749182,
+              39.1700169
+            ],
+            [
+              -31.0592175,
+              39.1752324
+            ],
+            [
+              -31.0439862,
+              39.181234
+            ],
+            [
+              -31.0161677,
+              39.1934704
+            ],
+            [
+              -31.0046886,
+              39.1988334
+            ],
+            [
+              -31,
+              39.2013235289958
+            ],
+            [
+              -31,
+              39.905460997366795
+            ],
+            [
+              -31.0111002,
+              39.9095715
+            ],
+            [
+              -31.0270979,
+              39.914529
+            ],
+            [
+              -31.043484,
+              39.9186678
+            ],
+            [
+              -31.0601885,
+              39.9219703
+            ],
+            [
+              -31.0771388,
+              39.9244221
+            ],
+            [
+              -31.0942621,
+              39.9260128
+            ],
+            [
+              -31.1114841,
+              39.9267353
+            ],
+            [
+              -31.128731,
+              39.9265866
+            ],
+            [
+              -31.1459276,
+              39.9255675
+            ],
+            [
+              -31.1630001,
+              39.9236821
+            ],
+            [
+              -31.179875,
+              39.9209387
+            ],
+            [
+              -31.1964789,
+              39.9173492
+            ],
+            [
+              -31.2127405,
+              39.9129288
+            ],
+            [
+              -31.2285897,
+              39.907697
+            ],
+            [
+              -31.2439582,
+              39.901676
+            ],
+            [
+              -31.2587795,
+              39.894892
+            ],
+            [
+              -31.2729904,
+              39.8873739
+            ],
+            [
+              -31.2865295,
+              39.8791545
+            ],
+            [
+              -31.2993386,
+              39.8702691
+            ],
+            [
+              -31.3113631,
+              39.8607558
+            ],
+            [
+              -31.3225513,
+              39.8506558
+            ],
+            [
+              -31.3328552,
+              39.8400123
+            ],
+            [
+              -31.3422312,
+              39.8288712
+            ],
+            [
+              -31.350422,
+              39.8176038
+            ],
+            [
+              -31.5049363,
+              39.5873366
+            ],
+            [
+              -31.512292,
+              39.5753343
+            ],
+            [
+              -31.5186154,
+              39.5629849
+            ],
+            [
+              -31.5429324,
+              39.5091025
+            ],
+            [
+              -31.5474581,
+              39.498057
+            ],
+            [
+              -31.5516342,
+              39.4851725
+            ],
+            [
+              -31.5547127,
+              39.4721038
+            ],
+            [
+              -31.5566806,
+              39.4589068
+            ],
+            [
+              -31.5575303,
+              39.4456383
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192758,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Libya",
+        "local_name": "ليبيا",
+        "name_en": "Libya",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+          "name": "ليبيا",
+          "name:af": "Libië",
+          "name:am": "ሊቢያ",
+          "name:an": "Libia",
+          "name:ar": "ليبيا",
+          "name:az": "Liviya",
+          "name:ba": "Ливия",
+          "name:be": "Лівія",
+          "name:bg": "Либия",
+          "name:bm": "Libya",
+          "name:bn": "লিবিয়া",
+          "name:bo": "ལི་པི་ཡ།",
+          "name:br": "Libia",
+          "name:bs": "Libija",
+          "name:ca": "Líbia",
+          "name:ce": "Ливи",
+          "name:cs": "Libye",
+          "name:cv": "Ливи",
+          "name:cy": "Libya",
+          "name:da": "Libyen",
+          "name:de": "Libyen",
+          "name:dv": "ލީބިޔާ",
+          "name:ee": "Libya",
+          "name:el": "Λιβύη",
+          "name:en": "Libya",
+          "name:eo": "Libio",
+          "name:es": "Libia",
+          "name:et": "Liibüa",
+          "name:eu": "Libia",
+          "name:fa": "لیبی",
+          "name:fi": "Libya",
+          "name:fo": "Libya",
+          "name:fr": "Libye",
+          "name:fy": "Lybje",
+          "name:ga": "An Libia",
+          "name:gd": "Libia",
+          "name:gl": "Libia",
+          "name:gn": "Livia",
+          "name:gv": "Yn Leeb",
+          "name:ha": "Libya",
+          "name:he": "לוב",
+          "name:hi": "लीबिया",
+          "name:hr": "Libija",
+          "name:ht": "Libi",
+          "name:hu": "Líbia",
+          "name:hy": "Լիբիա",
+          "name:ia": "Libya",
+          "name:id": "Libya",
+          "name:ie": "Libya",
+          "name:io": "Libia",
+          "name:is": "Líbýa",
+          "name:it": "Libia",
+          "name:ja": "リビア",
+          "name:jv": "Libya",
+          "name:ka": "ლიბია",
+          "name:kg": "Libia",
+          "name:kk": "Ливия",
+          "name:kl": "Libya",
+          "name:kn": "ಲಿಬಿಯಾ",
+          "name:ko": "리비아",
+          "name:ks": "لِبیا",
+          "name:ku": "Lîbya",
+          "name:kw": "Libi",
+          "name:ky": "Ливия",
+          "name:la": "Libya",
+          "name:lb": "Libyen",
+          "name:li": "Libië",
+          "name:ln": "Libîya",
+          "name:lt": "Libija",
+          "name:lv": "Lībija",
+          "name:mg": "Libia",
+          "name:mi": "Rīpia",
+          "name:mk": "Либија",
+          "name:ml": "ലിബിയ",
+          "name:mn": "Ливи",
+          "name:mr": "लीबिया",
+          "name:ms": "Libya",
+          "name:mt": "Libja",
+          "name:my": "လစ်ဗျားနိုင်ငံ",
+          "name:ne": "लिबिया",
+          "name:nl": "Libië",
+          "name:nn": "Libya",
+          "name:no": "Libya",
+          "name:nv": "Łíbya",
+          "name:oc": "Libia",
+          "name:or": "ଲିବିଆ",
+          "name:os": "Ливи",
+          "name:pa": "ਲੀਬੀਆ",
+          "name:pl": "Libia",
+          "name:ps": "لېبيا",
+          "name:pt": "Líbia",
+          "name:qu": "Libya",
+          "name:ro": "Libia",
+          "name:ru": "Ливия",
+          "name:rw": "Libiya",
+          "name:sa": "लिबिया",
+          "name:sc": "Lìbia",
+          "name:se": "Libya",
+          "name:sg": "Libïi",
+          "name:sh": "Libija",
+          "name:si": "ලිබියාව",
+          "name:sk": "Líbya",
+          "name:sl": "Libija",
+          "name:sm": "Libya",
+          "name:sn": "Libya",
+          "name:so": "Libiya",
+          "name:sq": "Libia",
+          "name:sr": "Либија",
+          "name:ss": "ILibhiya",
+          "name:su": "Libya",
+          "name:sv": "Libyen",
+          "name:sw": "Libya",
+          "name:ta": "லிபியா",
+          "name:te": "లిబియా",
+          "name:tg": "Либия",
+          "name:th": "ประเทศลิเบีย",
+          "name:ti": "ሊቢያ",
+          "name:tk": "Liwiýa",
+          "name:tl": "Libya",
+          "name:tr": "Libya",
+          "name:ts": "Libiya",
+          "name:tt": "Ливия",
+          "name:ug": "لىۋىيە",
+          "name:uk": "Лівія",
+          "name:ur": "لیبیا",
+          "name:uz": "Liviya",
+          "name:vi": "Libya",
+          "name:vo": "Lübän",
+          "name:wa": "Libeye",
+          "name:wo": "Libi",
+          "name:yi": "ליביע",
+          "name:yo": "Líbyà",
+          "name:zh": "利比亚 / 利比亞",
+          "name:zu": "ILibiya",
+          "boundary": "administrative",
+          "name:ace": "Libya",
+          "name:als": "Libyen",
+          "name:ang": "Libia",
+          "name:arc": "ܠܘܒܐ",
+          "name:arz": "ليبيا",
+          "name:ast": "Libia",
+          "name:bar": "Libyen",
+          "name:bcl": "Libya",
+          "name:ber": "ⵍⵉⴱⵢⴰ",
+          "name:bjn": "Libya",
+          "name:bpy": "লিবিয়া",
+          "name:bug": "Libya",
+          "name:bxr": "Ливи",
+          "name:ceb": "Libya",
+          "name:ckb": "لیبیا",
+          "name:cop": "ⲧⲉⲙⲫⲁⲓⲁⲧ",
+          "name:crh": "Libiya",
+          "name:din": "Libya",
+          "name:diq": "Libya",
+          "name:dsb": "Libyska",
+          "name:ext": "Líbia",
+          "name:frp": "Libie",
+          "name:frr": "Libyen",
+          "name:gag": "Liviya",
+          "name:hak": "Libya",
+          "name:hif": "Libya",
+          "name:hsb": "Libyska",
+          "name:ilo": "Libya",
+          "name:jbo": "libgu'e",
+          "name:kab": "Libya",
+          "name:lad": "Libya",
+          "name:lij": "Libia",
+          "name:lmo": "Libia",
+          "name:lzh": "利比亞",
+          "name:mdf": "Ливие",
+          "name:min": "Libya",
+          "name:mrj": "Ливи",
+          "name:mzn": "لیبی",
+          "name:nah": "Libia",
+          "name:nan": "Libya",
+          "name:nap": "Libbia",
+          "name:nds": "Libyen",
+          "name:new": "लिब्या",
+          "name:nov": "Libia",
+          "name:nso": "Libya",
+          "name:pag": "Libia",
+          "name:pam": "Libya",
+          "name:pap": "Libia",
+          "name:pfl": "Libye",
+          "name:pih": "Libiia",
+          "name:pms": "Libia",
+          "name:pnb": "لبیا",
+          "name:rue": "Лібія",
+          "name:sah": "Лиибийэ",
+          "name:scn": "Libbia",
+          "name:sco": "Libie",
+          "name:smn": "Libya",
+          "name:sms": "Libya",
+          "name:stq": "Libyen",
+          "name:szl": "Libijo",
+          "name:tzl": "Libia",
+          "name:vec": "Łibia",
+          "name:vls": "Libië",
+          "name:vro": "Liibüä",
+          "name:war": "Libya",
+          "name:xal": "Либудин Аһу Социгализмин Араб Улс Орн",
+          "name:xmf": "ლიბია",
+          "name:yue": "利比亞",
+          "name:zea": "Libië",
+          "name:zgh": "ⵍⵉⴱⵢⴰ",
+          "timezone": "Africa/Tripoli",
+          "way_area": "157.672",
+          "wikidata": "Q1016",
+          "ISO3166-1": "LY",
+          "wikipedia": "ar:ليبيا",
+          "admin_level": "2",
+          "alt_name:vi": "Libi",
+          "name:nds-nl": "Libië",
+          "name:simple": "Libya",
+          "name:bat-smg": "Lėbėjė",
+          "name:cbk-zam": "Libya",
+          "name:ku-Arab": "لیبیا",
+          "name:map-bms": "Libya",
+          "name:zh-Hans": "利比亚",
+          "name:zh-Hant": "利比亞",
+          "official_name": "دولة ليبيا",
+          "name:be-tarask": "Лібія",
+          "ISO3166-1:alpha2": "LY",
+          "ISO3166-1:alpha3": "LBY",
+          "default_language": "ar",
+          "official_name:ar": "دولة ليبيا",
+          "official_name:cs": "Libyjský stát",
+          "official_name:fa": "دولت لیبی",
+          "official_name:ur": "ریاست لیبیا",
+          "ISO3166-1:numeric": "434"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23,
+              32
+            ],
+            [
+              24,
+              32
+            ],
+            [
+              24,
+              32.30985126980009
+            ],
+            [
+              23.9455396,
+              32.3258862
+            ],
+            [
+              23.8415304,
+              32.357273
+            ],
+            [
+              23.8256791,
+              32.3612781
+            ],
+            [
+              23.811174,
+              32.3637111
+            ],
+            [
+              23.7822277,
+              32.3708564
+            ],
+            [
+              23.771343,
+              32.3732681
+            ],
+            [
+              23.7597401,
+              32.3753232
+            ],
+            [
+              23.7381905,
+              32.377795
+            ],
+            [
+              23.7212388,
+              32.3789905
+            ],
+            [
+              23.7020605,
+              32.38142
+            ],
+            [
+              23.6868565,
+              32.3824784
+            ],
+            [
+              23.5005047,
+              32.3794077
+            ],
+            [
+              23.4790821,
+              32.3863821
+            ],
+            [
+              23.4652928,
+              32.4300339
+            ],
+            [
+              23.4590228,
+              32.4461806
+            ],
+            [
+              23.4553071,
+              32.4540458
+            ],
+            [
+              23.4512633,
+              32.4617136
+            ],
+            [
+              23.4455175,
+              32.4712233
+            ],
+            [
+              23.4392986,
+              32.480348
+            ],
+            [
+              23.4069564,
+              32.5239382
+            ],
+            [
+              23.3747877,
+              32.5682981
+            ],
+            [
+              23.3630921,
+              32.5824789
+            ],
+            [
+              23.3650137,
+              32.6095371
+            ],
+            [
+              23.3651414,
+              32.6160856
+            ],
+            [
+              23.3648141,
+              32.6244326
+            ],
+            [
+              23.3635999,
+              32.6373954
+            ],
+            [
+              23.3620292,
+              32.6461578
+            ],
+            [
+              23.3602256,
+              32.6550074
+            ],
+            [
+              23.3576834,
+              32.6642741
+            ],
+            [
+              23.3546744,
+              32.6733429
+            ],
+            [
+              23.348237,
+              32.6887928
+            ],
+            [
+              23.3389937,
+              32.7061649
+            ],
+            [
+              23.3293411,
+              32.7203653
+            ],
+            [
+              23.3173184,
+              32.7360706
+            ],
+            [
+              23.3091545,
+              32.7459077
+            ],
+            [
+              23.3009747,
+              32.7549371
+            ],
+            [
+              23.2937779,
+              32.7619606
+            ],
+            [
+              23.2857068,
+              32.7691215
+            ],
+            [
+              23.276548,
+              32.7764029
+            ],
+            [
+              23.2700579,
+              32.7811809
+            ],
+            [
+              23.2633606,
+              32.7857111
+            ],
+            [
+              23.2613754,
+              32.7866923
+            ],
+            [
+              23.2561317,
+              32.79025
+            ],
+            [
+              23.2537837,
+              32.792295
+            ],
+            [
+              23.2466064,
+              32.7969437
+            ],
+            [
+              23.2394031,
+              32.8012821
+            ],
+            [
+              23.2298853,
+              32.8065332
+            ],
+            [
+              23.2200216,
+              32.811431
+            ],
+            [
+              23.2093999,
+              32.8161142
+            ],
+            [
+              23.1985925,
+              32.8202744
+            ],
+            [
+              23.1883652,
+              32.8237097
+            ],
+            [
+              23.1780352,
+              32.8267713
+            ],
+            [
+              23.1233128,
+              32.8397782
+            ],
+            [
+              23.111838,
+              32.8436272
+            ],
+            [
+              23.0982902,
+              32.847443
+            ],
+            [
+              23.0887137,
+              32.8496936
+            ],
+            [
+              23.0791804,
+              32.8517096
+            ],
+            [
+              23.0694943,
+              32.8532307
+            ],
+            [
+              23.0598389,
+              32.8545072
+            ],
+            [
+              23.0461083,
+              32.8556864
+            ],
+            [
+              23.042007,
+              32.8558513
+            ],
+            [
+              23.0250557,
+              32.8577221
+            ],
+            [
+              23,
+              32.86741939004185
+            ],
+            [
+              23,
+              32
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

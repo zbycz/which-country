@@ -1,0 +1,974 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192786,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Niger",
+        "local_name": "Niger",
+        "name_en": "Niger",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+          "name": "Niger",
+          "name:af": "Niger",
+          "name:am": "ኒጄር",
+          "name:an": "Nícher",
+          "name:ar": "النيجر",
+          "name:az": "Niger",
+          "name:ba": "Нигер",
+          "name:be": "Нігер",
+          "name:bg": "Нигер",
+          "name:bm": "Nijer",
+          "name:bn": "নাইজার",
+          "name:bo": "ནི་ཇར།",
+          "name:br": "Niger",
+          "name:bs": "Niger",
+          "name:ca": "Níger",
+          "name:ce": "Нигер",
+          "name:cs": "Niger",
+          "name:cy": "Niger",
+          "name:da": "Niger",
+          "name:de": "Niger",
+          "name:dv": "ނީޖަރު",
+          "name:ee": "Niger",
+          "name:el": "Νίγηρας",
+          "name:en": "Niger",
+          "name:eo": "Niĝero",
+          "name:es": "Níger",
+          "name:et": "Niger",
+          "name:eu": "Niger",
+          "name:fa": "نیجر",
+          "name:fi": "Niger",
+          "name:fo": "Niger",
+          "name:fr": "Niger",
+          "name:fy": "Niger",
+          "name:ga": "An Nígir",
+          "name:gd": "Nìgeir",
+          "name:gl": "Níxer",
+          "name:gn": "Níher",
+          "name:gu": "નાઈજર",
+          "name:gv": "Yn Neegeyr",
+          "name:ha": "Nijar",
+          "name:he": "ניז'ר",
+          "name:hi": "नाइजर",
+          "name:hr": "Niger",
+          "name:ht": "Nijè",
+          "name:hu": "Niger",
+          "name:hy": "Նիգեր",
+          "name:ia": "Niger",
+          "name:id": "Niger",
+          "name:ie": "Niger",
+          "name:ig": "Niger",
+          "name:io": "Nijer",
+          "name:is": "Níger",
+          "name:it": "Niger",
+          "name:ja": "ニジェール",
+          "name:jv": "Niger",
+          "name:ka": "ნიგერი",
+          "name:kg": "Nijer",
+          "name:kk": "Нигер",
+          "name:ko": "니제르",
+          "name:ku": "Nîjer",
+          "name:kw": "Pow Nijer",
+          "name:la": "Nigritania",
+          "name:lb": "Niger",
+          "name:li": "Niger",
+          "name:ln": "Nizer",
+          "name:lt": "Nigeris",
+          "name:lv": "Nigēra",
+          "name:mi": "Ngāika",
+          "name:mk": "Нигер",
+          "name:ml": "നീഷർ",
+          "name:mn": "Нигер",
+          "name:mr": "नायजर",
+          "name:ms": "Niger",
+          "name:mt": "Niġer",
+          "name:my": "နိုင်ဂျာနိုင်ငံ",
+          "name:nl": "Niger",
+          "name:nn": "Niger",
+          "name:no": "Niger",
+          "name:oc": "Nigèr",
+          "name:or": "ନାଇଜର",
+          "name:os": "Нигер",
+          "name:pa": "ਨਾਈਜਰ",
+          "name:pl": "Niger",
+          "name:ps": "نایجېر",
+          "name:pt": "Níger",
+          "name:qu": "Niqir",
+          "name:ro": "Niger",
+          "name:ru": "Нигер",
+          "name:rw": "Nigeri",
+          "name:sa": "नीजे",
+          "name:sc": "Nixèr",
+          "name:se": "Niger",
+          "name:sg": "Nizëre",
+          "name:sh": "Niger",
+          "name:si": "නයිජර්",
+          "name:sk": "Niger",
+          "name:sl": "Niger",
+          "name:sn": "Niger",
+          "name:so": "Nayjar",
+          "name:sq": "Nigeri",
+          "name:sr": "Нигер",
+          "name:ss": "INayijari",
+          "name:su": "Niger",
+          "name:sv": "Niger",
+          "name:sw": "Niger",
+          "name:ta": "நைஜர்",
+          "name:te": "నైజర్",
+          "name:tg": "Ниҷер",
+          "name:th": "ประเทศไนเจอร์",
+          "name:ti": "ናይጀር",
+          "name:tk": "Niger",
+          "name:tl": "Niyer",
+          "name:tr": "Nijer",
+          "name:ts": "Niger",
+          "name:ug": "نىگېر",
+          "name:uk": "Нігер",
+          "name:ur": "نائجر",
+          "name:uz": "Niger",
+          "name:vi": "Niger",
+          "name:vo": "Nigerän",
+          "name:wo": "Niseer",
+          "name:yi": "ניזשער",
+          "name:yo": "Nìjẹ̀r",
+          "name:zh": "尼日尔 / 尼日",
+          "name:zu": "INayighe",
+          "boundary": "administrative",
+          "name:ace": "Niger",
+          "name:als": "Niger",
+          "name:arc": "ܢܝܓܪ",
+          "name:arz": "نيجر",
+          "name:ast": "Níxer",
+          "name:bcl": "Niger",
+          "name:bjn": "Niger",
+          "name:bpy": "নাইজের",
+          "name:bxr": "Нигер",
+          "name:ceb": "Niger",
+          "name:ckb": "نیجەر",
+          "name:crh": "Niger",
+          "name:din": "Nijer",
+          "name:diq": "Nicer",
+          "name:dsb": "Niger",
+          "name:ext": "Nigi",
+          "name:frp": "Nig·èr",
+          "name:gag": "Niger",
+          "name:hif": "Niger",
+          "name:hsb": "Niger",
+          "name:ilo": "Niger",
+          "name:jbo": "gugdenu'e",
+          "name:kab": "Nnijer",
+          "name:lij": "Niger",
+          "name:lmo": "Niger",
+          "name:mrj": "Нигер",
+          "name:nah": "Niger",
+          "name:nan": "Niger",
+          "name:nds": "Niger",
+          "name:nov": "Niger",
+          "name:nso": "Niger",
+          "name:pam": "Niger",
+          "name:pih": "Niijir",
+          "name:pms": "Nìger",
+          "name:pnb": "نائجر",
+          "name:rue": "Ніґер",
+          "name:sah": "Нигер",
+          "name:scn": "Niger",
+          "name:sco": "Niger",
+          "name:smn": "Niger",
+          "name:sms": "Niger",
+          "name:stq": "Niger",
+          "name:szl": "Ńiger",
+          "name:tzl": "Niger",
+          "name:vec": "Niger",
+          "name:vro": "Niger",
+          "name:war": "Niger",
+          "name:xal": "Нигермудин Орн",
+          "name:yue": "尼日爾",
+          "timezone": "Africa/Niamey",
+          "way_area": "100.534",
+          "wikidata": "Q1032",
+          "ISO3166-1": "NE",
+          "wikipedia": "fr:Niger",
+          "admin_level": "2",
+          "alt_name:eo": "Niĝerlando",
+          "name:bat-smg": "Nigeris",
+          "name:zh-Hans": "尼日尔",
+          "name:zh-Hant": "尼日",
+          "name:be-tarask": "Нігер",
+          "ISO3166-1:alpha2": "NE",
+          "ISO3166-1:alpha3": "NER",
+          "default_language": "fr",
+          "official_name:ar": "جمهورية النيجر",
+          "official_name:cs": "Nigerská republika",
+          "official_name:de": "Republik Niger",
+          "official_name:en": "Republic of Niger",
+          "official_name:es": "República del Níger",
+          "official_name:fr": "République du Niger",
+          "official_name:gn": "Tavakuairetã Níger",
+          "official_name:pt": "República do Níger",
+          "official_name:ru": "Республика Нигер",
+          "ISO3166-1:numeric": "562",
+          "official_name:din": "Paankɔc ke Nijer",
+          "official_name:nds": "Republiek Niger"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9,
+              12.837866971774194
+            ],
+            [
+              9.00018,
+              12.837916
+            ],
+            [
+              9.010021,
+              12.840282
+            ],
+            [
+              9.024287,
+              12.837202
+            ],
+            [
+              9.051558,
+              12.833893
+            ],
+            [
+              9.063145,
+              12.834672
+            ],
+            [
+              9.079073,
+              12.834104
+            ],
+            [
+              9.082561,
+              12.834169
+            ],
+            [
+              9.083774,
+              12.834224
+            ],
+            [
+              9.088852,
+              12.835119
+            ],
+            [
+              9.110713,
+              12.833858
+            ],
+            [
+              9.112169,
+              12.833572
+            ],
+            [
+              9.116578,
+              12.833287
+            ],
+            [
+              9.13042,
+              12.833003
+            ],
+            [
+              9.145367,
+              12.833244
+            ],
+            [
+              9.167877,
+              12.834309
+            ],
+            [
+              9.181895,
+              12.834266
+            ],
+            [
+              9.184332,
+              12.830529
+            ],
+            [
+              9.198234,
+              12.826747
+            ],
+            [
+              9.199536,
+              12.826512
+            ],
+            [
+              9.246312,
+              12.824853
+            ],
+            [
+              9.252417,
+              12.824541
+            ],
+            [
+              9.252703,
+              12.824261
+            ],
+            [
+              9.25389,
+              12.824289
+            ],
+            [
+              9.255339,
+              12.823993
+            ],
+            [
+              9.258621,
+              12.824011
+            ],
+            [
+              9.266992,
+              12.823376
+            ],
+            [
+              9.270153,
+              12.823297
+            ],
+            [
+              9.299442,
+              12.818925
+            ],
+            [
+              9.331097,
+              12.811057
+            ],
+            [
+              9.386299,
+              12.822967
+            ],
+            [
+              9.440481,
+              12.81845
+            ],
+            [
+              9.46401,
+              12.81598
+            ],
+            [
+              9.500619,
+              12.814636
+            ],
+            [
+              9.502507,
+              12.81447
+            ],
+            [
+              9.504228,
+              12.814118
+            ],
+            [
+              9.507417,
+              12.814119
+            ],
+            [
+              9.511836,
+              12.813638
+            ],
+            [
+              9.515766,
+              12.813462
+            ],
+            [
+              9.51849,
+              12.813527
+            ],
+            [
+              9.521369,
+              12.8131
+            ],
+            [
+              9.523785,
+              12.813118
+            ],
+            [
+              9.525646,
+              12.812651
+            ],
+            [
+              9.537901,
+              12.811666
+            ],
+            [
+              9.541572,
+              12.811197
+            ],
+            [
+              9.551933,
+              12.810608
+            ],
+            [
+              9.555728,
+              12.810785
+            ],
+            [
+              9.558616,
+              12.810669
+            ],
+            [
+              9.560222,
+              12.811424
+            ],
+            [
+              9.574598,
+              12.810958
+            ],
+            [
+              9.586418,
+              12.810854
+            ],
+            [
+              9.600058,
+              12.810349
+            ],
+            [
+              9.605496,
+              12.810422
+            ],
+            [
+              9.615636,
+              12.810095
+            ],
+            [
+              9.627707,
+              12.807406
+            ],
+            [
+              9.658716,
+              12.807702
+            ],
+            [
+              9.688666,
+              12.83929
+            ],
+            [
+              9.7347326,
+              12.8894191
+            ],
+            [
+              9.763784,
+              12.92134
+            ],
+            [
+              9.7965,
+              12.955585
+            ],
+            [
+              9.82434178136882,
+              13
+            ],
+            [
+              9,
+              13
+            ],
+            [
+              9,
+              12.837866971774194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192787,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Nigeria",
+        "local_name": "Nigeria",
+        "name_en": "Nigeria",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+          "name": "Nigeria",
+          "name:af": "Nigerië",
+          "name:ak": "Nigeria",
+          "name:am": "ናይጄሪያ",
+          "name:an": "Nicheria",
+          "name:ar": "نيجيريا",
+          "name:az": "Nigeriya",
+          "name:ba": "Нигерия",
+          "name:be": "Нігерыя",
+          "name:bg": "Нигерия",
+          "name:bm": "Nijeria",
+          "name:bn": "নাইজেরিয়া",
+          "name:bo": "ནི་ཇི་རི་ཡ།",
+          "name:br": "Nigeria",
+          "name:bs": "Nigerija",
+          "name:ca": "Nigèria",
+          "name:ce": "Нигери",
+          "name:cs": "Nigérie",
+          "name:cv": "Нигери",
+          "name:cy": "Nigeria",
+          "name:da": "Nigeria",
+          "name:de": "Nigeria",
+          "name:dv": "ނައިޖީރިއާ",
+          "name:ee": "Nigeria",
+          "name:el": "Νιγηρία",
+          "name:en": "Nigeria",
+          "name:eo": "Niĝerio",
+          "name:es": "Nigeria",
+          "name:et": "Nigeeria",
+          "name:eu": "Nigeria",
+          "name:fa": "نیجریه",
+          "name:ff": "Niiseriya",
+          "name:fi": "Nigeria",
+          "name:fo": "Nigeria",
+          "name:fr": "Nigéria",
+          "name:fy": "Nigearia",
+          "name:ga": "An Nigéir",
+          "name:gd": "Nìgeiria",
+          "name:gl": "Nixeria",
+          "name:gn": "Niheria",
+          "name:gu": "નાઈજેરિયા",
+          "name:gv": "Yn Naigeer",
+          "name:ha": "Nijeriya",
+          "name:he": "ניגריה",
+          "name:hi": "नाईजीरिया",
+          "name:hr": "Nigerija",
+          "name:ht": "Nijerya",
+          "name:hu": "Nigéria",
+          "name:hy": "Նիգերիա",
+          "name:ia": "Nigeria",
+          "name:id": "Nigeria",
+          "name:ie": "Nigeria",
+          "name:ig": "Naigeria",
+          "name:io": "Nigeria",
+          "name:is": "Nígería",
+          "name:it": "Nigeria",
+          "name:ja": "ナイジェリア",
+          "name:jv": "Nigeria",
+          "name:ka": "ნიგერია",
+          "name:kg": "Nizeria",
+          "name:kk": "Нигерия",
+          "name:kn": "ನೈಜೀರಿಯ",
+          "name:ko": "나이지리아",
+          "name:ks": "نایجیرِیا",
+          "name:ku": "Nîjerya",
+          "name:kw": "Nijeri",
+          "name:la": "Nigeria",
+          "name:lb": "Nigeria",
+          "name:li": "Nigeria",
+          "name:ln": "Nizeria",
+          "name:lt": "Nigerija",
+          "name:lv": "Nigērija",
+          "name:mg": "Nizeria",
+          "name:mi": "Ngāitiria",
+          "name:mk": "Нигерија",
+          "name:ml": "നൈജീരിയ",
+          "name:mn": "Нигери",
+          "name:mr": "नायजेरिया",
+          "name:ms": "Nigeria",
+          "name:mt": "Niġerja",
+          "name:my": "နိုင်ဂျီးရီးယားနိုင်ငံ",
+          "name:ne": "नाइजेरिया",
+          "name:nl": "Nigeria",
+          "name:nn": "Nigeria",
+          "name:no": "Nigeria",
+          "name:oc": "Nigèria",
+          "name:or": "ନାଇଜେରିଆ",
+          "name:os": "Нигери",
+          "name:pa": "ਨਾਈਜੀਰੀਆ",
+          "name:pl": "Nigeria",
+          "name:ps": "نايجېريا",
+          "name:pt": "Nigéria",
+          "name:qu": "Niqirya",
+          "name:ro": "Nigeria",
+          "name:ru": "Нигерия",
+          "name:rw": "Nijeriya",
+          "name:sa": "नैजीरिया",
+          "name:sc": "Nigéria",
+          "name:se": "Nigeria",
+          "name:sg": "Nizerïa",
+          "name:sh": "Nigerija",
+          "name:sk": "Nigéria",
+          "name:sl": "Nigerija",
+          "name:sn": "Nigeria",
+          "name:so": "Nayjeeriya",
+          "name:sq": "Nigeria",
+          "name:sr": "Нигерија",
+          "name:ss": "INayijeriya",
+          "name:su": "Nigeria",
+          "name:sv": "Nigeria",
+          "name:sw": "Nigeria",
+          "name:ta": "நைஜீரியா",
+          "name:te": "నైజీరియా",
+          "name:tg": "Ниҷерия",
+          "name:th": "ประเทศไนจีเรีย",
+          "name:ti": "ናይጂሪያ",
+          "name:tk": "Nigeriýa",
+          "name:tl": "Nigerya",
+          "name:tr": "Nijerya",
+          "name:ts": "Nigeria",
+          "name:tt": "Нигерия",
+          "name:ug": "نىگېرىيە",
+          "name:uk": "Нігерія",
+          "name:ur": "نائجیریا",
+          "name:uz": "Nigeriya",
+          "name:vi": "Nigeria",
+          "name:vo": "Nigeriyän",
+          "name:wa": "Nidjeria",
+          "name:xh": "INigeria",
+          "name:yi": "ניגעריע",
+          "name:yo": "Nàìjíríà",
+          "name:za": "Nizywlihya",
+          "name:zh": "尼日利亚 / 奈及利亞",
+          "name:zu": "INigeria",
+          "boundary": "administrative",
+          "name:als": "Nigeria",
+          "name:ang": "Nigeria",
+          "name:arz": "نايجيريا",
+          "name:ast": "Nixeria",
+          "name:bar": "Nigeria",
+          "name:bcl": "Nigerya",
+          "name:bjn": "Nigeria",
+          "name:bpy": "নাইজেরিয়া",
+          "name:bxr": "Нигери",
+          "name:ceb": "Nigeria",
+          "name:ckb": "نێجیریا",
+          "name:crh": "Nigeriya",
+          "name:din": "Naijeria",
+          "name:diq": "Nicerya",
+          "name:dsb": "Nigerija",
+          "name:ext": "Nigéria",
+          "name:frp": "Nig·èria",
+          "name:gag": "Nigeriya",
+          "name:gan": "尼日利亞",
+          "name:hak": "Nai-khi̍p-li-â",
+          "name:hif": "Nigeria",
+          "name:hsb": "Nigerija",
+          "name:ilo": "Nigeria",
+          "name:jbo": "gugdrnaidjiria",
+          "name:lad": "Nijeria",
+          "name:lez": "Нигерия",
+          "name:lij": "Nigeria",
+          "name:lmo": "Nigeria",
+          "name:ltg": "Nigereja",
+          "name:lzh": "尼日利亞",
+          "name:mrj": "Нигери",
+          "name:nah": "Nigeria",
+          "name:nan": "Nigeria",
+          "name:nds": "Nigeria",
+          "name:nov": "Nigeria",
+          "name:nso": "Nigeria",
+          "name:pam": "Nigeria",
+          "name:pap": "Nigeria",
+          "name:pih": "Niijiirya",
+          "name:pms": "Nigeria",
+          "name:pnb": "نائیجیریا",
+          "name:rue": "Ніґерія",
+          "name:sah": "Нигерия",
+          "name:scn": "Nigeria",
+          "name:sco": "Nigerie",
+          "name:smn": "Nigeria",
+          "name:sms": "Nigeria",
+          "name:stq": "Nigeria",
+          "name:szl": "Ńigeryjo",
+          "name:tpi": "Naijiria",
+          "name:tzl": "Nigeria",
+          "name:vec": "Nigeria",
+          "name:vro": "Nigeeriä",
+          "name:war": "Nigerya",
+          "name:wuu": "尼日利亚",
+          "name:xal": "Нигермудин Ниицәтә Орн",
+          "name:yue": "尼日利亞",
+          "timezone": "Africa/Lagos",
+          "way_area": "76.459",
+          "wikidata": "Q1033",
+          "ISO3166-1": "NG",
+          "wikipedia": "en:Nigeria",
+          "admin_level": "2",
+          "name:simple": "Nigeria",
+          "name:bat-smg": "Nigerėjė",
+          "name:zh-Hans": "尼日利亚",
+          "name:zh-Hant": "奈及利亞",
+          "name:roa-tara": "Nigerie",
+          "name:be-tarask": "Нігерыя",
+          "ISO3166-1:alpha2": "NG",
+          "ISO3166-1:alpha3": "NGA",
+          "default_language": "en",
+          "official_name:ar": "جمهورية نيجيريا الاتحادية",
+          "official_name:cs": "Nigerijská federativní republika",
+          "official_name:en": "Federal Republic of Nigeria",
+          "official_name:fa": "جمهوری فدرال نیجریه",
+          "ISO3166-1:numeric": "566"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9,
+              12
+            ],
+            [
+              10,
+              12
+            ],
+            [
+              10,
+              13
+            ],
+            [
+              9.82434178136882,
+              13
+            ],
+            [
+              9.7965,
+              12.955585
+            ],
+            [
+              9.763784,
+              12.92134
+            ],
+            [
+              9.7347326,
+              12.8894191
+            ],
+            [
+              9.688666,
+              12.83929
+            ],
+            [
+              9.658716,
+              12.807702
+            ],
+            [
+              9.627707,
+              12.807406
+            ],
+            [
+              9.615636,
+              12.810095
+            ],
+            [
+              9.605496,
+              12.810422
+            ],
+            [
+              9.600058,
+              12.810349
+            ],
+            [
+              9.586418,
+              12.810854
+            ],
+            [
+              9.574598,
+              12.810958
+            ],
+            [
+              9.560222,
+              12.811424
+            ],
+            [
+              9.558616,
+              12.810669
+            ],
+            [
+              9.555728,
+              12.810785
+            ],
+            [
+              9.551933,
+              12.810608
+            ],
+            [
+              9.541572,
+              12.811197
+            ],
+            [
+              9.537901,
+              12.811666
+            ],
+            [
+              9.525646,
+              12.812651
+            ],
+            [
+              9.523785,
+              12.813118
+            ],
+            [
+              9.521369,
+              12.8131
+            ],
+            [
+              9.51849,
+              12.813527
+            ],
+            [
+              9.515766,
+              12.813462
+            ],
+            [
+              9.511836,
+              12.813638
+            ],
+            [
+              9.507417,
+              12.814119
+            ],
+            [
+              9.504228,
+              12.814118
+            ],
+            [
+              9.502507,
+              12.81447
+            ],
+            [
+              9.500619,
+              12.814636
+            ],
+            [
+              9.46401,
+              12.81598
+            ],
+            [
+              9.440481,
+              12.81845
+            ],
+            [
+              9.386299,
+              12.822967
+            ],
+            [
+              9.331097,
+              12.811057
+            ],
+            [
+              9.299442,
+              12.818925
+            ],
+            [
+              9.270153,
+              12.823297
+            ],
+            [
+              9.266992,
+              12.823376
+            ],
+            [
+              9.258621,
+              12.824011
+            ],
+            [
+              9.255339,
+              12.823993
+            ],
+            [
+              9.25389,
+              12.824289
+            ],
+            [
+              9.252703,
+              12.824261
+            ],
+            [
+              9.252417,
+              12.824541
+            ],
+            [
+              9.246312,
+              12.824853
+            ],
+            [
+              9.199536,
+              12.826512
+            ],
+            [
+              9.198234,
+              12.826747
+            ],
+            [
+              9.184332,
+              12.830529
+            ],
+            [
+              9.181895,
+              12.834266
+            ],
+            [
+              9.167877,
+              12.834309
+            ],
+            [
+              9.145367,
+              12.833244
+            ],
+            [
+              9.13042,
+              12.833003
+            ],
+            [
+              9.116578,
+              12.833287
+            ],
+            [
+              9.112169,
+              12.833572
+            ],
+            [
+              9.110713,
+              12.833858
+            ],
+            [
+              9.088852,
+              12.835119
+            ],
+            [
+              9.083774,
+              12.834224
+            ],
+            [
+              9.082561,
+              12.834169
+            ],
+            [
+              9.079073,
+              12.834104
+            ],
+            [
+              9.063145,
+              12.834672
+            ],
+            [
+              9.051558,
+              12.833893
+            ],
+            [
+              9.024287,
+              12.837202
+            ],
+            [
+              9.010021,
+              12.840282
+            ],
+            [
+              9.00018,
+              12.837916
+            ],
+            [
+              9,
+              12.837866971774194
+            ],
+            [
+              9,
+              12
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

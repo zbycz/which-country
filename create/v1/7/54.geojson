@@ -1,0 +1,798 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -51477,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Germany",
+        "local_name": "Deutschland",
+        "name_en": "Germany",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+          "name": "Deutschland",
+          "name:ab": "Алмантәыла",
+          "name:af": "Duitsland",
+          "name:ak": "Germany",
+          "name:am": "ጀርመን",
+          "name:an": "Alemanya",
+          "name:ar": "ألمانيا",
+          "name:av": "Алмания",
+          "name:ay": "Alimaña",
+          "name:az": "Almaniya",
+          "name:ba": "Германия",
+          "name:be": "Германія",
+          "name:bg": "Германия",
+          "name:bi": "Germany",
+          "name:bm": "Jermani",
+          "name:bn": "জার্মানি",
+          "name:bo": "འཇར་མན།",
+          "name:br": "Alamagn",
+          "name:bs": "Njemačka",
+          "name:ca": "Alemanya",
+          "name:ce": "Германи",
+          "name:co": "Germania",
+          "name:cs": "Německo",
+          "name:cu": "Нѣмьци",
+          "name:cv": "Германи",
+          "name:cy": "Yr Almaen",
+          "name:da": "Tyskland",
+          "name:de": "Deutschland",
+          "name:dv": "ޖަރުމަނުވިލާތް",
+          "name:dz": "ཇཱར་མ་ནི",
+          "name:ee": "Germany",
+          "name:el": "Γερμανία",
+          "name:en": "Germany",
+          "name:eo": "Germanio",
+          "name:es": "Alemania",
+          "name:et": "Saksamaa",
+          "name:eu": "Alemania",
+          "name:fa": "آلمان",
+          "name:ff": "Almaanya",
+          "name:fi": "Saksa",
+          "name:fo": "Týskland",
+          "name:fr": "Allemagne",
+          "name:fy": "Dútslân",
+          "name:ga": "An Ghearmáin",
+          "name:gd": "A' Ghearmailt",
+          "name:gl": "Alemaña",
+          "name:gn": "Alemaña",
+          "name:gu": "જર્મની",
+          "name:gv": "Yn Ghermaan",
+          "name:ha": "Jamus",
+          "name:he": "גרמניה",
+          "name:hi": "जर्मनी",
+          "name:hr": "Njemačka",
+          "name:ht": "Almay",
+          "name:hu": "Németország",
+          "name:hy": "Գերմանիա",
+          "name:ia": "Germania",
+          "name:id": "Jerman",
+          "name:ie": "Germania",
+          "name:ig": "Jémanị",
+          "name:io": "Germania",
+          "name:is": "Þýskaland",
+          "name:it": "Germania",
+          "name:iu": "ᔮᒪᓂ",
+          "name:ja": "ドイツ",
+          "name:jv": "Jerman",
+          "name:ka": "გერმანია",
+          "name:kg": "Alemanyi",
+          "name:ki": "Germany",
+          "name:kk": "Германия Федеративтік Республикасы",
+          "name:kl": "Tyskit Nunaat",
+          "name:km": "អាល្លឺម៉ង់",
+          "name:kn": "ಜರ್ಮನಿ",
+          "name:ko": "독일",
+          "name:ks": "جرمٔنی",
+          "name:ku": "Almanya",
+          "name:kv": "Германия",
+          "name:kw": "Almayn",
+          "name:ky": "Германия",
+          "name:la": "Germania",
+          "name:lb": "Däitschland",
+          "name:lg": "Girimane",
+          "name:li": "Duutsjlandj",
+          "name:ln": "Alémani",
+          "name:lo": "ປະເທດເຢັຽລະມັນ",
+          "name:lt": "Vokietija",
+          "name:lv": "Vācija",
+          "name:mg": "Alemaina",
+          "name:mi": "Tiamani",
+          "name:mk": "Германија",
+          "name:ml": "ജർമ്മനി",
+          "name:mn": "Герман",
+          "name:mo": "Ӂермания",
+          "name:mr": "जर्मनी",
+          "name:ms": "Jerman",
+          "name:mt": "Ġermanja",
+          "name:my": "ဂျာမနီနိုင်ငံ",
+          "name:na": "Djermani",
+          "name:ne": "जर्मनी",
+          "name:nl": "Duitsland",
+          "name:nn": "Tyskland",
+          "name:no": "Tyskland",
+          "name:nv": "Béésh Bichʼahii Bikéyah",
+          "name:oc": "Alemanha",
+          "name:oj": "Agongosiwaki",
+          "name:or": "ଜର୍ମାନୀ",
+          "name:os": "Герман",
+          "name:pa": "ਜਰਮਨੀ",
+          "name:pl": "Niemcy",
+          "name:ps": "آلمان",
+          "name:pt": "Alemanha",
+          "name:qu": "Alimanya",
+          "name:rm": "Germania",
+          "name:rn": "Ubudagi",
+          "name:ro": "Germania",
+          "name:ru": "Германия",
+          "name:rw": "Ubudage",
+          "name:sa": "जर्मनी",
+          "name:sc": "Germània",
+          "name:se": "Duiska",
+          "name:sh": "Nemačka",
+          "name:si": "ජර්මනිය",
+          "name:sk": "Nemecko",
+          "name:sl": "Nemčija",
+          "name:sm": "Siamani",
+          "name:so": "Jarmalka",
+          "name:sq": "Gjermania",
+          "name:sr": "Немачка",
+          "name:ss": "IJalimane",
+          "name:su": "Jérman",
+          "name:sv": "Tyskland",
+          "name:sw": "Ujerumani",
+          "name:ta": "செருமனி",
+          "name:te": "జర్మనీ",
+          "name:tg": "Олмон",
+          "name:th": "ประเทศเยอรมนี",
+          "name:ti": "ጀርመን",
+          "name:tk": "Germaniýa",
+          "name:tl": "Alemanya",
+          "name:tr": "Almanya",
+          "name:ts": "Jarimani",
+          "name:tt": "Алмания",
+          "name:tw": "Gyaaman",
+          "name:ty": "Heremani",
+          "name:ug": "گېرمانىيە",
+          "name:uk": "Німеччина",
+          "name:ur": "جرمنی",
+          "name:uz": "Olmoniya",
+          "name:vi": "Đức",
+          "name:vo": "Deutän",
+          "name:wa": "Almagne",
+          "name:wo": "Almaañ",
+          "name:xh": "IJamani",
+          "name:yi": "דייטשלאנד",
+          "name:yo": "Jẹ́mánì",
+          "name:za": "Dwzgoz",
+          "name:zh": "德国",
+          "name:zu": "IJalimani",
+          "boundary": "administrative",
+          "currency": "EUR",
+          "int_name": "Germany",
+          "name:ace": "Jeureuman",
+          "name:ang": "Þēodscland",
+          "name:arc": "ܓܪܡܢ",
+          "name:arz": "المانيا",
+          "name:ast": "Alemaña",
+          "name:bar": "Deitschland",
+          "name:bcl": "Alemanya",
+          "name:bpy": "জার্মানি",
+          "name:bug": "Jerman",
+          "name:bxr": "Германи",
+          "name:cdo": "Dáik-guók",
+          "name:ceb": "Alemanya",
+          "name:chr": "ᎠᏛᏥ",
+          "name:chy": "Ma'evé'ho'éno",
+          "name:ckb": "ئاڵمانیا",
+          "name:crh": "Almaniya",
+          "name:csb": "Miemieckô",
+          "name:diq": "Almanya",
+          "name:dsb": "Nimska",
+          "name:eml": "Germâgna",
+          "name:ext": "Alemaña",
+          "name:frp": "Alemagne",
+          "name:frr": "Tjüschlönj",
+          "name:fur": "Gjermanie",
+          "name:gag": "Germaniya",
+          "name:gan": "德國",
+          "name:glk": "آلمان",
+          "name:gsw": "Ditschland",
+          "name:hak": "Tet-koet",
+          "name:haw": "Kelemānia",
+          "name:hif": "Germany",
+          "name:hsb": "Němska",
+          "name:ilo": "Alemania",
+          "name:jbo": "dotygu'e",
+          "name:kaa": "Germaniya",
+          "name:kab": "Lalman",
+          "name:kbd": "Джэрмэн",
+          "name:koi": "Немечму",
+          "name:krc": "Германия",
+          "name:ksh": "Dütschland",
+          "name:lad": "Almania",
+          "name:lez": "Германия",
+          "name:lij": "Germania",
+          "name:lmo": "Germania",
+          "name:lrc": "آلمان",
+          "name:ltg": "Vuoceja",
+          "name:lzh": "德國",
+          "name:mdf": "Германие мастор",
+          "name:mhr": "Немыч Эл",
+          "name:min": "Jerman",
+          "name:mwl": "Almanha",
+          "name:myv": "Германия Мастор",
+          "name:mzn": "آلمان",
+          "name:nah": "Teutontlālpan",
+          "name:nan": "Tek-kok",
+          "name:nap": "Germania",
+          "name:nds": "Düütschland",
+          "name:new": "जर्मनी",
+          "name:nov": "Germania",
+          "name:nrm": "Allemangne",
+          "name:pag": "Alemanya",
+          "name:pam": "Alemania",
+          "name:pap": "Alemania",
+          "name:pcd": "Alemanne",
+          "name:pdc": "Deitschland",
+          "name:pfl": "Daitschlond",
+          "name:pih": "Doichland",
+          "name:pms": "Gërmania",
+          "name:pnb": "جرمن",
+          "name:pnt": "Γερμανία",
+          "name:rmy": "Jermaniya",
+          "name:rue": "Нїмецько",
+          "name:sah": "Германия",
+          "name:scn": "Girmania",
+          "name:sco": "Germany",
+          "name:smn": "Saksa",
+          "name:sms": "Saksslajânnam",
+          "name:srn": "Doysrikondre",
+          "name:stq": "Düütsklound",
+          "name:szl": "Niymce",
+          "name:tet": "Alemaña",
+          "name:tok": "ma Tosi",
+          "name:tpi": "Siamani",
+          "name:tum": "Germany",
+          "name:tzl": "Tzaratütsch",
+          "name:udm": "Германия",
+          "name:vec": "Germania",
+          "name:vep": "Saksanma",
+          "name:vls": "Duutsland",
+          "name:vro": "S'aksamaa",
+          "name:war": "Alemanya",
+          "name:win": "Taaǧiri Mąą",
+          "name:xal": "Ниицәтә Немшин Орн",
+          "name:xmf": "გერმანია",
+          "name:yue": "德國",
+          "name:zea": "Duutsland",
+          "way_area": "49.2108",
+          "wikidata": "Q183",
+          "ISO3166-1": "DE",
+          "long_name": "Bundesrepublik Deutschland",
+          "wikipedia": "de:Deutschland",
+          "admin_level": "2",
+          "alt_name:eo": "Germanujo",
+          "border_type": "country",
+          "name:nds-nl": "Duutslaand",
+          "alt_name:pnb": "جرمنی",
+          "long_name:ar": "جمهورية ألمانيا الاتحادية",
+          "long_name:de": "Bundesrepublik Deutschland",
+          "long_name:en": "Federal Republic of Germany",
+          "long_name:es": "República Federal de Alemania",
+          "long_name:eu": "Alemaniako Errepublika Federala",
+          "long_name:fa": "جمهوری فدرال آلمان",
+          "long_name:fr": "République fédérale d'Allemagne",
+          "long_name:hu": "Németországi Szövetségi Köztársaság",
+          "long_name:it": "Repubblica Federale di Germania",
+          "long_name:nl": "Bondsrepubliek Duitsland",
+          "long_name:pl": "Republika Federalna Niemiec",
+          "long_name:ps": "المان فدرالي جمهوریت",
+          "long_name:pt": "Rebública Federal da Alemanha",
+          "long_name:ru": "Федеративная Республика Германия",
+          "long_name:sv": "Förbundsrepubliken Tyskland",
+          "long_name:uk": "Федеративна Республіка Німеччина",
+          "long_name:ur": "وفاقی جمہوریہ جرمنی",
+          "name:bat-smg": "Vuokītėjė",
+          "name:cbk-zam": "Alemania",
+          "name:map-bms": "Jerman",
+          "name:pa-Arab": "جرمن",
+          "name:sr-Latn": "Nemačka",
+          "name:zh-Hans": "德国",
+          "name:zh-Hant": "德國",
+          "long_name:azb": "آلمان فدراتیو جومهوریتی",
+          "long_name:gsw": "Bundesrepublik Ditschland",
+          "long_name:hsb": "Zwjazkowa republika Němska",
+          "name:roa-tara": "Germanie",
+          "official_name": "Bundesrepublik Deutschland",
+          "short_name:be": "ФРГ",
+          "short_name:ru": "ФРГ",
+          "name:be-tarask": "Нямеччына",
+          "ISO3166-1:alpha2": "DE",
+          "ISO3166-1:alpha3": "DEU",
+          "alt_name:pa-Arab": "جرمنی",
+          "default_language": "de",
+          "official_name:ar": "جمهورية ألمانيا الاتحادية",
+          "official_name:be": "Федэратыўная Рэспубліка Германія",
+          "official_name:cs": "Spolková republika Německo",
+          "official_name:de": "Bundesrepublik Deutschland",
+          "official_name:el": "Ομοσπονδιακή Δημοκρατία της Γερμανίας",
+          "official_name:en": "Federal Republic of Germany",
+          "official_name:eo": "Federacia Respubliko Germanio",
+          "official_name:fa": "جمهوری فدرال آلمان",
+          "official_name:fi": "Saksan liittotasavalta",
+          "official_name:fr": "République fédérale d'Allemagne",
+          "official_name:mi": "Tūwehe Whakaminenga o Tiamana",
+          "official_name:nl": "Bondsrepubliek Duitsland",
+          "official_name:pl": "Republika Federalna Niemiec",
+          "official_name:ps": "المان فدرالي جمهوریت",
+          "official_name:pt": "República Federal da Alemanha",
+          "official_name:ru": "Федеративная Республика Германия",
+          "official_name:ur": "وفاقی جمہوریہ جرمنی",
+          "ISO3166-1:numeric": "276",
+          "official_name:azb": "آلمان فدراتیو جومهوریتی",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "1"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                7.4088353,
+                54.1365048
+              ],
+              [
+                7.4088354,
+                54.0076133
+              ],
+              [
+                7.5499457,
+                54.0276137
+              ],
+              [
+                7.4485573,
+                54.1387271
+              ],
+              [
+                7.4088353,
+                54.1365048
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                7.5211615,
+                54.1958976
+              ],
+              [
+                7.5214392,
+                54.186453
+              ],
+              [
+                7.5224948,
+                54.1770083
+              ],
+              [
+                7.5243003,
+                54.1676193
+              ],
+              [
+                7.5268837,
+                54.1583135
+              ],
+              [
+                7.5301892,
+                54.1490633
+              ],
+              [
+                7.5342448,
+                54.1399242
+              ],
+              [
+                7.5390225,
+                54.1308963
+              ],
+              [
+                7.5445225,
+                54.1220072
+              ],
+              [
+                7.5507169,
+                54.1132848
+              ],
+              [
+                7.5576335,
+                54.1047569
+              ],
+              [
+                7.5651891,
+                54.0964234
+              ],
+              [
+                7.573439,
+                54.0883121
+              ],
+              [
+                7.5823001,
+                54.0804508
+              ],
+              [
+                7.6118555,
+                54.0555059
+              ],
+              [
+                7.6211333,
+                54.0480335
+              ],
+              [
+                7.6310221,
+                54.0408111
+              ],
+              [
+                7.6414665,
+                54.0338388
+              ],
+              [
+                7.6524387,
+                54.0271997
+              ],
+              [
+                7.6639108,
+                54.0208385
+              ],
+              [
+                7.6758552,
+                54.0148106
+              ],
+              [
+                7.6882996,
+                54.009116
+              ],
+              [
+                7.7011329,
+                54.0037826
+              ],
+              [
+                7.7111775447111,
+                54
+              ],
+              [
+                8,
+                54
+              ],
+              [
+                8,
+                54.38661939341902
+              ],
+              [
+                7.9987147,
+                54.3868184
+              ],
+              [
+                7.9832981,
+                54.3887351
+              ],
+              [
+                7.9677426,
+                54.3902629
+              ],
+              [
+                7.9520761,
+                54.391374
+              ],
+              [
+                7.9363539,
+                54.3920407
+              ],
+              [
+                7.8782986,
+                54.3937074
+              ],
+              [
+                7.8621042,
+                54.3939574
+              ],
+              [
+                7.8459377,
+                54.3937351
+              ],
+              [
+                7.8297711,
+                54.3930684
+              ],
+              [
+                7.8137156,
+                54.3919573
+              ],
+              [
+                7.7977434,
+                54.3904017
+              ],
+              [
+                7.7819102,
+                54.3884294
+              ],
+              [
+                7.7662714,
+                54.3859849
+              ],
+              [
+                7.7508548,
+                54.3831238
+              ],
+              [
+                7.7356604,
+                54.3798459
+              ],
+              [
+                7.7207716,
+                54.3761514
+              ],
+              [
+                7.7062161,
+                54.3720402
+              ],
+              [
+                7.6919939,
+                54.3675123
+              ],
+              [
+                7.6781607,
+                54.3626233
+              ],
+              [
+                7.6647441,
+                54.3573454
+              ],
+              [
+                7.6517719,
+                54.3517064
+              ],
+              [
+                7.639272,
+                54.3457063
+              ],
+              [
+                7.6272998,
+                54.3393451
+              ],
+              [
+                7.6158276,
+                54.332706
+              ],
+              [
+                7.604911,
+                54.3257059
+              ],
+              [
+                7.5946055,
+                54.3184557
+              ],
+              [
+                7.5848834,
+                54.3109
+              ],
+              [
+                7.5757723,
+                54.3030943
+              ],
+              [
+                7.5673279,
+                54.2950386
+              ],
+              [
+                7.5595501,
+                54.2867606
+              ],
+              [
+                7.5524391,
+                54.2782882
+              ],
+              [
+                7.5460224,
+                54.2696214
+              ],
+              [
+                7.540328,
+                54.2607601
+              ],
+              [
+                7.5353558,
+                54.2517877
+              ],
+              [
+                7.5311058,
+                54.2426764
+              ],
+              [
+                7.5276059,
+                54.233454
+              ],
+              [
+                7.5248559,
+                54.2241204
+              ],
+              [
+                7.5228559,
+                54.2147591
+              ],
+              [
+                7.5216337,
+                54.2053423
+              ],
+              [
+                7.5211615,
+                54.1958976
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                7.9309094,
+                54.7535481
+              ],
+              [
+                7.931326,
+                54.7442424
+              ],
+              [
+                7.9324927,
+                54.7349366
+              ],
+              [
+                7.9380492,
+                54.6986986
+              ],
+              [
+                7.9447704,
+                54.6605184
+              ],
+              [
+                7.9459093,
+                54.6508793
+              ],
+              [
+                7.9478815,
+                54.6412958
+              ],
+              [
+                7.9506315,
+                54.6317678
+              ],
+              [
+                7.9541593,
+                54.6223232
+              ],
+              [
+                7.9584926,
+                54.6129897
+              ],
+              [
+                7.9645759,
+                54.6015728
+              ],
+              [
+                7.969187,
+                54.5941004
+              ],
+              [
+                7.9743259,
+                54.5867669
+              ],
+              [
+                7.9905062,
+                54.5647951
+              ],
+              [
+                8,
+                54.55171766514097
+              ],
+              [
+                8,
+                55
+              ],
+              [
+                7.982337693041542,
+                55
+              ],
+              [
+                7.9741313,
+                54.9852751
+              ],
+              [
+                7.9634647,
+                54.9652469
+              ],
+              [
+                7.9599092,
+                54.9581079
+              ],
+              [
+                7.9567703,
+                54.9508022
+              ],
+              [
+                7.9541314,
+                54.9434409
+              ],
+              [
+                7.9497981,
+                54.9300796
+              ],
+              [
+                7.947187,
+                54.9208294
+              ],
+              [
+                7.9453259,
+                54.9115236
+              ],
+              [
+                7.9424371,
+                54.8931899
+              ],
+              [
+                7.9414371,
+                54.8852731
+              ],
+              [
+                7.9397426,
+                54.8659949
+              ],
+              [
+                7.9372426,
+                54.8414388
+              ],
+              [
+                7.9367982,
+                54.8352165
+              ],
+              [
+                7.936076,
+                54.8202162
+              ],
+              [
+                7.9359649,
+                54.8148827
+              ],
+              [
+                7.936076,
+                54.8095493
+              ],
+              [
+                7.9364927,
+                54.8007158
+              ],
+              [
+                7.9362149,
+                54.7966046
+              ],
+              [
+                7.9323538,
+                54.7721318
+              ],
+              [
+                7.9312705,
+                54.7628539
+              ],
+              [
+                7.9309094,
+                54.7535481
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

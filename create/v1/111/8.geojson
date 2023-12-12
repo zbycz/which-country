@@ -1,0 +1,914 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -49915,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Vietnam",
+        "local_name": "Việt Nam",
+        "name_en": "Vietnam",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+          "name": "Việt Nam",
+          "name:af": "Viëtnam",
+          "name:ak": "Vietnam",
+          "name:am": "ቬት ናም",
+          "name:an": "Vietnam",
+          "name:ar": "فيتنام",
+          "name:av": "Вьетнам",
+          "name:ay": "Vietnam",
+          "name:az": "Vyetnam",
+          "name:ba": "Вьетнам",
+          "name:be": "В'етнам",
+          "name:bg": "Виетнам",
+          "name:bi": "Vietnam",
+          "name:bm": "Vietnam",
+          "name:bn": "ভিয়েতনাম",
+          "name:bo": "ཝི་ཏི་ནམ།",
+          "name:br": "Viêt Nam",
+          "name:bs": "Vijetnam",
+          "name:ca": "Vietnam",
+          "name:ce": "Вьетнам",
+          "name:ch": "Vietnam",
+          "name:cs": "Vietnam",
+          "name:cv": "Вьетнам",
+          "name:cy": "Fietnam",
+          "name:da": "Vietnam",
+          "name:de": "Vietnam",
+          "name:dv": "ވިއެޓުނާމު",
+          "name:ee": "Vietnam",
+          "name:el": "Βιετνάμ",
+          "name:en": "Vietnam",
+          "name:eo": "Vjetnamio",
+          "name:es": "Vietnam",
+          "name:et": "Vietnam",
+          "name:eu": "Vietnam",
+          "name:fa": "ویتنام",
+          "name:ff": "Vietnam",
+          "name:fi": "Vietnam",
+          "name:fo": "Vjetnam",
+          "name:fr": "Viêt Nam",
+          "name:fy": "Fjetnam",
+          "name:ga": "Vítneam",
+          "name:gd": "Bhiet-Nam",
+          "name:gl": "Vietnam",
+          "name:gn": "Vietnam",
+          "name:gu": "વિયેતનામ",
+          "name:gv": "Yn Vietnam",
+          "name:he": "וייטנאם",
+          "name:hi": "वियतनाम",
+          "name:hr": "Vijetnam",
+          "name:ht": "Vyetnam",
+          "name:hu": "Vietnám",
+          "name:hy": "Վիետնամ",
+          "name:ia": "Vietnam",
+          "name:id": "Vietnam",
+          "name:ie": "Viet-Nam",
+          "name:ik": "Vietnam",
+          "name:io": "Vietnam",
+          "name:is": "Víetnam",
+          "name:it": "Vietnam",
+          "name:ja": "ベトナム",
+          "name:jv": "Viètnam",
+          "name:ka": "ვიეტნამი",
+          "name:kg": "Vietnam",
+          "name:ki": "Vietnam",
+          "name:kk": "Вьетнам",
+          "name:kl": "Vietnam",
+          "name:km": "វៀតណាម",
+          "name:kn": "ವಿಯೆಟ್ನಾಮ್",
+          "name:ko": "베트남",
+          "name:ku": "Viyetnam",
+          "name:kv": "Вьетнам",
+          "name:kw": "Vietnam",
+          "name:ky": "Вьетнам",
+          "name:la": "Vietnamia",
+          "name:lb": "Vietnam",
+          "name:li": "Vietnam",
+          "name:ln": "Vietnami",
+          "name:lo": "ປະເທດຫວຽດນາມ",
+          "name:lt": "Vietnamas",
+          "name:lv": "Vjetnama",
+          "name:mg": "Vietnam",
+          "name:mi": "Witināma",
+          "name:mk": "Виетнам",
+          "name:ml": "വിയറ്റ്നാം",
+          "name:mn": "Вьетнам",
+          "name:mr": "व्हियेतनाम",
+          "name:ms": "Vietnam",
+          "name:mt": "Vjetnam",
+          "name:my": "ဗီယက်နမ်နိုင်ငံ",
+          "name:na": "Bitinam",
+          "name:ne": "भियतनाम",
+          "name:nl": "Vietnam",
+          "name:nn": "Vietnam",
+          "name:no": "Vietnam",
+          "name:nv": "Biʼednam",
+          "name:oc": "Vietnam",
+          "name:om": "Veetinaam",
+          "name:or": "ଭିଏତନାମ",
+          "name:os": "Вьетнам",
+          "name:pa": "ਵੀਅਤਨਾਮ",
+          "name:pl": "Wietnam",
+          "name:pt": "Vietname",
+          "name:qu": "Witnam",
+          "name:rm": "Vietnam",
+          "name:rn": "Vietnam",
+          "name:ro": "Vietnam",
+          "name:ru": "Вьетнам",
+          "name:rw": "Viyetinamu",
+          "name:sa": "चम्पादेश",
+          "name:sc": "Vietnam",
+          "name:se": "Vietnam",
+          "name:sh": "Vijetnam",
+          "name:si": "වියට්නාමය",
+          "name:sk": "Vietnam",
+          "name:sl": "Vietnam",
+          "name:sm": "Vietnam",
+          "name:sn": "Vietnam",
+          "name:so": "Fiyetnam",
+          "name:sq": "Vietnami",
+          "name:sr": "Вијетнам",
+          "name:ss": "IViyethina",
+          "name:st": "Vietnam",
+          "name:su": "Viétnam",
+          "name:sv": "Vietnam",
+          "name:sw": "Vietnam",
+          "name:ta": "வியட்நாம்",
+          "name:te": "వియత్నాం",
+          "name:tg": "Ветнам",
+          "name:th": "ประเทศเวียดนาม",
+          "name:tk": "Wýetnam",
+          "name:tl": "Vietnam",
+          "name:tr": "Vietnam",
+          "name:tt": "Вьетнам",
+          "name:tw": "Vietnam",
+          "name:ug": "ۋيېتنام",
+          "name:uk": "В'єтнам",
+          "name:ur": "ویتنام",
+          "name:uz": "Vyetnam",
+          "name:ve": "Viëtnam",
+          "name:vi": "Việt Nam",
+          "name:vo": "Vietnamän",
+          "name:wa": "Vietnam",
+          "name:wo": "Wiyetnaam",
+          "name:yi": "וויעטנאם",
+          "name:yo": "Fiẹtnám",
+          "name:za": "Yiednamz",
+          "name:zh": "越南",
+          "name:zu": "IViyetnami",
+          "boundary": "administrative",
+          "int_name": "Viet Nam",
+          "name:ace": "Viètnam",
+          "name:als": "Vietnam",
+          "name:ang": "Fietnam",
+          "name:arz": "فييتنام",
+          "name:ast": "Vietnam",
+          "name:bar": "Vietnam",
+          "name:bcl": "Bietnam",
+          "name:bjn": "Vietnam",
+          "name:bpy": "ভিয়েতনাম",
+          "name:bug": "Vietnam",
+          "name:bxr": "Вьетнам",
+          "name:cdo": "Yue Nam",
+          "name:ceb": "Vietnam",
+          "name:chy": "Vietnam",
+          "name:ckb": "ڤیێتنام",
+          "name:crh": "Vyetnam",
+          "name:csb": "Wietnam",
+          "name:diq": "Vietnam",
+          "name:dsb": "Vietnam",
+          "name:eml": "Vietnam",
+          "name:ext": "Vietnam",
+          "name:frp": "Viêt Nam",
+          "name:frr": "Vietnam",
+          "name:fur": "Vietnam",
+          "name:gag": "Vyetnam",
+          "name:gan": "越南",
+          "name:hak": "Ye̍t-nàm",
+          "name:haw": "Wiekanama",
+          "name:hif": "Vietnam",
+          "name:hsb": "Vietnam",
+          "name:ilo": "Bietnam",
+          "name:jbo": "gugdrvietnama",
+          "name:kaa": "Vietnam",
+          "name:kab": "Vietnam",
+          "name:kbd": "Виетнам",
+          "name:krc": "Вьетнам",
+          "name:ksh": "Vietnam",
+          "name:lad": "Vietnam",
+          "name:lez": "Вьетнам",
+          "name:lij": "Vietnam",
+          "name:lmo": "Vietnam",
+          "name:ltg": "Vjetnams",
+          "name:lzh": "越南",
+          "name:mdf": "Виетнам",
+          "name:mhr": "Вьетнам",
+          "name:mtq": "Viêt Nam",
+          "name:mwl": "Bietname",
+          "name:mzn": "ویتنام",
+          "name:nah": "Vietnam",
+          "name:nan": "Oa̍t-lâm",
+          "name:nap": "Vietnam",
+          "name:nds": "Vietnam",
+          "name:nov": "Vietnam",
+          "name:nrm": "Vietnam",
+          "name:nso": "Vietnam",
+          "name:pag": "Vietnam",
+          "name:pam": "Vietnam",
+          "name:pap": "Vietnam",
+          "name:pcd": "Vietnam",
+          "name:pdc": "Vietnam",
+          "name:pfl": "Vietnam",
+          "name:pih": "Wiyetnaam",
+          "name:pms": "Vietnam",
+          "name:pnb": "ویتنام",
+          "name:pnt": "Βιετνάμ",
+          "name:rue": "Вєтнам",
+          "name:sah": "Вьетнам",
+          "name:scn": "Vietnam",
+          "name:sco": "Vietnam",
+          "name:smn": "Vietnam",
+          "name:sms": "Vietnaam",
+          "name:srn": "Vi-etnam",
+          "name:stq": "Vietnam",
+          "name:szl": "Wietnam",
+          "name:tet": "Vietname",
+          "name:tok": "ma Wije",
+          "name:tpi": "Vietnam",
+          "name:tum": "Vietnam",
+          "name:tzl": "Vietnam",
+          "name:udm": "Вьетнам",
+          "name:vec": "Vietnam",
+          "name:vep": "Vjetnam",
+          "name:vls": "Vietnam",
+          "name:vro": "Vietnam",
+          "name:war": "Vietnam",
+          "name:wuu": "越南",
+          "name:xal": "Вьетдин Орн",
+          "name:yue": "越南",
+          "name:zea": "Vietnam",
+          "way_area": "43.0053",
+          "wikidata": "Q881",
+          "ISO3166-1": "VN",
+          "wikipedia": "vi:Việt Nam",
+          "admin_level": "2",
+          "alt_name:eo": "Vjetnamujo",
+          "name:nds-nl": "Vietnam",
+          "name:bat-smg": "Vietnams",
+          "name:cbk-zam": "Vietnam",
+          "name:map-bms": "Vietnam",
+          "name:roa-rup": "Vietnam",
+          "name:vi-Hani": "越南",
+          "name:za-Hani": "越南",
+          "name:zh-Hans": "越南",
+          "name:zh-Hant": "越南",
+          "name:roa-tara": "Vietnam",
+          "official_name": "Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam",
+          "name:be-tarask": "Віетнам",
+          "ISO3166-1:alpha2": "VN",
+          "ISO3166-1:alpha3": "VNM",
+          "default_language": "vi",
+          "official_name:cs": "Vietnamská socialistická republika",
+          "official_name:en": "Socialist Republic of Vietnam",
+          "official_name:eo": "Socialista Respubliko de Vjetnamio",
+          "official_name:es": "República Socialista de Vietnam",
+          "official_name:ru": "Социалистическая Республика Вьетнам",
+          "official_name:vi": "Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam",
+          "official_name:zh": "越南社会主义共和国 / 越南社會主義共和國",
+          "ISO3166-1:numeric": "704",
+          "official_name:vi-Hani": "共和社會主義越南",
+          "official_name:zh-Hans": "越南社会主义共和国",
+          "official_name:zh-Hant": "越南社會主義共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              111.4717312,
+              8.669554
+            ],
+            [
+              111.4721444,
+              8.6569669
+            ],
+            [
+              111.4727208,
+              8.6499926
+            ],
+            [
+              111.4735442,
+              8.6430424
+            ],
+            [
+              111.4746135,
+              8.636125
+            ],
+            [
+              111.4759275,
+              8.6292487
+            ],
+            [
+              111.4774844,
+              8.6224221
+            ],
+            [
+              111.4792824,
+              8.6156535
+            ],
+            [
+              111.4813194,
+              8.6089512
+            ],
+            [
+              111.4835926,
+              8.6023236
+            ],
+            [
+              111.4860995,
+              8.5957787
+            ],
+            [
+              111.4888369,
+              8.5893246
+            ],
+            [
+              111.4918014,
+              8.5829693
+            ],
+            [
+              111.4949894,
+              8.5767205
+            ],
+            [
+              111.4983969,
+              8.570586
+            ],
+            [
+              111.5020199,
+              8.5645732
+            ],
+            [
+              111.5058538,
+              8.5586897
+            ],
+            [
+              111.5098939,
+              8.5529425
+            ],
+            [
+              111.5141352,
+              8.5473389
+            ],
+            [
+              111.5185726,
+              8.5418857
+            ],
+            [
+              111.5232006,
+              8.5365896
+            ],
+            [
+              111.5280134,
+              8.531457
+            ],
+            [
+              111.5371235,
+              8.5226509
+            ],
+            [
+              111.5424219,
+              8.5180094
+            ],
+            [
+              111.5478815,
+              8.5135545
+            ],
+            [
+              111.5534957,
+              8.5092915
+            ],
+            [
+              111.5592576,
+              8.5052257
+            ],
+            [
+              111.56516,
+              8.5013622
+            ],
+            [
+              111.5711958,
+              8.4977056
+            ],
+            [
+              111.5823723,
+              8.4916596
+            ],
+            [
+              111.5887414,
+              8.4886056
+            ],
+            [
+              111.5952148,
+              8.4857744
+            ],
+            [
+              111.6071044,
+              8.4812502
+            ],
+            [
+              111.6192587,
+              8.4774767
+            ],
+            [
+              111.6316295,
+              8.4744689
+            ],
+            [
+              111.6441675,
+              8.4722387
+            ],
+            [
+              111.6511869,
+              8.4713392
+            ],
+            [
+              111.6582339,
+              8.4706836
+            ],
+            [
+              111.6709603,
+              8.4701206
+            ],
+            [
+              111.6836973,
+              8.4703527
+            ],
+            [
+              111.6963941,
+              8.4713788
+            ],
+            [
+              111.7090002,
+              8.473195
+            ],
+            [
+              111.7214653,
+              8.4757939
+            ],
+            [
+              111.7283112,
+              8.4775723
+            ],
+            [
+              111.7350899,
+              8.4795869
+            ],
+            [
+              111.7470956,
+              8.4838006
+            ],
+            [
+              111.7588086,
+              8.4887547
+            ],
+            [
+              111.7701824,
+              8.4944295
+            ],
+            [
+              111.7812352,
+              8.5008423
+            ],
+            [
+              111.7884768,
+              8.4942255
+            ],
+            [
+              111.7960774,
+              8.4879339
+            ],
+            [
+              111.803981,
+              8.4820186
+            ],
+            [
+              111.8121686,
+              8.4764939
+            ],
+            [
+              111.8193976,
+              8.4720794
+            ],
+            [
+              111.8280596,
+              8.4673148
+            ],
+            [
+              111.8369476,
+              8.4629762
+            ],
+            [
+              111.8460401,
+              8.4590742
+            ],
+            [
+              111.8539799,
+              8.4560842
+            ],
+            [
+              111.8633938,
+              8.4530171
+            ],
+            [
+              111.8729485,
+              8.4504105
+            ],
+            [
+              111.882621,
+              8.4482708
+            ],
+            [
+              111.892388,
+              8.4466032
+            ],
+            [
+              111.902226,
+              8.4454116
+            ],
+            [
+              111.9121112,
+              8.4446989
+            ],
+            [
+              111.9220199,
+              8.4444668
+            ],
+            [
+              111.9319281,
+              8.4447159
+            ],
+            [
+              111.9432207,
+              8.4455891
+            ],
+            [
+              111.9530477,
+              8.4468659
+            ],
+            [
+              111.9641852,
+              8.448907
+            ],
+            [
+              111.9738223,
+              8.4511972
+            ],
+            [
+              111.9833343,
+              8.4539525
+            ],
+            [
+              111.9940224,
+              8.4576621
+            ],
+            [
+              112,
+              8.460092916764482
+            ],
+            [
+              112,
+              8.894158200653969
+            ],
+            [
+              111.9994584,
+              8.8921085
+            ],
+            [
+              111.9979106,
+              8.8852796
+            ],
+            [
+              111.9966061,
+              8.8784013
+            ],
+            [
+              111.9955464,
+              8.8714818
+            ],
+            [
+              111.9947328,
+              8.8645298
+            ],
+            [
+              111.9941665,
+              8.8575537
+            ],
+            [
+              111.9938479,
+              8.8505622
+            ],
+            [
+              111.9937776,
+              8.8435638
+            ],
+            [
+              111.9939557,
+              8.8365671
+            ],
+            [
+              111.9943162,
+              8.8304526
+            ],
+            [
+              111.9829988,
+              8.8343769
+            ],
+            [
+              111.9721118,
+              8.837466
+            ],
+            [
+              111.9596765,
+              8.840214
+            ],
+            [
+              111.9484949,
+              8.8420018
+            ],
+            [
+              111.9372295,
+              8.8431672
+            ],
+            [
+              111.9259156,
+              8.8437066
+            ],
+            [
+              111.914589,
+              8.8436184
+            ],
+            [
+              111.9018756,
+              8.8427692
+            ],
+            [
+              111.8906399,
+              8.8413506
+            ],
+            [
+              111.8795024,
+              8.8393116
+            ],
+            [
+              111.8684982,
+              8.8366588
+            ],
+            [
+              111.8563207,
+              8.832951
+            ],
+            [
+              111.8457139,
+              8.8290237
+            ],
+            [
+              111.8340691,
+              8.8239111
+            ],
+            [
+              111.8240102,
+              8.818765
+            ],
+            [
+              111.8141363,
+              8.8129926
+            ],
+            [
+              111.8069427,
+              8.819558
+            ],
+            [
+              111.8004485,
+              8.8249673
+            ],
+            [
+              111.7925889,
+              8.8309301
+            ],
+            [
+              111.7856234,
+              8.8357326
+            ],
+            [
+              111.7784595,
+              8.8402412
+            ],
+            [
+              111.769868,
+              8.8451193
+            ],
+            [
+              111.7610447,
+              8.8495749
+            ],
+            [
+              111.7533133,
+              8.8530496
+            ],
+            [
+              111.7441161,
+              8.8566929
+            ],
+            [
+              111.7360967,
+              8.8594577
+            ],
+            [
+              111.726602,
+              8.8622586
+            ],
+            [
+              111.7183612,
+              8.8642905
+            ],
+            [
+              111.7100412,
+              8.8659781
+            ],
+            [
+              111.700254,
+              8.8675078
+            ],
+            [
+              111.6918131,
+              8.8684401
+            ],
+            [
+              111.6819256,
+              8.8690831
+            ],
+            [
+              111.6691871,
+              8.8692044
+            ],
+            [
+              111.6621145,
+              8.8689285
+            ],
+            [
+              111.6550561,
+              8.8684079
+            ],
+            [
+              111.6480204,
+              8.8676431
+            ],
+            [
+              111.6410162,
+              8.866635
+            ],
+            [
+              111.6285154,
+              8.8642118
+            ],
+            [
+              111.6161942,
+              8.8610144
+            ],
+            [
+              111.6094448,
+              8.858908
+            ],
+            [
+              111.6027742,
+              8.8565692
+            ],
+            [
+              111.5909921,
+              8.8517827
+            ],
+            [
+              111.5795389,
+              8.8462714
+            ],
+            [
+              111.5733351,
+              8.8429044
+            ],
+            [
+              111.5672545,
+              8.8393245
+            ],
+            [
+              111.5613046,
+              8.8355361
+            ],
+            [
+              111.5554928,
+              8.831544
+            ],
+            [
+              111.5454021,
+              8.8238602
+            ],
+            [
+              111.5400143,
+              8.8193242
+            ],
+            [
+              111.5347907,
+              8.8146043
+            ],
+            [
+              111.5297378,
+              8.8097063
+            ],
+            [
+              111.5248617,
+              8.8046362
+            ],
+            [
+              111.5201685,
+              8.7994002
+            ],
+            [
+              111.5156638,
+              8.7940048
+            ],
+            [
+              111.5113534,
+              8.7884565
+            ],
+            [
+              111.5072424,
+              8.7827622
+            ],
+            [
+              111.5003612,
+              8.7721671
+            ],
+            [
+              111.4968347,
+              8.7661017
+            ],
+            [
+              111.4935256,
+              8.7599179
+            ],
+            [
+              111.4904378,
+              8.753623
+            ],
+            [
+              111.4875752,
+              8.747225
+            ],
+            [
+              111.4849413,
+              8.7407316
+            ],
+            [
+              111.4825393,
+              8.7341508
+            ],
+            [
+              111.4788094,
+              8.722111
+            ],
+            [
+              111.4758552,
+              8.7098623
+            ],
+            [
+              111.4745536,
+              8.702985
+            ],
+            [
+              111.4734967,
+              8.6960668
+            ],
+            [
+              111.4726858,
+              8.6891161
+            ],
+            [
+              111.4721218,
+              8.6821414
+            ],
+            [
+              111.4717312,
+              8.669554
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

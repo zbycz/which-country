@@ -1,0 +1,602 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -305142,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "East Timor",
+        "local_name": "Timór Lorosa'e / Timor-Leste",
+        "name_en": "East Timor",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+          "name": "Timór Lorosa'e / Timor-Leste",
+          "name:af": "Oos-Timor",
+          "name:am": "ምሥራቅ ቲሞር",
+          "name:an": "Timor Oriental",
+          "name:ar": "تيمور الشرقية",
+          "name:as": "পূৱ টিমুৰ",
+          "name:az": "Şərqi Timor",
+          "name:ba": "Көнсығыш Тимор",
+          "name:be": "Усходні Тымор",
+          "name:bg": "Източен Тимор",
+          "name:bh": "पूर्ब तिमोर",
+          "name:bi": "Is Timor",
+          "name:bn": "পূর্ব তিমুর",
+          "name:bo": "ཤར་ཏིམོར།",
+          "name:br": "Timor ar Reter",
+          "name:bs": "Istočni Timor",
+          "name:ca": "Timor Oriental",
+          "name:ce": "Малхбален Тимор",
+          "name:co": "Timor Este",
+          "name:cs": "Východní Timor",
+          "name:cy": "Dwyrain Timor",
+          "name:da": "Østtimor",
+          "name:de": "Osttimor",
+          "name:dv": "އިރުމަތީ ޓިމޯރު",
+          "name:el": "Ανατολικό Τιμόρ",
+          "name:en": "East Timor",
+          "name:es": "Timor Oriental",
+          "name:et": "Ida-Timor",
+          "name:eu": "Ekialdeko Timor",
+          "name:fa": "تیمور شرقی",
+          "name:ff": "East Timor",
+          "name:fi": "Itä-Timor",
+          "name:fo": "Eysturtimor",
+          "name:fr": "Timor oriental",
+          "name:fy": "East-Timor",
+          "name:ga": "An Tíomór Thoir",
+          "name:gd": "Tiomor an Ear",
+          "name:gl": "Timor Leste",
+          "name:gn": "Kuarahyresẽ Timor",
+          "name:gu": "પૂર્વ તિમોર",
+          "name:gv": "Yn Teemor Hiar",
+          "name:ha": "Timor-Leste",
+          "name:he": "מזרח טימור",
+          "name:hi": "पूर्व तिमोर",
+          "name:hr": "Istočni Timor",
+          "name:ht": "Timò oryantal",
+          "name:hu": "Kelet-Timor",
+          "name:hy": "Արևելյան Թիմոր",
+          "name:id": "Timor Leste",
+          "name:ie": "Ost-Timor",
+          "name:io": "Estal Timor",
+          "name:is": "Austur-Tímor",
+          "name:it": "Timor Est",
+          "name:ja": "東ティモール",
+          "name:jv": "Timor Wétan",
+          "name:ka": "აღმოსავლეთი ტიმორი",
+          "name:kg": "Timor-Leste",
+          "name:kk": "Шығыс Тимор",
+          "name:km": "ទីម័រខាងកើត",
+          "name:kn": "ಪೂರ್ವ ಟೀಮೊರ್",
+          "name:ko": "동티모르",
+          "name:ku": "Tîmora Rojhilat",
+          "name:kw": "Timor Est",
+          "name:ky": "Батыш Тимор",
+          "name:lb": "Timor-Leste",
+          "name:li": "Oos-Timor",
+          "name:ln": "Timor ya monyɛlɛ",
+          "name:lo": "ປະເທດຕິມໍແລັດສະເຕ",
+          "name:lt": "Rytų Timoras",
+          "name:lv": "Austrumtimora",
+          "name:mg": "Timôro Atsinanana",
+          "name:mi": "Tīmoa-ki-te-Rāwhiti",
+          "name:mk": "Источен Тимор",
+          "name:ml": "കിഴക്കൻ ടിമോർ",
+          "name:mn": "Зүүн Тимор",
+          "name:mr": "पूर्व तिमोर",
+          "name:ms": "Timor Timur",
+          "name:mt": "Timor tal-Lvant",
+          "name:my": "အရှေ့တီမောနိုင်ငံ",
+          "name:na": "East Timor",
+          "name:ne": "पूर्वी टिमोर",
+          "name:nl": "Oost-Timor",
+          "name:nn": "Aust-Timor",
+          "name:no": "Øst-Timor",
+          "name:oc": "Timòr Èst",
+          "name:om": "Tiimor Bahaa",
+          "name:or": "ପୂର୍ବ ଟିମୋର",
+          "name:os": "Скæсæн Тимор",
+          "name:pa": "ਪੂਰਬੀ ਤਿਮੋਰ",
+          "name:pl": "Timor Wschodni",
+          "name:pt": "Timor-Leste",
+          "name:qu": "Anti Timur",
+          "name:ro": "Timorul de Est",
+          "name:ru": "Восточный Тимор",
+          "name:rw": "Timoro-Lesite",
+          "name:sc": "Timor Orientale",
+          "name:sd": "اوڀر تيمور",
+          "name:se": "Nuorta-Timor",
+          "name:sg": "Timôro tî Tö",
+          "name:sh": "Istočni Timor",
+          "name:si": "නැගෙනහිර ටිමෝරය",
+          "name:sk": "Východný Timor",
+          "name:sl": "Vzhodni Timor",
+          "name:sm": "Sasaʻe Timor",
+          "name:sn": "East Timor",
+          "name:so": "Bariga Timor",
+          "name:sq": "Timori Lindor",
+          "name:sr": "Источни Тимор",
+          "name:su": "Timor Lésté",
+          "name:sv": "Östtimor",
+          "name:sw": "Timor ya Mashariki",
+          "name:ta": "கிழக்குத் திமோர்",
+          "name:te": "తూర్పు తిమోర్",
+          "name:tg": "Тимури Шарқӣ",
+          "name:th": "ประเทศติมอร์-เลสเต",
+          "name:tk": "Gündogar Timor",
+          "name:tl": "Silangang Timor",
+          "name:tr": "Doğu Timor",
+          "name:tt": "Көнчыгыш Тимор",
+          "name:ug": "شەرقىي تىمور",
+          "name:uk": "Східний Тимор",
+          "name:ur": "مشرقی تیمور",
+          "name:uz": "Sharqiy Timor",
+          "name:vi": "Đông Timor",
+          "name:wo": "Timoor gu Penku",
+          "name:yi": "מזרח טימאר",
+          "name:yo": "Ìlàòrùn Timor",
+          "name:za": "Doeng Timor",
+          "name:zh": "东帝汶 / 東帝汶",
+          "boundary": "administrative",
+          "name:ace": "Timor Leste",
+          "name:als": "Osttimor",
+          "name:ami": "Timor-leste",
+          "name:ang": "Ēasttimor",
+          "name:ary": "تيمور الشرقية",
+          "name:arz": "تيمور الشرقيه",
+          "name:ast": "Timor Oriental",
+          "name:azb": "شرقی تیمور",
+          "name:ban": "Timor Lésté",
+          "name:bar": "Osttimor",
+          "name:bcl": "Subangan na Timor",
+          "name:bjn": "Timor Lorosa'é",
+          "name:bpy": "মুঙ তিমুর",
+          "name:bug": "ᨈᨗᨆᨚᨑ ᨒᨙᨔᨈᨙ",
+          "name:bxr": "Зүүн Тимор",
+          "name:cdo": "Dĕ̤ng Timor",
+          "name:ceb": "Sidlakang Timor",
+          "name:chr": "ᏘᎼᎵ-ᎴᏍᏖ",
+          "name:chy": "East Timor",
+          "name:ckb": "تیمۆری ڕۆژھەڵات",
+          "name:crh": "Şarqiy Timor",
+          "name:csb": "Pòrënkòwi Timor",
+          "name:diq": "Timurê Rocvetışi",
+          "name:dsb": "Pódzajtšny Timor",
+          "name:dty": "पूर्वी टिमोर",
+          "name:ext": "Timol Oriental",
+          "name:frp": "Timor levantenc",
+          "name:frr": "Uast-Timor",
+          "name:gag": "Günduusu Timor",
+          "name:gcr": "Timor oryantal",
+          "name:gom": "उदेंत तिमोर",
+          "name:hak": "Tûng Timor",
+          "name:hif": "East Timor",
+          "name:hsb": "Wuchodny Timor",
+          "name:ilo": "Daya a Timor",
+          "name:jam": "Iis Timor",
+          "name:kaa": "Shıg'ıs Timor",
+          "name:lad": "Timor Oryentala",
+          "name:lij": "Timor Leste",
+          "name:lmo": "Timor Est",
+          "name:lzh": "東帝汶",
+          "name:mai": "पूर्वी टिमोर",
+          "name:mhr": "Эрвел Тимор",
+          "name:min": "Timor Leste",
+          "name:mni": "ꯇꯤꯃꯣꯔ-ꯂꯦꯁ꯭ꯇꯦ",
+          "name:mnw": "ကၟိန်ဍုင်သမ္မတဒဳမံက်ကရေဇြဳ ထဳမဝ်လေဝ်သ်တေ",
+          "name:mwl": "Timor-Leste",
+          "name:myv": "Чилисемань Тимор Мастор",
+          "name:mzn": "شرقی تیمور",
+          "name:nah": "Timor Tlāpcopa",
+          "name:nan": "Tang Timor",
+          "name:nds": "Oosttimor",
+          "name:new": "पूर्व टिमोर",
+          "name:nia": "Timor Leste",
+          "name:nov": "Timor-Leste",
+          "name:olo": "Päivännouzu Timor",
+          "name:pam": "Aslagang Timor",
+          "name:pap": "Ost-Timor",
+          "name:pih": "Eist Tiimor",
+          "name:pms": "Timor Est",
+          "name:pnb": "چڑھدا تیمور",
+          "name:sah": "Илин Тимор",
+          "name:sat": "ᱥᱟᱢᱟᱝ ᱛᱤᱢᱳᱨ",
+          "name:scn": "Timor Est",
+          "name:sco": "East Timor",
+          "name:shn": "မိူင်းတီႇမေႃးပွတ်းဝၼ်းဢွၵ်ႇ",
+          "name:smn": "Nuorttâ-Timor",
+          "name:sms": "Nuõrtt-Timor",
+          "name:stq": "Aast-Timor",
+          "name:szl": "Weschodni Timor",
+          "name:szy": "Timor-leste",
+          "name:tay": "Timor-leste",
+          "name:tet": "Timór Lorosa'e",
+          "name:tpi": "Timor-Leste",
+          "name:trv": "Timor-Leste",
+          "name:tum": "East Timor",
+          "name:udm": "Шунды ӝужан пал Тимор",
+          "name:vec": "Timor Est",
+          "name:vep": "Päivnouzmaine Timor",
+          "name:vls": "Ôost-Timor",
+          "name:war": "Sinirangan nga Timor",
+          "name:wuu": "东帝汶",
+          "name:xal": "Зюнһара Тимормудин Улс Орн",
+          "name:xmf": "ბჟაეიოლი ტიმორი",
+          "name:yue": "東帝汶",
+          "name:zea": "Oôst-Timor",
+          "timezone": "Asia/Dili",
+          "way_area": "2.38988",
+          "wikidata": "Q574",
+          "ISO3166-1": "TL",
+          "wikipedia": "pt:Timor-Leste",
+          "admin_level": "2",
+          "border_type": "nation",
+          "driving_side": "left",
+          "name:bat-smg": "Rītū Timuors",
+          "name:zh-Hans": "东帝汶",
+          "name:zh-Hant": "東帝汶",
+          "official_name": "Repúblika Demokrátika Timor Lorosa'e",
+          "name:be-tarask": "Усходні Тымор",
+          "ISO3166-1:alpha2": "TL",
+          "ISO3166-1:alpha3": "TLS",
+          "default_language": "pt",
+          "official_name:cs": "Demokratická republika Východní Timor",
+          "official_name:en": "Democratic Republic of Timor-Leste",
+          "official_name:es": "República Democrática de Timor Oriental",
+          "official_name:fr": "République démocratique du Timor-Leste",
+          "official_name:pt": "República Democrática de Timor-Leste",
+          "official_name:ru": "Демократическая Республика Восточный Тимор",
+          "ISO3166-1:numeric": "626"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              126,
+              -9.325326707895362
+            ],
+            [
+              126.0013292,
+              -9.3249334
+            ],
+            [
+              126.0145861,
+              -9.3203452
+            ],
+            [
+              126.0236638,
+              -9.3166875
+            ],
+            [
+              126.0296116,
+              -9.3140079
+            ],
+            [
+              126.0354691,
+              -9.3111388
+            ],
+            [
+              126.0494742,
+              -9.3036983
+            ],
+            [
+              126.054767,
+              -9.3006251
+            ],
+            [
+              126.0607111,
+              -9.2969049
+            ],
+            [
+              126.0681438,
+              -9.293537
+            ],
+            [
+              126.0766777,
+              -9.2893514
+            ],
+            [
+              126.087783,
+              -9.2832426
+            ],
+            [
+              126.0975294,
+              -9.277276
+            ],
+            [
+              126.1031097,
+              -9.2735375
+            ],
+            [
+              126.1085613,
+              -9.2696165
+            ],
+            [
+              126.1226225,
+              -9.2585373
+            ],
+            [
+              126.1356974,
+              -9.247103
+            ],
+            [
+              126.1464526,
+              -9.2425125
+            ],
+            [
+              126.1551102,
+              -9.2382948
+            ],
+            [
+              126.1661074,
+              -9.2321998
+            ],
+            [
+              126.1742365,
+              -9.2270927
+            ],
+            [
+              126.1819523,
+              -9.2217235
+            ],
+            [
+              126.1878822,
+              -9.2172667
+            ],
+            [
+              126.1951989,
+              -9.2112779
+            ],
+            [
+              126.1999159,
+              -9.2070986
+            ],
+            [
+              126.2067388,
+              -9.20056
+            ],
+            [
+              126.2111125,
+              -9.1960272
+            ],
+            [
+              126.2279394,
+              -9.1773769
+            ],
+            [
+              126.231713,
+              -9.1778343
+            ],
+            [
+              126.2431835,
+              -9.1804042
+            ],
+            [
+              126.2525764,
+              -9.1820404
+            ],
+            [
+              126.2620365,
+              -9.1832339
+            ],
+            [
+              126.2747181,
+              -9.1841324
+            ],
+            [
+              126.2842528,
+              -9.1842845
+            ],
+            [
+              126.2938093,
+              -9.1839948
+            ],
+            [
+              126.3051403,
+              -9.183065
+            ],
+            [
+              126.3166654,
+              -9.1826674
+            ],
+            [
+              126.3293424,
+              -9.1814627
+            ],
+            [
+              126.338786,
+              -9.1800392
+            ],
+            [
+              126.3481512,
+              -9.1781734
+            ],
+            [
+              126.3574169,
+              -9.1758695
+            ],
+            [
+              126.3665623,
+              -9.1731326
+            ],
+            [
+              126.3755672,
+              -9.1699689
+            ],
+            [
+              126.4180836,
+              -9.1532942
+            ],
+            [
+              126.4260186,
+              -9.1519471
+            ],
+            [
+              126.4315761,
+              -9.1508009
+            ],
+            [
+              126.4390841,
+              -9.1515652
+            ],
+            [
+              126.4452261,
+              -9.151977
+            ],
+            [
+              126.4524316,
+              -9.1522382
+            ],
+            [
+              126.4589464,
+              -9.1522678
+            ],
+            [
+              126.4654587,
+              -9.1520884
+            ],
+            [
+              126.4719618,
+              -9.1517002
+            ],
+            [
+              126.4784488,
+              -9.1511036
+            ],
+            [
+              126.484913,
+              -9.1502993
+            ],
+            [
+              126.4913477,
+              -9.149288
+            ],
+            [
+              126.4981456,
+              -9.1480074
+            ],
+            [
+              126.5092768,
+              -9.1453798
+            ],
+            [
+              126.5162781,
+              -9.1441624
+            ],
+            [
+              126.5257033,
+              -9.1421136
+            ],
+            [
+              126.535019,
+              -9.1396195
+            ],
+            [
+              126.5411582,
+              -9.1377121
+            ],
+            [
+              126.547233,
+              -9.1356113
+            ],
+            [
+              126.556211,
+              -9.1321021
+            ],
+            [
+              126.5662126,
+              -9.1276238
+            ],
+            [
+              126.5744761,
+              -9.123465
+            ],
+            [
+              126.5825386,
+              -9.1189337
+            ],
+            [
+              126.5903833,
+              -9.1140396
+            ],
+            [
+              126.5979936,
+              -9.1087929
+            ],
+            [
+              126.6063031,
+              -9.1025018
+            ],
+            [
+              126.6154428,
+              -9.0947858
+            ],
+            [
+              126.6240417,
+              -9.0866092
+            ],
+            [
+              126.633696,
+              -9.0781165
+            ],
+            [
+              126.640384,
+              -9.071631
+            ],
+            [
+              126.6488177,
+              -9.0625183
+            ],
+            [
+              126.6528182,
+              -9.0577723
+            ],
+            [
+              126.6585378,
+              -9.0504289
+            ],
+            [
+              126.6656203,
+              -9.0402434
+            ],
+            [
+              126.6720568,
+              -9.029643
+            ],
+            [
+              126.6750252,
+              -9.0241998
+            ],
+            [
+              126.6794684,
+              -9.0154104
+            ],
+            [
+              126.6842389,
+              -9.0047986
+            ],
+            [
+              126.68653154117872,
+              -9
+            ],
+            [
+              126,
+              -9
+            ],
+            [
+              126,
+              -9.325326707895362
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

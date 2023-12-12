@@ -1,0 +1,729 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192307,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Greece",
+        "local_name": "Ελλάς",
+        "name_en": "Greece",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+          "name": "Ελλάς",
+          "name:ab": "Барзентәыла",
+          "name:af": "Griekeland",
+          "name:am": "ግሪክ",
+          "name:an": "Grecia",
+          "name:ar": "اليونان",
+          "name:ay": "Grisya",
+          "name:az": "Yunanıstan",
+          "name:ba": "Греция",
+          "name:be": "Грэцыя",
+          "name:bg": "Гърция",
+          "name:bi": "Greece",
+          "name:bn": "গ্রিস",
+          "name:bo": "ཀེ་རི་སི།",
+          "name:br": "Gres",
+          "name:bs": "Grčka",
+          "name:ca": "Grècia",
+          "name:ce": "Греци",
+          "name:co": "Grecia",
+          "name:cs": "Řecko",
+          "name:cu": "Грьци",
+          "name:cv": "Греци",
+          "name:cy": "Gwlad Groeg",
+          "name:da": "Grækenland",
+          "name:de": "Griechenland",
+          "name:dv": "ޔޫނާން",
+          "name:dz": "གྲྀས",
+          "name:ee": "Greece",
+          "name:el": "Ελλάδα",
+          "name:en": "Greece",
+          "name:eo": "Grekio",
+          "name:es": "Grecia",
+          "name:et": "Kreeka",
+          "name:eu": "Grezia",
+          "name:fa": "یونان",
+          "name:fi": "Kreikka",
+          "name:fo": "Grikkaland",
+          "name:fr": "Grèce",
+          "name:fy": "Grikelân",
+          "name:ga": "An Ghréig",
+          "name:gd": "A' Ghrèig",
+          "name:gl": "Grecia",
+          "name:gn": "Gyresia",
+          "name:gu": "ગ્રીસ",
+          "name:gv": "Yn Ghreag",
+          "name:he": "יוון",
+          "name:hi": "यूनान",
+          "name:hr": "Grčka",
+          "name:ht": "Grès",
+          "name:hu": "Görögország",
+          "name:hy": "Հունաստան",
+          "name:ia": "Grecia",
+          "name:id": "Yunani",
+          "name:ie": "Grecia",
+          "name:io": "Grekia",
+          "name:is": "Grikkland",
+          "name:it": "Grecia",
+          "name:ja": "ギリシャ",
+          "name:jv": "Yunani",
+          "name:ka": "საბერძნეთი",
+          "name:kg": "Gelesi",
+          "name:ki": "Ngiriki",
+          "name:kk": "Грекия",
+          "name:kl": "Grækerit Nunaat",
+          "name:kn": "ಗ್ರೀಸ್",
+          "name:ko": "그리스",
+          "name:ku": "Yewnanistan",
+          "name:kv": "Эллада",
+          "name:kw": "Pow Grek",
+          "name:ky": "Греция",
+          "name:la": "Graecia",
+          "name:lb": "Griicheland",
+          "name:lg": "Buyonaani",
+          "name:li": "Griekeland",
+          "name:ln": "Gresi",
+          "name:lt": "Graikija",
+          "name:lv": "Grieķija",
+          "name:mg": "Grisy",
+          "name:mi": "Kirihi",
+          "name:mk": "Грција",
+          "name:ml": "ഗ്രീസ്",
+          "name:mn": "Грек",
+          "name:mr": "ग्रीस",
+          "name:ms": "Greece",
+          "name:mt": "Greċja",
+          "name:my": "ဂရိနိုင်ငံ",
+          "name:na": "Grit",
+          "name:ne": "ग्रीस",
+          "name:nl": "Griekenland",
+          "name:nn": "Hellas",
+          "name:no": "Hellas",
+          "name:nv": "Gwíík Dineʼé Bikéyah",
+          "name:oc": "Grècia",
+          "name:or": "ଗ୍ରୀସ",
+          "name:os": "Грекъ",
+          "name:pa": "ਯੂਨਾਨ",
+          "name:pl": "Grecja",
+          "name:ps": "يونان",
+          "name:pt": "Grécia",
+          "name:qu": "Grisya",
+          "name:rm": "Grezia",
+          "name:rn": "Grecia",
+          "name:ro": "Grecia",
+          "name:ru": "Греция",
+          "name:rw": "Ubugereki",
+          "name:sa": "यवनदेशः",
+          "name:sc": "Grèghia",
+          "name:se": "Greika",
+          "name:sh": "Grčka",
+          "name:si": "ග්‍රීසිය",
+          "name:sk": "Grécko",
+          "name:sl": "Grčija",
+          "name:sm": "Kuliti",
+          "name:so": "Giriig",
+          "name:sq": "Greqia",
+          "name:sr": "Грчка",
+          "name:ss": "IGrikhi",
+          "name:su": "Yunani",
+          "name:sv": "Grekland",
+          "name:sw": "Ugiriki",
+          "name:ta": "கிரேக்க நாடு",
+          "name:te": "గ్రీస్",
+          "name:tg": "Юнон",
+          "name:th": "ประเทศกรีซ",
+          "name:tk": "Gresiýa",
+          "name:tl": "Gresya",
+          "name:tr": "Yunanistan",
+          "name:tt": "Греция",
+          "name:ug": "Grétsiye",
+          "name:uk": "Греція",
+          "name:ur": "یونان",
+          "name:uz": "Yunoniston",
+          "name:vi": "Hy Lạp",
+          "name:vo": "Grikän",
+          "name:wo": "Girees",
+          "name:yi": "גריכנלאנד",
+          "name:yo": "Gríìsì",
+          "name:zh": "希腊",
+          "name:zu": "IGreki",
+          "alt_name": "Ελλάδα",
+          "boundary": "administrative",
+          "int_name": "Greece",
+          "name:ace": "Yunani",
+          "name:als": "Griechenland",
+          "name:ang": "Crēcland",
+          "name:arc": "ܝܘܢ",
+          "name:arz": "اليونان",
+          "name:ast": "Grecia",
+          "name:bar": "Griachaland",
+          "name:bcl": "Gresya",
+          "name:bpy": "গ্রীস",
+          "name:bxr": "Грек улас",
+          "name:cdo": "Hĭ-lé-nà̤",
+          "name:ceb": "Gresya",
+          "name:chr": "ᎪᎢ",
+          "name:ckb": "یۆنان",
+          "name:crh": "Yunanistan",
+          "name:csb": "Greckô",
+          "name:diq": "Yunanıstan",
+          "name:dsb": "Grichiska",
+          "name:ext": "Grécia",
+          "name:frp": "Grèce",
+          "name:frr": "Griichenlönj",
+          "name:fur": "Grecie",
+          "name:gag": "Grețiya",
+          "name:gan": "希臘",
+          "name:hak": "Hî-lia̍p",
+          "name:haw": "Helene",
+          "name:hif": "Greece",
+          "name:hsb": "Grjekska",
+          "name:ilo": "Gresia",
+          "name:jbo": "xesygu'e",
+          "name:kaa": "Gretsiya",
+          "name:kbd": "Алыджей",
+          "name:koi": "Эллада",
+          "name:krc": "Греция",
+          "name:lad": "Gresia",
+          "name:lez": "Греция",
+          "name:lij": "Greçia",
+          "name:lmo": "Grecia",
+          "name:ltg": "Grekeja",
+          "name:lzh": "希臘共和國",
+          "name:mdf": "Грекмастор",
+          "name:mhr": "Греций",
+          "name:mwl": "Grécia",
+          "name:mzn": "یونان",
+          "name:nah": "Grecia",
+          "name:nan": "Hi-lia̍p",
+          "name:nap": "Grecia",
+          "name:nds": "Grekenland",
+          "name:nov": "Grekia",
+          "name:nrm": "Grêce",
+          "name:pag": "Gresia",
+          "name:pam": "Grekya",
+          "name:pcd": "Grèche",
+          "name:pih": "Griese",
+          "name:pms": "Grecia",
+          "name:pnb": "یونان",
+          "name:pnt": "Ελλάδα",
+          "name:rue": "Ґреція",
+          "name:sah": "Греция",
+          "name:scn": "Grecia",
+          "name:sco": "Greece",
+          "name:smn": "Kreikka",
+          "name:sms": "Kreikka",
+          "name:srn": "Grikikondre",
+          "name:stq": "Griechenlound",
+          "name:szl": "Grecyjŏ",
+          "name:tet": "Grésia",
+          "name:tok": "ma Elena",
+          "name:tpi": "Gris",
+          "name:tzl": "Graicea",
+          "name:udm": "Греция",
+          "name:vec": "Gresia",
+          "name:vep": "Grekanma",
+          "name:vls": "Grieknland",
+          "name:vro": "Kreeka",
+          "name:war": "Gresya",
+          "name:wuu": "希腊",
+          "name:xal": "Грисин Орн",
+          "name:xmf": "საბერძნეთი",
+          "name:yue": "希臘",
+          "name:zea": "Griek'nland",
+          "ref:nuts": "EL",
+          "timezone": "Europe/Athens",
+          "way_area": "24.7793",
+          "wikidata": "Q41",
+          "ISO3166-1": "GR",
+          "wikipedia": "el:Ελλάδα",
+          "admin_level": "2",
+          "alt_name:eo": "Grekujo;Helenio;Helenujo",
+          "name:nds-nl": "Griekenlaand",
+          "name:bat-smg": "Graikėjė",
+          "name:roa-rup": "Gârția",
+          "name:zh-Hans": "希腊",
+          "name:zh-Hant": "希臘",
+          "name:roa-tara": "Grecie",
+          "official_name": "Ελληνική Δημοκρατία",
+          "name:be-tarask": "Грэцыя",
+          "ISO3166-1:alpha2": "GR",
+          "ISO3166-1:alpha3": "GRC",
+          "default_language": "el",
+          "official_name:cs": "Řecká republika",
+          "official_name:eo": "Helena Respubliko",
+          "official_name:fi": "Helleenien tasavalta",
+          "official_name:pl": "Republika Grecka",
+          "ISO3166-1:numeric": "300",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "12"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.298017386553077,
+              37
+            ],
+            [
+              21.298441,
+              36.998716
+            ],
+            [
+              21.3009124,
+              36.9923398
+            ],
+            [
+              21.3036211,
+              36.9860777
+            ],
+            [
+              21.3068055,
+              36.9795093
+            ],
+            [
+              21.3126182,
+              36.9684987
+            ],
+            [
+              21.3153875,
+              36.963623
+            ],
+            [
+              21.3193753,
+              36.9555892
+            ],
+            [
+              21.3226839,
+              36.9495934
+            ],
+            [
+              21.3262347,
+              36.9436875
+            ],
+            [
+              21.3298961,
+              36.9380661
+            ],
+            [
+              21.3337627,
+              36.9325725
+            ],
+            [
+              21.3384455,
+              36.9263877
+            ],
+            [
+              21.3427783,
+              36.9210885
+            ],
+            [
+              21.347477,
+              36.9157249
+            ],
+            [
+              21.3562384,
+              36.9066214
+            ],
+            [
+              21.3610567,
+              36.9020433
+            ],
+            [
+              21.3665075,
+              36.8971795
+            ],
+            [
+              21.3760411,
+              36.8893824
+            ],
+            [
+              21.3866345,
+              36.8816341
+            ],
+            [
+              21.3929926,
+              36.8773894
+            ],
+            [
+              21.3989208,
+              36.8736795
+            ],
+            [
+              21.4110187,
+              36.8667828
+            ],
+            [
+              21.4247519,
+              36.8598748
+            ],
+            [
+              21.4269346,
+              36.8543378
+            ],
+            [
+              21.429497,
+              36.8484435
+            ],
+            [
+              21.4333837,
+              36.8401872
+            ],
+            [
+              21.4363822,
+              36.8343978
+            ],
+            [
+              21.4416889,
+              36.8151514
+            ],
+            [
+              21.4428044,
+              36.8084668
+            ],
+            [
+              21.4444992,
+              36.8009269
+            ],
+            [
+              21.4443602,
+              36.7988865
+            ],
+            [
+              21.4435143,
+              36.7927041
+            ],
+            [
+              21.4427834,
+              36.7823329
+            ],
+            [
+              21.4415069,
+              36.7745828
+            ],
+            [
+              21.4405287,
+              36.765875
+            ],
+            [
+              21.4400235,
+              36.7571316
+            ],
+            [
+              21.4399882,
+              36.748766
+            ],
+            [
+              21.4402354,
+              36.7424627
+            ],
+            [
+              21.4408062,
+              36.735186
+            ],
+            [
+              21.4429543,
+              36.7186854
+            ],
+            [
+              21.4445183,
+              36.7092947
+            ],
+            [
+              21.4466361,
+              36.6999496
+            ],
+            [
+              21.4490733,
+              36.6914181
+            ],
+            [
+              21.4527608,
+              36.6809005
+            ],
+            [
+              21.4583089,
+              36.6672688
+            ],
+            [
+              21.4628353,
+              36.6577283
+            ],
+            [
+              21.4684292,
+              36.6475038
+            ],
+            [
+              21.4750677,
+              36.6370414
+            ],
+            [
+              21.4805049,
+              36.6294141
+            ],
+            [
+              21.4860044,
+              36.6224253
+            ],
+            [
+              21.4921962,
+              36.6152464
+            ],
+            [
+              21.5001039,
+              36.6069521
+            ],
+            [
+              21.5075036,
+              36.599933
+            ],
+            [
+              21.5148874,
+              36.5935307
+            ],
+            [
+              21.5226099,
+              36.5873932
+            ],
+            [
+              21.5306348,
+              36.5815472
+            ],
+            [
+              21.5401754,
+              36.5752139
+            ],
+            [
+              21.5489232,
+              36.5699256
+            ],
+            [
+              21.5575701,
+              36.565152
+            ],
+            [
+              21.5641528,
+              36.561797
+            ],
+            [
+              21.5726707,
+              36.5577829
+            ],
+            [
+              21.5808146,
+              36.554281
+            ],
+            [
+              21.5895908,
+              36.550847
+            ],
+            [
+              21.5970267,
+              36.548199
+            ],
+            [
+              21.6041554,
+              36.5458858
+            ],
+            [
+              21.6143559,
+              36.5429099
+            ],
+            [
+              21.6269955,
+              36.5355638
+            ],
+            [
+              21.6394987,
+              36.5291609
+            ],
+            [
+              21.6463899,
+              36.5259777
+            ],
+            [
+              21.6535718,
+              36.5229046
+            ],
+            [
+              21.6608709,
+              36.5200236
+            ],
+            [
+              21.6682823,
+              36.5173365
+            ],
+            [
+              21.6863481,
+              36.5112593
+            ],
+            [
+              21.6940043,
+              36.5089719
+            ],
+            [
+              21.7014186,
+              36.5069725
+            ],
+            [
+              21.7161364,
+              36.5036073
+            ],
+            [
+              21.7255272,
+              36.5018554
+            ],
+            [
+              21.733835,
+              36.5005514
+            ],
+            [
+              21.7428332,
+              36.499406
+            ],
+            [
+              21.7508958,
+              36.4986089
+            ],
+            [
+              21.7589861,
+              36.4980245
+            ],
+            [
+              21.7670958,
+              36.4976537
+            ],
+            [
+              21.7754554,
+              36.4974954
+            ],
+            [
+              21.7844241,
+              36.4975784
+            ],
+            [
+              21.7920479,
+              36.4978539
+            ],
+            [
+              21.8012924,
+              36.498442
+            ],
+            [
+              21.8089656,
+              36.4964345
+            ],
+            [
+              21.8176351,
+              36.4944366
+            ],
+            [
+              21.8267021,
+              36.4926361
+            ],
+            [
+              21.8370496,
+              36.4909224
+            ],
+            [
+              21.8540004,
+              36.4888962
+            ],
+            [
+              21.865247,
+              36.488085
+            ],
+            [
+              21.8720208,
+              36.487774
+            ],
+            [
+              21.8821218,
+              36.4876103
+            ],
+            [
+              21.8920494,
+              36.4877768
+            ],
+            [
+              21.8989282,
+              36.4882118
+            ],
+            [
+              21.8996368,
+              36.488099
+            ],
+            [
+              21.9050553,
+              36.4883228
+            ],
+            [
+              21.9131521,
+              36.4888361
+            ],
+            [
+              21.9228344,
+              36.4897331
+            ],
+            [
+              21.9310566,
+              36.4907401
+            ],
+            [
+              21.9399127,
+              36.492081
+            ],
+            [
+              21.9478394,
+              36.4935108
+            ],
+            [
+              21.9572691,
+              36.4955011
+            ],
+            [
+              21.9650487,
+              36.4973865
+            ],
+            [
+              21.974356,
+              36.4999395
+            ],
+            [
+              21.9822145,
+              36.5023619
+            ],
+            [
+              21.9907867,
+              36.5052866
+            ],
+            [
+              21.9994211,
+              36.5085446
+            ],
+            [
+              22,
+              36.50878434892467
+            ],
+            [
+              22,
+              37
+            ],
+            [
+              21.298017386553077,
+              37
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -296961,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Eritrea",
+        "local_name": "ኤርትራ Eritrea إرتريا",
+        "name_en": "Eritrea",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+          "name": "ኤርትራ Eritrea إرتريا",
+          "name:af": "Eritrea",
+          "name:am": "ኤርትራ",
+          "name:an": "Eritrea",
+          "name:ar": "إرتريا",
+          "name:az": "Eritreya",
+          "name:ba": "Эритрея",
+          "name:be": "Эрытрэя",
+          "name:bg": "Еритрея",
+          "name:bm": "Eritrea",
+          "name:bn": "ইরিত্রিয়া",
+          "name:bo": "ཨི་རི་ཏྲའ།",
+          "name:br": "Eritrea",
+          "name:bs": "Eritreja",
+          "name:ca": "Eritrea",
+          "name:ce": "Эритре",
+          "name:cs": "Eritrea",
+          "name:cu": "Єрѷѳрїꙗ",
+          "name:cy": "Eritrea",
+          "name:da": "Eritrea",
+          "name:de": "Eritrea",
+          "name:dv": "އެރިތުރިއާ",
+          "name:ee": "Eritrea",
+          "name:el": "Ερυθραία",
+          "name:en": "Eritrea",
+          "name:eo": "Eritreo",
+          "name:es": "Eritrea",
+          "name:et": "Eritrea",
+          "name:eu": "Eritrea",
+          "name:fa": "اریتره",
+          "name:fi": "Eritrea",
+          "name:fo": "Eritrea",
+          "name:fr": "Érythrée",
+          "name:fy": "Eritreä",
+          "name:ga": "An Eiritré",
+          "name:gd": "Eartra",
+          "name:gl": "Eritrea",
+          "name:gn": "Erityrea",
+          "name:gr": "Ἐρυθραία",
+          "name:gv": "Eritrea",
+          "name:he": "אריתריאה",
+          "name:hi": "इरित्रिया",
+          "name:hr": "Eritreja",
+          "name:ht": "Eritre",
+          "name:hu": "Eritrea",
+          "name:hy": "Էրիթրեա",
+          "name:ia": "Eritrea",
+          "name:id": "Eritrea",
+          "name:ie": "Eritréa",
+          "name:io": "Eritrea",
+          "name:is": "Erítrea",
+          "name:it": "Eritrea",
+          "name:ja": "エリトリア",
+          "name:jv": "Eritrea",
+          "name:ka": "ერიტრეა",
+          "name:kg": "Eritrea",
+          "name:kk": "Эритрея",
+          "name:kn": "ಎರಿಟ್ರಿಯ",
+          "name:ko": "에리트레아",
+          "name:ks": "ارتریا",
+          "name:ku": "Erîtrea",
+          "name:kw": "Eritrea",
+          "name:ky": "Эритрея",
+          "name:la": "Erythraea",
+          "name:lb": "Eritrea",
+          "name:li": "Eritrea",
+          "name:ln": "Elitré",
+          "name:lt": "Eritrėja",
+          "name:lv": "Eritreja",
+          "name:mi": "Eritēria",
+          "name:mk": "Еритреја",
+          "name:ml": "എരിട്രിയ",
+          "name:mn": "Эритрей",
+          "name:mr": "इरिट्रिया",
+          "name:ms": "Eritrea",
+          "name:mt": "Eritrea",
+          "name:my": "အီရီထရီးယားနိုင်ငံ",
+          "name:na": "Eritrea",
+          "name:ne": "एरिट्रिया",
+          "name:nl": "Eritrea",
+          "name:nn": "Eritrea",
+          "name:no": "Eritrea",
+          "name:oc": "Eritrèa",
+          "name:om": "Eritrea",
+          "name:or": "ଇରିଟ୍ରିଆ",
+          "name:os": "Эритрей",
+          "name:pa": "ਇਰੀਤਰੀਆ",
+          "name:pl": "Erytrea",
+          "name:ps": "اریتریا",
+          "name:pt": "Eritreia",
+          "name:qu": "Iritriya",
+          "name:ro": "Eritreea",
+          "name:ru": "Эритрея",
+          "name:rw": "Eritereya",
+          "name:sa": "इरीट्रिया",
+          "name:sc": "Eritrea",
+          "name:se": "Eritrea",
+          "name:sg": "Eritrëe",
+          "name:sh": "Eritreja",
+          "name:sk": "Eritrea",
+          "name:sl": "Eritreja",
+          "name:sn": "Eritrea",
+          "name:so": "Eratareya",
+          "name:sq": "Eritrea",
+          "name:sr": "Еритреја",
+          "name:ss": "IRitheya",
+          "name:st": "Eritrea",
+          "name:su": "Éritréa",
+          "name:sv": "Eritrea",
+          "name:sw": "Eritrea",
+          "name:ta": "எரித்திரியா",
+          "name:te": "ఎరిత్రియా",
+          "name:tg": "Эритрея",
+          "name:th": "ประเทศเอริเทรีย",
+          "name:ti": "ኤርትራ",
+          "name:tk": "Eritreýa",
+          "name:tl": "Eritrea",
+          "name:tr": "Eritre",
+          "name:ts": "Eritreya",
+          "name:tt": "Эритрея",
+          "name:ug": "ئېرىترېيە",
+          "name:uk": "Еритрея",
+          "name:ur": "ارتریا",
+          "name:uz": "Eritriya",
+          "name:vi": "Eritrea",
+          "name:vo": "Lerüträn",
+          "name:wo": "Eritere",
+          "name:yi": "עריטרעא",
+          "name:yo": "Ẹritrẹ́à",
+          "name:zh": "厄立特里亚 / 厄利垂亞",
+          "name:zu": "I-Eritrea",
+          "boundary": "administrative",
+          "name:ace": "Eritrea",
+          "name:als": "Eritrea",
+          "name:ang": "Æriþrea",
+          "name:ast": "Eritrea",
+          "name:azb": "اریتره",
+          "name:bcl": "Eritreya",
+          "name:bjn": "Eritrea",
+          "name:bpy": "ইরিত্রিয়া",
+          "name:bxr": "Эритрей",
+          "name:ceb": "Eritrea",
+          "name:ckb": "ئێریتریا",
+          "name:crh": "Eritreya",
+          "name:din": "Eriteria",
+          "name:diq": "Eritreya",
+          "name:dsb": "Eritreja",
+          "name:ext": "Eritrea",
+          "name:frp": "Èritrê",
+          "name:gag": "Eritreya",
+          "name:grc": "Ἐρυθραία",
+          "name:hif": "Eritrea",
+          "name:hsb": "Eritreja",
+          "name:ilo": "Eritrea",
+          "name:jbo": "eritreas",
+          "name:kab": "Iritirya",
+          "name:lad": "Eritrea",
+          "name:lij": "Eritrea",
+          "name:lmo": "Eritrea",
+          "name:mhr": "Эритрей",
+          "name:min": "Eritrea",
+          "name:mrj": "Эритрей",
+          "name:nah": "Eritrea",
+          "name:nan": "Eritrea",
+          "name:nds": "Eritrea",
+          "name:nov": "Eritrea",
+          "name:nso": "Eritrea",
+          "name:pam": "Eritrea",
+          "name:pap": "Eritrea",
+          "name:pih": "Eritreya",
+          "name:pms": "Eritrea",
+          "name:pnb": "اریٹریا",
+          "name:sah": "Эритрея",
+          "name:scn": "Eritria",
+          "name:sco": "Eritrea",
+          "name:smn": "Eritrea",
+          "name:sms": "Eritrea",
+          "name:stq": "Eritrea",
+          "name:szl": "Erytryja",
+          "name:tok": "ma Eliteja",
+          "name:tzl": "Eriþraia",
+          "name:vec": "Eritrea",
+          "name:vro": "Eritrea",
+          "name:war": "Eritrea",
+          "name:xal": "Эритреймудин Орн",
+          "name:yue": "厄立特里亞",
+          "timezone": "Africa/Asmara",
+          "way_area": "13.4765",
+          "wikidata": "Q986",
+          "ISO3166-1": "ER",
+          "wikipedia": "ar:إريتريا",
+          "population": "3497000",
+          "admin_level": "2",
+          "alt_name:ar": "إريتريا",
+          "alt_name:ps": "اریتره;اریتریه",
+          "alt_name:pt": "Eritréia",
+          "name:az-Arab": "اریتره",
+          "name:bat-smg": "Eritrėjė",
+          "name:kk-Arab": "ەرىيترەيا",
+          "name:roa-rup": "Eritrea",
+          "name:zh-Hans": "厄立特里亚",
+          "name:zh-Hant": "厄利垂亞",
+          "name:be-tarask": "Эрытрэя",
+          "population:date": "2019-08",
+          "ISO3166-1:alpha2": "ER",
+          "ISO3166-1:alpha3": "ERI",
+          "official_name:af": "Staat Eritrea",
+          "official_name:ar": "دولة إرتريا",
+          "official_name:cs": "Stát Eritrea",
+          "official_name:de": "Staat Eritrea",
+          "official_name:el": "Κράτος της Ερυθραίας",
+          "official_name:en": "State of Eritrea",
+          "official_name:es": "Estado de Eritrea",
+          "official_name:nl": "Staat Eritrea",
+          "official_name:pa": "ਇਰੀਤਰੀਆ ਦਾ ਮੁਲਕ",
+          "official_name:ps": "د اریتریا هیواد ولسمشریزه",
+          "official_name:pt": "Estado da Eritreia",
+          "official_name:ru": "Государство Эритрея",
+          "ISO3166-1:numeric": "232",
+          "official_name:nds": "Staat Eritrea",
+          "official_name:kk-Arab": "ەرىيترەيا مەملەكەتى"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40,
+              15
+            ],
+            [
+              40.97239296880522,
+              15
+            ],
+            [
+              40.9690951,
+              15.0028436
+            ],
+            [
+              40.9435077,
+              15.0188877
+            ],
+            [
+              40.9157684,
+              15.0310995
+            ],
+            [
+              40.8798117,
+              15.0407822
+            ],
+            [
+              40.8618891,
+              15.0441635
+            ],
+            [
+              40.8402931,
+              15.0633995
+            ],
+            [
+              40.8153466,
+              15.0820449
+            ],
+            [
+              40.7942879,
+              15.0940464
+            ],
+            [
+              40.7853393,
+              15.0978108
+            ],
+            [
+              40.7507553,
+              15.1260342
+            ],
+            [
+              40.706973,
+              15.1479397
+            ],
+            [
+              40.6982731,
+              15.154475
+            ],
+            [
+              40.6896035,
+              15.1737313
+            ],
+            [
+              40.6850348,
+              15.1804725
+            ],
+            [
+              40.7056109,
+              15.1835034
+            ],
+            [
+              40.7377526,
+              15.1938338
+            ],
+            [
+              40.769585,
+              15.2102688
+            ],
+            [
+              40.7980003,
+              15.2318172
+            ],
+            [
+              40.8233253,
+              15.2593994
+            ],
+            [
+              40.841264,
+              15.2692575
+            ],
+            [
+              40.8643682,
+              15.2874394
+            ],
+            [
+              40.8898145,
+              15.28933
+            ],
+            [
+              40.908878,
+              15.293113
+            ],
+            [
+              40.9248216,
+              15.2977455
+            ],
+            [
+              40.9414032,
+              15.3035456
+            ],
+            [
+              40.971713,
+              15.3190392
+            ],
+            [
+              41,
+              15.340011964989928
+            ],
+            [
+              41,
+              15.826630481842761
+            ],
+            [
+              40.9796634,
+              15.8466862
+            ],
+            [
+              40.9502261,
+              15.8670278
+            ],
+            [
+              40.9326507,
+              15.875147
+            ],
+            [
+              40.9135765,
+              15.8952612
+            ],
+            [
+              40.8886237,
+              15.9145533
+            ],
+            [
+              40.8750853,
+              15.9219011
+            ],
+            [
+              40.8618883,
+              15.9430366
+            ],
+            [
+              40.8393164,
+              15.96809
+            ],
+            [
+              40.8127769,
+              15.9891962
+            ],
+            [
+              40.793045662379136,
+              16
+            ],
+            [
+              40,
+              16
+            ],
+            [
+              40,
+              15
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

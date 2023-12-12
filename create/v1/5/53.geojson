@@ -1,0 +1,563 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2323309,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Netherlands",
+        "local_name": "Nederland",
+        "name_en": "Netherlands",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+          "name": "Nederland",
+          "name:af": "Nederland",
+          "name:am": "ሆላንድ",
+          "name:an": "Países Baixos",
+          "name:ar": "هولندا",
+          "name:ay": "Aynacha Jach'a Markanaka",
+          "name:az": "Niderland",
+          "name:ba": "Нидерландтар",
+          "name:be": "Нідэрланды",
+          "name:bg": "Нидерландия",
+          "name:bh": "एम्सटर्डम",
+          "name:bi": "Netherlands",
+          "name:bn": "নেদারল্যান্ডস",
+          "name:bo": "ཧོ་ལན།",
+          "name:br": "Izelvroioù",
+          "name:bs": "Nizozemska",
+          "name:ca": "Països Baixos",
+          "name:ce": "Нидерландаш",
+          "name:co": "Paesi Bassi",
+          "name:cs": "Nizozemsko",
+          "name:cu": "Нидєрландꙑ",
+          "name:cv": "Нидерландсем",
+          "name:cy": "Yr Iseldiroedd",
+          "name:da": "Holland",
+          "name:de": "Niederlande",
+          "name:dv": "ނެދަލޭންޑު",
+          "name:dz": "ནེ་དར་ལེནཌསི་",
+          "name:ee": "Netherlands",
+          "name:el": "Κάτω Χώρες",
+          "name:en": "Netherlands",
+          "name:eo": "Nederlando",
+          "name:es": "Países Bajos",
+          "name:et": "Holland",
+          "name:eu": "Herbehereak",
+          "name:fa": "هلند",
+          "name:ff": "Holannda",
+          "name:fi": "Alankomaat",
+          "name:fo": "Niðurlond",
+          "name:fr": "Pays-Bas",
+          "name:fy": "Nederlân",
+          "name:ga": "An Ísiltír",
+          "name:gd": "Na Tìrean Ìsle",
+          "name:gl": "Países Baixos",
+          "name:gn": "Tetãnguéra Yvýi",
+          "name:gu": "નેધરલેંડ",
+          "name:gv": "Yn Çheer Injil",
+          "name:he": "הולנד",
+          "name:hi": "नीदरलैण्ड",
+          "name:hr": "Nizozemska",
+          "name:ht": "Peyiba",
+          "name:hu": "Hollandia",
+          "name:hy": "Նիդերլանդներ",
+          "name:ia": "Pais Basse",
+          "name:id": "Belanda",
+          "name:ie": "Nederland",
+          "name:io": "Nederlando",
+          "name:is": "Holland",
+          "name:it": "Paesi Bassi",
+          "name:ja": "オランダ",
+          "name:jv": "Walanda",
+          "name:ka": "ნიდერლანდი",
+          "name:kg": "Pays-Bas",
+          "name:kk": "Нидерланд",
+          "name:kl": "Hollandi",
+          "name:kn": "ನೆದರ್‍ಲ್ಯಾಂಡ್ಸ್",
+          "name:ko": "네덜란드",
+          "name:ku": "Holenda",
+          "name:kv": "Нидерландъяс",
+          "name:kw": "Iseldiryow",
+          "name:ky": "Нидерландтар",
+          "name:la": "Nederlandia",
+          "name:lb": "Holland",
+          "name:li": "Nederland",
+          "name:ln": "Holanda",
+          "name:lt": "Nyderlandai",
+          "name:lv": "Nīderlande",
+          "name:mi": "Hōrana",
+          "name:mk": "Холандија",
+          "name:ml": "നെതർലന്റ്സ്",
+          "name:mn": "Нидерланд",
+          "name:mr": "नेदरलँड्स",
+          "name:ms": "Belanda",
+          "name:mt": "Pajjiżi l-Baxxi",
+          "name:my": "နယ်သာလန်နိုင်ငံ",
+          "name:na": "Eben Eyong",
+          "name:ne": "नेदरल्याण्ड्स",
+          "name:nl": "Nederland",
+          "name:nn": "Nederland",
+          "name:no": "Nederland",
+          "name:nv": "Tsin Bikeeʼ Dineʼé Bikéyah",
+          "name:oc": "Païses Basses",
+          "name:os": "Нидерландтæ",
+          "name:pa": "ਨੀਦਰਲੈਂਡ",
+          "name:pl": "Holandia",
+          "name:ps": "هالنډ",
+          "name:pt": "Países Baixos",
+          "name:qu": "Urasuyu",
+          "name:rm": "Pajais Bass",
+          "name:ro": "Țările de Jos",
+          "name:ru": "Нидерланды",
+          "name:rw": "Ubuholandi",
+          "name:sa": "नेदरलैंड्स",
+          "name:sc": "Logos Bascios",
+          "name:se": "Vuolleeatnamat",
+          "name:sh": "Holandija",
+          "name:si": "නෙදර්ලන්තය",
+          "name:sk": "Holandsko",
+          "name:sl": "Nizozemska",
+          "name:so": "Holland",
+          "name:sq": "Holanda",
+          "name:sr": "Холандија",
+          "name:ss": "IDashi",
+          "name:st": "Hôlanê",
+          "name:su": "Walanda",
+          "name:sv": "Nederländerna",
+          "name:sw": "Uholanzi",
+          "name:ta": "நெதர்லாந்து",
+          "name:te": "నెదర్లాండ్",
+          "name:tg": "Нидерланд",
+          "name:th": "ประเทศเนเธอร์แลนด์",
+          "name:tk": "Niderlandlar",
+          "name:tl": "Olanda",
+          "name:to": "Holani",
+          "name:tr": "Hollanda",
+          "name:tt": "Нидерландлар",
+          "name:ug": "گوللاندىيە",
+          "name:uk": "Нідерланди",
+          "name:ur": "ہالینڈ",
+          "name:uz": "Niderlandlar",
+          "name:vi": "Hà Lan",
+          "name:vo": "Nedän",
+          "name:wa": "Bas Payis",
+          "name:wo": "Olaand",
+          "name:xh": "ENetherlands",
+          "name:yi": "האלאנד",
+          "name:yo": "Nẹ́dálándì",
+          "name:zh": "荷兰 / 荷蘭",
+          "name:zu": "Netherlands",
+          "boundary": "administrative",
+          "int_name": "Nederland",
+          "name:ace": "Blanda",
+          "name:als": "Niederlande",
+          "name:ang": "Niðerland",
+          "name:arc": "ܗܘܠܢܕܐ",
+          "name:arz": "نيديرلاند",
+          "name:ast": "Países Baxos",
+          "name:azb": "هولند",
+          "name:bar": "Holland",
+          "name:bcl": "Nederlands",
+          "name:bpy": "নেদারল্যান্ড",
+          "name:bug": "Belanda",
+          "name:bxr": "Нидерланд",
+          "name:cdo": "Hò̤-làng",
+          "name:ceb": "Olanda",
+          "name:chr": "ᏁᏛᎳᏂ",
+          "name:ckb": "ھۆلەند",
+          "name:crh": "Felemenk",
+          "name:csb": "Néderlandzkô",
+          "name:diq": "Hollanda",
+          "name:dsb": "Nižozemska",
+          "name:ext": "Paisis Baxus",
+          "name:frp": "Payis-Bâs",
+          "name:frr": "Nederlönje",
+          "name:fur": "Paîs Bas",
+          "name:gag": "Niderland",
+          "name:gan": "荷蘭",
+          "name:grc": "Βαταυία",
+          "name:hak": "Hò-làn",
+          "name:haw": "Hōlani",
+          "name:hif": "The Netherlands",
+          "name:hsb": "Nižozemska",
+          "name:ilo": "Olánda",
+          "name:jbo": "nederland",
+          "name:kaa": "Niderlandiya",
+          "name:kbd": "Нидерлэндхэр",
+          "name:koi": "Недерланд",
+          "name:krc": "Нидерландла",
+          "name:ksh": "Niederlande",
+          "name:lad": "Payises Bashos",
+          "name:lez": "Нидерландар",
+          "name:lij": "Paixi Basci",
+          "name:lmo": "Paes Bass",
+          "name:ltg": "Nīderlandeja",
+          "name:lzh": "荷蘭",
+          "name:mdf": "Недерлантт",
+          "name:mhr": "Нидерланде",
+          "name:min": "Balando",
+          "name:mzn": "هلند",
+          "name:nah": "Tlanitlālpan",
+          "name:nan": "Hô-lân-kok",
+          "name:nap": "Ulanna",
+          "name:nds": "Nedderlannen",
+          "name:new": "नेदरल्यान्द्स्",
+          "name:nov": "Nederlande",
+          "name:nrm": "Pays Bas",
+          "name:pam": "Paises Bahes",
+          "name:pap": "Hulanda",
+          "name:pcd": "Bas-Païs",
+          "name:pdc": "Holland",
+          "name:pih": "Dem Nethiland",
+          "name:pms": "Pais Bass",
+          "name:pnb": "نیدرلینڈز",
+          "name:pnt": "Ολλανδία",
+          "name:rmy": "Olanda",
+          "name:rue": "Нідерланды",
+          "name:sah": "Недерланд",
+          "name:scn": "Paisi Vasci",
+          "name:sco": "Netherlands",
+          "name:smn": "Vuáládâhenâmeh",
+          "name:srn": "Bakrakondre",
+          "name:stq": "Niederlounde",
+          "name:syc": "ܗܘܠܢܕܐ",
+          "name:szl": "Niderlandy",
+          "name:tet": "Olanda",
+          "name:tok": "ma Netelan",
+          "name:tpi": "Ol Nitelan",
+          "name:tzl": "Päts-Bäts",
+          "name:udm": "Нидерланд",
+          "name:vec": "Paéxi Basi",
+          "name:vep": "Alamad",
+          "name:vls": "Holland",
+          "name:vro": "Holland",
+          "name:war": "Nederlandes",
+          "name:wuu": "尼德兰",
+          "name:xal": "Недерлендин Нутг",
+          "name:xmf": "ნიდერლანდი",
+          "name:yue": "荷蘭",
+          "name:zea": "Nederland",
+          "nat_name": "Koninkrijk",
+          "operator": "Koninkrijk der Nederlanden",
+          "way_area": "7.82235",
+          "wikidata": "Q29999",
+          "ISO3166-1": "NL",
+          "wikipedia": "nl:Koninkrijk der Nederlanden",
+          "start_date": "1813",
+          "admin_level": "2",
+          "alt_name:cs": "Nizozemí",
+          "name:nds-nl": "Nederlaand",
+          "name:simple": "Netherlands",
+          "old_name:bs": "Holandija",
+          "old_name:cs": "Holandsko",
+          "operator:de": "Königreich der Niederlande",
+          "operator:fr": "Royaume des Pays-Bas",
+          "operator:nl": "Koninkrijk der Nederlanden",
+          "related_law": "Statuut voor het Koninkrijk der Nederlanden",
+          "alt_name:pcd": "Bos-Païs",
+          "alt_name:vls": "Olland;Nederlandn;Nederland'n",
+          "name:bat-smg": "Nīderlandā",
+          "name:map-bms": "Landa",
+          "name:zh-Hans": "荷兰",
+          "name:zh-Hant": "荷蘭",
+          "operator:grc": "Βασιλεία Βαταυίας",
+          "name:roa-tara": "Pajèsere Vasce",
+          "official_name": "Koninkrijk der Nederlanden",
+          "name:be-tarask": "Нідэрлянды",
+          "old_name:-1815": "Verëenigde Nederlanden",
+          "related_law:url": "https://wetten.overheid.nl/BWBR0002154/2017-11-17",
+          "ISO3166-1:alpha2": "NL",
+          "ISO3166-1:alpha3": "NLD",
+          "default_language": "nl",
+          "official_name:ca": "Regne dels Països Baixos",
+          "official_name:cs": "Nizozemské království",
+          "official_name:de": "Königreich der Niederlande",
+          "official_name:el": "Βασίλειο των Κάτω Χωρών",
+          "official_name:en": "Kingdom of the Netherlands",
+          "official_name:eo": "Reĝlando Nederlando",
+          "official_name:es": "Reino de Los Paises Bajos",
+          "official_name:fi": "Alankomaiden kuningaskunta",
+          "official_name:fr": "Royaume des Pays-Bas",
+          "official_name:it": "Regno dei Paesi Bassi",
+          "official_name:nl": "Koninkrijk der Nederlanden",
+          "official_name:pl": "Królestwo Niderlandów",
+          "official_name:pt": "Reino dos Países Baixos",
+          "ISO3166-1:numeric": "528",
+          "official_name:grc": "Βασιλεία Βαταυίας",
+          "official_name:nds": "Königriek vun de Nedderlannen",
+          "official_name:pcd": "Roéyôme chés Bas-Paÿs",
+          "official_name:vls": "Keunienkryk van de Nederlandn",
+          "official_name:-1815": "Staat der Verëenigde Nederlanden",
+          "official_name:1815--1922-12-13": "Koningrijk der Nederlanden"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              53
+            ],
+            [
+              6,
+              53
+            ],
+            [
+              6,
+              53.6975797624013
+            ],
+            [
+              5.999667,
+              53.697517
+            ],
+            [
+              5.984069,
+              53.694053
+            ],
+            [
+              5.968786,
+              53.690133
+            ],
+            [
+              5.954519,
+              53.685975
+            ],
+            [
+              5.939956,
+              53.681192
+            ],
+            [
+              5.926131,
+              53.676133
+            ],
+            [
+              5.894681,
+              53.672147
+            ],
+            [
+              5.882208,
+              53.670286
+            ],
+            [
+              5.870561,
+              53.668328
+            ],
+            [
+              5.847989,
+              53.666969
+            ],
+            [
+              5.83215,
+              53.666253
+            ],
+            [
+              5.820133,
+              53.665414
+            ],
+            [
+              5.799022,
+              53.664408
+            ],
+            [
+              5.783533,
+              53.668022
+            ],
+            [
+              5.769211,
+              53.670917
+            ],
+            [
+              5.753956,
+              53.673544
+            ],
+            [
+              5.740725,
+              53.675461
+            ],
+            [
+              5.728119,
+              53.676975
+            ],
+            [
+              5.710925,
+              53.678567
+            ],
+            [
+              5.695878,
+              53.679522
+            ],
+            [
+              5.679264,
+              53.680106
+            ],
+            [
+              5.6664,
+              53.680217
+            ],
+            [
+              5.655811,
+              53.680094
+            ],
+            [
+              5.642967,
+              53.679678
+            ],
+            [
+              5.632417,
+              53.679117
+            ],
+            [
+              5.6219,
+              53.678356
+            ],
+            [
+              5.609194,
+              53.677169
+            ],
+            [
+              5.595097,
+              53.6755
+            ],
+            [
+              5.584064,
+              53.673928
+            ],
+            [
+              5.568778,
+              53.671358
+            ],
+            [
+              5.554425,
+              53.668517
+            ],
+            [
+              5.540306,
+              53.665292
+            ],
+            [
+              5.527819,
+              53.662069
+            ],
+            [
+              5.514219,
+              53.658139
+            ],
+            [
+              5.499622,
+              53.653397
+            ],
+            [
+              5.487344,
+              53.648967
+            ],
+            [
+              5.474508,
+              53.643853
+            ],
+            [
+              5.453086,
+              53.642533
+            ],
+            [
+              5.435122,
+              53.641031
+            ],
+            [
+              5.395689,
+              53.636828
+            ],
+            [
+              5.38535,
+              53.635492
+            ],
+            [
+              5.374353,
+              53.633853
+            ],
+            [
+              5.36345,
+              53.632003
+            ],
+            [
+              5.344694,
+              53.628522
+            ],
+            [
+              5.333728,
+              53.626817
+            ],
+            [
+              5.317064,
+              53.623881
+            ],
+            [
+              5.300558,
+              53.620658
+            ],
+            [
+              5.267789,
+              53.615275
+            ],
+            [
+              5.245753,
+              53.612128
+            ],
+            [
+              5.177283,
+              53.600967
+            ],
+            [
+              5.156219,
+              53.5974
+            ],
+            [
+              5.125956,
+              53.591761
+            ],
+            [
+              5.095425,
+              53.585189
+            ],
+            [
+              5.071892,
+              53.580331
+            ],
+            [
+              5.060356,
+              53.578203
+            ],
+            [
+              5.049667,
+              53.575983
+            ],
+            [
+              5.032839,
+              53.571992
+            ],
+            [
+              5.019128,
+              53.568239
+            ],
+            [
+              5.003136,
+              53.564225
+            ],
+            [
+              5,
+              53.56333194440578
+            ],
+            [
+              5,
+              53
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

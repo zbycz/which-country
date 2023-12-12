@@ -1,0 +1,672 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192794,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Congo-Brazzaville",
+        "local_name": "Congo",
+        "name_en": "Congo-Brazzaville",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+          "name": "Congo",
+          "name:af": "Republiek van die Kongo",
+          "name:am": "ኮንጎ ሪፐብሊክ",
+          "name:an": "Republica d'o Congo",
+          "name:ar": "جمهورية الكونغو",
+          "name:az": "Konqo Respublikası",
+          "name:ba": "Республика Конго",
+          "name:be": "Рэспубліка Конга",
+          "name:bg": "Република Конго",
+          "name:bm": "Kongo-Brazaville",
+          "name:bn": "কঙ্গো প্রজাতন্ত্র",
+          "name:bo": "ཀོང་གོ་སྤྱི་མཐུན་རྒྱལ་ཁབ།",
+          "name:br": "Republik Kongo",
+          "name:bs": "Republika Kongo",
+          "name:ca": "República del Congo",
+          "name:ce": "Республика Конго",
+          "name:cs": "Republika Kongo",
+          "name:cv": "Конго Республики",
+          "name:cy": "Gweriniaeth y Congo",
+          "name:da": "Republikken Congo",
+          "name:de": "Republik Kongo",
+          "name:dv": "ކޮންގޯ (ޖުމްހޫރިއްޔާ)",
+          "name:el": "Δημοκρατία του Κονγκό",
+          "name:en": "Congo-Brazzaville",
+          "name:eo": "Respubliko Kongo",
+          "name:es": "República del Congo",
+          "name:et": "Kongo Vabariik",
+          "name:eu": "Kongoko Errepublika",
+          "name:fa": "جمهوری کنگو",
+          "name:fi": "Kongon tasavalta",
+          "name:fr": "Congo-Brazzaville",
+          "name:fy": "Republyk Kongo",
+          "name:ga": "Poblacht an Chongó",
+          "name:gd": "A' Chongo",
+          "name:gl": "Congo",
+          "name:gn": "Tavakuairetã Kóngo",
+          "name:gv": "Pobblaght ny Congo",
+          "name:he": "הרפובליקה של קונגו",
+          "name:hi": "कांगो गणराज्य",
+          "name:hr": "Republika Kongo",
+          "name:ht": "Kongo (Brazavil)",
+          "name:hu": "Kongói Köztársaság",
+          "name:hy": "Կոնգոյի Հանրապետություն",
+          "name:ia": "Republica del Congo",
+          "name:id": "Republik Kongo",
+          "name:ie": "Republic de Congo",
+          "name:io": "Republiko Kongo",
+          "name:is": "Vestur-Kongó",
+          "name:it": "Repubblica del Congo",
+          "name:ja": "コンゴ共和国",
+          "name:jv": "Republik Kongo",
+          "name:ka": "კონგოს რესპუბლიკა",
+          "name:kg": "Repubilika ya Kôngo",
+          "name:kk": "Конго Республикасы",
+          "name:kn": "ಕಾಂಗೊ ಗಣರಾಜ್ಯ",
+          "name:ko": "콩고 공화국",
+          "name:ku": "Komara Kongoyê",
+          "name:kw": "Repoblek Kongo",
+          "name:la": "Respublica Congensis",
+          "name:lb": "Republik Kongo",
+          "name:li": "Kongo-Brazzaville",
+          "name:ln": "Kongó-Brazzaville",
+          "name:lt": "Kongo Respublika",
+          "name:lv": "Kongo Republika",
+          "name:mk": "Република Конго",
+          "name:ml": "റിപ്പബ്ലിക്ക് ഓഫ് കോംഗോ",
+          "name:mn": "Бүгд Найрамдах Конго Улс",
+          "name:mr": "काँगोचे प्रजासत्ताक",
+          "name:ms": "Republik Congo",
+          "name:my": "ကွန်ဂိုသမ္မတနိုင်ငံ",
+          "name:na": "Ripubrikin Kongo",
+          "name:ne": "कङ्गो",
+          "name:nl": "Congo-Brazzaville",
+          "name:nn": "Kongo-Brazzaville",
+          "name:no": "Republikken Kongo",
+          "name:nv": "Kéyah Káango Náhookǫsjí Siʼánígíí",
+          "name:oc": "Republica de Còngo",
+          "name:os": "Конгойы Республикæ",
+          "name:pa": "ਕਾਂਗੋ ਗਣਰਾਜ",
+          "name:pl": "Kongo",
+          "name:ps": "د کانګو جمهوريت",
+          "name:pt": "República do Congo",
+          "name:qu": "Kungu Republika",
+          "name:ro": "Republica Congo",
+          "name:ru": "Республика Конго",
+          "name:rw": "Kongo",
+          "name:sc": "Repùbrica de su Congo",
+          "name:se": "Kongo dásseváldi",
+          "name:sg": "Ködörösêse tî Kongöo",
+          "name:sh": "Republika Kongo",
+          "name:si": "කොංගෝ ජනරජය",
+          "name:sk": "Kongo (Brazzaville)",
+          "name:sl": "Republika Kongo",
+          "name:sn": "Republic of the Congo",
+          "name:so": "Jamhuuriyadda Kongo",
+          "name:sq": "Republika e Kongos",
+          "name:sr": "Република Конго",
+          "name:ss": "Tibuse weKhongo",
+          "name:su": "Républik Kongo",
+          "name:sv": "Republiken Kongo",
+          "name:sw": "Jamhuri ya Kongo",
+          "name:ta": "கொங்கோ குடியரசு",
+          "name:te": "కాంగో రిపబ్లిక్",
+          "name:tg": "Ҷумҳӯрии Конго",
+          "name:th": "สาธารณรัฐคองโก",
+          "name:tk": "Kongo Respublikasy",
+          "name:tl": "Republika ng Konggo",
+          "name:tr": "Kongo Cumhuriyeti",
+          "name:ts": "Riphabliki ya Congo",
+          "name:tt": "Конго Җөмһүрияте",
+          "name:ug": "كونگو جۇمھۇرىيىتى",
+          "name:uk": "Республіка Конго",
+          "name:ur": "جمہوریہ کانگو",
+          "name:uz": "Kongo Respublikasi",
+          "name:vi": "Cộng hòa Congo",
+          "name:vo": "Kongoän (Repüblikän)",
+          "name:wo": "Kongóo-Brasaawiil",
+          "name:yi": "רעפובליק פון קאנגא",
+          "name:yo": "Orílẹ̀-èdè Olómìnira ilẹ̀ Kóngò",
+          "name:zh": "刚果共和国 / 剛果共和國",
+          "name:zu": "IKongo",
+          "boundary": "administrative",
+          "currency": "XAF",
+          "name:als": "Republik Kongo",
+          "name:arc": "ܩܘܛܢܝܘܬܐ ܕܩܘܢܓܘ",
+          "name:arz": "جمهورية الكونجو",
+          "name:ast": "El Congu",
+          "name:bcl": "Republika kan Kongo",
+          "name:bpy": "কঙ্গো প্রজাতন্ত্র",
+          "name:bxr": "Конго",
+          "name:ceb": "Republika sa Congo",
+          "name:chy": "Republic of the Congo",
+          "name:ckb": "کۆماری کۆنگۆ",
+          "name:crh": "Kongo (Brazzavil)",
+          "name:din": "Koŋgo-Brazzaville",
+          "name:diq": "Cumhuriyetê Kongoy",
+          "name:dsb": "Republika Kongo",
+          "name:ext": "Congu",
+          "name:frp": "Rèpublica du Congô",
+          "name:gag": "Kongo Respublikası",
+          "name:hif": "Republic of the Congo",
+          "name:hsb": "Republika Kongo",
+          "name:ilo": "Republika iti Kongo",
+          "name:jbo": "kongos",
+          "name:lij": "Repubbrica Do Congo",
+          "name:lmo": "Congo",
+          "name:nah": "Tlācatlahtohcāyōtl in Congo",
+          "name:nan": "Congo Kiōng-hô-kok",
+          "name:nds": "Republiek Kongo",
+          "name:nov": "Kongo",
+          "name:nso": "Republic ya Congo",
+          "name:pam": "Republika ning Kongo",
+          "name:pih": "Repablik o' t' Kongo",
+          "name:pms": "Còngo",
+          "name:pnb": "کانگو",
+          "name:sah": "Конго Өрөспүүбүлүкэтэ",
+          "name:scn": "Ripùbbrica dû Congu",
+          "name:sco": "Republic o the Congo",
+          "name:smn": "Kongo täsiväldi",
+          "name:sms": "Kongo tääʹssväʹldd",
+          "name:stq": "Republik Kongo",
+          "name:vec": "Republica del Congo",
+          "name:vro": "Kongo Vabariik",
+          "name:war": "Republika han Congo",
+          "name:wuu": "刚果共和国",
+          "name:xal": "Конһлмудин Орн",
+          "name:yue": "剛果（布）",
+          "timezone": "Africa/Brazzaville",
+          "way_area": "28.2012",
+          "wikidata": "Q971",
+          "ISO3166-1": "CG",
+          "wikipedia": "fr:République du Congo",
+          "admin_level": "2",
+          "alt_name:en": "Congo (Brazzaville)",
+          "alt_name:eo": "Kongo Brazavila",
+          "alt_name:sv": "Konto-Brazzaville",
+          "alt_name:zh": "刚果（布）",
+          "name:bat-smg": "Kuongs",
+          "name:zh-Hans": "刚果共和国",
+          "name:zh-Hant": "剛果共和國",
+          "official_name": "République du Congo",
+          "name:be-tarask": "Рэспубліка Конга",
+          "ISO3166-1:alpha2": "CG",
+          "ISO3166-1:alpha3": "COG",
+          "default_language": "fr",
+          "official_name:de": "Departements der Republik Kongo",
+          "official_name:en": "Republic of the Congo",
+          "official_name:es": "Republica del Congo",
+          "official_name:fr": "République du Congo",
+          "official_name:pl": "Republika Konga",
+          "official_name:zh": "刚果共和国 / 剛果共和國",
+          "ISO3166-1:numeric": "178",
+          "official_name:din": "Paankɔc de Koŋgo",
+          "official_name:zh-Hans": "刚果共和国",
+          "official_name:zh-Hant": "剛果共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0048205,
+              -4.1012261
+            ],
+            [
+              11.0228011,
+              -4.1142252
+            ],
+            [
+              11.0645544,
+              -4.1402555
+            ],
+            [
+              11.0902716,
+              -4.1577805
+            ],
+            [
+              11.1148554,
+              -4.1773733
+            ],
+            [
+              11.1366741,
+              -4.192677
+            ],
+            [
+              11.1641262,
+              -4.2147849
+            ],
+            [
+              11.1799524,
+              -4.229435
+            ],
+            [
+              11.1827179,
+              -4.2410989
+            ],
+            [
+              11.1949125,
+              -4.2705275
+            ],
+            [
+              11.2057773,
+              -4.2883928
+            ],
+            [
+              11.2189064,
+              -4.3123404
+            ],
+            [
+              11.2339705,
+              -4.3330643
+            ],
+            [
+              11.2537709,
+              -4.3547024
+            ],
+            [
+              11.2735737,
+              -4.3720546
+            ],
+            [
+              11.3121487,
+              -4.4032767
+            ],
+            [
+              11.3903749,
+              -4.4649279
+            ],
+            [
+              11.4234507,
+              -4.4951709
+            ],
+            [
+              11.4494805,
+              -4.5171554
+            ],
+            [
+              11.4732501,
+              -4.5388354
+            ],
+            [
+              11.5189732,
+              -4.5763217
+            ],
+            [
+              11.545807,
+              -4.5970418
+            ],
+            [
+              11.5606994,
+              -4.6137708
+            ],
+            [
+              11.5715123,
+              -4.6238477
+            ],
+            [
+              11.5838094,
+              -4.6338753
+            ],
+            [
+              11.5822854,
+              -4.6438985
+            ],
+            [
+              11.5808667,
+              -4.6649758
+            ],
+            [
+              11.5816904,
+              -4.6860844
+            ],
+            [
+              11.5847475,
+              -4.7069882
+            ],
+            [
+              11.5900041,
+              -4.7274529
+            ],
+            [
+              11.5961675,
+              -4.7468755
+            ],
+            [
+              11.6009593,
+              -4.7592369
+            ],
+            [
+              11.6098346,
+              -4.7774285
+            ],
+            [
+              11.6241121,
+              -4.8008149
+            ],
+            [
+              11.6269872,
+              -4.8232331
+            ],
+            [
+              11.6304667,
+              -4.8384813
+            ],
+            [
+              11.6355766,
+              -4.8546553
+            ],
+            [
+              11.6440107,
+              -4.8747704
+            ],
+            [
+              11.6545962,
+              -4.8938493
+            ],
+            [
+              11.6651363,
+              -4.9091722
+            ],
+            [
+              11.6761056,
+              -4.922757
+            ],
+            [
+              11.7149037,
+              -4.9657562
+            ],
+            [
+              11.7254804,
+              -4.9854745
+            ],
+            [
+              11.7351428,
+              -4.9999338
+            ],
+            [
+              11.73519458248149,
+              -5
+            ],
+            [
+              12,
+              -5
+            ],
+            [
+              12,
+              -4
+            ],
+            [
+              11.081716729110138,
+              -4
+            ],
+            [
+              11.0048205,
+              -4.1012261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192793,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Gabon",
+        "local_name": "Gabon",
+        "name_en": "Gabon",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+          "name": "Gabon",
+          "name:af": "Gaboen",
+          "name:am": "ጋቦን",
+          "name:an": "Gabón",
+          "name:ar": "الغابون",
+          "name:az": "Qabon",
+          "name:ba": "Габон",
+          "name:be": "Габон",
+          "name:bg": "Габон",
+          "name:bm": "Gabon",
+          "name:bn": "গাবন",
+          "name:bo": "གེ་བོན།",
+          "name:br": "Gabon",
+          "name:bs": "Gabon",
+          "name:ca": "Gabon",
+          "name:ce": "Габон",
+          "name:cs": "Gabon",
+          "name:cv": "Габон",
+          "name:cy": "Gabon",
+          "name:da": "Gabon",
+          "name:de": "Gabun",
+          "name:dv": "ގެބޯން",
+          "name:dz": "གྷེ་བྷོན",
+          "name:el": "Γκαμπόν",
+          "name:en": "Gabon",
+          "name:eo": "Gabono",
+          "name:es": "Gabón",
+          "name:et": "Gabon",
+          "name:eu": "Gabon",
+          "name:fa": "گابن",
+          "name:ff": "Gabon",
+          "name:fi": "Gabon",
+          "name:fr": "Gabon",
+          "name:fy": "Gabon",
+          "name:ga": "An Ghabúin",
+          "name:gd": "Gabon",
+          "name:gl": "Gabón",
+          "name:gn": "Gavõ",
+          "name:gv": "Gabon",
+          "name:he": "גבון",
+          "name:hi": "गबॉन",
+          "name:hr": "Gabon",
+          "name:ht": "Gabon",
+          "name:hu": "Gabon",
+          "name:hy": "Գաբոն",
+          "name:ia": "Gabon",
+          "name:id": "Gabon",
+          "name:ie": "Gabon",
+          "name:io": "Gabon",
+          "name:is": "Gabon",
+          "name:it": "Gabon",
+          "name:ja": "ガボン",
+          "name:jv": "Gabon",
+          "name:ka": "გაბონი",
+          "name:kg": "Ngabu",
+          "name:ki": "Gabon",
+          "name:kk": "Габон",
+          "name:kn": "ಗಬೊನ್",
+          "name:ko": "가봉",
+          "name:ks": "گیبان",
+          "name:ku": "Gabon",
+          "name:kw": "Gabon",
+          "name:la": "Gabonia",
+          "name:lb": "Gabun",
+          "name:li": "Gabon",
+          "name:ln": "Gabɔ́",
+          "name:lt": "Gabonas",
+          "name:lv": "Gabona",
+          "name:mi": "Kāpona",
+          "name:mk": "Габон",
+          "name:ml": "ഗാബോൺ",
+          "name:mn": "Габон",
+          "name:mr": "गॅबन",
+          "name:ms": "Gabon",
+          "name:mt": "Gabon",
+          "name:my": "ဂါဘွန်နိုင်ငံ",
+          "name:na": "Gabun",
+          "name:ne": "गाबोन",
+          "name:nl": "Gabon",
+          "name:nn": "Gabon",
+          "name:no": "Gabon",
+          "name:nv": "Gabǫ́ǫ́",
+          "name:oc": "Gabon",
+          "name:or": "ଗାବୋନ",
+          "name:os": "Габон",
+          "name:pa": "ਗਬਾਨ",
+          "name:pl": "Gabon",
+          "name:ps": "ګابن",
+          "name:pt": "Gabão",
+          "name:qu": "Gabun",
+          "name:rm": "Gabun",
+          "name:ro": "Gabon",
+          "name:ru": "Габон",
+          "name:rw": "Gabon",
+          "name:sa": "गाबोन",
+          "name:sc": "Gabòn",
+          "name:se": "Gabon",
+          "name:sg": "Gaböon",
+          "name:sh": "Gabon",
+          "name:si": "ගැබොන්",
+          "name:sk": "Gabon",
+          "name:sl": "Gabon",
+          "name:sn": "Gabon",
+          "name:so": "Gabon",
+          "name:sq": "Gaboni",
+          "name:sr": "Габон",
+          "name:ss": "IGabhoni",
+          "name:st": "Gabon",
+          "name:su": "Gabon",
+          "name:sv": "Gabon",
+          "name:sw": "Gabon",
+          "name:ta": "காபோன்",
+          "name:te": "గబాన్",
+          "name:tg": "Габон",
+          "name:th": "ประเทศกาบอง",
+          "name:tk": "Gabon",
+          "name:tl": "Gabon",
+          "name:tr": "Gabon",
+          "name:ts": "Gaboni",
+          "name:tt": "Габон",
+          "name:ug": "گابون",
+          "name:uk": "Габон",
+          "name:ur": "گیبون",
+          "name:uz": "Gabon",
+          "name:vi": "Gabon",
+          "name:vo": "Gabunän",
+          "name:wo": "Gaboŋ",
+          "name:yi": "גאבאן",
+          "name:yo": "Gàbọ̀n",
+          "name:zh": "加蓬 / 加彭",
+          "name:zu": "IGaboni",
+          "boundary": "administrative",
+          "currency": "XAF",
+          "name:als": "Gabun",
+          "name:ang": "Gabon",
+          "name:arz": "جابون",
+          "name:ast": "Gabón",
+          "name:bcl": "Gabon",
+          "name:bjn": "Gabon",
+          "name:bpy": "গ্যাবন",
+          "name:bxr": "Габон",
+          "name:ceb": "Gabon",
+          "name:ckb": "گابۆن",
+          "name:crh": "Gabon",
+          "name:diq": "Gabon",
+          "name:dsb": "Gabun",
+          "name:ext": "Gabón",
+          "name:frp": "Gabon",
+          "name:gag": "Gabon",
+          "name:hif": "Gabon",
+          "name:hsb": "Gabun",
+          "name:ilo": "Gabon",
+          "name:jbo": "gabon",
+          "name:kaa": "Gabon",
+          "name:lij": "Gabòn",
+          "name:lmo": "Gabon",
+          "name:lzh": "加彭",
+          "name:min": "Gabon",
+          "name:mrj": "Габон",
+          "name:nah": "Gabon",
+          "name:nan": "Gabon",
+          "name:nds": "Gabun",
+          "name:nov": "Gabon",
+          "name:nso": "Gabon",
+          "name:pam": "Gabon",
+          "name:pap": "Gabon",
+          "name:pdc": "Gabun",
+          "name:pih": "Gabon",
+          "name:pms": "Gabòn",
+          "name:pnb": "گیبون",
+          "name:sah": "Габон",
+          "name:scn": "Gabon",
+          "name:sco": "Gabon",
+          "name:smn": "Gabon",
+          "name:sms": "Gaboon",
+          "name:stq": "Gabun",
+          "name:szl": "Gabůn",
+          "name:tpi": "Gabon",
+          "name:tzl": "Gabon",
+          "name:vec": "Gabon",
+          "name:vro": "Gabon",
+          "name:war": "Gabon",
+          "name:xal": "Гаһитудин Орн",
+          "name:yue": "加蓬",
+          "name:zea": "Gabon",
+          "timezone": "Africa/Libreville",
+          "way_area": "22.9917",
+          "wikidata": "Q1000",
+          "ISO3166-1": "GA",
+          "wikipedia": "en:Gabon",
+          "name:zh-TW": "加彭",
+          "admin_level": "2",
+          "alt_name:ar": "غابون",
+          "name:nds-nl": "Gabon",
+          "name:simple": "Gabon",
+          "name:bat-smg": "Gabuons",
+          "name:roa-rup": "Gabon",
+          "name:zh-Hans": "加蓬",
+          "name:zh-Hant": "加蓬 / 加彭",
+          "name:be-tarask": "Габон",
+          "ISO3166-1:alpha2": "GA",
+          "ISO3166-1:alpha3": "GAB",
+          "default_language": "fr",
+          "official_name:ar": "الجمهورية الغابونية",
+          "official_name:cs": "Gabonská republika",
+          "official_name:fa": "جمهوری گابن",
+          "official_name:gn": "Gavõ Tavakuairetã",
+          "official_name:pt": "República Gabonesa",
+          "official_name:zh": "加蓬共和国 / 加彭共和國",
+          "ISO3166-1:numeric": "266",
+          "official_name:zh-Hans": "加蓬共和国",
+          "official_name:zh-Hant": "加彭共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11,
+              -4.097881788208689
+            ],
+            [
+              11.0048205,
+              -4.1012261
+            ],
+            [
+              11.081716729110138,
+              -4
+            ],
+            [
+              11,
+              -4
+            ],
+            [
+              11,
+              -4.097881788208689
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

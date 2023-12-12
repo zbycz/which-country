@@ -1,0 +1,709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -195273,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Mozambique",
+        "local_name": "Moçambique",
+        "name_en": "Mozambique",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+          "name": "Moçambique",
+          "name:af": "Mosambiek",
+          "name:am": "ሞዛምቢክ",
+          "name:an": "Mozambique",
+          "name:ar": "موزمبيق",
+          "name:az": "Mozambik",
+          "name:ba": "Мозамбик",
+          "name:be": "Мазамбік",
+          "name:bg": "Мозамбик",
+          "name:bm": "Mozanbik",
+          "name:bn": "মোজাম্বিক",
+          "name:bo": "མོ་ཛམ་བིཀ།",
+          "name:br": "Mozambik",
+          "name:bs": "Mozambik",
+          "name:ca": "Moçambic",
+          "name:ce": "Мозамбик",
+          "name:co": "Mozambicu",
+          "name:cs": "Mosambik",
+          "name:cv": "Мозамбик",
+          "name:cy": "Mosambic",
+          "name:da": "Mozambique",
+          "name:de": "Mosambik",
+          "name:dv": "މުސިންބީ",
+          "name:el": "Μοζαμβίκη",
+          "name:en": "Mozambique",
+          "name:eo": "Mozambiko",
+          "name:es": "Mozambique",
+          "name:et": "Mosambiik",
+          "name:eu": "Mozambike",
+          "name:fa": "موزامبیک",
+          "name:fi": "Mosambik",
+          "name:fo": "Mosambik",
+          "name:fr": "Mozambique",
+          "name:fy": "Mozambyk",
+          "name:ga": "Poblacht Mhósaimbíc",
+          "name:gd": "Mòsaimbic",
+          "name:gl": "Mozambique",
+          "name:gn": "Mosambike",
+          "name:gv": "Yn Vosambeeck",
+          "name:he": "מוזמביק",
+          "name:hi": "मोज़ाम्बीक",
+          "name:hr": "Mozambik",
+          "name:ht": "Mozanbik",
+          "name:hu": "Mozambik",
+          "name:hy": "Մոզամբիկ",
+          "name:ia": "Mozambique",
+          "name:id": "Mozambik",
+          "name:ie": "Mozambique",
+          "name:io": "Mozambik",
+          "name:is": "Mósambík",
+          "name:it": "Mozambico",
+          "name:ja": "モザンビーク",
+          "name:jv": "Mozambik",
+          "name:ka": "მოზამბიკი",
+          "name:kg": "Musambiki",
+          "name:kk": "Мозамбик",
+          "name:kn": "ಮೊಜಾಂಬಿಕ್",
+          "name:ko": "모잠비크",
+          "name:ku": "Mozambîk",
+          "name:kw": "Mosambik",
+          "name:la": "Mozambicum",
+          "name:lb": "Mosambik",
+          "name:li": "Mozambique",
+          "name:ln": "Mozambíki",
+          "name:lt": "Mozambikas",
+          "name:lv": "Mozambika",
+          "name:mg": "Mozambika",
+          "name:mi": "Mohapiki",
+          "name:mk": "Мозамбик",
+          "name:ml": "മൊസാംബിക്ക്",
+          "name:mn": "Мозамбик",
+          "name:mr": "मोझांबिक",
+          "name:ms": "Mozambique",
+          "name:mt": "Możambik",
+          "name:my": "မိုဇမ်ဘစ်နိုင်ငံ",
+          "name:nl": "Mozambique",
+          "name:nn": "Mosambik",
+          "name:no": "Mosambik",
+          "name:ny": "Mozambique",
+          "name:oc": "Moçambic",
+          "name:or": "ମୋଜାମ୍ବିକ",
+          "name:os": "Мозамбик",
+          "name:pa": "ਮੋਜ਼ੈਂਬੀਕ",
+          "name:pl": "Mozambik",
+          "name:ps": "موزمبيق",
+          "name:pt": "Moçambique",
+          "name:qu": "Musambik",
+          "name:ro": "Mozambic",
+          "name:ru": "Мозамбик",
+          "name:rw": "Mozambike",
+          "name:sa": "मोजम्बीक",
+          "name:sc": "Mozambico",
+          "name:se": "Mosambik",
+          "name:sg": "Mözämbîka",
+          "name:sh": "Mozambik",
+          "name:sk": "Mozambik",
+          "name:sl": "Mozambik",
+          "name:sn": "Mozambique",
+          "name:so": "Musanbiig",
+          "name:sq": "Mozambiku",
+          "name:sr": "Мозамбик",
+          "name:ss": "IMozambikhi",
+          "name:su": "Mosambik",
+          "name:sv": "Moçambique",
+          "name:sw": "Msumbiji",
+          "name:ta": "மொசாம்பிக்",
+          "name:tg": "Мозамбик",
+          "name:th": "ประเทศโมซัมบิก",
+          "name:ti": "ሞዛምቢክ",
+          "name:tk": "Mozambik",
+          "name:tl": "Musambik",
+          "name:tr": "Mozambik",
+          "name:ts": "Mozambique",
+          "name:ug": "موزامبىك",
+          "name:uk": "Мозамбік",
+          "name:ur": "موزمبیق",
+          "name:uz": "Mozambik",
+          "name:ve": "Mozambikwi",
+          "name:vi": "Mozambique",
+          "name:vo": "Mozambikän",
+          "name:wo": "Mosambik",
+          "name:yi": "מאזאמביק",
+          "name:yo": "Mòsámbìk",
+          "name:zh": "莫桑比克 / 莫三比克",
+          "name:zu": "IMozambiki",
+          "boundary": "administrative",
+          "name:ace": "Mozambik",
+          "name:als": "Mosambik",
+          "name:ang": "Mosambice",
+          "name:arz": "موزامبيق",
+          "name:ast": "Mozambique",
+          "name:bcl": "Mosambik",
+          "name:bjn": "Mozambik",
+          "name:bpy": "মোজাম্বিক",
+          "name:bxr": "Мозамбик",
+          "name:ceb": "Mozambique",
+          "name:ckb": "مۆزامبیک",
+          "name:crh": "Mozambik",
+          "name:diq": "Mozambik",
+          "name:dsb": "Mosambik",
+          "name:ext": "Mozambiqui",
+          "name:frp": "Mozambique",
+          "name:gag": "Mozambik",
+          "name:hak": "Mo̍k-sông-pí-khiet",
+          "name:hif": "Mozambique",
+          "name:hsb": "Mosambik",
+          "name:ilo": "Mosambike",
+          "name:jbo": "mosambik",
+          "name:lad": "Mosambiko",
+          "name:lij": "Moçambico",
+          "name:lmo": "Muzambich",
+          "name:ltg": "Mozambika",
+          "name:lzh": "莫三比克",
+          "name:min": "Mozambik",
+          "name:mwl": "Moçambique",
+          "name:nah": "Mozambique",
+          "name:nan": "Moçambique",
+          "name:nds": "Mosambik",
+          "name:nov": "Mozambik",
+          "name:nso": "Mozambique",
+          "name:pam": "Mozambique",
+          "name:pap": "Mozambique",
+          "name:pms": "Mosambich",
+          "name:pnb": "موزمبیق",
+          "name:sah": "Мозамбик",
+          "name:scn": "Mozambicu",
+          "name:sco": "Mozambique",
+          "name:smn": "Mosambik",
+          "name:sms": "Mosambikk",
+          "name:stq": "Mosambik",
+          "name:szl": "Mozambik",
+          "name:tet": "Mosambike",
+          "name:tzl": "Moçambica",
+          "name:vec": "Mozanbico",
+          "name:vro": "Mosambiik",
+          "name:war": "Mozambique",
+          "name:xal": "Мозамбикудин Орн",
+          "name:yue": "莫三鼻給",
+          "timezone": "Africa/Maputo",
+          "way_area": "72.964",
+          "wikidata": "Q1029",
+          "ISO3166-1": "MZ",
+          "wikipedia": "pt:Moçambique",
+          "admin_level": "2",
+          "name:simple": "Mozambique",
+          "driving_side": "left",
+          "name:bat-smg": "Mozambėks",
+          "name:roa-rup": "Mozambic",
+          "name:zh-Hans": "莫桑比克",
+          "name:zh-Hant": "莫三比克",
+          "name:be-tarask": "Мазамбік",
+          "ISO3166-1:alpha2": "MZ",
+          "ISO3166-1:alpha3": "MOZ",
+          "default_language": "pt",
+          "official_name:cs": "Mosambická republika",
+          "ISO3166-1:numeric": "508"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33,
+              -19.74673839309076
+            ],
+            [
+              33.0025397,
+              -19.7476462
+            ],
+            [
+              33.0075818,
+              -19.7517685
+            ],
+            [
+              33.0110192,
+              -19.7513155
+            ],
+            [
+              33.0140018,
+              -19.7493969
+            ],
+            [
+              33.0205074,
+              -19.7490963
+            ],
+            [
+              33.0225645,
+              -19.7523452
+            ],
+            [
+              33.0474972,
+              -19.7713429
+            ],
+            [
+              33.0625558,
+              -19.7762972
+            ],
+            [
+              33.0600749,
+              -19.7881501
+            ],
+            [
+              33.0598218,
+              -19.7929754
+            ],
+            [
+              33.0454265,
+              -19.7977427
+            ],
+            [
+              33.0478971,
+              -19.8110638
+            ],
+            [
+              33.0499403,
+              -19.8299492
+            ],
+            [
+              33.0489993,
+              -19.8424711
+            ],
+            [
+              33.0417711,
+              -19.8702657
+            ],
+            [
+              33.0379347,
+              -19.8769097
+            ],
+            [
+              33.0374464,
+              -19.8935807
+            ],
+            [
+              33.0346602,
+              -19.9058403
+            ],
+            [
+              33.0296002,
+              -19.9243162
+            ],
+            [
+              33.0281788,
+              -19.9375953
+            ],
+            [
+              33.0260406,
+              -19.9514986
+            ],
+            [
+              33.0254388,
+              -19.9562865
+            ],
+            [
+              33.0247402,
+              -19.9642662
+            ],
+            [
+              33.024448,
+              -19.9651043
+            ],
+            [
+              33.0256319,
+              -19.982948
+            ],
+            [
+              33.0244517,
+              -19.987707
+            ],
+            [
+              33.0249684,
+              -19.9966824
+            ],
+            [
+              33.02593836060117,
+              -20
+            ],
+            [
+              34,
+              -20
+            ],
+            [
+              34,
+              -19
+            ],
+            [
+              33,
+              -19
+            ],
+            [
+              33,
+              -19.74673839309076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -195272,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Zimbabwe",
+        "local_name": "Zimbabwe",
+        "name_en": "Zimbabwe",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+          "name": "Zimbabwe",
+          "name:af": "Zimbabwe",
+          "name:am": "ዚምባብዌ",
+          "name:an": "Zimbabwe",
+          "name:ar": "زيمبابوي",
+          "name:az": "Zimbabve",
+          "name:ba": "Зимбабве",
+          "name:be": "Зімбабвэ",
+          "name:bg": "Зимбабве",
+          "name:bm": "Zimbabwe",
+          "name:bn": "জিম্বাবুয়ে",
+          "name:bo": "ཛིམ་བབ་ཝི།",
+          "name:br": "Zimbabwe",
+          "name:bs": "Zimbabve",
+          "name:ca": "Zimbabwe",
+          "name:ce": "Зимбабве",
+          "name:cs": "Zimbabwe",
+          "name:cv": "Зимбабве",
+          "name:cy": "Zimbabwe",
+          "name:da": "Zimbabwe",
+          "name:de": "Simbabwe",
+          "name:dv": "ޒިމްބާބުވޭ",
+          "name:dz": "ཛིམ་བབ་ཝེ་",
+          "name:ee": "Zimbabwe",
+          "name:el": "Ζιμπάμπουε",
+          "name:en": "Zimbabwe",
+          "name:eo": "Zimbabvo",
+          "name:es": "Zimbabue",
+          "name:et": "Zimbabwe",
+          "name:eu": "Zimbabwe",
+          "name:fa": "زیمبابوه",
+          "name:fi": "Zimbabwe",
+          "name:fo": "Simbabvi",
+          "name:fr": "Zimbabwe",
+          "name:fy": "Simbabwe",
+          "name:ga": "An tSiombáib",
+          "name:gd": "Siombabue",
+          "name:gl": "Cimbabue",
+          "name:gn": "Simbávue",
+          "name:gv": "Yn Çhimbabwe",
+          "name:he": "זימבבואה",
+          "name:hi": "ज़िम्बाब्वे",
+          "name:hr": "Zimbabve",
+          "name:ht": "Zimbabwe",
+          "name:hu": "Zimbabwe",
+          "name:hy": "Զիմբաբվե",
+          "name:id": "Zimbabwe",
+          "name:ie": "Zimbabwe",
+          "name:io": "Zimbabwe",
+          "name:is": "Simbabve",
+          "name:it": "Zimbabwe",
+          "name:ja": "ジンバブエ",
+          "name:jv": "Zimbabwe",
+          "name:ka": "ზიმბაბვე",
+          "name:kg": "Zimbabwe",
+          "name:ki": "Zimbabwe",
+          "name:kk": "Зимбабве",
+          "name:kn": "ಜಿಂಬಾಬ್ವೆ",
+          "name:ko": "짐바브웨",
+          "name:ku": "Zîmbabwe",
+          "name:kw": "Zimbabwe",
+          "name:la": "Zimbabua",
+          "name:lb": "Simbabwe",
+          "name:li": "Zimbabwe",
+          "name:ln": "Zimbabwe",
+          "name:lt": "Zimbabvė",
+          "name:lv": "Zimbabve",
+          "name:mi": "Timuwawe",
+          "name:mk": "Зимбабве",
+          "name:ml": "സിംബാബ്വെ",
+          "name:mn": "Зимбабве",
+          "name:mr": "झिंबाब्वे",
+          "name:ms": "Zimbabwe",
+          "name:mt": "Żimbabwe",
+          "name:my": "ဇင်ဘာဘွေနိုင်ငံ",
+          "name:ne": "जिम्बाब्वे",
+          "name:nl": "Zimbabwe",
+          "name:nn": "Zimbabwe",
+          "name:no": "Zimbabwe",
+          "name:nv": "Hooghan Tsé Bee Ádaalyaaí Bikéyah",
+          "name:ny": "Zimbabwe",
+          "name:oc": "Zimbabwe",
+          "name:or": "ଜିମ୍ବାୱେ",
+          "name:os": "Зимбабве",
+          "name:pa": "ਜ਼ਿੰਬਾਬਵੇ",
+          "name:pl": "Zimbabwe",
+          "name:ps": "زېمبابوې",
+          "name:pt": "Zimbabué",
+          "name:qu": "Simbabwi",
+          "name:ro": "Zimbabwe",
+          "name:ru": "Зимбабве",
+          "name:rw": "Zimbabwe",
+          "name:sa": "जिम्बाबवे",
+          "name:sc": "Zimbabwe",
+          "name:se": "Zimbabwe",
+          "name:sg": "Zimbäbwe",
+          "name:sh": "Zimbabve",
+          "name:si": "සිම්බාබ්වේ",
+          "name:sk": "Zimbabwe",
+          "name:sl": "Zimbabve",
+          "name:sn": "Zimbabwe",
+          "name:so": "Simbaabwi",
+          "name:sq": "Zimbabveja",
+          "name:sr": "Зимбабве",
+          "name:ss": "IZimbabhwe",
+          "name:su": "Zimbabwé",
+          "name:sv": "Zimbabwe",
+          "name:sw": "Zimbabwe",
+          "name:ta": "சிம்பாப்வே",
+          "name:te": "జింబాబ్వే",
+          "name:tg": "Зимбабве",
+          "name:th": "ประเทศซิมบับเว",
+          "name:ti": "ዚምባብዌ",
+          "name:tk": "Zimbabwe",
+          "name:tl": "Simbabwe",
+          "name:tn": "Zimbabwe",
+          "name:tr": "Zimbabve",
+          "name:ts": "Zimbabwe",
+          "name:tt": "Зимбабве",
+          "name:ug": "زىمبابۋې",
+          "name:uk": "Зімбабве",
+          "name:ur": "زمبابوے",
+          "name:uz": "Zimbabve",
+          "name:ve": "Zimbagwe",
+          "name:vi": "Zimbabwe",
+          "name:vo": "Zimbabiyän",
+          "name:wo": "Simbaawee",
+          "name:yi": "זימבאבווע",
+          "name:yo": "Sìmbábúè",
+          "name:zh": "津巴布韦 / 辛巴威",
+          "name:zu": "IZimbabwe",
+          "boundary": "administrative",
+          "name:als": "Simbabwe",
+          "name:ang": "Simbabwe",
+          "name:arz": "زيمبابوى",
+          "name:ast": "Zimbabue",
+          "name:bar": "Simbabwe",
+          "name:bcl": "Simbabwe",
+          "name:bjn": "Zimbabwe",
+          "name:bpy": "জিম্বাবুয়ে",
+          "name:bxr": "Зимбабве",
+          "name:ceb": "Zimbabwe",
+          "name:chy": "Zimbabwe",
+          "name:ckb": "زیمبابۆی",
+          "name:crh": "Zimbabve",
+          "name:diq": "Zimbabwe",
+          "name:ext": "Zimbagüi",
+          "name:frp": "Zimbaboue",
+          "name:gag": "Zimbabve",
+          "name:hak": "Sîn-pâ-pu-vî",
+          "name:hif": "Zimbabwe",
+          "name:hsb": "Simbabwe",
+          "name:ilo": "Zimbabwe",
+          "name:jbo": "zimbabues",
+          "name:kaa": "Zimbabve",
+          "name:ksh": "Simbabwe",
+          "name:lij": "Zimbabwe",
+          "name:lmo": "Zimbabwe",
+          "name:ltg": "Zimbabve",
+          "name:lzh": "辛巴威",
+          "name:mrj": "Зимбабве",
+          "name:mzn": "زیمبابوه",
+          "name:nah": "Zimbabhue",
+          "name:nan": "Zimbabwe",
+          "name:nds": "Simbabwe",
+          "name:nov": "Zimbabwe",
+          "name:nso": "Zimbabwe",
+          "name:pam": "Zimbabwe",
+          "name:pap": "Zimbabwe",
+          "name:pms": "Zimbabwe",
+          "name:pnb": "زمبابوے",
+          "name:sah": "Зимбабве",
+          "name:scn": "Zimbabbui",
+          "name:sco": "Zimbabwe",
+          "name:smn": "Zimbabwe",
+          "name:sms": "Zimbabwe",
+          "name:stq": "Simbabwe",
+          "name:szl": "Zimbabwe",
+          "name:tzl": "Zimbabwe",
+          "name:vec": "Zinbàbue",
+          "name:vro": "Zimbabwe",
+          "name:war": "Zimbabwe",
+          "name:wuu": "津巴布韦",
+          "name:xal": "Зимбабвудин Орн",
+          "name:yue": "津巴布韋",
+          "timezone": "Africa/Harare",
+          "way_area": "33.5333",
+          "wikidata": "Q954",
+          "ISO3166-1": "ZW",
+          "wikipedia": "en:Zimbabwe",
+          "admin_level": "2",
+          "name:simple": "Zimbabwe",
+          "driving_side": "left",
+          "name:bat-smg": "Zėmbabvė",
+          "name:zh-Hans": "津巴布韦",
+          "name:zh-Hant": "辛巴威",
+          "name:be-tarask": "Зымбабвэ",
+          "ISO3166-1:alpha2": "ZW",
+          "ISO3166-1:alpha3": "ZWE",
+          "official_name:cs": "Zimbabwská republika",
+          "official_name:de": "Republik Zimbabwe",
+          "official_name:en": "Republic of Zimbabwe",
+          "official_name:es": "República de Zimbabue",
+          "official_name:gn": "Tavakuairetã Simbávue",
+          "official_name:pt": "República do Zimbabwe",
+          "official_name:ru": "Республика Зимбабве",
+          "official_name:sk": "Zimbabwianska republika",
+          "ISO3166-1:numeric": "716"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33,
+              -20
+            ],
+            [
+              33.02593836060117,
+              -20
+            ],
+            [
+              33.0249684,
+              -19.9966824
+            ],
+            [
+              33.0244517,
+              -19.987707
+            ],
+            [
+              33.0256319,
+              -19.982948
+            ],
+            [
+              33.024448,
+              -19.9651043
+            ],
+            [
+              33.0247402,
+              -19.9642662
+            ],
+            [
+              33.0254388,
+              -19.9562865
+            ],
+            [
+              33.0260406,
+              -19.9514986
+            ],
+            [
+              33.0281788,
+              -19.9375953
+            ],
+            [
+              33.0296002,
+              -19.9243162
+            ],
+            [
+              33.0346602,
+              -19.9058403
+            ],
+            [
+              33.0374464,
+              -19.8935807
+            ],
+            [
+              33.0379347,
+              -19.8769097
+            ],
+            [
+              33.0417711,
+              -19.8702657
+            ],
+            [
+              33.0489993,
+              -19.8424711
+            ],
+            [
+              33.0499403,
+              -19.8299492
+            ],
+            [
+              33.0478971,
+              -19.8110638
+            ],
+            [
+              33.0454265,
+              -19.7977427
+            ],
+            [
+              33.0598218,
+              -19.7929754
+            ],
+            [
+              33.0600749,
+              -19.7881501
+            ],
+            [
+              33.0625558,
+              -19.7762972
+            ],
+            [
+              33.0474972,
+              -19.7713429
+            ],
+            [
+              33.0225645,
+              -19.7523452
+            ],
+            [
+              33.0205074,
+              -19.7490963
+            ],
+            [
+              33.0140018,
+              -19.7493969
+            ],
+            [
+              33.0110192,
+              -19.7513155
+            ],
+            [
+              33.0075818,
+              -19.7517685
+            ],
+            [
+              33.0025397,
+              -19.7476462
+            ],
+            [
+              33,
+              -19.74673839309076
+            ],
+            [
+              33,
+              -20
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

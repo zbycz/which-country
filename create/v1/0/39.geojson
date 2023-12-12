@@ -1,0 +1,871 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1311341,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Spain",
+        "local_name": "España",
+        "name_en": "Spain",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg",
+          "name": "España",
+          "name:af": "Spanje",
+          "name:am": "እስፓንያ",
+          "name:an": "Espanya",
+          "name:ar": "إسبانيا",
+          "name:ay": "Ispaña",
+          "name:az": "İspaniya",
+          "name:ba": "Испания",
+          "name:be": "Іспанія",
+          "name:bg": "Испания",
+          "name:bi": "Spain",
+          "name:bn": "স্পেন",
+          "name:bo": "ཞི་པན་ཡ།",
+          "name:br": "Spagn",
+          "name:bs": "Španija",
+          "name:ca": "Espanya",
+          "name:ce": "Испани",
+          "name:ch": "España",
+          "name:co": "Spagna",
+          "name:cs": "Španělsko",
+          "name:cu": "Їспанїꙗ",
+          "name:cv": "Испани",
+          "name:cy": "Sbaen",
+          "name:da": "Spanien",
+          "name:de": "Spanien",
+          "name:dv": "އިސްޕެއިން",
+          "name:dz": "སིཔཱེན་",
+          "name:ee": "Spain",
+          "name:el": "Ισπανία",
+          "name:en": "Spain",
+          "name:eo": "Hispanio",
+          "name:es": "España",
+          "name:et": "Hispaania",
+          "name:eu": "Espainia",
+          "name:fa": "اسپانیا",
+          "name:fi": "Espanja",
+          "name:fo": "Spania",
+          "name:fr": "Espagne",
+          "name:fy": "Spanje",
+          "name:ga": "An Spáinn",
+          "name:gd": "An Spàinn",
+          "name:gl": "España",
+          "name:gn": "España",
+          "name:gu": "સ્પેન",
+          "name:gv": "Yn Spaainey",
+          "name:he": "ספרד",
+          "name:hi": "स्पेन",
+          "name:hr": "Španjolska",
+          "name:ht": "Espay",
+          "name:hu": "Spanyolország",
+          "name:hy": "Իսպանիա",
+          "name:ia": "Espania",
+          "name:id": "Spanyol",
+          "name:ie": "Hispania",
+          "name:ig": "Spain",
+          "name:ik": "Spaña",
+          "name:io": "Hispania",
+          "name:is": "Spánn",
+          "name:it": "Spagna",
+          "name:iu": "ᓯᐸᐃᓐ",
+          "name:ja": "スペイン",
+          "name:jv": "Spanyol",
+          "name:ka": "ესპანეთი",
+          "name:kg": "Espania",
+          "name:kk": "Испания",
+          "name:kl": "Spania",
+          "name:km": "អេស្ប៉ាញ",
+          "name:kn": "ಸ್ಪೇನ್",
+          "name:ko": "스페인",
+          "name:ku": "Spanya",
+          "name:kv": "Испания",
+          "name:kw": "Spayn",
+          "name:ky": "Испания",
+          "name:la": "Hispania",
+          "name:lb": "Spuenien",
+          "name:li": "Spanje",
+          "name:ln": "Espania",
+          "name:lt": "Ispanija",
+          "name:lv": "Spānija",
+          "name:mg": "Espaina",
+          "name:mi": "Peina",
+          "name:mk": "Шпанија",
+          "name:ml": "സ്പെയിൻ",
+          "name:mn": "Испани",
+          "name:mr": "स्पेन",
+          "name:ms": "Sepanyol",
+          "name:mt": "Spanja",
+          "name:my": "စပိန်နိုင်ငံ",
+          "name:na": "Pain",
+          "name:ne": "स्पेन",
+          "name:nl": "Spanje",
+          "name:nn": "Spania",
+          "name:no": "Spania",
+          "name:nv": "Dibé Diníí Bikéyah",
+          "name:oc": "Espanha",
+          "name:or": "ସ୍ପେନ",
+          "name:os": "Испани",
+          "name:pa": "ਸਪੇਨ",
+          "name:pl": "Hiszpania",
+          "name:ps": "اسپانیا",
+          "name:pt": "Espanha",
+          "name:qu": "Ispaña",
+          "name:rm": "Spagna",
+          "name:rn": "Esipanye",
+          "name:ro": "Spania",
+          "name:ru": "Испания",
+          "name:rw": "Esipanye",
+          "name:sa": "स्पेन्",
+          "name:sc": "Ispagna",
+          "name:se": "Espánnja",
+          "name:sh": "Španija",
+          "name:sk": "Španielsko",
+          "name:sl": "Španija",
+          "name:sm": "Spania",
+          "name:so": "Isbania",
+          "name:sq": "Spanja",
+          "name:sr": "Шпанија",
+          "name:ss": "Sipeyini",
+          "name:st": "Spain",
+          "name:su": "Spanyol",
+          "name:sv": "Spanien",
+          "name:sw": "Hispania",
+          "name:ta": "எசுப்பானியா",
+          "name:te": "స్పెయిన్",
+          "name:tg": "Испониё",
+          "name:th": "ประเทศสเปน",
+          "name:tk": "Ispaniýa",
+          "name:tl": "Espanya",
+          "name:to": "Sepeni",
+          "name:tr": "İspanya",
+          "name:ts": "Spaniya",
+          "name:tt": "Испания",
+          "name:ty": "Paniora",
+          "name:ug": "ئىسپانىيە",
+          "name:uk": "Іспанія",
+          "name:ur": "ہسپانیہ",
+          "name:uz": "Ispaniya",
+          "name:vi": "Tây Ban Nha",
+          "name:vo": "Spanyän",
+          "name:wa": "Espagne",
+          "name:wo": "Ispaañ",
+          "name:yi": "שפאניע",
+          "name:yo": "Spéìn",
+          "name:za": "Sihbanhyaz",
+          "name:zh": "西班牙",
+          "name:zu": "ISpeyini",
+          "boundary": "administrative",
+          "currency": "EUR",
+          "int_name": "Spain",
+          "name:ace": "Seupanyo",
+          "name:als": "Spanien",
+          "name:ang": "Spēonland",
+          "name:arc": "ܐܣܦܢܝܐ",
+          "name:arz": "اسبانيا",
+          "name:ast": "España",
+          "name:bar": "Spanien",
+          "name:bcl": "Espanya",
+          "name:bpy": "স্পেন",
+          "name:bug": "Spanyol",
+          "name:bxr": "Испани",
+          "name:cdo": "Să̤-băng-ngà",
+          "name:ceb": "Espanya",
+          "name:chr": "ᏍᏆᏂᏱ",
+          "name:chy": "Spain",
+          "name:ckb": "ئیسپانیا",
+          "name:crh": "İspaniya",
+          "name:csb": "Szpańskô",
+          "name:diq": "İspanya",
+          "name:dsb": "Špańska",
+          "name:eml": "Spaggna",
+          "name:ext": "España",
+          "name:frp": "Èspagne",
+          "name:frr": "Spaanien",
+          "name:fur": "Spagne",
+          "name:gag": "İspaniya",
+          "name:gan": "西班牙",
+          "name:glk": "ائسپانيا",
+          "name:hak": "Sî-pân-ngà",
+          "name:haw": "Sepania",
+          "name:hif": "Spain",
+          "name:hsb": "Španiska",
+          "name:ilo": "España",
+          "name:jbo": "sangu'e",
+          "name:kaa": "İspaniya",
+          "name:kab": "Spenyul",
+          "name:kbd": "Эспаниэ",
+          "name:koi": "Эспання",
+          "name:krc": "Испания",
+          "name:lad": "Espanya",
+          "name:lez": "Испания",
+          "name:lij": "Spagna",
+          "name:lmo": "Spagna",
+          "name:ltg": "Spaneja",
+          "name:lzh": "西班牙",
+          "name:mdf": "Испания",
+          "name:mhr": "Испаний",
+          "name:min": "Spanyol",
+          "name:mwl": "Spanha",
+          "name:mzn": "ایسپانیا",
+          "name:nah": "Caxtillān",
+          "name:nan": "Se-pan-gâ",
+          "name:nap": "Spagna",
+          "name:nds": "Spanien",
+          "name:new": "स्पेन",
+          "name:nov": "Spania",
+          "name:nrm": "Espangne",
+          "name:pag": "Espanya",
+          "name:pam": "Espanya",
+          "name:pap": "Spaña",
+          "name:pcd": "Espanne",
+          "name:pdc": "Schpaani",
+          "name:pih": "Spain",
+          "name:pms": "Spagna",
+          "name:pnb": "سپین",
+          "name:pnt": "Ισπανία",
+          "name:rmy": "Spaniya",
+          "name:rue": "Іспанія",
+          "name:sah": "Испания",
+          "name:scn": "Spagna",
+          "name:sco": "Spain",
+          "name:smn": "Espanja",
+          "name:sms": "Espanja",
+          "name:srn": "Spanyorokondre",
+          "name:stq": "Spanien",
+          "name:szl": "Szpanijŏ",
+          "name:tet": "España",
+          "name:tok": "ma Epanja",
+          "name:tpi": "Spen",
+          "name:tzl": "Espain",
+          "name:udm": "Испания",
+          "name:vec": "Spagna",
+          "name:vep": "Ispanii",
+          "name:vls": "Spanje",
+          "name:vro": "Hispaania",
+          "name:war": "Espanya",
+          "name:wuu": "西班牙",
+          "name:xal": "Эспанмудин Нутг",
+          "name:xmf": "ესპანეთი",
+          "name:yue": "西班牙",
+          "name:zea": "Spanje",
+          "way_area": "65.939",
+          "wikidata": "Q29",
+          "ISO3166-1": "ES",
+          "wikipedia": "es:España",
+          "admin_level": "2",
+          "alt_name:eo": "Hispanujo",
+          "alt_name:gl": "Espanha",
+          "name:nds-nl": "Spanje",
+          "name:bat-smg": "Ispanėjė",
+          "name:cbk-zam": "España",
+          "name:zh-Hans": "西班牙",
+          "name:zh-Hant": "西班牙",
+          "name:roa-tara": "Spagne",
+          "official_name": "Reino de España",
+          "name:be-tarask": "Гішпанія",
+          "ISO3166-1:alpha2": "ES",
+          "ISO3166-1:alpha3": "ESP",
+          "official_name:ar": "مملكة إسبانيا",
+          "official_name:be": "Каралеўства Іспанія",
+          "official_name:cs": "Španělské království",
+          "official_name:el": "Βασίλειο της Ισπανίας",
+          "official_name:eo": "Reĝlando Hispanio",
+          "official_name:fa": "پادشاهی اسپانیا",
+          "official_name:gl": "Reino de España",
+          "official_name:pt": "Reino de Espanha",
+          "official_name:ur": "مملکت ہسپانیہ",
+          "official_name:zh": "西班牙王国",
+          "ISO3166-1:numeric": "724",
+          "official_name:zh-Hans": "西班牙王国",
+          "official_name:zh-Hant": "西班牙王國"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                0,
+                39
+              ],
+              [
+                0.3006746021511762,
+                39
+              ],
+              [
+                0.0471105,
+                39.2542186
+              ],
+              [
+                0.0543885,
+                39.5799526
+              ],
+              [
+                0.1105702,
+                39.6452503
+              ],
+              [
+                0.41723627281212494,
+                40
+              ],
+              [
+                0,
+                40
+              ],
+              [
+                0,
+                39
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                0.4065287,
+                39.8893836
+              ],
+              [
+                0.4068315,
+                39.8799628
+              ],
+              [
+                0.4077093,
+                39.8705634
+              ],
+              [
+                0.4091601,
+                39.8612062
+              ],
+              [
+                0.4115621,
+                39.8504394
+              ],
+              [
+                0.411708,
+                39.8449835
+              ],
+              [
+                0.4121402,
+                39.8385138
+              ],
+              [
+                0.4128438,
+                39.8320583
+              ],
+              [
+                0.4138177,
+                39.8256237
+              ],
+              [
+                0.4150523,
+                39.819239
+              ],
+              [
+                0.4173634,
+                39.8098677
+              ],
+              [
+                0.4202502,
+                39.8005919
+              ],
+              [
+                0.4237059,
+                39.7914327
+              ],
+              [
+                0.4277225,
+                39.7824107
+              ],
+              [
+                0.4307072,
+                39.7764824
+              ],
+              [
+                0.433934,
+                39.7706301
+              ],
+              [
+                0.4373995,
+                39.7648599
+              ],
+              [
+                0.4411003,
+                39.7591773
+              ],
+              [
+                0.4470842,
+                39.7508306
+              ],
+              [
+                0.4539439,
+                39.7422718
+              ],
+              [
+                0.4609128,
+                39.73444
+              ],
+              [
+                0.4683537,
+                39.7268718
+              ],
+              [
+                0.4735682,
+                39.7219813
+              ],
+              [
+                0.4789799,
+                39.7172204
+              ],
+              [
+                0.4874549,
+                39.7103324
+              ],
+              [
+                0.4933351,
+                39.705916
+              ],
+              [
+                0.4993926,
+                39.7016452
+              ],
+              [
+                0.508798,
+                39.6955213
+              ],
+              [
+                0.5152718,
+                39.6916329
+              ],
+              [
+                0.5219009,
+                39.6879043
+              ],
+              [
+                0.5286789,
+                39.6843392
+              ],
+              [
+                0.5355987,
+                39.6809413
+              ],
+              [
+                0.5486046,
+                39.6750857
+              ],
+              [
+                0.555799,
+                39.6721497
+              ],
+              [
+                0.5637566,
+                39.6691549
+              ],
+              [
+                0.5750176,
+                39.6653469
+              ],
+              [
+                0.589495,
+                39.6611479
+              ],
+              [
+                0.6011303,
+                39.6583094
+              ],
+              [
+                0.6089773,
+                39.6566532
+              ],
+              [
+                0.6179934,
+                39.6549989
+              ],
+              [
+                0.6300583,
+                39.6531903
+              ],
+              [
+                0.6422201,
+                39.651825
+              ],
+              [
+                0.6544518,
+                39.650906
+              ],
+              [
+                0.6695657,
+                39.6502762
+              ],
+              [
+                0.6858309,
+                39.6502224
+              ],
+              [
+                0.6980153,
+                39.6506988
+              ],
+              [
+                0.7141909,
+                39.6520211
+              ],
+              [
+                0.7262353,
+                39.6535253
+              ],
+              [
+                0.7382253,
+                39.6554742
+              ],
+              [
+                0.7539376,
+                39.658731
+              ],
+              [
+                0.7655323,
+                39.6616693
+              ],
+              [
+                0.7769363,
+                39.6650253
+              ],
+              [
+                0.7844204,
+                39.6674912
+              ],
+              [
+                0.7918013,
+                39.6701371
+              ],
+              [
+                0.7990715,
+                39.6729604
+              ],
+              [
+                0.8065149,
+                39.676085
+              ],
+              [
+                0.8170467,
+                39.6809363
+              ],
+              [
+                0.8272713,
+                39.6861663
+              ],
+              [
+                0.8335184,
+                39.6896355
+              ],
+              [
+                0.8399795,
+                39.6934594
+              ],
+              [
+                0.8493731,
+                39.6994838
+              ],
+              [
+                0.8558762,
+                39.7040088
+              ],
+              [
+                0.8613093,
+                39.7080343
+              ],
+              [
+                0.8670118,
+                39.712522
+              ],
+              [
+                0.8725298,
+                39.7171457
+              ],
+              [
+                0.8804488,
+                39.724326
+              ],
+              [
+                0.8879226,
+                39.7317859
+              ],
+              [
+                0.8949345,
+                39.7395091
+              ],
+              [
+                0.901469,
+                39.7474782
+              ],
+              [
+                0.9075113,
+                39.7556759
+              ],
+              [
+                0.913048,
+                39.764084
+              ],
+              [
+                0.9180666,
+                39.7726837
+              ],
+              [
+                0.9225558,
+                39.7814562
+              ],
+              [
+                0.9268714,
+                39.7912849
+              ],
+              [
+                0.9302311,
+                39.8003981
+              ],
+              [
+                0.9330286,
+                39.8096237
+              ],
+              [
+                0.9343357,
+                39.8147824
+              ],
+              [
+                0.9357514,
+                39.8213476
+              ],
+              [
+                0.9368496,
+                39.827616
+              ],
+              [
+                0.937784,
+                39.8348178
+              ],
+              [
+                0.9408702,
+                39.8428066
+              ],
+              [
+                0.9429067,
+                39.8488969
+              ],
+              [
+                0.9454942,
+                39.8581172
+              ],
+              [
+                0.9469051,
+                39.8643118
+              ],
+              [
+                0.9485466,
+                39.8736601
+              ],
+              [
+                0.9496149,
+                39.8830576
+              ],
+              [
+                0.9501554,
+                39.8943356
+              ],
+              [
+                0.9501145,
+                39.9006221
+              ],
+              [
+                0.9498173,
+                39.9069046
+              ],
+              [
+                0.9492639,
+                39.9131768
+              ],
+              [
+                0.9479546,
+                39.9225522
+              ],
+              [
+                0.9460729,
+                39.9318696
+              ],
+              [
+                0.9436226,
+                39.9411084
+              ],
+              [
+                0.9416757,
+                39.9472138
+              ],
+              [
+                0.9394803,
+                39.953269
+              ],
+              [
+                0.9355912,
+                39.9625597
+              ],
+              [
+                0.9313375,
+                39.971303
+              ],
+              [
+                0.9261348,
+                39.9806912
+              ],
+              [
+                0.9227247,
+                39.9864548
+              ],
+              [
+                0.9190788,
+                39.9921324
+              ],
+              [
+                0.9135115867668759,
+                40
+              ],
+              [
+                0.44812416430606306,
+                40
+              ],
+              [
+                0.4456172,
+                39.9970063
+              ],
+              [
+                0.439469,
+                39.9888411
+              ],
+              [
+                0.435652,
+                39.9832775
+              ],
+              [
+                0.4320648,
+                39.9776242
+              ],
+              [
+                0.4271225,
+                39.9689886
+              ],
+              [
+                0.4227159,
+                39.9601831
+              ],
+              [
+                0.4188546,
+                39.9512275
+              ],
+              [
+                0.4165875,
+                39.9451835
+              ],
+              [
+                0.4143404,
+                39.9384612
+              ],
+              [
+                0.4115948,
+                39.9290688
+              ],
+              [
+                0.4094732,
+                39.9197748
+              ],
+              [
+                0.4079234,
+                39.9104142
+              ],
+              [
+                0.4072096,
+                39.9041469
+              ],
+              [
+                0.406802,
+                39.8988049
+              ],
+              [
+                0.4065287,
+                39.8893836
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                0.8996390110304131,
+                39
+              ],
+              [
+                1,
+                39
+              ],
+              [
+                1,
+                39.139615612211614
+              ],
+              [
+                0.9887305,
+                39.1325636
+              ],
+              [
+                0.9761555,
+                39.1235746
+              ],
+              [
+                0.9643645,
+                39.1139626
+              ],
+              [
+                0.9534095,
+                39.1037696
+              ],
+              [
+                0.9433365,
+                39.0930396
+              ],
+              [
+                0.9341885,
+                39.0818186
+              ],
+              [
+                0.9260045,
+                39.0701546
+              ],
+              [
+                0.9188195,
+                39.0580976
+              ],
+              [
+                0.9126635,
+                39.0456996
+              ],
+              [
+                0.9075625,
+                39.0330146
+              ],
+              [
+                0.9035385,
+                39.0200966
+              ],
+              [
+                0.9006065,
+                39.0069996
+              ],
+              [
+                0.8996390110304131,
+                39
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

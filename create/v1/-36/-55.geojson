@@ -1,0 +1,415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1983628,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "South Georgia and the South Sandwich Islands",
+        "local_name": "South Georgia and the South Sandwich Islands",
+        "name_en": "South Georgia and the South Sandwich Islands",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+          "name": "South Georgia and the South Sandwich Islands",
+          "name:az": "Cənubi Georgiya və Cənubi Sandviç adaları",
+          "name:be": "Паўднёвая Джорджыя і Паўднёвыя Сандвічавы астравы",
+          "name:bg": "Южна Джорджия и Южни Сандвичеви острови",
+          "name:br": "Inizi Georgia ar Su hag Inizi Sandwich ar Su",
+          "name:ca": "Illes Geòrgia del Sud i Sandwich del Sud",
+          "name:cs": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+          "name:da": "South Georgia og South Sandwich Islands",
+          "name:de": "Südgeorgien und die Südlichen Sandwichinseln",
+          "name:el": "Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς",
+          "name:en": "South Georgia and the South Sandwich Islands",
+          "name:eo": "Sud-Georgio kaj Sud-Sandviĉinsuloj",
+          "name:es": "Islas Georgias del Sur y Sandwich del Sur",
+          "name:et": "Lõuna-Georgia ja Lõuna-Sandwichi saared",
+          "name:eu": "Hegoaldeko Georgiak eta Hegoaldeko Sandwich uharteak",
+          "name:fo": "Suðursandwichoyggjar og Suðurgeorgia",
+          "name:fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+          "name:fy": "Súd-Georgje en de Súdlike Sandwicheilannen",
+          "name:hi": "दक्षिण जॉर्जिया एवं दक्षिण सैंडविच द्वीप समूह",
+          "name:hr": "Južna Georgija i Otočje Južni Sandwich",
+          "name:it": "Georgia del Sud e Isole Sandwich Australi",
+          "name:ja": "サウスジョージア・サウスサンドウィッチ諸島",
+          "name:mk": "Јужна Џорџија и Јужни Сендвички Острови",
+          "name:nl": "Zuid-Georgia en de Zuidelijke Sandwicheilanden",
+          "name:nn": "Sør-Georgia og Sør-Sandwichøyane",
+          "name:pl": "Georgia Południowa i Sandwich Południowy",
+          "name:pt": "Ilhas Geórgia do Sul e Sanduíche do Sul",
+          "name:ru": "Южная Георгия и Южные Сандвичевы Острова",
+          "name:sk": "Južná Georgia a Južné Sandwichove ostrovy",
+          "name:sl": "Južna Georgija in Južni Sandwichevi otoki",
+          "name:sr": "Јужна Џорџија и Јужна Сендвичка Острва",
+          "name:ta": "தெற்கு யோர்சியா மற்றும் தெற்கு சண்ட்விச் தீவுகள்",
+          "name:tr": "Güney Georgia ve Güney Sandwich Adaları",
+          "name:uk": "Південна Джорджія та Південні Сандвічеві острови",
+          "name:zh": "南喬治亞和南桑威奇群島",
+          "boundary": "administrative",
+          "name:hak": "Nàm Georgia lâu Nàm Sandwich Khiùn-tó",
+          "name:nan": "Lâm Georgia kap Lâm Sandwich Kûn-tó",
+          "timezone": "Atlantic/South_Georgia",
+          "way_area": "5.70799",
+          "wikidata": "Q35086",
+          "ISO3166-1": "GS",
+          "wikipedia": "en:South Georgia and the South Sandwich Islands",
+          "admin_level": "2",
+          "name:zh-Hans": "南乔治亚和南桑威奇群岛",
+          "name:zh-Hant": "南喬治亞和南桑威奇群島",
+          "ISO3166-1:alpha2": "GS",
+          "ISO3166-1:alpha3": "SGS",
+          "default_language": "en",
+          "ISO3166-1:numeric": "239"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -36,
+                -55
+              ],
+              [
+                -35.61267818008012,
+                -55
+              ],
+              [
+                -35.6082678,
+                -54.9985839
+              ],
+              [
+                -35.5988008,
+                -54.9952505
+              ],
+              [
+                -35.584963,
+                -54.9899271
+              ],
+              [
+                -35.5715888,
+                -54.984227
+              ],
+              [
+                -35.5629456,
+                -54.980224
+              ],
+              [
+                -35.554531,
+                -54.9760637
+              ],
+              [
+                -35.5463538,
+                -54.9717502
+              ],
+              [
+                -35.5384223,
+                -54.967288
+              ],
+              [
+                -35.5300348,
+                -54.9622622
+              ],
+              [
+                -35.5176861,
+                -54.9543291
+              ],
+              [
+                -35.5106999,
+                -54.9495443
+              ],
+              [
+                -35.503979,
+                -54.9446356
+              ],
+              [
+                -35.4975301,
+                -54.9396079
+              ],
+              [
+                -35.4913593,
+                -54.9344661
+              ],
+              [
+                -35.4854726,
+                -54.9292153
+              ],
+              [
+                -35.4771879,
+                -54.9211461
+              ],
+              [
+                -35.472036,
+                -54.9156457
+              ],
+              [
+                -35.4651432,
+                -54.9077429
+              ],
+              [
+                -35.460558,
+                -54.9020244
+              ],
+              [
+                -35.4562895,
+                -54.8962252
+              ],
+              [
+                -35.4504894,
+                -54.8873878
+              ],
+              [
+                -35.4454238,
+                -54.8784019
+              ],
+              [
+                -35.4411034,
+                -54.8692878
+              ],
+              [
+                -35.4381675,
+                -54.8618258
+              ],
+              [
+                -35.4351912,
+                -54.8554974
+              ],
+              [
+                -35.4326998,
+                -54.8494264
+              ],
+              [
+                -35.4295835,
+                -54.8402431
+              ],
+              [
+                -35.4276219,
+                -54.832835
+              ],
+              [
+                -35.3935608,
+                -54.7378313
+              ],
+              [
+                -35.3917113,
+                -54.7317149
+              ],
+              [
+                -35.3901919,
+                -54.7255681
+              ],
+              [
+                -35.389004,
+                -54.719397
+              ],
+              [
+                -35.3878457,
+                -54.7101076
+              ],
+              [
+                -35.3874374,
+                -54.700797
+              ],
+              [
+                -35.3877794,
+                -54.6914855
+              ],
+              [
+                -35.3884237,
+                -54.6852874
+              ],
+              [
+                -35.3900126,
+                -54.6760194
+              ],
+              [
+                -35.392345,
+                -54.6668044
+              ],
+              [
+                -35.3954151,
+                -54.6576623
+              ],
+              [
+                -35.3978683,
+                -54.651618
+              ],
+              [
+                -35.4021514,
+                -54.6426416
+              ],
+              [
+                -35.4071498,
+                -54.6337907
+              ],
+              [
+                -35.4128521,
+                -54.6250843
+              ],
+              [
+                -35.4192456,
+                -54.6165414
+              ],
+              [
+                -35.426316,
+                -54.6081804
+              ],
+              [
+                -35.431398,
+                -54.6027164
+              ],
+              [
+                -35.439561,
+                -54.5946986
+              ],
+              [
+                -35.6046672,
+                -54.440091
+              ],
+              [
+                -35.610691,
+                -54.4346239
+              ],
+              [
+                -35.620288,
+                -54.4266441
+              ],
+              [
+                -35.6270501,
+                -54.4214795
+              ],
+              [
+                -35.6340952,
+                -54.4164456
+              ],
+              [
+                -35.6451769,
+                -54.4091512
+              ],
+              [
+                -35.8860566,
+                -54.2573338
+              ],
+              [
+                -35.9623324,
+                -54.1845851
+              ],
+              [
+                -35.9681232,
+                -54.1794127
+              ],
+              [
+                -35.974183,
+                -54.1743477
+              ],
+              [
+                -35.9837643,
+                -54.1669622
+              ],
+              [
+                -35.9904705,
+                -54.1621867
+              ],
+              [
+                -35.9974241,
+                -54.157535
+              ],
+              [
+                -36,
+                -54.15591540864852
+              ],
+              [
+                -36,
+                -55
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -35.08139025435461,
+                -55
+              ],
+              [
+                -35,
+                -55
+              ],
+              [
+                -35,
+                -54.902732467411134
+              ],
+              [
+                -35.005086,
+                -54.9060789
+              ],
+              [
+                -35.0161121,
+                -54.9140584
+              ],
+              [
+                -35.0257293,
+                -54.9217454
+              ],
+              [
+                -35.0317862,
+                -54.927012
+              ],
+              [
+                -35.0375523,
+                -54.9323861
+              ],
+              [
+                -35.0430217,
+                -54.9378622
+              ],
+              [
+                -35.0481889,
+                -54.943435
+              ],
+              [
+                -35.0553616,
+                -54.9519633
+              ],
+              [
+                -35.0597509,
+                -54.9577534
+              ],
+              [
+                -35.0638208,
+                -54.9636203
+              ],
+              [
+                -35.0693179,
+                -54.9725519
+              ],
+              [
+                -35.0725719,
+                -54.9785853
+              ],
+              [
+                -35.0754932,
+                -54.9846747
+              ],
+              [
+                -35.0772587,
+                -54.9886967
+              ],
+              [
+                -35.0797005,
+                -54.9949334
+              ],
+              [
+                -35.08139025435461,
+                -55
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

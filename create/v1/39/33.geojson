@@ -1,0 +1,925 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -304934,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Iraq",
+        "local_name": "العراق",
+        "name_en": "Iraq",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+          "name": "العراق",
+          "name:af": "Irak",
+          "name:ak": "Irak",
+          "name:am": "ኢራቅ",
+          "name:an": "Iraq",
+          "name:ar": "العراق",
+          "name:av": "ГӀиракъ",
+          "name:az": "İrak",
+          "name:be": "Ірак",
+          "name:bg": "Ирак",
+          "name:bm": "Iraki",
+          "name:bn": "ইরাক",
+          "name:bo": "ཡི་ལའ་ཁོ།",
+          "name:br": "Irak",
+          "name:bs": "Irak",
+          "name:ca": "Iraq",
+          "name:ce": "Ӏиракъ",
+          "name:cs": "Irák",
+          "name:cv": "Ирак",
+          "name:cy": "Irac",
+          "name:da": "Irak",
+          "name:de": "Irak",
+          "name:dv": "ޢިރާޤު",
+          "name:dz": "ཨི་རཱཀ",
+          "name:ee": "iraqdukɔ",
+          "name:el": "Ιράκ",
+          "name:en": "Iraq",
+          "name:eo": "Irako",
+          "name:es": "Irak",
+          "name:et": "Iraak",
+          "name:eu": "Irak",
+          "name:fa": "عراق",
+          "name:ff": "Iraak",
+          "name:fi": "Irak",
+          "name:fo": "Irak",
+          "name:fr": "Irak",
+          "name:fy": "Irak",
+          "name:ga": "An Iaráic",
+          "name:gd": "Ioràc",
+          "name:gl": "Iraq",
+          "name:gn": "Iráke",
+          "name:gu": "ઈરાક",
+          "name:gv": "Yn Earack",
+          "name:ha": "Iraƙi",
+          "name:he": "עיראק",
+          "name:hi": "इराक़",
+          "name:hr": "Irak",
+          "name:ht": "Irak",
+          "name:hu": "Irak",
+          "name:hy": "Իրաք",
+          "name:ia": "Irak",
+          "name:id": "Irak",
+          "name:ie": "Irak",
+          "name:io": "Irak",
+          "name:is": "Írak",
+          "name:it": "Iraq",
+          "name:iu": "ᐃᕉᒃ",
+          "name:ja": "イラク",
+          "name:jv": "Irak",
+          "name:ka": "ერაყი",
+          "name:ki": "Iraq",
+          "name:kk": "Ирак",
+          "name:kl": "Iraq",
+          "name:km": "អ៊ីរ៉ាក់",
+          "name:kn": "ಇರಾಕ್",
+          "name:ko": "이라크",
+          "name:ks": "ایٖراق",
+          "name:ku": "Êraq",
+          "name:kv": "Ирак",
+          "name:kw": "Irak",
+          "name:ky": "Ирак",
+          "name:la": "Iraca",
+          "name:lb": "Irak",
+          "name:lg": "Yiraaka",
+          "name:li": "Irak",
+          "name:ln": "Irak",
+          "name:lo": "ອີລັກ",
+          "name:lt": "Irakas",
+          "name:lv": "Irāka",
+          "name:mg": "Irak",
+          "name:mi": "Īrāki",
+          "name:mk": "Ирак",
+          "name:ml": "ഇറാഖ്",
+          "name:mn": "Ирак",
+          "name:mr": "इराक",
+          "name:ms": "Iraq",
+          "name:mt": "Iraq",
+          "name:my": "အီရတ်နိုင်ငံ",
+          "name:na": "Irak",
+          "name:nb": "Irak",
+          "name:ne": "इराक",
+          "name:nl": "Irak",
+          "name:nn": "Irak",
+          "name:no": "Irak",
+          "name:nv": "Iiwááʼ",
+          "name:oc": "Iraq",
+          "name:or": "ଇରାକ",
+          "name:os": "Ирак",
+          "name:pa": "ਇਰਾਕ",
+          "name:pl": "Irak",
+          "name:ps": "عراق",
+          "name:pt": "Iraque",
+          "name:qu": "Iraq",
+          "name:rm": "Irac",
+          "name:rn": "Iraki",
+          "name:ro": "Irak",
+          "name:ru": "Ирак",
+          "name:rw": "Irake",
+          "name:sa": "ईराक",
+          "name:se": "Irak",
+          "name:sg": "Irâki",
+          "name:sh": "Irak",
+          "name:si": "ඉරාක",
+          "name:sk": "Irak",
+          "name:sl": "Irak",
+          "name:sn": "Iraq",
+          "name:so": "Ciraaq",
+          "name:sq": "Iraku",
+          "name:sr": "Ирак",
+          "name:ss": "I-Irakhi",
+          "name:su": "Irak",
+          "name:sv": "Irak",
+          "name:sw": "Iraq",
+          "name:ta": "ஈராக்கு",
+          "name:te": "ఇరాక్",
+          "name:tg": "Ироқ",
+          "name:th": "ประเทศอิรัก",
+          "name:ti": "ኢራቅ",
+          "name:tk": "Yrak",
+          "name:tl": "Irak",
+          "name:to": "ʻIulaaki",
+          "name:tr": "Irak",
+          "name:tt": "Гыйрак",
+          "name:tw": "Irak",
+          "name:ug": "ئىراق",
+          "name:uk": "Ірак",
+          "name:ur": "عراق",
+          "name:uz": "Iroq",
+          "name:vi": "Iraq",
+          "name:vo": "Lirakän",
+          "name:wa": "Irak",
+          "name:wo": "Iraak",
+          "name:yi": "איראק",
+          "name:yo": "Irak",
+          "name:zh": "伊拉克",
+          "name:zu": "I-Iraki",
+          "alt_name": "العِرَاقُ",
+          "boundary": "administrative",
+          "int_name": "Iraq",
+          "name:ace": "Irak",
+          "name:als": "Irak",
+          "name:ang": "Irac",
+          "name:arc": "ܥܝܪܐܩ",
+          "name:arz": "العراق",
+          "name:ast": "Iraq",
+          "name:bar": "Irak",
+          "name:bcl": "Iraq",
+          "name:bpy": "ইরাক",
+          "name:bug": "Irak",
+          "name:bxr": "Ирак",
+          "name:cdo": "Ĭ-lăk",
+          "name:ceb": "Iraq",
+          "name:chr": "ᎢᎳᎩ",
+          "name:ckb": "عێراق",
+          "name:crh": "Iraq",
+          "name:csb": "Irak",
+          "name:din": "Irak",
+          "name:diq": "Iraq",
+          "name:dsb": "Irak",
+          "name:ext": "Iraq",
+          "name:frp": "Iraq",
+          "name:fur": "Iraq",
+          "name:gag": "İrak",
+          "name:gan": "伊拉克",
+          "name:hak": "Yî-là-khiet",
+          "name:haw": "‘Ilaka",
+          "name:hif": "Iraq",
+          "name:hsb": "Irak",
+          "name:ilo": "Irak",
+          "name:jbo": "raksygu'e",
+          "name:kab": "Lɛiraq",
+          "name:kbd": "Ирак",
+          "name:ksh": "der Irak",
+          "name:lad": "Irak",
+          "name:lez": "Ирак",
+          "name:lfn": "Irac",
+          "name:lij": "Iraq",
+          "name:lmo": "Irak",
+          "name:lzh": "伊拉克",
+          "name:mdf": "Ирак",
+          "name:mzn": "عراق",
+          "name:nah": "Irac",
+          "name:nan": "Iraq",
+          "name:nds": "Irak",
+          "name:new": "इराक",
+          "name:nov": "Irak",
+          "name:pam": "Irak",
+          "name:pap": "Irak",
+          "name:pdc": "Iraek",
+          "name:pih": "Eraak",
+          "name:pms": "Irak",
+          "name:pnb": "عراق",
+          "name:rue": "Ірак",
+          "name:sah": "Ирак",
+          "name:scn": "Iraq",
+          "name:sco": "Iraq",
+          "name:sdh": "عێراق",
+          "name:smn": "Irak",
+          "name:sms": "Irakk",
+          "name:stq": "Irak",
+          "name:szl": "Irak",
+          "name:tok": "ma Ilakija",
+          "name:tpi": "Irak",
+          "name:udm": "Ирак",
+          "name:vec": "Iraq",
+          "name:vep": "Irak",
+          "name:vro": "Iraak",
+          "name:war": "Irak",
+          "name:wuu": "伊拉克",
+          "name:xal": "Иракудин Орн",
+          "name:yue": "伊拉克",
+          "name:zea": "Irak",
+          "timezone": "Asia/Baghdad",
+          "way_area": "42.4981",
+          "wikidata": "Q796",
+          "ISO3166-1": "IQ",
+          "wikipedia": "ar:العراق",
+          "admin_level": "2",
+          "alt_name:vi": "I-rắc",
+          "border_type": "nation",
+          "name:simple": "Iraq",
+          "alt_name:ckb": "ئێراق",
+          "alt_name:sdh": "ئێراق",
+          "name:bat-smg": "Iraks",
+          "name:roa-rup": "Irac",
+          "name:zh-Hans": "伊拉克",
+          "name:zh-Hant": "伊拉克",
+          "name:roa-tara": "Iraq",
+          "official_name": "جمهورية العراق",
+          "name:be-tarask": "Ірак",
+          "name:zh_pinyin": "Yīlākè",
+          "ISO3166-1:alpha2": "IQ",
+          "ISO3166-1:alpha3": "IRQ",
+          "default_language": "ar",
+          "official_name:ar": "جمهورية العراق",
+          "official_name:be": "Рэспубліка Ірак",
+          "official_name:cs": "Irácká republika",
+          "official_name:de": "Republik Irak",
+          "official_name:el": "Δημοκρατία του Ιράκ",
+          "official_name:en": "Republic of Iraq",
+          "official_name:eo": "Respubliko Irako",
+          "official_name:es": "República de Irak",
+          "official_name:et": "Iraagi Vabariik",
+          "official_name:gd": "Poblachd Ioràic",
+          "official_name:gn": "Tetã Iráke",
+          "official_name:id": "Republik Irak",
+          "official_name:ku": "Komara Êraqê",
+          "official_name:lb": "Republik Irak",
+          "official_name:lt": "Irako Respublika",
+          "official_name:lv": "Irākas Republika",
+          "official_name:pl": "Republika Federalna Iraku",
+          "official_name:pt": "República do Iraque",
+          "official_name:ru": "Республика Ирак",
+          "official_name:sr": "Република Ирак",
+          "official_name:sv": "Republiken Irak",
+          "official_name:tl": "Republika ng Irak",
+          "official_name:vi": "Cộng hoà Iraq",
+          "ISO3166-1:numeric": "368",
+          "official_name:ckb": "كۆماری عێراق",
+          "official_name:sdh": "کۆماری عێراق"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39,
+              33
+            ],
+            [
+              40,
+              33
+            ],
+            [
+              40,
+              33.994042514092534
+            ],
+            [
+              39.9825257,
+              33.9849594
+            ],
+            [
+              39.944743,
+              33.9660902
+            ],
+            [
+              39.9181526,
+              33.953041
+            ],
+            [
+              39.8918026,
+              33.9397761
+            ],
+            [
+              39.868182,
+              33.9275917
+            ],
+            [
+              39.8304165,
+              33.9088274
+            ],
+            [
+              39.7297543,
+              33.8582333
+            ],
+            [
+              39.7083052,
+              33.8471207
+            ],
+            [
+              39.6891778,
+              33.8374789
+            ],
+            [
+              39.6214703,
+              33.802171
+            ],
+            [
+              39.5971459,
+              33.7899241
+            ],
+            [
+              39.5621699,
+              33.7718502
+            ],
+            [
+              39.5378454,
+              33.7599272
+            ],
+            [
+              39.4947026,
+              33.7376751
+            ],
+            [
+              39.4762276,
+              33.7283814
+            ],
+            [
+              39.3871225,
+              33.6824231
+            ],
+            [
+              39.3674801,
+              33.6721377
+            ],
+            [
+              39.3556569,
+              33.6663088
+            ],
+            [
+              39.3199256,
+              33.6476443
+            ],
+            [
+              39.3045018,
+              33.6400631
+            ],
+            [
+              39.2299665,
+              33.6013247
+            ],
+            [
+              39.2130375,
+              33.592923
+            ],
+            [
+              39.1701978,
+              33.5709035
+            ],
+            [
+              39.1634793,
+              33.5673974
+            ],
+            [
+              39.1592991,
+              33.5650218
+            ],
+            [
+              39.1542145,
+              33.5624959
+            ],
+            [
+              39.1397902,
+              33.5548391
+            ],
+            [
+              39.1084465,
+              33.5388817
+            ],
+            [
+              39.1039797,
+              33.5368006
+            ],
+            [
+              39.0916413,
+              33.5302049
+            ],
+            [
+              39.0858181,
+              33.5274898
+            ],
+            [
+              39.0725066,
+              33.5205483
+            ],
+            [
+              39.0677811,
+              33.5182165
+            ],
+            [
+              39.0660363,
+              33.5175453
+            ],
+            [
+              39.0601607,
+              33.5140461
+            ],
+            [
+              39.0518395,
+              33.5094207
+            ],
+            [
+              39.0497694,
+              33.5085515
+            ],
+            [
+              39.0331059,
+              33.5004546
+            ],
+            [
+              39.0289638,
+              33.4981066
+            ],
+            [
+              39.0274098,
+              33.4974562
+            ],
+            [
+              39.027418,
+              33.4972218
+            ],
+            [
+              39.0100833,
+              33.4881106
+            ],
+            [
+              39.0071093,
+              33.4867085
+            ],
+            [
+              39,
+              33.48296265460305
+            ],
+            [
+              39,
+              33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -184840,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Syria",
+        "local_name": "سوريا",
+        "name_en": "Syria",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+          "name": "سوريا",
+          "name:af": "Sirië",
+          "name:am": "ሶርያ",
+          "name:an": "Siria",
+          "name:ar": "سوريا",
+          "name:av": "Сирия",
+          "name:az": "Suriya",
+          "name:ba": "Сирия",
+          "name:be": "Сірыя",
+          "name:bg": "Сирия",
+          "name:bm": "Suriya",
+          "name:bn": "সিরিয়া",
+          "name:bo": "སི་རི་ཡ།",
+          "name:br": "Siria",
+          "name:bs": "Sirija",
+          "name:ca": "República Àrab Siriana",
+          "name:ce": "Шема",
+          "name:cs": "Sýrie",
+          "name:cu": "Сѷрїꙗ",
+          "name:cv": "Сири",
+          "name:cy": "Syria",
+          "name:da": "Syrien",
+          "name:de": "Syrien",
+          "name:dv": "ސޫރިޔާ",
+          "name:el": "Συρία",
+          "name:en": "Syria",
+          "name:eo": "Sirio",
+          "name:es": "Siria",
+          "name:et": "Süüria",
+          "name:eu": "Siria",
+          "name:fa": "سوریه",
+          "name:fi": "Syyria",
+          "name:fo": "Sýria",
+          "name:fr": "Syrie",
+          "name:fy": "Syrje",
+          "name:ga": "An tSiria",
+          "name:gd": "Siria",
+          "name:gl": "Siria - سورية",
+          "name:gn": "Síria",
+          "name:gu": "સિરિયા",
+          "name:gv": "Yn Teer",
+          "name:he": "סוריה",
+          "name:hi": "सीरिया",
+          "name:hr": "Sirija",
+          "name:ht": "Siri",
+          "name:hu": "Szíria",
+          "name:hy": "Սիրիա",
+          "name:ia": "Syria",
+          "name:id": "Suriah",
+          "name:ie": "Siria",
+          "name:io": "Siria",
+          "name:is": "Sýrland",
+          "name:it": "Siria",
+          "name:ja": "シリア",
+          "name:jv": "Suriah",
+          "name:ka": "სირია",
+          "name:ki": "Syria",
+          "name:kk": "Сирия",
+          "name:kl": "Syria",
+          "name:kn": "ಸಿರಿಯಾ",
+          "name:ko": "시리아",
+          "name:ku": "Sûrî",
+          "name:kv": "Сирия",
+          "name:kw": "Syri",
+          "name:ky": "Сирия",
+          "name:la": "Syria",
+          "name:lb": "Syrien",
+          "name:li": "Syrië",
+          "name:ln": "Sirí",
+          "name:lt": "Sirija",
+          "name:lv": "Sīrija",
+          "name:mg": "Siria",
+          "name:mi": "Hiria",
+          "name:mk": "Сирија",
+          "name:ml": "സിറിയ",
+          "name:mn": "Сири",
+          "name:mr": "सीरिया",
+          "name:ms": "Syria",
+          "name:my": "ဆီးရီးယားနိုင်ငံ",
+          "name:na": "Syria",
+          "name:ne": "सीरिया",
+          "name:nl": "Syrië",
+          "name:nn": "Syria",
+          "name:no": "Syria",
+          "name:nv": "Sííwiya",
+          "name:oc": "Siria",
+          "name:or": "ସିରିଆ",
+          "name:os": "Сири",
+          "name:pa": "ਸੀਰੀਆ",
+          "name:pl": "Syria",
+          "name:ps": "سوريه",
+          "name:pt": "Síria",
+          "name:qu": "Sirya",
+          "name:ro": "Siria",
+          "name:ru": "Сирия",
+          "name:rw": "Siriya",
+          "name:sa": "सिरिया",
+          "name:sc": "Siria",
+          "name:sd": "شام",
+          "name:se": "Syria",
+          "name:sh": "Sirija",
+          "name:sk": "Sýria",
+          "name:sl": "Sirija",
+          "name:so": "Suuriya",
+          "name:sq": "Siria",
+          "name:sr": "Сирија",
+          "name:ss": "ISiriya",
+          "name:su": "Suriah",
+          "name:sv": "Syrien",
+          "name:sw": "Syria",
+          "name:ta": "சிரியா",
+          "name:te": "సిరియా",
+          "name:tg": "Сурия",
+          "name:th": "ประเทศซีเรีย",
+          "name:tk": "Siriýa",
+          "name:tl": "Sirya",
+          "name:tr": "Suriye",
+          "name:tt": "Сүрия",
+          "name:ug": "سۇرىيە",
+          "name:uk": "Сирія",
+          "name:ur": "شام",
+          "name:uz": "Suriya",
+          "name:vi": "Syria",
+          "name:vo": "Süriyän",
+          "name:wa": "Sireye",
+          "name:wo": "Siri",
+          "name:yi": "סיריע",
+          "name:yo": "Síríà",
+          "name:zh": "叙利亚 / 敘利亞",
+          "alt_name": "سورية",
+          "boundary": "administrative",
+          "int_name": "Syria",
+          "name:ace": "Suriyah",
+          "name:als": "Syrien",
+          "name:ang": "Syria",
+          "name:arc": "ܣܘܪܝܐ",
+          "name:arz": "سوريا",
+          "name:ast": "Siria",
+          "name:azb": "سوریه",
+          "name:bar": "Syrien",
+          "name:bcl": "Sirya",
+          "name:bpy": "সিরিয়া",
+          "name:bug": "Suriah",
+          "name:bxr": "Сири",
+          "name:cdo": "Sṳ̆-lê-ā",
+          "name:ceb": "Siria",
+          "name:ckb": "سووریا",
+          "name:crh": "Suriye",
+          "name:diq": "Suriya",
+          "name:dsb": "Syriska",
+          "name:ext": "Síria",
+          "name:frp": "Sirie",
+          "name:gag": "Siriya",
+          "name:glk": "سوری",
+          "name:hak": "Si-li-â",
+          "name:haw": "Suria",
+          "name:hif": "Syria",
+          "name:hsb": "Syriska",
+          "name:ilo": "Siria",
+          "name:jbo": "sixygu'e",
+          "name:kab": "Surya",
+          "name:kbd": "Шам",
+          "name:lez": "Сирия",
+          "name:lij": "Sciria",
+          "name:lmo": "Siria",
+          "name:lrc": "سۊریٱ",
+          "name:mdf": "Сирие",
+          "name:mhr": "Сирий",
+          "name:mzn": "سوریه",
+          "name:nah": "Siria",
+          "name:nan": "Su-lī-a",
+          "name:nds": "Syrien",
+          "name:nov": "Siria",
+          "name:pam": "Siria",
+          "name:pih": "Siriya",
+          "name:pms": "Siria",
+          "name:pnb": "شام",
+          "name:pnt": "Συρία",
+          "name:sah": "Сирия",
+          "name:scn": "Siria",
+          "name:sco": "Sirie",
+          "name:smn": "Syyria",
+          "name:sms": "Syyria",
+          "name:szl": "Syryjŏ",
+          "name:tzl": "Süria",
+          "name:udm": "Сирия",
+          "name:vro": "Süüria",
+          "name:war": "Sirya",
+          "name:wuu": "叙利亚",
+          "name:xal": "Сирмудин Араб Орн",
+          "name:yue": "敘利亞",
+          "name:zea": "Syrië",
+          "timezone": "Asia/Damascus",
+          "way_area": "18.8046",
+          "wikidata": "Q858",
+          "ISO3166-1": "SY",
+          "wikipedia": "ar:سوريا",
+          "population": "17951639",
+          "admin_level": "2",
+          "alt_name:ar": "سورية",
+          "name:nds-nl": "Syrië",
+          "name:simple": "Syria",
+          "alt_name:cdo": "Sê̤ṳ-lé-ā",
+          "name:bat-smg": "Sėrėjė",
+          "name:ku-Arab": "سووری",
+          "name:zh-Hans": "叙利亚",
+          "name:zh-Hant": "敘利亞",
+          "official_name": "الجمهورية العربية السورية",
+          "name:be-tarask": "Сырыя",
+          "population:date": "2014",
+          "ISO3166-1:alpha2": "SY",
+          "ISO3166-1:alpha3": "SYR",
+          "default_language": "ar",
+          "official_name:ar": "الجمهورية العربية السورية",
+          "official_name:cs": "Syrská arabská republika",
+          "official_name:en": "Syrian Arab Republic",
+          "official_name:fa": "جمهوری عربی سوریه",
+          "official_name:fr": "République arabe syrienne",
+          "official_name:gn": "Tavakuairetã Árave Síria",
+          "official_name:pt": "República Árabe Síria",
+          "official_name:ru": "Сирийская Арабская Республика",
+          "ISO3166-1:numeric": "760"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              39,
+              33.48296265460305
+            ],
+            [
+              39.0071093,
+              33.4867085
+            ],
+            [
+              39.0100833,
+              33.4881106
+            ],
+            [
+              39.027418,
+              33.4972218
+            ],
+            [
+              39.0274098,
+              33.4974562
+            ],
+            [
+              39.0289638,
+              33.4981066
+            ],
+            [
+              39.0331059,
+              33.5004546
+            ],
+            [
+              39.0497694,
+              33.5085515
+            ],
+            [
+              39.0518395,
+              33.5094207
+            ],
+            [
+              39.0601607,
+              33.5140461
+            ],
+            [
+              39.0660363,
+              33.5175453
+            ],
+            [
+              39.0677811,
+              33.5182165
+            ],
+            [
+              39.0725066,
+              33.5205483
+            ],
+            [
+              39.0858181,
+              33.5274898
+            ],
+            [
+              39.0916413,
+              33.5302049
+            ],
+            [
+              39.1039797,
+              33.5368006
+            ],
+            [
+              39.1084465,
+              33.5388817
+            ],
+            [
+              39.1397902,
+              33.5548391
+            ],
+            [
+              39.1542145,
+              33.5624959
+            ],
+            [
+              39.1592991,
+              33.5650218
+            ],
+            [
+              39.1634793,
+              33.5673974
+            ],
+            [
+              39.1701978,
+              33.5709035
+            ],
+            [
+              39.2130375,
+              33.592923
+            ],
+            [
+              39.2299665,
+              33.6013247
+            ],
+            [
+              39.3045018,
+              33.6400631
+            ],
+            [
+              39.3199256,
+              33.6476443
+            ],
+            [
+              39.3556569,
+              33.6663088
+            ],
+            [
+              39.3674801,
+              33.6721377
+            ],
+            [
+              39.3871225,
+              33.6824231
+            ],
+            [
+              39.4762276,
+              33.7283814
+            ],
+            [
+              39.4947026,
+              33.7376751
+            ],
+            [
+              39.5378454,
+              33.7599272
+            ],
+            [
+              39.5621699,
+              33.7718502
+            ],
+            [
+              39.5971459,
+              33.7899241
+            ],
+            [
+              39.6214703,
+              33.802171
+            ],
+            [
+              39.6891778,
+              33.8374789
+            ],
+            [
+              39.7083052,
+              33.8471207
+            ],
+            [
+              39.7297543,
+              33.8582333
+            ],
+            [
+              39.8304165,
+              33.9088274
+            ],
+            [
+              39.868182,
+              33.9275917
+            ],
+            [
+              39.8918026,
+              33.9397761
+            ],
+            [
+              39.9181526,
+              33.953041
+            ],
+            [
+              39.944743,
+              33.9660902
+            ],
+            [
+              39.9825257,
+              33.9849594
+            ],
+            [
+              40,
+              33.994042514092534
+            ],
+            [
+              40,
+              34
+            ],
+            [
+              39,
+              34
+            ],
+            [
+              39,
+              33.48296265460305
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

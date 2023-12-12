@@ -1,0 +1,402 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -535828,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Mauritius",
+        "local_name": "Mauritius / Maurice",
+        "name_en": "Mauritius",
+        "all_tags": {
+          "flag": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritius.svg",
+          "name": "Mauritius / Maurice",
+          "name:ab": "Маврики",
+          "name:af": "Mauritius",
+          "name:am": "ሞሪሸስ",
+          "name:an": "Mauricio",
+          "name:ar": "موريشيوس",
+          "name:az": "Mavriki",
+          "name:ba": "Маврикий",
+          "name:be": "Маўрыкій",
+          "name:bg": "Мавриций",
+          "name:bi": "Morisas",
+          "name:bn": "মরিশাস",
+          "name:bo": "མའུ་རི་ཊིའུ་སུ།",
+          "name:br": "Maoris",
+          "name:bs": "Mauricijus",
+          "name:ca": "Maurici",
+          "name:ce": "Маврики",
+          "name:cs": "Mauricius",
+          "name:cv": "Маврики",
+          "name:cy": "Mawrisiws",
+          "name:da": "Mauritius",
+          "name:de": "Mauritius",
+          "name:dv": "މޮރިޝަސް",
+          "name:ee": "Mauritius",
+          "name:el": "Μαυρίκιος",
+          "name:en": "Mauritius",
+          "name:eo": "Maŭricio",
+          "name:es": "Mauricio",
+          "name:et": "Mauritius",
+          "name:eu": "Maurizio",
+          "name:fa": "موریس",
+          "name:ff": "Moriis",
+          "name:fi": "Mauritius",
+          "name:fo": "Móritius",
+          "name:fr": "Maurice",
+          "name:fy": "Mauritsius",
+          "name:ga": "Oileán Mhuirís",
+          "name:gd": "Na h-Eileanan Mhoiriseas",
+          "name:gl": "Mauricio - Maurice",
+          "name:gn": "Maurísio",
+          "name:gu": "મોરિશિયસ",
+          "name:gv": "Ellan Wirrish",
+          "name:ha": "Moris",
+          "name:he": "מאוריציוס",
+          "name:hi": "मॉरिशस",
+          "name:hr": "Mauricijus",
+          "name:ht": "Moris",
+          "name:hu": "Mauritius",
+          "name:hy": "Մավրիկիոս",
+          "name:ia": "Mauritio",
+          "name:id": "Mauritius",
+          "name:ie": "Mauritius",
+          "name:ig": "Mauritius",
+          "name:io": "Maurico",
+          "name:is": "Máritíus",
+          "name:it": "Mauritius",
+          "name:ja": "モーリシャス",
+          "name:jv": "Mauritius",
+          "name:ka": "მავრიკი",
+          "name:kg": "Mauritius",
+          "name:ki": "Mauritius",
+          "name:kk": "Маврикий",
+          "name:kn": "ಮಾರಿಷಸ್",
+          "name:ko": "모리셔스",
+          "name:ku": "Maurîtius",
+          "name:kw": "Ynys Morrys",
+          "name:ky": "Маврикий",
+          "name:la": "Mauritia",
+          "name:lb": "Mauritius",
+          "name:lg": "Mauritius",
+          "name:li": "Mauritius",
+          "name:ln": "Morisi",
+          "name:lt": "Mauricijus",
+          "name:lv": "Maurīcija",
+          "name:mg": "Maorisy",
+          "name:mi": "Marihi",
+          "name:mk": "Маврициус",
+          "name:ml": "മൗറീഷ്യസ്",
+          "name:mn": "Маврики",
+          "name:mr": "मॉरिशस",
+          "name:ms": "Mauritius",
+          "name:mt": "Mawrizji",
+          "name:my": "မောရစ်ရှနိုင်ငံ",
+          "name:na": "Mauritius",
+          "name:ne": "मौरिसस",
+          "name:nl": "Mauritius",
+          "name:nn": "Mauritius",
+          "name:no": "Mauritius",
+          "name:oc": "Maurici",
+          "name:om": "Mooriishes",
+          "name:or": "ମରିସସ",
+          "name:os": "Маврикий",
+          "name:pa": "ਮਾਰੀਸ਼ਸ",
+          "name:pi": "मारिशस",
+          "name:pl": "Mauritius",
+          "name:ps": "ماوریتوس",
+          "name:pt": "Maurícia",
+          "name:qu": "Mawrisyu",
+          "name:ro": "Mauritius",
+          "name:ru": "Маврикий",
+          "name:rw": "Morise",
+          "name:sa": "मारिषस्",
+          "name:sc": "Mauritzius",
+          "name:sd": "موريشس",
+          "name:se": "Mauritius",
+          "name:sg": "Mörîsi",
+          "name:sh": "Mauricijus",
+          "name:si": "මුරුසි සමුහාණ්ඩුව",
+          "name:sk": "Maurícius",
+          "name:sl": "Mavricij",
+          "name:sm": "Mauritius",
+          "name:sn": "Mauritius",
+          "name:so": "Mauritius",
+          "name:sq": "Mauritiusi",
+          "name:sr": "Маурицијус",
+          "name:ss": "IMorishiyasi",
+          "name:st": "Mauritius",
+          "name:su": "Mauritius",
+          "name:sv": "Mauritius",
+          "name:sw": "Morisi",
+          "name:ta": "மொரிசியசு",
+          "name:te": "మారిషస్",
+          "name:tg": "Маврикия",
+          "name:th": "ประเทศมอริเชียส",
+          "name:tk": "Mawrikiý",
+          "name:tl": "Maurisyo",
+          "name:tr": "Mauritius",
+          "name:ts": "Mauritius",
+          "name:tt": "Маврикий",
+          "name:ug": "ماۋرىتىئۇس",
+          "name:uk": "Маврикій",
+          "name:ur": "موریشس",
+          "name:uz": "Mavritsiya",
+          "name:vi": "Mauritius",
+          "name:vo": "Moriseän",
+          "name:wo": "Móoris",
+          "name:yi": "מאריציוס",
+          "name:yo": "Mọ́rísì",
+          "name:za": "Mauritius",
+          "name:zh": "毛里求斯 / 模里西斯",
+          "name:zu": "IMorishisi",
+          "boundary": "administrative",
+          "name:als": "Mauritius",
+          "name:ami": "Mauritus",
+          "name:ang": "Mauritius",
+          "name:ary": "موريشيوس",
+          "name:arz": "موريشيوس",
+          "name:ast": "Mauriciu",
+          "name:avk": "Mauritia",
+          "name:azb": "ماوریتیوس",
+          "name:ban": "Mauritius",
+          "name:bar": "Mauritius",
+          "name:bcl": "Maurisyo",
+          "name:bjn": "Mauritius",
+          "name:bpy": "মরিশাস",
+          "name:bxr": "Маврикий",
+          "name:cdo": "Mauritius",
+          "name:ceb": "Mauritius",
+          "name:ckb": "مۆریس",
+          "name:crh": "Mauritius",
+          "name:dag": "Mauritius",
+          "name:diq": "Mauritius",
+          "name:dty": "मौरिशस",
+          "name:ext": "Mauriciu",
+          "name:frp": "Môris",
+          "name:frr": "Mauritsius",
+          "name:gag": "Mavriki",
+          "name:gcr": "Moris",
+          "name:grc": "Μαυρίτιος",
+          "name:hak": "Mauritius",
+          "name:haw": "Mauritiusa",
+          "name:hif": "Mauritius",
+          "name:hsb": "Mauritius",
+          "name:ilo": "Maurisio",
+          "name:jam": "Morishos",
+          "name:lad": "Maurisio",
+          "name:lfn": "Mauris",
+          "name:lij": "Mauritius",
+          "name:lld": "Mauritius",
+          "name:lmo": "Mauritius",
+          "name:mfe": "Moris",
+          "name:mhr": "Маврикий",
+          "name:min": "Mauritius",
+          "name:mrj": "Маврикий",
+          "name:mzn": "موریس",
+          "name:nah": "Mauricio",
+          "name:nan": "Mauritius",
+          "name:nds": "Mauritius",
+          "name:nov": "Mauritius",
+          "name:nso": "Mauritius",
+          "name:olo": "Mavriki",
+          "name:pam": "Maurisiu",
+          "name:pih": "Mauritius",
+          "name:pms": "Mauritius",
+          "name:pnb": "موریشس",
+          "name:sah": "Мауритиус",
+          "name:scn": "Mauritius",
+          "name:sco": "Mauritius",
+          "name:shn": "မိူင်းမေႃးရီႇသႃႇ",
+          "name:smn": "Mauritius",
+          "name:sms": "Mauritius",
+          "name:stq": "Mauritius",
+          "name:szl": "Mauritius",
+          "name:szy": "Mauritus",
+          "name:tay": "Mauritus",
+          "name:trv": "Mauritus",
+          "name:tzl": "Mauriça",
+          "name:udm": "Маврикий",
+          "name:vec": "Mauritius",
+          "name:vep": "Mavrikii",
+          "name:vro": "Mauritius",
+          "name:war": "Mauritius",
+          "name:wuu": "毛里求斯",
+          "name:xal": "Маврикий Орн",
+          "name:xmf": "მავრიკი",
+          "name:yue": "毛厘士",
+          "name:zea": "Mauritius",
+          "timezone": "Indian/Mauritius",
+          "way_area": "1.69949",
+          "wikidata": "Q1027",
+          "ISO3166-1": "MU",
+          "wikipedia": "en:Mauritius",
+          "admin_level": "2",
+          "name:nds_nl": "Mauritius",
+          "name:simple": "Mauritius",
+          "driving_side": "left",
+          "name:bat_smg": "Maurikėjos",
+          "name:cbk-zam": "Mauricio",
+          "name:zh-Hans": "毛里求斯",
+          "name:zh-Hant": "模里西斯",
+          "official_name": "République de Maurice",
+          "name:be-tarask": "Маўрыцы",
+          "ISO3166-1:alpha2": "MU",
+          "ISO3166-1:alpha3": "MUS",
+          "official_name:cs": "Mauricijská republika",
+          "official_name:de": "Republik Mauritius",
+          "official_name:fr": "République de Maurice",
+          "official_name:sr": "Република Маурицијус",
+          "ISO3166-1:numeric": "480"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              58,
+              -20.40899027717311
+            ],
+            [
+              58.0001706,
+              -20.408
+            ],
+            [
+              58.0011969,
+              -20.4
+            ],
+            [
+              58.0020873,
+              -20.388
+            ],
+            [
+              58.002207,
+              -20.376
+            ],
+            [
+              58.0015577,
+              -20.364
+            ],
+            [
+              58.002265,
+              -20.362
+            ],
+            [
+              58.0070538,
+              -20.352
+            ],
+            [
+              58.0111632,
+              -20.342
+            ],
+            [
+              58.0139896,
+              -20.334
+            ],
+            [
+              58.0169737,
+              -20.324
+            ],
+            [
+              58.0189382,
+              -20.316
+            ],
+            [
+              58.0212051,
+              -20.304
+            ],
+            [
+              58.0224872,
+              -20.294
+            ],
+            [
+              58.0232287,
+              -20.284
+            ],
+            [
+              58.0234365,
+              -20.276
+            ],
+            [
+              58.023303,
+              -20.268
+            ],
+            [
+              58.0224612,
+              -20.256
+            ],
+            [
+              58.0215716,
+              -20.248
+            ],
+            [
+              58.0221215,
+              -20.24
+            ],
+            [
+              58.0223279,
+              -20.23
+            ],
+            [
+              58.0220012,
+              -20.22
+            ],
+            [
+              58.0213544,
+              -20.212
+            ],
+            [
+              58.0203619,
+              -20.204
+            ],
+            [
+              58.0193877,
+              -20.198
+            ],
+            [
+              58.0177773,
+              -20.19
+            ],
+            [
+              58.0152516,
+              -20.18
+            ],
+            [
+              58.0121363,
+              -20.17
+            ],
+            [
+              58.0092012,
+              -20.162
+            ],
+            [
+              58.0067304,
+              -20.156
+            ],
+            [
+              58.0040188,
+              -20.15
+            ],
+            [
+              58.0010563,
+              -20.144
+            ],
+            [
+              58,
+              -20.14204863823498
+            ],
+            [
+              58,
+              -20.40899027717311
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

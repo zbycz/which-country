@@ -1,0 +1,885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -50046,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Denmark",
+        "local_name": "Danmark",
+        "name_en": "Denmark",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+          "name": "Danmark",
+          "name:af": "Denemarke",
+          "name:am": "ዴንማርክ",
+          "name:an": "Dinamarca",
+          "name:ar": "الدنمارك",
+          "name:az": "Danimarka",
+          "name:ba": "Дания",
+          "name:be": "Данія",
+          "name:bg": "Дания",
+          "name:bi": "Denmark",
+          "name:bn": "ডেনমার্ক",
+          "name:bo": "དན་མྲག",
+          "name:br": "Danmark",
+          "name:bs": "Danska",
+          "name:ca": "Dinamarca",
+          "name:ce": "Дани",
+          "name:co": "Danimarca",
+          "name:cs": "Dánsko",
+          "name:cu": "Данїꙗ",
+          "name:cv": "Дани",
+          "name:cy": "Denmarc",
+          "name:da": "Danmark",
+          "name:de": "Dänemark",
+          "name:dv": "ޑެންމާކު",
+          "name:dz": "ཌེན་མཱཀ་",
+          "name:ee": "Denmark",
+          "name:el": "Δανία",
+          "name:en": "Denmark",
+          "name:eo": "Danio",
+          "name:es": "Dinamarca",
+          "name:et": "Taani",
+          "name:eu": "Danimarka",
+          "name:fa": "دانمارک",
+          "name:fi": "Tanska",
+          "name:fo": "Danmark",
+          "name:fr": "Danemark",
+          "name:fy": "Denemark",
+          "name:ga": "An Danmhairg",
+          "name:gd": "An Danmhairg",
+          "name:gl": "Dinamarca",
+          "name:gn": "Ndinamayka",
+          "name:gv": "Yn Danvarg",
+          "name:he": "דנמרק",
+          "name:hi": "डेनमार्क",
+          "name:hr": "Danska",
+          "name:ht": "Danmak",
+          "name:hu": "Dánia",
+          "name:hy": "Դանիա",
+          "name:ia": "Danmark",
+          "name:id": "Denmark",
+          "name:ie": "Dania",
+          "name:io": "Dania",
+          "name:is": "Danmörk",
+          "name:it": "Danimarca",
+          "name:ja": "デンマーク",
+          "name:jv": "Denmark",
+          "name:ka": "დანია",
+          "name:kg": "Danemark",
+          "name:ki": "Denmark",
+          "name:kk": "Дания",
+          "name:kl": "Danmarki",
+          "name:kn": "ಡೆನ್ಮಾರ್ಕ್",
+          "name:ko": "덴마크",
+          "name:ku": "Danîmarka",
+          "name:kv": "Дания",
+          "name:kw": "Danmark",
+          "name:ky": "Дания",
+          "name:la": "Dania",
+          "name:lb": "Dänemark",
+          "name:lg": "Denimaaka",
+          "name:li": "Denemarke",
+          "name:ln": "Danemark",
+          "name:lt": "Danija",
+          "name:lv": "Dānija",
+          "name:mg": "Danmarka",
+          "name:mi": "Tenemāka",
+          "name:mk": "Данска",
+          "name:ml": "ഡെന്മാർക്ക്",
+          "name:mn": "Дани",
+          "name:mr": "डेन्मार्क",
+          "name:ms": "Denmark",
+          "name:mt": "Danimarka",
+          "name:my": "ဒိန်းမတ်နိုင်ငံ",
+          "name:na": "Denemark",
+          "name:ne": "डेनमार्क",
+          "name:nl": "Denemarken",
+          "name:nn": "Danmark",
+          "name:no": "Danmark",
+          "name:nv": "Déinish Dineʼé Bikéyah",
+          "name:oc": "Danemarc",
+          "name:or": "ଡେନମାର୍କ",
+          "name:os": "Дани",
+          "name:pl": "Dania",
+          "name:ps": "ډېنمارک",
+          "name:pt": "Dinamarca",
+          "name:qu": "Dansuyu",
+          "name:rm": "Danemarc",
+          "name:rn": "Danemarke",
+          "name:ro": "Danemarca",
+          "name:ru": "Дания",
+          "name:rw": "Danimarike",
+          "name:sa": "डेनमार्क",
+          "name:sc": "Danimarca",
+          "name:se": "Dánmárku",
+          "name:sh": "Danska",
+          "name:si": "ඩෙන්මාර්කය",
+          "name:sk": "Dánsko",
+          "name:sl": "Danska",
+          "name:so": "Denmark",
+          "name:sq": "Danimarka",
+          "name:sr": "Данска",
+          "name:ss": "IDenimakhi",
+          "name:st": "Denmark",
+          "name:su": "Dénmark",
+          "name:sv": "Danmark",
+          "name:sw": "Denmark",
+          "name:ta": "டென்மார்க்",
+          "name:te": "డెన్మార్క్",
+          "name:tg": "Дания",
+          "name:th": "ประเทศเดนมาร์ก",
+          "name:tk": "Daniýa",
+          "name:tl": "Dinamarka",
+          "name:tr": "Danimarka",
+          "name:tt": "Дания",
+          "name:ug": "دانىيە",
+          "name:uk": "Данія",
+          "name:ur": "ڈنمارک",
+          "name:uz": "Daniya",
+          "name:vi": "Đan Mạch",
+          "name:vo": "Danän",
+          "name:wo": "Danmaark",
+          "name:yi": "דענמארק",
+          "name:yo": "Dẹ́nmárkì",
+          "name:zh": "丹麦 / 丹麥",
+          "name:zu": "IDenimaki",
+          "boundary": "administrative",
+          "int_name": "Denmark",
+          "name:ace": "Denmark",
+          "name:als": "Dänemark",
+          "name:ang": "Denemearc",
+          "name:arc": "ܕܐܢܡܐܪܩ",
+          "name:arz": "دنمارك",
+          "name:ast": "Dinamarca",
+          "name:bar": "Dänemark",
+          "name:bcl": "Denmark",
+          "name:bpy": "ডেনমার্ক",
+          "name:bxr": "Дани",
+          "name:cdo": "Dăng-măk",
+          "name:ceb": "Dinamarka",
+          "name:chr": "ᏕᏂᎹᎩ",
+          "name:ckb": "دانمارک",
+          "name:crh": "Danimarka",
+          "name:csb": "Dëńskô",
+          "name:diq": "Danimarka",
+          "name:dsb": "Dańska",
+          "name:ext": "Dinamarca",
+          "name:frp": "Danemârc",
+          "name:frr": "Dånmark",
+          "name:fur": "Danimarcje",
+          "name:gag": "Daniya",
+          "name:gan": "丹麥",
+          "name:hak": "Tan-ma̍k",
+          "name:haw": "Kenemaka",
+          "name:hif": "Denmark",
+          "name:hsb": "Danska",
+          "name:ilo": "Dinamarka",
+          "name:jbo": "danmark",
+          "name:kaa": "Daniya",
+          "name:kbd": "Даниэ",
+          "name:koi": "Данмарк",
+          "name:krc": "Дания",
+          "name:ksh": "Dänemark",
+          "name:lad": "Danimarka",
+          "name:lij": "Danemarca",
+          "name:lmo": "Danimarca",
+          "name:ltg": "Daneja",
+          "name:lzh": "丹麥",
+          "name:mdf": "Данмастор",
+          "name:mhr": "Даний",
+          "name:nah": "Dinamarca",
+          "name:nan": "Tan-kok",
+          "name:nap": "Danemarca",
+          "name:nds": "Däänmark",
+          "name:nov": "Dania",
+          "name:nrm": "Dannemar",
+          "name:pag": "Dinamarka",
+          "name:pam": "Dinamarka",
+          "name:pap": "Dinamarka",
+          "name:pcd": "Danemark",
+          "name:pdc": "Denemarrick",
+          "name:pih": "Denmark",
+          "name:pms": "Danimarca",
+          "name:pnb": "ڈنمارک",
+          "name:pnt": "Δανία",
+          "name:rmy": "Danemarka",
+          "name:rue": "Даньско",
+          "name:sah": "Дания",
+          "name:scn": "Danimarca",
+          "name:sco": "Denmark",
+          "name:sje": "Danmarrka",
+          "name:smn": "Tanska",
+          "name:sms": "Tanska",
+          "name:stq": "Deenemäärk",
+          "name:szl": "Dynymark",
+          "name:tet": "Dinamarka",
+          "name:tok": "ma Tansi",
+          "name:tpi": "Denmak",
+          "name:tzl": "Danmarc",
+          "name:udm": "Дания",
+          "name:vec": "Danimarca",
+          "name:vep": "Danii",
+          "name:vls": "Denemarkn",
+          "name:vro": "Taani",
+          "name:war": "Dinamarka",
+          "name:xal": "Данскгин Нутг",
+          "name:xmf": "დანია",
+          "name:yue": "丹麥",
+          "name:zea": "Denemarken",
+          "ref:nuts": "DK0",
+          "timezone": "Europe/Copenhagen",
+          "way_area": "12.5361",
+          "wikidata": "Q35",
+          "ISO3166-1": "DK",
+          "wikipedia": "da:Danmark",
+          "ref:nuts:1": "DK0",
+          "admin_level": "2",
+          "alt_name:eo": "Danujo;Danlando",
+          "name:nds-nl": "Denmaark",
+          "name:bat-smg": "Danėjė",
+          "name:roa-rup": "Danimarca",
+          "name:zh-Hans": "丹麦",
+          "name:zh-Hant": "丹麥",
+          "wikipedia:en": "en:Denmark",
+          "name:roa-tara": "Danemarche",
+          "official_name": "Kongeriget Danmark",
+          "name:be-tarask": "Данія",
+          "ISO3166-1:alpha2": "DK",
+          "ISO3166-1:alpha3": "DNK",
+          "default_language": "da",
+          "official_name:cs": "Dánské království",
+          "official_name:de": "Königreich Dänemark",
+          "official_name:el": "Βασίλειο της Δανίας",
+          "official_name:en": "Kingdom of Denmark",
+          "official_name:eo": "Reĝlando Danio",
+          "ISO3166-1:numeric": "208",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "13"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              57
+            ],
+            [
+              9,
+              57
+            ],
+            [
+              9,
+              57.36000832794498
+            ],
+            [
+              8.9890845,
+              57.3596052
+            ],
+            [
+              8.962145,
+              57.3596317
+            ],
+            [
+              8.9376835,
+              57.3587182
+            ],
+            [
+              8.920072,
+              57.3575572
+            ],
+            [
+              8.9058505,
+              57.3564077
+            ],
+            [
+              8.8818255,
+              57.3537662
+            ],
+            [
+              8.8581765,
+              57.3502762
+            ],
+            [
+              8.835005,
+              57.3459537
+            ],
+            [
+              8.812412,
+              57.3408172
+            ],
+            [
+              8.7904955,
+              57.3348887
+            ],
+            [
+              8.769351,
+              57.3281942
+            ],
+            [
+              8.758251,
+              57.3242582
+            ],
+            [
+              8.744378,
+              57.3190612
+            ],
+            [
+              8.7393775,
+              57.3170267
+            ],
+            [
+              8.726865,
+              57.3192752
+            ],
+            [
+              8.703162,
+              57.3226162
+            ],
+            [
+              8.679102,
+              57.3251067
+            ],
+            [
+              8.6547895,
+              57.3267357
+            ],
+            [
+              8.6303315,
+              57.3274962
+            ],
+            [
+              8.6153355,
+              57.3274287
+            ],
+            [
+              8.60281,
+              57.3278157
+            ],
+            [
+              8.578312,
+              57.3276992
+            ],
+            [
+              8.553881,
+              57.3267122
+            ],
+            [
+              8.529624,
+              57.3248582
+            ],
+            [
+              8.505646,
+              57.3221457
+            ],
+            [
+              8.482052,
+              57.3185862
+            ],
+            [
+              8.458944,
+              57.3141947
+            ],
+            [
+              8.4364225,
+              57.3089912
+            ],
+            [
+              8.4145845,
+              57.3029982
+            ],
+            [
+              8.3935255,
+              57.2962407
+            ],
+            [
+              8.3733355,
+              57.2887497
+            ],
+            [
+              8.3515505,
+              57.2795137
+            ],
+            [
+              8.333358,
+              57.2706537
+            ],
+            [
+              8.316283,
+              57.2611652
+            ],
+            [
+              8.300398,
+              57.2510902
+            ],
+            [
+              8.285772,
+              57.2404722
+            ],
+            [
+              8.2724655,
+              57.2293562
+            ],
+            [
+              8.2621825,
+              57.2194982
+            ],
+            [
+              8.2591335,
+              57.2163537
+            ],
+            [
+              8.248632,
+              57.2043887
+            ],
+            [
+              8.24712,
+              57.2023272
+            ],
+            [
+              8.2374645,
+              57.1981902
+            ],
+            [
+              8.232385,
+              57.1958292
+            ],
+            [
+              8.216971,
+              57.1882062
+            ],
+            [
+              8.199963,
+              57.1787022
+            ],
+            [
+              8.184145,
+              57.1686122
+            ],
+            [
+              8.1768275,
+              57.1634562
+            ],
+            [
+              8.164783,
+              57.1545087
+            ],
+            [
+              8.1515435,
+              57.1433797
+            ],
+            [
+              8.1436035,
+              57.1359002
+            ],
+            [
+              8.133589,
+              57.1260117
+            ],
+            [
+              8.123583,
+              57.1148722
+            ],
+            [
+              8.120391,
+              57.1116897
+            ],
+            [
+              8.1167855,
+              57.1085827
+            ],
+            [
+              8.1069645,
+              57.1037457
+            ],
+            [
+              8.0900225,
+              57.0942262
+            ],
+            [
+              8.07427,
+              57.0841222
+            ],
+            [
+              8.059773,
+              57.0734772
+            ],
+            [
+              8.046594,
+              57.0623372
+            ],
+            [
+              8.0424755,
+              57.0584977
+            ],
+            [
+              8.034228,
+              57.0502182
+            ],
+            [
+              8.026166,
+              57.0414797
+            ],
+            [
+              8.0196765,
+              57.0349737
+            ],
+            [
+              8.016964,
+              57.0324967
+            ],
+            [
+              8.0051765,
+              57.0209067
+            ],
+            [
+              8,
+              57.015015383258046
+            ],
+            [
+              8,
+              57
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2978650,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Norway",
+        "local_name": "Norge",
+        "name_en": "Norway",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+          "name": "Norge",
+          "name:af": "Noorweë",
+          "name:am": "ኖርዌይ",
+          "name:an": "Noruega",
+          "name:ar": "النرويج",
+          "name:ay": "Nurweka",
+          "name:az": "Norveç",
+          "name:ba": "Норвегия",
+          "name:be": "Нарвегія",
+          "name:bg": "Норвегия",
+          "name:bi": "Norway",
+          "name:bm": "Norwij",
+          "name:bn": "নরওয়ে",
+          "name:bo": "ནོར་ཝེ།",
+          "name:br": "Norvegia",
+          "name:bs": "Norveška",
+          "name:ca": "Noruega",
+          "name:ce": "Норвеги",
+          "name:co": "Nurvegia",
+          "name:cs": "Norsko",
+          "name:cu": "Норєгъ",
+          "name:cv": "Норвеги",
+          "name:cy": "Norwy",
+          "name:da": "Norge",
+          "name:de": "Norwegen",
+          "name:dv": "ނޯވޭ",
+          "name:dz": "ནོ་ཝེ་",
+          "name:ee": "Norway",
+          "name:el": "Νορβηγία",
+          "name:en": "Norway",
+          "name:eo": "Norvegio",
+          "name:es": "Noruega",
+          "name:et": "Norra",
+          "name:eu": "Norvegia",
+          "name:fa": "نروژ",
+          "name:fi": "Norja",
+          "name:fo": "Noregur",
+          "name:fr": "Norvège",
+          "name:fy": "Noarwegen",
+          "name:ga": "An Iorua",
+          "name:gd": "Nirribhidh",
+          "name:gl": "Noruega",
+          "name:gn": "Noruega",
+          "name:gu": "નોર્વે",
+          "name:gv": "Norlynn",
+          "name:he": "נורבגיה",
+          "name:hi": "नॉर्वे",
+          "name:hr": "Norveška",
+          "name:ht": "Nòvèj",
+          "name:hu": "Norvégia",
+          "name:hy": "Նորվեգիա",
+          "name:ia": "Norvegia",
+          "name:id": "Norwegia",
+          "name:ie": "Norvegia",
+          "name:io": "Norvegia",
+          "name:is": "Noregur",
+          "name:it": "Norvegia",
+          "name:iu": "ᓄᕐᒋ",
+          "name:ja": "ノルウェー",
+          "name:jv": "Norwégia",
+          "name:ka": "ნორვეგია",
+          "name:kg": "Norge",
+          "name:kk": "Норвегия",
+          "name:kl": "Norge",
+          "name:kn": "ನಾರ್ವೇ",
+          "name:ko": "노르웨이",
+          "name:ku": "Norwêc",
+          "name:kv": "Норвегия",
+          "name:kw": "Norgagh",
+          "name:ky": "Норвегия",
+          "name:la": "Norvegia",
+          "name:lb": "Norwegen",
+          "name:li": "Noorwege",
+          "name:ln": "Norvej",
+          "name:lt": "Norvegija",
+          "name:lv": "Norvēģija",
+          "name:mg": "Norvezy",
+          "name:mi": "Nōwei",
+          "name:mk": "Норвешка",
+          "name:ml": "നോർവെ",
+          "name:mn": "Норвеги",
+          "name:mr": "नॉर्वे",
+          "name:ms": "Norway",
+          "name:mt": "Norveġja",
+          "name:my": "နော်ဝေနိုင်ငံ",
+          "name:na": "Norwei",
+          "name:nb": "Norge",
+          "name:ne": "नर्वे",
+          "name:nl": "Noorwegen",
+          "name:nn": "Noreg",
+          "name:no": "Norge",
+          "name:oc": "Norvègia",
+          "name:om": "Norway",
+          "name:or": "ନରୱେ",
+          "name:os": "Норвеги",
+          "name:pa": "ਨਾਰਵੇ",
+          "name:pl": "Norwegia",
+          "name:ps": "ناروې",
+          "name:pt": "Noruega",
+          "name:qu": "Nurwiga",
+          "name:rm": "Norvegia",
+          "name:rn": "Noruega",
+          "name:ro": "Norvegia",
+          "name:ru": "Норвегия",
+          "name:rw": "Noruveje",
+          "name:sa": "नार्वे",
+          "name:sc": "Norvegia",
+          "name:se": "Norga",
+          "name:sh": "Norveška",
+          "name:sk": "Nórsko",
+          "name:sl": "Norveška",
+          "name:so": "Norway",
+          "name:sq": "Norvegjia",
+          "name:sr": "Норвешка",
+          "name:ss": "INoweyi",
+          "name:su": "Norwégia",
+          "name:sv": "Norge",
+          "name:sw": "Norwei",
+          "name:ta": "நோர்வே",
+          "name:te": "నార్వే",
+          "name:tg": "Норвегия",
+          "name:th": "ประเทศนอร์เวย์",
+          "name:tk": "Norwegiýa",
+          "name:tl": "Noruwega",
+          "name:tr": "Norveç",
+          "name:ts": "Norge",
+          "name:tt": "Норвегия",
+          "name:ug": "نورۋېگىيە",
+          "name:uk": "Норвегія",
+          "name:ur": "ناروے",
+          "name:uz": "Norvegiya",
+          "name:vi": "Na Uy",
+          "name:vo": "Norgän",
+          "name:wa": "Norvedje",
+          "name:wo": "Noorwees",
+          "name:yi": "נארוועגיע",
+          "name:yo": "Nọ́rwèy",
+          "name:za": "Nozveih",
+          "name:zh": "挪威",
+          "name:zu": "INoki",
+          "boundary": "administrative",
+          "int_name": "Norway",
+          "name:ace": "Norwègia",
+          "name:als": "Norwegen",
+          "name:ang": "Norþweg",
+          "name:arc": "ܢܘܪܒܝܓ",
+          "name:arz": "النرويج",
+          "name:ast": "Noruega",
+          "name:bar": "Norwegn",
+          "name:bcl": "Norwey",
+          "name:bpy": "নরৱে",
+          "name:bxr": "Норвеги",
+          "name:cdo": "Nò̤-ŭi",
+          "name:ceb": "Noruwega",
+          "name:chy": "Norway",
+          "name:ckb": "نۆرویژ",
+          "name:crh": "Norvegiya",
+          "name:csb": "Norweskô",
+          "name:diq": "Norwec",
+          "name:dsb": "Norwegska",
+          "name:ext": "Noruega",
+          "name:frp": "Norvèg·e",
+          "name:frr": "Norweegen",
+          "name:gag": "Norvegiya",
+          "name:gan": "挪威",
+          "name:hak": "Nò-vî",
+          "name:haw": "Nolewai",
+          "name:hif": "Norway",
+          "name:hsb": "Norwegska",
+          "name:ilo": "Norwéga",
+          "name:jbo": "noreg",
+          "name:kaa": "Norvegiya",
+          "name:kbd": "Норвегэ",
+          "name:koi": "Норвег",
+          "name:krc": "Норвегия",
+          "name:lad": "Norvejia",
+          "name:lez": "Норвегия",
+          "name:lij": "Norveggia",
+          "name:lmo": "Nurvegia",
+          "name:ltg": "Norvegeja",
+          "name:mdf": "Норвегие",
+          "name:mhr": "Норвегий",
+          "name:myv": "Норвегия Мастор",
+          "name:nah": "Noruegia",
+          "name:nan": "Lo̍k-ui-kok",
+          "name:nds": "Norwegen",
+          "name:nov": "Norvegia",
+          "name:nrm": "Norouague",
+          "name:pam": "Norwega",
+          "name:pap": "Noruega",
+          "name:pcd": "Norvège",
+          "name:pih": "Norwaii",
+          "name:pms": "Norvegia",
+          "name:pnb": "ناروے",
+          "name:pnt": "Νορβηγία",
+          "name:rmy": "Norvejiya",
+          "name:sah": "Норвегия",
+          "name:scn": "Norveggia",
+          "name:sco": "Norawa",
+          "name:sje": "Vuodna",
+          "name:sma": "Nöörje",
+          "name:smj": "Vuodna",
+          "name:smn": "Taažâ",
+          "name:sms": "Taarr",
+          "name:stq": "Norwegen",
+          "name:szl": "Norwegijŏ",
+          "name:tet": "Noruega",
+          "name:tok": "ma Nosiki",
+          "name:tpi": "Nowe",
+          "name:tzl": "Norvexhà",
+          "name:udm": "Норвегия",
+          "name:vec": "Norveja",
+          "name:vep": "Norvegii",
+          "name:vls": "Nôorweegn",
+          "name:vro": "Norra",
+          "name:war": "Noruega",
+          "name:wuu": "挪威",
+          "name:xal": "Ноорскгин Нутг",
+          "name:xmf": "ნორვეგია",
+          "name:yue": "挪威",
+          "name:zea": "Noorwegen",
+          "way_area": "153.801",
+          "wikidata": "Q20",
+          "ISO3166-1": "NO",
+          "wikipedia": "no:Norge",
+          "population": "5488984",
+          "admin_level": "2",
+          "alt_name:eo": "Norvegujo",
+          "name:nds-nl": "Noorwegen",
+          "alt_name:sma": "Nøørje",
+          "name:bat-smg": "Nuorvegėjė",
+          "name:iu-Latn": "nurgi",
+          "name:roa-rup": "Norveghia",
+          "name:roa-tara": "Norveggie",
+          "official_name": "Kongeriket Norge",
+          "name:be-tarask": "Нарвэгія",
+          "population:date": "2023-01-01",
+          "ISO3166-1:alpha2": "NO",
+          "ISO3166-1:alpha3": "NOR",
+          "default_language": "no",
+          "official_name:be": "Каралеўства Нарвегія",
+          "official_name:cs": "Norské království",
+          "official_name:de": "Königreich Norwegen",
+          "official_name:en": "Kingdom of Norway",
+          "official_name:eo": "Reĝlando Norvegio",
+          "official_name:fr": "Royaume de Norvège",
+          "official_name:sv": "Konungariket Norge",
+          "ISO3166-1:numeric": "578"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              57.82886927102753
+            ],
+            [
+              8.0090329,
+              57.8308791
+            ],
+            [
+              8.1630479,
+              57.8648832
+            ],
+            [
+              8.1784279,
+              57.8685475
+            ],
+            [
+              8.354447,
+              57.9128539
+            ],
+            [
+              8.4229358,
+              57.9303306
+            ],
+            [
+              8.4377847,
+              57.9345983
+            ],
+            [
+              8.4522614,
+              57.9392153
+            ],
+            [
+              8.4663368,
+              57.9441724
+            ],
+            [
+              8.4799827,
+              57.9494597
+            ],
+            [
+              8.4931715,
+              57.9550667
+            ],
+            [
+              8.5058768,
+              57.960982
+            ],
+            [
+              8.586374450703973,
+              58
+            ],
+            [
+              8,
+              58
+            ],
+            [
+              8,
+              57.82886927102753
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

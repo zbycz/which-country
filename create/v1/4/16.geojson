@@ -1,0 +1,759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192785,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Mali",
+        "local_name": "Mali",
+        "name_en": "Mali",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+          "name": "Mali",
+          "name:af": "Mali",
+          "name:am": "ማሊ",
+          "name:an": "Mali",
+          "name:ar": "مالي",
+          "name:az": "Mali",
+          "name:ba": "Мали",
+          "name:be": "Малі",
+          "name:bg": "Мали",
+          "name:bm": "Mali",
+          "name:bn": "মালি",
+          "name:bo": "མ་ལི།",
+          "name:br": "Mali",
+          "name:bs": "Mali",
+          "name:ca": "Mali",
+          "name:ce": "Мали",
+          "name:cs": "Mali",
+          "name:cv": "Мали",
+          "name:cy": "Mali",
+          "name:da": "Mali",
+          "name:de": "Mali",
+          "name:dv": "މާލީ",
+          "name:ee": "Mali",
+          "name:el": "Μάλι",
+          "name:en": "Mali",
+          "name:eo": "Malio",
+          "name:es": "Malí",
+          "name:et": "Mali",
+          "name:eu": "Mali",
+          "name:fa": "مالی",
+          "name:ff": "Maali",
+          "name:fi": "Mali",
+          "name:fo": "Mali",
+          "name:fr": "Mali",
+          "name:fy": "Maly",
+          "name:ga": "Mailí",
+          "name:gd": "Màili",
+          "name:gl": "Malí",
+          "name:gn": "Mali",
+          "name:gv": "Malee",
+          "name:ha": "Mali",
+          "name:he": "מאלי",
+          "name:hi": "माली",
+          "name:hr": "Mali",
+          "name:ht": "Mali",
+          "name:hu": "Mali",
+          "name:hy": "Մալի",
+          "name:ia": "Mali",
+          "name:id": "Mali",
+          "name:ie": "Mali",
+          "name:io": "Mali",
+          "name:is": "Malí",
+          "name:it": "Mali",
+          "name:ja": "マリ共和国",
+          "name:jv": "Mali",
+          "name:ka": "მალი",
+          "name:kg": "Mali",
+          "name:kk": "Мали",
+          "name:kn": "ಮಾಲಿ",
+          "name:ko": "말리",
+          "name:ku": "Malî",
+          "name:kw": "Mali",
+          "name:la": "Malium",
+          "name:lb": "Mali",
+          "name:li": "Mali",
+          "name:ln": "Mali",
+          "name:lt": "Malis",
+          "name:lv": "Mali",
+          "name:mi": "Māri",
+          "name:mk": "Мали",
+          "name:ml": "മാലി",
+          "name:mn": "Мали",
+          "name:mr": "माली",
+          "name:ms": "Mali",
+          "name:mt": "Mali",
+          "name:my": "မာလီနိုင်ငံ",
+          "name:nl": "Mali",
+          "name:nn": "Mali",
+          "name:no": "Mali",
+          "name:oc": "Mali",
+          "name:or": "ମାଲି",
+          "name:os": "Мали",
+          "name:pa": "ਮਾਲੀ",
+          "name:pl": "Mali",
+          "name:ps": "مالي",
+          "name:pt": "Mali",
+          "name:qu": "Mali",
+          "name:ro": "Mali",
+          "name:ru": "Мали",
+          "name:rw": "Mali",
+          "name:sa": "माली",
+          "name:sc": "Mali",
+          "name:se": "Mali",
+          "name:sg": "Malïi",
+          "name:sh": "Mali",
+          "name:si": "මාලි",
+          "name:sk": "Mali",
+          "name:sl": "Mali",
+          "name:sn": "Mali",
+          "name:so": "Maali",
+          "name:sq": "Mali",
+          "name:sr": "Мали",
+          "name:ss": "IMali",
+          "name:st": "Mali",
+          "name:su": "Mali",
+          "name:sv": "Mali",
+          "name:sw": "Mali",
+          "name:ta": "மாலி",
+          "name:tg": "Малӣ",
+          "name:th": "ประเทศมาลี",
+          "name:ti": "ማሊ",
+          "name:tk": "Mali",
+          "name:tl": "Mali",
+          "name:tr": "Mali",
+          "name:ts": "Mali",
+          "name:tt": "Мали",
+          "name:ug": "مالى",
+          "name:uk": "Малі",
+          "name:ur": "مالی",
+          "name:uz": "Mali",
+          "name:vi": "Mali",
+          "name:vo": "Maliyän",
+          "name:wa": "Mali",
+          "name:wo": "Mali",
+          "name:yi": "מאלי",
+          "name:yo": "Málì",
+          "name:zh": "马里 / 馬利",
+          "name:zu": "IMali",
+          "boundary": "administrative",
+          "currency": "XOF",
+          "name:ace": "Mali",
+          "name:als": "Mali",
+          "name:arc": "ܡܠܝ",
+          "name:arz": "مالى",
+          "name:ast": "Malí",
+          "name:bcl": "Mali",
+          "name:ber": "ⵎⴰⵍⵉ",
+          "name:bjn": "Mali",
+          "name:bpy": "মালি",
+          "name:bxr": "Мали",
+          "name:ceb": "Mali",
+          "name:ckb": "مالی",
+          "name:crh": "Mali",
+          "name:diq": "Mali",
+          "name:dsb": "Mali",
+          "name:ext": "Mali",
+          "name:frp": "Mali",
+          "name:gag": "Mali",
+          "name:hif": "Mali",
+          "name:hsb": "Mali",
+          "name:ilo": "Mali",
+          "name:jbo": "malis",
+          "name:kab": "Mali",
+          "name:lij": "Mali",
+          "name:lmo": "Mali",
+          "name:min": "Mali",
+          "name:mrj": "Мали",
+          "name:nah": "Mali",
+          "name:nan": "Mali",
+          "name:nds": "Mali",
+          "name:new": "माली गाविस",
+          "name:nov": "Mali",
+          "name:nso": "Mali",
+          "name:pam": "Mali",
+          "name:pap": "Mali",
+          "name:pih": "Maali",
+          "name:pms": "Mali",
+          "name:pnb": "مالی",
+          "name:sah": "Мали",
+          "name:scn": "Mali",
+          "name:sco": "Mali",
+          "name:smn": "Mali",
+          "name:sms": "Mali",
+          "name:stq": "Mali",
+          "name:szl": "Mali",
+          "name:tzl": "Mali",
+          "name:vec": "Małì",
+          "name:vls": "Mali",
+          "name:vro": "Mali",
+          "name:war": "Mali",
+          "name:wuu": "马里",
+          "name:xal": "Малудин Орн",
+          "name:yue": "馬里",
+          "name:zgh": "ⵎⴰⵍⵉ",
+          "timezone": "Africa/Bamako",
+          "way_area": "106.663",
+          "wikidata": "Q912",
+          "ISO3166-1": "ML",
+          "wikipedia": "fr:Mali",
+          "population": "14517176",
+          "admin_level": "2",
+          "name:nds-nl": "Mali",
+          "name:bat-smg": "Malis",
+          "name:roa-rup": "Mali",
+          "name:zh-Hans": "马里",
+          "name:zh-Hant": "馬利",
+          "name:be-tarask": "Малі",
+          "ISO3166-1:alpha2": "ML",
+          "ISO3166-1:alpha3": "MLI",
+          "default_language": "fr",
+          "official_name:ar": "جمهورية مالي",
+          "official_name:de": "Republik Mali",
+          "official_name:en": "Republic of Mali",
+          "official_name:es": "República de Malí",
+          "official_name:fr": "République du Mali",
+          "official_name:gn": "Tavakuairetã Mali",
+          "official_name:pt": "República do Mali",
+          "official_name:ru": "Республика Мали",
+          "official_name:zh": "马里共和国 / 馬利共和國",
+          "ISO3166-1:numeric": "466",
+          "official_name:ckb": "کۆماری مالی",
+          "official_name:zh-Hans": "马里共和国",
+          "official_name:zh-Hant": "馬利共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4,
+              16.10764952284264
+            ],
+            [
+              4.000009,
+              16.107668
+            ],
+            [
+              4.003019,
+              16.113236
+            ],
+            [
+              4.006327,
+              16.118319
+            ],
+            [
+              4.020408,
+              16.151356
+            ],
+            [
+              4.025463,
+              16.163993
+            ],
+            [
+              4.037198,
+              16.18349
+            ],
+            [
+              4.063013,
+              16.222664
+            ],
+            [
+              4.068249,
+              16.232774
+            ],
+            [
+              4.072581,
+              16.244328
+            ],
+            [
+              4.075109,
+              16.259131
+            ],
+            [
+              4.076372,
+              16.263103
+            ],
+            [
+              4.079261,
+              16.270324
+            ],
+            [
+              4.086843,
+              16.283142
+            ],
+            [
+              4.088287,
+              16.286572
+            ],
+            [
+              4.088287,
+              16.295779
+            ],
+            [
+              4.088468,
+              16.29975
+            ],
+            [
+              4.08919,
+              16.303361
+            ],
+            [
+              4.091537,
+              16.30986
+            ],
+            [
+              4.097133,
+              16.323219
+            ],
+            [
+              4.102549,
+              16.332967
+            ],
+            [
+              4.107243,
+              16.339105
+            ],
+            [
+              4.1132,
+              16.345243
+            ],
+            [
+              4.118435,
+              16.350118
+            ],
+            [
+              4.156888,
+              16.371239
+            ],
+            [
+              4.173677,
+              16.381169
+            ],
+            [
+              4.199854,
+              16.395069
+            ],
+            [
+              4.197507,
+              16.814799
+            ],
+            [
+              4.202562,
+              16.822742
+            ],
+            [
+              4.206714,
+              16.837184
+            ],
+            [
+              4.205811,
+              16.88033
+            ],
+            [
+              4.205992,
+              16.883218
+            ],
+            [
+              4.212852,
+              16.912825
+            ],
+            [
+              4.214296360345431,
+              17
+            ],
+            [
+              4,
+              17
+            ],
+            [
+              4,
+              16.10764952284264
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192786,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Niger",
+        "local_name": "Niger",
+        "name_en": "Niger",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+          "name": "Niger",
+          "name:af": "Niger",
+          "name:am": "ኒጄር",
+          "name:an": "Nícher",
+          "name:ar": "النيجر",
+          "name:az": "Niger",
+          "name:ba": "Нигер",
+          "name:be": "Нігер",
+          "name:bg": "Нигер",
+          "name:bm": "Nijer",
+          "name:bn": "নাইজার",
+          "name:bo": "ནི་ཇར།",
+          "name:br": "Niger",
+          "name:bs": "Niger",
+          "name:ca": "Níger",
+          "name:ce": "Нигер",
+          "name:cs": "Niger",
+          "name:cy": "Niger",
+          "name:da": "Niger",
+          "name:de": "Niger",
+          "name:dv": "ނީޖަރު",
+          "name:ee": "Niger",
+          "name:el": "Νίγηρας",
+          "name:en": "Niger",
+          "name:eo": "Niĝero",
+          "name:es": "Níger",
+          "name:et": "Niger",
+          "name:eu": "Niger",
+          "name:fa": "نیجر",
+          "name:fi": "Niger",
+          "name:fo": "Niger",
+          "name:fr": "Niger",
+          "name:fy": "Niger",
+          "name:ga": "An Nígir",
+          "name:gd": "Nìgeir",
+          "name:gl": "Níxer",
+          "name:gn": "Níher",
+          "name:gu": "નાઈજર",
+          "name:gv": "Yn Neegeyr",
+          "name:ha": "Nijar",
+          "name:he": "ניז'ר",
+          "name:hi": "नाइजर",
+          "name:hr": "Niger",
+          "name:ht": "Nijè",
+          "name:hu": "Niger",
+          "name:hy": "Նիգեր",
+          "name:ia": "Niger",
+          "name:id": "Niger",
+          "name:ie": "Niger",
+          "name:ig": "Niger",
+          "name:io": "Nijer",
+          "name:is": "Níger",
+          "name:it": "Niger",
+          "name:ja": "ニジェール",
+          "name:jv": "Niger",
+          "name:ka": "ნიგერი",
+          "name:kg": "Nijer",
+          "name:kk": "Нигер",
+          "name:ko": "니제르",
+          "name:ku": "Nîjer",
+          "name:kw": "Pow Nijer",
+          "name:la": "Nigritania",
+          "name:lb": "Niger",
+          "name:li": "Niger",
+          "name:ln": "Nizer",
+          "name:lt": "Nigeris",
+          "name:lv": "Nigēra",
+          "name:mi": "Ngāika",
+          "name:mk": "Нигер",
+          "name:ml": "നീഷർ",
+          "name:mn": "Нигер",
+          "name:mr": "नायजर",
+          "name:ms": "Niger",
+          "name:mt": "Niġer",
+          "name:my": "နိုင်ဂျာနိုင်ငံ",
+          "name:nl": "Niger",
+          "name:nn": "Niger",
+          "name:no": "Niger",
+          "name:oc": "Nigèr",
+          "name:or": "ନାଇଜର",
+          "name:os": "Нигер",
+          "name:pa": "ਨਾਈਜਰ",
+          "name:pl": "Niger",
+          "name:ps": "نایجېر",
+          "name:pt": "Níger",
+          "name:qu": "Niqir",
+          "name:ro": "Niger",
+          "name:ru": "Нигер",
+          "name:rw": "Nigeri",
+          "name:sa": "नीजे",
+          "name:sc": "Nixèr",
+          "name:se": "Niger",
+          "name:sg": "Nizëre",
+          "name:sh": "Niger",
+          "name:si": "නයිජර්",
+          "name:sk": "Niger",
+          "name:sl": "Niger",
+          "name:sn": "Niger",
+          "name:so": "Nayjar",
+          "name:sq": "Nigeri",
+          "name:sr": "Нигер",
+          "name:ss": "INayijari",
+          "name:su": "Niger",
+          "name:sv": "Niger",
+          "name:sw": "Niger",
+          "name:ta": "நைஜர்",
+          "name:te": "నైజర్",
+          "name:tg": "Ниҷер",
+          "name:th": "ประเทศไนเจอร์",
+          "name:ti": "ናይጀር",
+          "name:tk": "Niger",
+          "name:tl": "Niyer",
+          "name:tr": "Nijer",
+          "name:ts": "Niger",
+          "name:ug": "نىگېر",
+          "name:uk": "Нігер",
+          "name:ur": "نائجر",
+          "name:uz": "Niger",
+          "name:vi": "Niger",
+          "name:vo": "Nigerän",
+          "name:wo": "Niseer",
+          "name:yi": "ניזשער",
+          "name:yo": "Nìjẹ̀r",
+          "name:zh": "尼日尔 / 尼日",
+          "name:zu": "INayighe",
+          "boundary": "administrative",
+          "name:ace": "Niger",
+          "name:als": "Niger",
+          "name:arc": "ܢܝܓܪ",
+          "name:arz": "نيجر",
+          "name:ast": "Níxer",
+          "name:bcl": "Niger",
+          "name:bjn": "Niger",
+          "name:bpy": "নাইজের",
+          "name:bxr": "Нигер",
+          "name:ceb": "Niger",
+          "name:ckb": "نیجەر",
+          "name:crh": "Niger",
+          "name:din": "Nijer",
+          "name:diq": "Nicer",
+          "name:dsb": "Niger",
+          "name:ext": "Nigi",
+          "name:frp": "Nig·èr",
+          "name:gag": "Niger",
+          "name:hif": "Niger",
+          "name:hsb": "Niger",
+          "name:ilo": "Niger",
+          "name:jbo": "gugdenu'e",
+          "name:kab": "Nnijer",
+          "name:lij": "Niger",
+          "name:lmo": "Niger",
+          "name:mrj": "Нигер",
+          "name:nah": "Niger",
+          "name:nan": "Niger",
+          "name:nds": "Niger",
+          "name:nov": "Niger",
+          "name:nso": "Niger",
+          "name:pam": "Niger",
+          "name:pih": "Niijir",
+          "name:pms": "Nìger",
+          "name:pnb": "نائجر",
+          "name:rue": "Ніґер",
+          "name:sah": "Нигер",
+          "name:scn": "Niger",
+          "name:sco": "Niger",
+          "name:smn": "Niger",
+          "name:sms": "Niger",
+          "name:stq": "Niger",
+          "name:szl": "Ńiger",
+          "name:tzl": "Niger",
+          "name:vec": "Niger",
+          "name:vro": "Niger",
+          "name:war": "Niger",
+          "name:xal": "Нигермудин Орн",
+          "name:yue": "尼日爾",
+          "timezone": "Africa/Niamey",
+          "way_area": "100.534",
+          "wikidata": "Q1032",
+          "ISO3166-1": "NE",
+          "wikipedia": "fr:Niger",
+          "admin_level": "2",
+          "alt_name:eo": "Niĝerlando",
+          "name:bat-smg": "Nigeris",
+          "name:zh-Hans": "尼日尔",
+          "name:zh-Hant": "尼日",
+          "name:be-tarask": "Нігер",
+          "ISO3166-1:alpha2": "NE",
+          "ISO3166-1:alpha3": "NER",
+          "default_language": "fr",
+          "official_name:ar": "جمهورية النيجر",
+          "official_name:cs": "Nigerská republika",
+          "official_name:de": "Republik Niger",
+          "official_name:en": "Republic of Niger",
+          "official_name:es": "República del Níger",
+          "official_name:fr": "République du Niger",
+          "official_name:gn": "Tavakuairetã Níger",
+          "official_name:pt": "República do Níger",
+          "official_name:ru": "Республика Нигер",
+          "ISO3166-1:numeric": "562",
+          "official_name:din": "Paankɔc ke Nijer",
+          "official_name:nds": "Republiek Niger"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4,
+              16
+            ],
+            [
+              5,
+              16
+            ],
+            [
+              5,
+              17
+            ],
+            [
+              4.214296360345431,
+              17
+            ],
+            [
+              4.212852,
+              16.912825
+            ],
+            [
+              4.205992,
+              16.883218
+            ],
+            [
+              4.205811,
+              16.88033
+            ],
+            [
+              4.206714,
+              16.837184
+            ],
+            [
+              4.202562,
+              16.822742
+            ],
+            [
+              4.197507,
+              16.814799
+            ],
+            [
+              4.199854,
+              16.395069
+            ],
+            [
+              4.173677,
+              16.381169
+            ],
+            [
+              4.156888,
+              16.371239
+            ],
+            [
+              4.118435,
+              16.350118
+            ],
+            [
+              4.1132,
+              16.345243
+            ],
+            [
+              4.107243,
+              16.339105
+            ],
+            [
+              4.102549,
+              16.332967
+            ],
+            [
+              4.097133,
+              16.323219
+            ],
+            [
+              4.091537,
+              16.30986
+            ],
+            [
+              4.08919,
+              16.303361
+            ],
+            [
+              4.088468,
+              16.29975
+            ],
+            [
+              4.088287,
+              16.295779
+            ],
+            [
+              4.088287,
+              16.286572
+            ],
+            [
+              4.086843,
+              16.283142
+            ],
+            [
+              4.079261,
+              16.270324
+            ],
+            [
+              4.076372,
+              16.263103
+            ],
+            [
+              4.075109,
+              16.259131
+            ],
+            [
+              4.072581,
+              16.244328
+            ],
+            [
+              4.068249,
+              16.232774
+            ],
+            [
+              4.063013,
+              16.222664
+            ],
+            [
+              4.037198,
+              16.18349
+            ],
+            [
+              4.025463,
+              16.163993
+            ],
+            [
+              4.020408,
+              16.151356
+            ],
+            [
+              4.006327,
+              16.118319
+            ],
+            [
+              4.003019,
+              16.113236
+            ],
+            [
+              4.000009,
+              16.107668
+            ],
+            [
+              4,
+              16.10764952284264
+            ],
+            [
+              4,
+              16
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

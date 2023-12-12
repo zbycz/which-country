@@ -1,0 +1,990 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -535828,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Mauritius",
+        "local_name": "Mauritius / Maurice",
+        "name_en": "Mauritius",
+        "all_tags": {
+          "flag": "https://commons.wikimedia.org/wiki/File:Flag_of_Mauritius.svg",
+          "name": "Mauritius / Maurice",
+          "name:ab": "Маврики",
+          "name:af": "Mauritius",
+          "name:am": "ሞሪሸስ",
+          "name:an": "Mauricio",
+          "name:ar": "موريشيوس",
+          "name:az": "Mavriki",
+          "name:ba": "Маврикий",
+          "name:be": "Маўрыкій",
+          "name:bg": "Мавриций",
+          "name:bi": "Morisas",
+          "name:bn": "মরিশাস",
+          "name:bo": "མའུ་རི་ཊིའུ་སུ།",
+          "name:br": "Maoris",
+          "name:bs": "Mauricijus",
+          "name:ca": "Maurici",
+          "name:ce": "Маврики",
+          "name:cs": "Mauricius",
+          "name:cv": "Маврики",
+          "name:cy": "Mawrisiws",
+          "name:da": "Mauritius",
+          "name:de": "Mauritius",
+          "name:dv": "މޮރިޝަސް",
+          "name:ee": "Mauritius",
+          "name:el": "Μαυρίκιος",
+          "name:en": "Mauritius",
+          "name:eo": "Maŭricio",
+          "name:es": "Mauricio",
+          "name:et": "Mauritius",
+          "name:eu": "Maurizio",
+          "name:fa": "موریس",
+          "name:ff": "Moriis",
+          "name:fi": "Mauritius",
+          "name:fo": "Móritius",
+          "name:fr": "Maurice",
+          "name:fy": "Mauritsius",
+          "name:ga": "Oileán Mhuirís",
+          "name:gd": "Na h-Eileanan Mhoiriseas",
+          "name:gl": "Mauricio - Maurice",
+          "name:gn": "Maurísio",
+          "name:gu": "મોરિશિયસ",
+          "name:gv": "Ellan Wirrish",
+          "name:ha": "Moris",
+          "name:he": "מאוריציוס",
+          "name:hi": "मॉरिशस",
+          "name:hr": "Mauricijus",
+          "name:ht": "Moris",
+          "name:hu": "Mauritius",
+          "name:hy": "Մավրիկիոս",
+          "name:ia": "Mauritio",
+          "name:id": "Mauritius",
+          "name:ie": "Mauritius",
+          "name:ig": "Mauritius",
+          "name:io": "Maurico",
+          "name:is": "Máritíus",
+          "name:it": "Mauritius",
+          "name:ja": "モーリシャス",
+          "name:jv": "Mauritius",
+          "name:ka": "მავრიკი",
+          "name:kg": "Mauritius",
+          "name:ki": "Mauritius",
+          "name:kk": "Маврикий",
+          "name:kn": "ಮಾರಿಷಸ್",
+          "name:ko": "모리셔스",
+          "name:ku": "Maurîtius",
+          "name:kw": "Ynys Morrys",
+          "name:ky": "Маврикий",
+          "name:la": "Mauritia",
+          "name:lb": "Mauritius",
+          "name:lg": "Mauritius",
+          "name:li": "Mauritius",
+          "name:ln": "Morisi",
+          "name:lt": "Mauricijus",
+          "name:lv": "Maurīcija",
+          "name:mg": "Maorisy",
+          "name:mi": "Marihi",
+          "name:mk": "Маврициус",
+          "name:ml": "മൗറീഷ്യസ്",
+          "name:mn": "Маврики",
+          "name:mr": "मॉरिशस",
+          "name:ms": "Mauritius",
+          "name:mt": "Mawrizji",
+          "name:my": "မောရစ်ရှနိုင်ငံ",
+          "name:na": "Mauritius",
+          "name:ne": "मौरिसस",
+          "name:nl": "Mauritius",
+          "name:nn": "Mauritius",
+          "name:no": "Mauritius",
+          "name:oc": "Maurici",
+          "name:om": "Mooriishes",
+          "name:or": "ମରିସସ",
+          "name:os": "Маврикий",
+          "name:pa": "ਮਾਰੀਸ਼ਸ",
+          "name:pi": "मारिशस",
+          "name:pl": "Mauritius",
+          "name:ps": "ماوریتوس",
+          "name:pt": "Maurícia",
+          "name:qu": "Mawrisyu",
+          "name:ro": "Mauritius",
+          "name:ru": "Маврикий",
+          "name:rw": "Morise",
+          "name:sa": "मारिषस्",
+          "name:sc": "Mauritzius",
+          "name:sd": "موريشس",
+          "name:se": "Mauritius",
+          "name:sg": "Mörîsi",
+          "name:sh": "Mauricijus",
+          "name:si": "මුරුසි සමුහාණ්ඩුව",
+          "name:sk": "Maurícius",
+          "name:sl": "Mavricij",
+          "name:sm": "Mauritius",
+          "name:sn": "Mauritius",
+          "name:so": "Mauritius",
+          "name:sq": "Mauritiusi",
+          "name:sr": "Маурицијус",
+          "name:ss": "IMorishiyasi",
+          "name:st": "Mauritius",
+          "name:su": "Mauritius",
+          "name:sv": "Mauritius",
+          "name:sw": "Morisi",
+          "name:ta": "மொரிசியசு",
+          "name:te": "మారిషస్",
+          "name:tg": "Маврикия",
+          "name:th": "ประเทศมอริเชียส",
+          "name:tk": "Mawrikiý",
+          "name:tl": "Maurisyo",
+          "name:tr": "Mauritius",
+          "name:ts": "Mauritius",
+          "name:tt": "Маврикий",
+          "name:ug": "ماۋرىتىئۇس",
+          "name:uk": "Маврикій",
+          "name:ur": "موریشس",
+          "name:uz": "Mavritsiya",
+          "name:vi": "Mauritius",
+          "name:vo": "Moriseän",
+          "name:wo": "Móoris",
+          "name:yi": "מאריציוס",
+          "name:yo": "Mọ́rísì",
+          "name:za": "Mauritius",
+          "name:zh": "毛里求斯 / 模里西斯",
+          "name:zu": "IMorishisi",
+          "boundary": "administrative",
+          "name:als": "Mauritius",
+          "name:ami": "Mauritus",
+          "name:ang": "Mauritius",
+          "name:ary": "موريشيوس",
+          "name:arz": "موريشيوس",
+          "name:ast": "Mauriciu",
+          "name:avk": "Mauritia",
+          "name:azb": "ماوریتیوس",
+          "name:ban": "Mauritius",
+          "name:bar": "Mauritius",
+          "name:bcl": "Maurisyo",
+          "name:bjn": "Mauritius",
+          "name:bpy": "মরিশাস",
+          "name:bxr": "Маврикий",
+          "name:cdo": "Mauritius",
+          "name:ceb": "Mauritius",
+          "name:ckb": "مۆریس",
+          "name:crh": "Mauritius",
+          "name:dag": "Mauritius",
+          "name:diq": "Mauritius",
+          "name:dty": "मौरिशस",
+          "name:ext": "Mauriciu",
+          "name:frp": "Môris",
+          "name:frr": "Mauritsius",
+          "name:gag": "Mavriki",
+          "name:gcr": "Moris",
+          "name:grc": "Μαυρίτιος",
+          "name:hak": "Mauritius",
+          "name:haw": "Mauritiusa",
+          "name:hif": "Mauritius",
+          "name:hsb": "Mauritius",
+          "name:ilo": "Maurisio",
+          "name:jam": "Morishos",
+          "name:lad": "Maurisio",
+          "name:lfn": "Mauris",
+          "name:lij": "Mauritius",
+          "name:lld": "Mauritius",
+          "name:lmo": "Mauritius",
+          "name:mfe": "Moris",
+          "name:mhr": "Маврикий",
+          "name:min": "Mauritius",
+          "name:mrj": "Маврикий",
+          "name:mzn": "موریس",
+          "name:nah": "Mauricio",
+          "name:nan": "Mauritius",
+          "name:nds": "Mauritius",
+          "name:nov": "Mauritius",
+          "name:nso": "Mauritius",
+          "name:olo": "Mavriki",
+          "name:pam": "Maurisiu",
+          "name:pih": "Mauritius",
+          "name:pms": "Mauritius",
+          "name:pnb": "موریشس",
+          "name:sah": "Мауритиус",
+          "name:scn": "Mauritius",
+          "name:sco": "Mauritius",
+          "name:shn": "မိူင်းမေႃးရီႇသႃႇ",
+          "name:smn": "Mauritius",
+          "name:sms": "Mauritius",
+          "name:stq": "Mauritius",
+          "name:szl": "Mauritius",
+          "name:szy": "Mauritus",
+          "name:tay": "Mauritus",
+          "name:trv": "Mauritus",
+          "name:tzl": "Mauriça",
+          "name:udm": "Маврикий",
+          "name:vec": "Mauritius",
+          "name:vep": "Mavrikii",
+          "name:vro": "Mauritius",
+          "name:war": "Mauritius",
+          "name:wuu": "毛里求斯",
+          "name:xal": "Маврикий Орн",
+          "name:xmf": "მავრიკი",
+          "name:yue": "毛厘士",
+          "name:zea": "Mauritius",
+          "timezone": "Indian/Mauritius",
+          "way_area": "1.69949",
+          "wikidata": "Q1027",
+          "ISO3166-1": "MU",
+          "wikipedia": "en:Mauritius",
+          "admin_level": "2",
+          "name:nds_nl": "Mauritius",
+          "name:simple": "Mauritius",
+          "driving_side": "left",
+          "name:bat_smg": "Maurikėjos",
+          "name:cbk-zam": "Mauricio",
+          "name:zh-Hans": "毛里求斯",
+          "name:zh-Hant": "模里西斯",
+          "official_name": "République de Maurice",
+          "name:be-tarask": "Маўрыцы",
+          "ISO3166-1:alpha2": "MU",
+          "ISO3166-1:alpha3": "MUS",
+          "official_name:cs": "Mauricijská republika",
+          "official_name:de": "Republik Mauritius",
+          "official_name:fr": "République de Maurice",
+          "official_name:sr": "Република Маурицијус",
+          "ISO3166-1:numeric": "480"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              63.0861924,
+              -19.722
+            ],
+            [
+              63.086284,
+              -19.728
+            ],
+            [
+              63.0868627,
+              -19.738
+            ],
+            [
+              63.0878215,
+              -19.748
+            ],
+            [
+              63.0886207,
+              -19.754
+            ],
+            [
+              63.0907801,
+              -19.766
+            ],
+            [
+              63.0921456,
+              -19.772
+            ],
+            [
+              63.0937178,
+              -19.778
+            ],
+            [
+              63.0955017,
+              -19.784
+            ],
+            [
+              63.0989251,
+              -19.794
+            ],
+            [
+              63.1012265,
+              -19.8
+            ],
+            [
+              63.1055872,
+              -19.81
+            ],
+            [
+              63.1111903,
+              -19.821
+            ],
+            [
+              63.1170806,
+              -19.831
+            ],
+            [
+              63.120334,
+              -19.836
+            ],
+            [
+              63.1275157,
+              -19.846
+            ],
+            [
+              63.13483,
+              -19.855
+            ],
+            [
+              63.1421017,
+              -19.863
+            ],
+            [
+              63.1460425,
+              -19.867
+            ],
+            [
+              63.154617,
+              -19.875
+            ],
+            [
+              63.1642632,
+              -19.883
+            ],
+            [
+              63.1723463,
+              -19.889
+            ],
+            [
+              63.1767103,
+              -19.892
+            ],
+            [
+              63.1879033,
+              -19.899
+            ],
+            [
+              63.1969677,
+              -19.904
+            ],
+            [
+              63.1981548,
+              -19.905
+            ],
+            [
+              63.2070916,
+              -19.914
+            ],
+            [
+              63.211439,
+              -19.918
+            ],
+            [
+              63.2209423,
+              -19.926
+            ],
+            [
+              63.2302998,
+              -19.933
+            ],
+            [
+              63.2392765,
+              -19.939
+            ],
+            [
+              63.2493656,
+              -19.945
+            ],
+            [
+              63.254928,
+              -19.948
+            ],
+            [
+              63.2651793,
+              -19.953
+            ],
+            [
+              63.2720729,
+              -19.956
+            ],
+            [
+              63.2824449,
+              -19.96
+            ],
+            [
+              63.2947777,
+              -19.964
+            ],
+            [
+              63.306142,
+              -19.967
+            ],
+            [
+              63.3155062,
+              -19.969
+            ],
+            [
+              63.3277906,
+              -19.971
+            ],
+            [
+              63.3365013,
+              -19.972
+            ],
+            [
+              63.3552207,
+              -19.973
+            ],
+            [
+              63.3639328,
+              -19.974
+            ],
+            [
+              63.3739341,
+              -19.977
+            ],
+            [
+              63.3862095,
+              -19.98
+            ],
+            [
+              63.3967468,
+              -19.982
+            ],
+            [
+              63.4034214,
+              -19.983
+            ],
+            [
+              63.4121328,
+              -19.984
+            ],
+            [
+              63.4308536,
+              -19.985
+            ],
+            [
+              63.4362698,
+              -19.985
+            ],
+            [
+              63.4549906,
+              -19.984
+            ],
+            [
+              63.463702,
+              -19.983
+            ],
+            [
+              63.4703767,
+              -19.982
+            ],
+            [
+              63.4759874,
+              -19.981
+            ],
+            [
+              63.4853522,
+              -19.979
+            ],
+            [
+              63.4931894,
+              -19.977
+            ],
+            [
+              63.5000414,
+              -19.975
+            ],
+            [
+              63.5117952,
+              -19.971
+            ],
+            [
+              63.5169722,
+              -19.969
+            ],
+            [
+              63.5263181,
+              -19.965
+            ],
+            [
+              63.5365701,
+              -19.96
+            ],
+            [
+              63.5489969,
+              -19.953
+            ],
+            [
+              63.5583159,
+              -19.947
+            ],
+            [
+              63.5666794,
+              -19.941
+            ],
+            [
+              63.5742581,
+              -19.935
+            ],
+            [
+              63.5789357,
+              -19.931
+            ],
+            [
+              63.5864932,
+              -19.924
+            ],
+            [
+              63.5951895,
+              -19.915
+            ],
+            [
+              63.6029005,
+              -19.906
+            ],
+            [
+              63.6097555,
+              -19.897
+            ],
+            [
+              63.6172685,
+              -19.886
+            ],
+            [
+              63.6262962,
+              -19.88
+            ],
+            [
+              63.6345153,
+              -19.874
+            ],
+            [
+              63.6395638,
+              -19.87
+            ],
+            [
+              63.6465794,
+              -19.864
+            ],
+            [
+              63.6519738,
+              -19.859
+            ],
+            [
+              63.6598591,
+              -19.851
+            ],
+            [
+              63.6660948,
+              -19.844
+            ],
+            [
+              63.6702724,
+              -19.839
+            ],
+            [
+              63.6772143,
+              -19.83
+            ],
+            [
+              63.6827374,
+              -19.822
+            ],
+            [
+              63.6877078,
+              -19.814
+            ],
+            [
+              63.6926927,
+              -19.805
+            ],
+            [
+              63.6956826,
+              -19.799
+            ],
+            [
+              63.6984202,
+              -19.793
+            ],
+            [
+              63.700916,
+              -19.787
+            ],
+            [
+              63.703179,
+              -19.781
+            ],
+            [
+              63.7064819,
+              -19.771
+            ],
+            [
+              63.7092781,
+              -19.761
+            ],
+            [
+              63.7118736,
+              -19.749
+            ],
+            [
+              63.713158,
+              -19.741
+            ],
+            [
+              63.714291,
+              -19.731
+            ],
+            [
+              63.7149765,
+              -19.721
+            ],
+            [
+              63.7150961,
+              -19.709
+            ],
+            [
+              63.7143312,
+              -19.695
+            ],
+            [
+              63.7143109,
+              -19.683
+            ],
+            [
+              63.7137192,
+              -19.673
+            ],
+            [
+              63.7123003,
+              -19.661
+            ],
+            [
+              63.7105167,
+              -19.651
+            ],
+            [
+              63.7077085,
+              -19.639
+            ],
+            [
+              63.7047829,
+              -19.629
+            ],
+            [
+              63.7005027,
+              -19.617
+            ],
+            [
+              63.6980405,
+              -19.611
+            ],
+            [
+              63.6933987,
+              -19.601
+            ],
+            [
+              63.6880404,
+              -19.591
+            ],
+            [
+              63.6838953,
+              -19.584
+            ],
+            [
+              63.677423,
+              -19.574
+            ],
+            [
+              63.6708295,
+              -19.565
+            ],
+            [
+              63.6634174,
+              -19.556
+            ],
+            [
+              63.6550697,
+              -19.547
+            ],
+            [
+              63.6467363,
+              -19.539
+            ],
+            [
+              63.6410218,
+              -19.534
+            ],
+            [
+              63.6361305,
+              -19.53
+            ],
+            [
+              63.6281849,
+              -19.524
+            ],
+            [
+              63.619379,
+              -19.518
+            ],
+            [
+              63.6112377,
+              -19.513
+            ],
+            [
+              63.6021823,
+              -19.508
+            ],
+            [
+              63.5962048,
+              -19.505
+            ],
+            [
+              63.5897213,
+              -19.502
+            ],
+            [
+              63.5700784,
+              -19.494
+            ],
+            [
+              63.5617399,
+              -19.491
+            ],
+            [
+              63.5541237,
+              -19.488
+            ],
+            [
+              63.5455339,
+              -19.485
+            ],
+            [
+              63.5325201,
+              -19.48
+            ],
+            [
+              63.52667,
+              -19.478
+            ],
+            [
+              63.5166867,
+              -19.475
+            ],
+            [
+              63.5088642,
+              -19.473
+            ],
+            [
+              63.499517,
+              -19.471
+            ],
+            [
+              63.4872554,
+              -19.469
+            ],
+            [
+              63.4785611,
+              -19.468
+            ],
+            [
+              63.4598774,
+              -19.467
+            ],
+            [
+              63.4439189,
+              -19.467
+            ],
+            [
+              63.4252351,
+              -19.468
+            ],
+            [
+              63.4165408,
+              -19.469
+            ],
+            [
+              63.4042792,
+              -19.471
+            ],
+            [
+              63.3949321,
+              -19.473
+            ],
+            [
+              63.3835879,
+              -19.476
+            ],
+            [
+              63.3741344,
+              -19.479
+            ],
+            [
+              63.3601006,
+              -19.484
+            ],
+            [
+              63.3551171,
+              -19.486
+            ],
+            [
+              63.3439748,
+              -19.491
+            ],
+            [
+              63.3414042,
+              -19.492
+            ],
+            [
+              63.3314199,
+              -19.495
+            ],
+            [
+              63.3201968,
+              -19.499
+            ],
+            [
+              63.303982,
+              -19.499
+            ],
+            [
+              63.2852946,
+              -19.5
+            ],
+            [
+              63.2765985,
+              -19.501
+            ],
+            [
+              63.2699356,
+              -19.502
+            ],
+            [
+              63.2594163,
+              -19.504
+            ],
+            [
+              63.2509259,
+              -19.506
+            ],
+            [
+              63.2436391,
+              -19.508
+            ],
+            [
+              63.2341837,
+              -19.511
+            ],
+            [
+              63.225952,
+              -19.514
+            ],
+            [
+              63.2163074,
+              -19.518
+            ],
+            [
+              63.207779,
+              -19.522
+            ],
+            [
+              63.2000986,
+              -19.526
+            ],
+            [
+              63.1930939,
+              -19.53
+            ],
+            [
+              63.1851115,
+              -19.535
+            ],
+            [
+              63.1764602,
+              -19.541
+            ],
+            [
+              63.1711648,
+              -19.545
+            ],
+            [
+              63.1661967,
+              -19.549
+            ],
+            [
+              63.1571144,
+              -19.557
+            ],
+            [
+              63.149009,
+              -19.565
+            ],
+            [
+              63.1408805,
+              -19.574
+            ],
+            [
+              63.136764,
+              -19.579
+            ],
+            [
+              63.1329069,
+              -19.584
+            ],
+            [
+              63.1259051,
+              -19.594
+            ],
+            [
+              63.1197662,
+              -19.604
+            ],
+            [
+              63.1144074,
+              -19.614
+            ],
+            [
+              63.1115396,
+              -19.62
+            ],
+            [
+              63.1073028,
+              -19.63
+            ],
+            [
+              63.1050715,
+              -19.636
+            ],
+            [
+              63.1030638,
+              -19.642
+            ],
+            [
+              63.1006087,
+              -19.648
+            ],
+            [
+              63.0983771,
+              -19.654
+            ],
+            [
+              63.0951328,
+              -19.664
+            ],
+            [
+              63.0923852,
+              -19.674
+            ],
+            [
+              63.0896859,
+              -19.686
+            ],
+            [
+              63.0877434,
+              -19.698
+            ],
+            [
+              63.0865831,
+              -19.71
+            ],
+            [
+              63.0861924,
+              -19.722
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

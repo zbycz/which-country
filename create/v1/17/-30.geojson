@@ -1,0 +1,2664 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1252792,
+        "boundary": "land_area",
+        "admin_level": 2,
+        "parents": null,
+        "name": "South Africa (land mass)",
+        "local_name": "South Africa (land mass)",
+        "name_en": "South Africa (land mass)",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+          "name": "South Africa (land mass)",
+          "name:af": "Suid-Afrika",
+          "name:ak": "Afrika Anaafo",
+          "name:am": "ደቡብ አፍሪካ",
+          "name:an": "Sudafrica",
+          "name:ar": "جنوب أفريقيا",
+          "name:az": "Cənub Afrika",
+          "name:be": "Паўднёва-Афрыканская Рэспубліка",
+          "name:bg": "Южна Африка",
+          "name:bm": "Worodugu Afriki",
+          "name:bn": "দক্ষিণ আফ্রিকা",
+          "name:bo": "ལྷོ་ ཨཕྲི་ཀ།",
+          "name:br": "Suafrika",
+          "name:bs": "Južna Afrika",
+          "name:ca": "Sud-àfrica",
+          "name:cs": "Jižní Afrika",
+          "name:cv": "Кăнтăр Африка",
+          "name:cy": "De Affrica",
+          "name:da": "Sydafrika",
+          "name:de": "Südafrika (Landmass)",
+          "name:dv": "ދެކުނު އެފްރިކާ",
+          "name:dz": "སཱའུཐ་ ཨཕ་རི་ཀ",
+          "name:ee": "Anyiehe Afrika nutome",
+          "name:el": "Νότια Αφρική",
+          "name:en": "South Africa (land mass)",
+          "name:eo": "Sudafriko",
+          "name:es": "Sudáfrica",
+          "name:et": "Lõuna-Aafrika",
+          "name:eu": "Hegoafrika",
+          "name:fa": "آفریقای جنوبی",
+          "name:ff": "Afrik bŋ Worgo",
+          "name:fi": "Etelä-Afrikka",
+          "name:fo": "Suðurafrika",
+          "name:fr": "Afrique du Sud (terres)",
+          "name:fy": "Súd-Afrika",
+          "name:ga": "An Afraic Theas",
+          "name:gd": "Afraga a Deas",
+          "name:gl": "Sudáfrica",
+          "name:gn": "Yvyafrika",
+          "name:gu": "દક્ષિણ આફ્રિકા",
+          "name:gv": "Yn Affrick Yiass",
+          "name:ha": "Afirka ta Kudu",
+          "name:he": "דרום אפריקה",
+          "name:hi": "दक्षिण अफ़्रीका",
+          "name:hr": "Južna Afrika",
+          "name:ht": "Afrik disid",
+          "name:hu": "Dél-Afrika",
+          "name:hy": "Հարավային Աֆրիկա",
+          "name:ia": "Africa del Sud",
+          "name:id": "Afrika Selatan",
+          "name:ie": "Sudafrica",
+          "name:io": "Sud-Afrika",
+          "name:is": "Suður-Afríka",
+          "name:it": "Sudafrica",
+          "name:ja": "南アフリカ",
+          "name:jv": "Afrika Kidul",
+          "name:ka": "სამხრეთ აფრიკა",
+          "name:kg": "Afelika ya Sudi",
+          "name:ki": "Abĩrika Kusini",
+          "name:kk": "Оңтүстік Африка",
+          "name:km": "អាព្រិក​ភាគ​ខាង​ត្បូង",
+          "name:kn": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ",
+          "name:ko": "남아프리카",
+          "name:ks": "جَنوٗبی اَفریٖکا",
+          "name:ku": "Afrîkaya Başûr",
+          "name:kv": "Лунвыв Африкаса Республика",
+          "name:kw": "Afrika Dhyhow",
+          "name:ky": "Африкаанс тили",
+          "name:la": "Africa Australis",
+          "name:lb": "Südafrika",
+          "name:lg": "Sawusafirika",
+          "name:li": "Zuud-Afrika",
+          "name:ln": "Sidafríka",
+          "name:lo": "ອາຟະລິກາໃຕ້",
+          "name:lt": "Pietų Afrika",
+          "name:lv": "Dienvidāfrika",
+          "name:mg": "Afrika Atsimo",
+          "name:mi": "Āwherika-ki-te-tonga",
+          "name:mk": "Јужна Африка",
+          "name:ml": "ദക്ഷിണാഫ്രിക്ക",
+          "name:mn": "Өмнөд Африк",
+          "name:mr": "दक्षिण अफ्रिका",
+          "name:ms": "Afrika Selatan",
+          "name:mt": "Afrika t’Isfel",
+          "name:my": "တောင်အာဖရိက",
+          "name:ne": "दक्षिण अफ्रिका",
+          "name:nl": "Zuid-Afrika",
+          "name:nn": "Sør-Afrika",
+          "name:no": "Sør-Afrika",
+          "name:oc": "Sud-Africa",
+          "name:or": "ଦକ୍ଷିଣ ଆଫ୍ରିକା",
+          "name:os": "Хуссар Африкæйы",
+          "name:pa": "ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ",
+          "name:pl": "Republika Południowej Afryki",
+          "name:ps": "سویلي افریقا",
+          "name:pt": "África do Sul",
+          "name:qu": "Urin Aphrika",
+          "name:rm": "Africa dal Sid",
+          "name:rn": "Afurika y'Epfo",
+          "name:ro": "Africa de Sud",
+          "name:ru": "Южная Африка",
+          "name:rw": "Afurika y’Epfo",
+          "name:sa": "दक्षिण-आफ्रिका",
+          "name:sc": "Sudàfrica",
+          "name:se": "Lulli-Afrihká",
+          "name:sg": "Afrîka-Mbongo",
+          "name:sh": "Južna Afrika",
+          "name:si": "දකුණු අප්‍රිකාව",
+          "name:sk": "Južná Afrika",
+          "name:sl": "Južna Afrika",
+          "name:so": "Koonfur Afrika",
+          "name:sq": "Afrika e Jugut",
+          "name:sr": "Јужна Африка",
+          "name:ss": "INingizimu Afrika",
+          "name:st": "Afrika Borwa",
+          "name:su": "Afrika Kidul",
+          "name:sv": "Sydafrika",
+          "name:sw": "Afrika Kusini",
+          "name:ta": "தென் ஆப்பிரிக்கா",
+          "name:te": "దక్షిణ ఆఫ్రికా రాజ్యం",
+          "name:tg": "Африқои Ҷанубӣ",
+          "name:th": "แอฟริกาใต้",
+          "name:ti": "ደቡብ አፍሪካ",
+          "name:tk": "Günorta Afrika",
+          "name:tn": "Aferika Borwa",
+          "name:to": "ʻAfilika tonga",
+          "name:tr": "Güney Afrika",
+          "name:ts": "Afrika-Dzonga",
+          "name:tt": "Көньяк Африка",
+          "name:ug": "جەنۇبىي ئافرىقا",
+          "name:uk": "Південний Африки",
+          "name:ur": "جنوبی افریقہ",
+          "name:uz": "Janubiy Afrika",
+          "name:ve": "Afurika Tshipembe",
+          "name:vi": "Nam Phi",
+          "name:vo": "Sulüdafrikän",
+          "name:wa": "Nonne-Afrike",
+          "name:wo": "Afrig gu Bëj-saalum",
+          "name:xh": "uMzantsi Afrika",
+          "name:yi": "דרום אפריקע",
+          "name:yo": "Gúúsù Áfríkà",
+          "name:zh": "南非",
+          "name:zu": "iNingizimu Afrika",
+          "boundary": "land_area",
+          "int_name": "South Africa",
+          "name:ace": "Afrika Seulatan",
+          "name:als": "Südafrika",
+          "name:ang": "Sūðaffrica",
+          "name:arz": "جنوب افريقيا",
+          "name:ast": "Sudáfrica",
+          "name:bar": "Südafrika",
+          "name:bjn": "Aprika Salatan",
+          "name:bpy": "খা আফ্রিকা",
+          "name:ceb": "Habagatang Aprika",
+          "name:chy": "Mo'hetaneho'e hánêsóvóne",
+          "name:ckb": "ئەفریقای باشوور",
+          "name:crh": "Cenübiy Afrika",
+          "name:diq": "Afrikaya Veroci",
+          "name:dsb": "Pódpołdnjowa Afrika",
+          "name:ext": "Sudáfrica",
+          "name:frp": "Africa du Sud",
+          "name:fur": "Sud Afriche",
+          "name:gag": "Üülen Afrika Respublikası",
+          "name:gan": "南非",
+          "name:hak": "Nàm-fî",
+          "name:haw": "ʻApelika Hema",
+          "name:hif": "South Africa",
+          "name:ilo": "Abagatan nga Áprika",
+          "name:jbo": "nanfi'ogu'e",
+          "name:kaa": "Qubla Afrika",
+          "name:kab": "Tafriqt Wadda",
+          "name:krc": "Къыбыла-Африкан Республика",
+          "name:ksh": "Södaffrika",
+          "name:lad": "Sud-Afrika",
+          "name:lij": "Sudafrica",
+          "name:lmo": "Südafrica",
+          "name:ltg": "Dīnavydu Afrikys",
+          "name:mdf": "Лямбеширень Африк",
+          "name:min": "Afrika Selatan",
+          "name:mzn": "جنوبی آفریخا",
+          "name:nah": "Africa Huitztlāmpa",
+          "name:nan": "Lâm-hui",
+          "name:nds": "Süüdafrika",
+          "name:new": "दक्षिण अफ्रिका",
+          "name:nov": "Sud Afrika",
+          "name:nso": "Afrika Borwa",
+          "name:pam": "Mauling Aprika",
+          "name:pap": "Sur Afrika",
+          "name:pdc": "Saut Afrikaa",
+          "name:pih": "Sowth Afreka",
+          "name:pms": "Sudàfrica",
+          "name:pnb": "دکھنی افریقہ",
+          "name:rue": "Южна Африка",
+          "name:sah": "Соҕуруу Африка",
+          "name:scn": "Àfrica dû Sud",
+          "name:sco": "Sooth Africae",
+          "name:stq": "Suud-Afrikoa",
+          "name:szl": "Połedńowyj Afriki",
+          "name:tzl": "Südafrica",
+          "name:vec": "Sudàfrica",
+          "name:war": "Salatan nga Apriká",
+          "name:wuu": "南非",
+          "name:xal": "Өмн Априкин",
+          "name:xmf": "ობჟათე აფრიკა",
+          "name:yue": "南非",
+          "name:zea": "Zuud-Afrika",
+          "timezone": "Africa/Johannesburg",
+          "way_area": "113.121",
+          "wikidata": "Q258",
+          "ISO3166-1": "ZA",
+          "land_area": "administrative",
+          "wikipedia": "en:South Africa",
+          "population": "49991300",
+          "admin_level": "2",
+          "alt_name:gl": "África do Sur",
+          "alt_name:ln": "Afríka ya Súdi",
+          "alt_name:oc": "Africa del Sud",
+          "alt_name:wo": "Afrig gu Bëj-gànnaar",
+          "name:nds-nl": "Zuud-Afrika",
+          "capital_city": "Pretoria;Bloemfontein;Cape Town",
+          "official_name": "Republic of South Africa",
+          "short_name:af": "ZAR",
+          "short_name:be": "ПАР",
+          "short_name:bg": "РЮА",
+          "short_name:cv": "КАР",
+          "short_name:en": "RSA",
+          "short_name:fr": "RSA",
+          "short_name:kv": "ЛАР",
+          "short_name:ky": "ТАР",
+          "short_name:mn": "ӨАБНУ",
+          "short_name:os": "ХАР",
+          "short_name:pl": "RPA",
+          "short_name:ru": "ЮАР",
+          "short_name:sl": "JAR",
+          "short_name:tk": "GAR",
+          "short_name:tt": "КАҖ",
+          "short_name:uk": "ПАР",
+          "short_name:uz": "JAR",
+          "name:zh_pinyin": "Nán Fēi",
+          "short_name:kbd": "ИАР",
+          "short_name:krc": "КъАР",
+          "short_name:mdf": "ЛАР",
+          "short_name:sah": "САР",
+          "ISO3166-1:alpha2": "ZA",
+          "ISO3166-1:alpha3": "ZAF",
+          "official_name:af": "Zuid-Afrikaansche Republiek",
+          "official_name:am": "የደቡብ አፍሪካ ሬፑብሊክ",
+          "official_name:an": "Republica de Sudafrica",
+          "official_name:ar": "جمهورية جنوب أفريقيا",
+          "official_name:az": "Cənubi Afrika Respublikası",
+          "official_name:be": "Паўднёва-Афрыканская Рэспубліка",
+          "official_name:bg": "Република Южна Африка",
+          "official_name:bm": "Worodugu Afrika ka Fasojamana",
+          "official_name:bn": "রিপাবলিক অফ সাউথ আফ্রিকা",
+          "official_name:br": "Republik Suafrika",
+          "official_name:bs": "Južnoafrička Republika",
+          "official_name:ca": "República de Sud-àfrica",
+          "official_name:cs": "Jihoafrická republika",
+          "official_name:cv": "Кăнтăр Африка Республики",
+          "official_name:cy": "Gweriniaeth De Affrica",
+          "official_name:da": "Republikken Sydafrika",
+          "official_name:de": "Republik Südafrika",
+          "official_name:el": "Δημοκρατία της Νοτίου Αφρικής",
+          "official_name:en": "Republic of South Africa",
+          "official_name:eo": "Respubliko de Sud-Afriko",
+          "official_name:es": "República de Sudáfrica",
+          "official_name:et": "Lõuna-Aafrika Vabariik",
+          "official_name:eu": "Hegoafrikako Errepublika",
+          "official_name:fa": "جمهوری آفریقای جنوبی",
+          "official_name:fi": "Etelä-Afrikan tasavalta",
+          "official_name:fo": "Tjóðveldið Suðurafrika",
+          "official_name:fr": "République d'Afrique du Sud",
+          "official_name:fy": "Súd-Afrikaanske Republyk",
+          "official_name:ga": "Poblacht na hAfraice Theas",
+          "official_name:gd": "Poblachd Afraga a Deas",
+          "official_name:gl": "República de Sudáfrica",
+          "official_name:gn": "Tetã Yvyafrika",
+          "official_name:gu": "દક્ષિણ આફ્રિકાનું ગણરાજ્ય",
+          "official_name:gv": "Pobblaght yn Affrick Yiass",
+          "official_name:ha": "Jamhuriyar Afrika ta Kudu",
+          "official_name:he": "רפובליקת דרום אפריקה",
+          "official_name:hi": "दक्षिण अफ़्रीका गणराज्य",
+          "official_name:hr": "Južnoafrička Republika",
+          "official_name:ht": "Repiblik Afrik disid",
+          "official_name:hu": "Dél-Afrikai Köztársaság",
+          "official_name:ia": "Republica del Africa del Sud",
+          "official_name:id": "Republik Afrika Selatan",
+          "official_name:ie": "Republic de Sudafrica",
+          "official_name:io": "Republiko di Sud-Afrika",
+          "official_name:is": "Lýðveldið Suður-Afríku",
+          "official_name:it": "Repubblica del Sudafrica",
+          "official_name:ja": "南アフリカ共和国",
+          "official_name:jv": "Republik Afrika Kidul",
+          "official_name:ka": "სამხრეთ აფრიკის რესპუბლიკა",
+          "official_name:kg": "Repubilika ya Afelika ya Sudi",
+          "official_name:kk": "Оңтүстік Африка Республикасы",
+          "official_name:ku": "Komara Afrîkaya Başûr",
+          "official_name:kv": "Лунвыв Африкаса Республика",
+          "official_name:ky": "Түштүк-Африка Республикасы",
+          "official_name:la": "Res Publica Africae Australis",
+          "official_name:lb": "Republik Südafrika",
+          "official_name:ln": "Republíki ya Sidafríka",
+          "official_name:lt": "Pietų Afrikos Respublika",
+          "official_name:lv": "Dienvidāfrikas Republika",
+          "official_name:mk": "Јужноафриканска Република",
+          "official_name:ml": "റിപബ്ലിക്ക് ഓഫ് സൗത്ത് ആഫ്രിക്ക",
+          "official_name:mn": "Өмнөд Африкийн Бүгд Найрамдах Улс",
+          "official_name:mr": "दक्षिण आफ्रिकेचे गणराज्य",
+          "official_name:ms": "Republik Afrika Selatan",
+          "official_name:mt": "Repubblika tal-Afrika t'Isfel",
+          "official_name:my": "တောင်အာဖရိက သမ္မတနိုင်ငံ",
+          "official_name:nl": "Republiek Zuid-Afrika",
+          "official_name:nn": "Sørafrikanske republikken",
+          "official_name:no": "Republikken Sør-Afrika",
+          "official_name:nr": "iRiphabliki yeSewula Afrika",
+          "official_name:nv": "Kéyah Naakai Łizhinii Bikéyah Shádiʼááhjí Siʼánígíí",
+          "official_name:oc": "Republica Sud-Africana",
+          "official_name:os": "Хуссар Африкæйы Республикæ",
+          "official_name:pa": "ਦੱਖਣ ਅਫ਼ਰੀਕਾ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Południowej Afryki",
+          "official_name:pt": "República da África do Sul",
+          "official_name:qu": "Urin Aphrika Republika",
+          "official_name:rm": "Republica Sidafricana",
+          "official_name:ro": "Republica Africa de Sud",
+          "official_name:ru": "Южно-Африканская Республика",
+          "official_name:rw": "Repubulika ’Afurika y ’Epfo",
+          "official_name:sc": "Repubblica de su Sudàfrica",
+          "official_name:se": "Lulli-Afrihká dásseváldi",
+          "official_name:sg": "Ködörösêse tî Afrîka-Mbongo",
+          "official_name:sh": "Južnoafrička Republika;Republika Južna Afrika",
+          "official_name:sk": "Juhoafrická republika",
+          "official_name:sl": "Južnoafriška republika;Republika Južna Afrika",
+          "official_name:so": "Jamhuuriyadda Koonfur Afrika",
+          "official_name:sq": "Republika Jugafrikane",
+          "official_name:sr": "Јужноафричка Република;Република Јужна Африка",
+          "official_name:ss": "iRiphabhulikhi yeNingizimu Afrika",
+          "official_name:st": "Rephabliki ya Afrika Borwa",
+          "official_name:su": "Republik Afrika Kidul",
+          "official_name:sv": "Republiken Sydafrika",
+          "official_name:sw": "Jamhuri ya Afrika Kusini",
+          "official_name:tg": "Ҷазираҳои Африқои Ҷанубӣ",
+          "official_name:th": "ประเทศแอฟริกาใต้",
+          "official_name:tk": "Günorta Afrika Respublikasy",
+          "official_name:tn": "Rephaboliki ya Aforika Borwa",
+          "official_name:ts": "Riphabliki ya Afrika-Dzonga",
+          "official_name:tt": "Көньяк Африка Җөмһүрияте",
+          "official_name:uk": "Південно-Африканська Республіка",
+          "official_name:uz": "Janubiy Afrika Respublikasi",
+          "official_name:ve": "Riphabuḽiki ya Afurika Tshipembe",
+          "official_name:vi": "Cộng hòa Nam Phi",
+          "official_name:vo": "Repüblikän Sulüdafrikäna",
+          "official_name:wa": "Republike di Nonne-Afrike",
+          "official_name:wo": "Republik bu Afrig gu Bëj-saalum",
+          "official_name:xh": "iRiphabliki yaseMzantsi Afrika",
+          "official_name:yi": "רעפובליק פון דרום אפריקע",
+          "official_name:yo": "Orílẹ̀-èdè Olómìnira ilẹ̀ Gúúsù Áfríkà",
+          "official_name:zh": "南非共和国",
+          "official_name:zu": "iRiphabliki yaseNingizimu Afrika",
+          "ISO3166-1:numeric": "710",
+          "country_code_fips": "SF",
+          "official_name:ace": "Republik Afrika Seulatan",
+          "official_name:als": "Republik Südafrika",
+          "official_name:ang": "Cynewīse Sūþaffrice",
+          "official_name:arz": "جمهورية جنوب افريقيا",
+          "official_name:ast": "República Sudafricana",
+          "official_name:bar": "Republik Südafrika",
+          "official_name:bjn": "Republik Aprika Salatan",
+          "official_name:bpy": "প্রজাতন্ত্রি খা আফ্রিকা",
+          "official_name:ceb": "Republikang Habagatang Aprikano",
+          "official_name:ckb": "کۆماری ئافریقای باشوور",
+          "official_name:crh": "Cenübiy Afrika Cumhuriyeti",
+          "official_name:diq": "Cumhuriyetê Afrikaya Veroci",
+          "official_name:dsb": "Pódpołdnjowa Afrika Republika",
+          "official_name:ext": "Repúbrica de Sudáfrica",
+          "official_name:frp": "Rèpublica de l'Africa du Sud",
+          "official_name:gag": "Üülen Afrika Respublikası",
+          "official_name:gan": "南非共和國",
+          "official_name:hif": "Republic of South Africa",
+          "official_name:hsb": "Republika Južna Afrika",
+          "official_name:ilo": "Republika iti Abagatan nga Áprika",
+          "official_name:kaa": "Qubla Afrika Respublikası",
+          "official_name:kbd": "Ипшъэ Африкэ Республикэ",
+          "official_name:krc": "Къыбыла-Африкан Республика",
+          "official_name:lad": "Repuvlika de Sud-Afrika",
+          "official_name:lmo": "Repübliga de Südafrica",
+          "official_name:ltg": "Dīnavydu Afrikys Republika",
+          "official_name:mdf": "Лямбеширень Африконь Республик",
+          "official_name:nah": "Tlācatlahtohcāyōtl Africa Huitztlāmpa",
+          "official_name:nan": "Lâm-hui Kiōng-hô-kok",
+          "official_name:nds": "Süüdafrikaansche Republiek",
+          "official_name:nov": "Sud Afrikani Republike",
+          "official_name:nso": "Repabliki le Afrika Borwa",
+          "official_name:pam": "Republika ning Mauling Aprika",
+          "official_name:pap": "Republika di Sur Afrika",
+          "official_name:pdc": "Republik vun Saut Afrikaa",
+          "official_name:pih": "Sowth Afrekan Repablik",
+          "official_name:pms": "Repùblica Sudafrican-a",
+          "official_name:sah": "Соҕуруу Африка Республиката",
+          "official_name:scn": "Ripùbbrica dû Àfrica dû Sud",
+          "official_name:sco": "Sooth African Republic",
+          "official_name:stq": "Suud-afrikoanske Republik",
+          "official_name:szl": "Połedńowoafrikańsko Republika;Republika Połedńowyj Afriki",
+          "official_name:vec": "Republica Sudafricana",
+          "official_name:war": "Republika han Salatan nga Aprika",
+          "official_name:xal": "Өмн Априкин Орн",
+          "official_name:xmf": "ობჟათე აფრიკაშ რესპუბლიკა",
+          "official_name:yue": "南非共和國",
+          "official_name:zea": "Zuud-Afrikaonse Republiek",
+          "official_name:nds-nl": "Rippebliek Zuud-Afrika",
+          "capital_city:judicial": "Bloemfontein",
+          "capital_city:legislative": "Cape Town",
+          "capital_city:administrative": "Pretoria",
+          "country_code_iso3166_1_alpha_2": "ZA"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              17,
+              -29.573556875
+            ],
+            [
+              17.00029,
+              -29.57401
+            ],
+            [
+              17.00042,
+              -29.57526
+            ],
+            [
+              17.00073,
+              -29.57596
+            ],
+            [
+              17.00303,
+              -29.57842
+            ],
+            [
+              17.00368,
+              -29.57945
+            ],
+            [
+              17.00464,
+              -29.5799
+            ],
+            [
+              17.00508,
+              -29.58057
+            ],
+            [
+              17.00523,
+              -29.58121
+            ],
+            [
+              17.00587,
+              -29.582
+            ],
+            [
+              17.00608,
+              -29.58268
+            ],
+            [
+              17.00756,
+              -29.58357
+            ],
+            [
+              17.00798,
+              -29.58472
+            ],
+            [
+              17.00871,
+              -29.58552
+            ],
+            [
+              17.00902,
+              -29.58553
+            ],
+            [
+              17.00935,
+              -29.58509
+            ],
+            [
+              17.00964,
+              -29.58515
+            ],
+            [
+              17.01166,
+              -29.58697
+            ],
+            [
+              17.01334,
+              -29.58927
+            ],
+            [
+              17.01354,
+              -29.58983
+            ],
+            [
+              17.01416,
+              -29.59037
+            ],
+            [
+              17.01434,
+              -29.59129
+            ],
+            [
+              17.01506,
+              -29.59145
+            ],
+            [
+              17.01539,
+              -29.5917
+            ],
+            [
+              17.01639,
+              -29.59339
+            ],
+            [
+              17.01749,
+              -29.59572
+            ],
+            [
+              17.01808,
+              -29.59728
+            ],
+            [
+              17.01822,
+              -29.59813
+            ],
+            [
+              17.01934,
+              -29.5988
+            ],
+            [
+              17.02126,
+              -29.60275
+            ],
+            [
+              17.02229,
+              -29.60359
+            ],
+            [
+              17.02559,
+              -29.60545
+            ],
+            [
+              17.02638,
+              -29.6062
+            ],
+            [
+              17.02677,
+              -29.60684
+            ],
+            [
+              17.02852,
+              -29.60818
+            ],
+            [
+              17.02909,
+              -29.60921
+            ],
+            [
+              17.02954,
+              -29.60965
+            ],
+            [
+              17.03194,
+              -29.61337
+            ],
+            [
+              17.0329,
+              -29.61459
+            ],
+            [
+              17.03354,
+              -29.6159
+            ],
+            [
+              17.03404,
+              -29.61653
+            ],
+            [
+              17.03456,
+              -29.61841
+            ],
+            [
+              17.03445,
+              -29.61948
+            ],
+            [
+              17.0346,
+              -29.62044
+            ],
+            [
+              17.03443,
+              -29.6222
+            ],
+            [
+              17.03517,
+              -29.62293
+            ],
+            [
+              17.0352,
+              -29.62436
+            ],
+            [
+              17.03495,
+              -29.62497
+            ],
+            [
+              17.03362,
+              -29.62546
+            ],
+            [
+              17.0326,
+              -29.62628
+            ],
+            [
+              17.03242,
+              -29.62687
+            ],
+            [
+              17.03316,
+              -29.62788
+            ],
+            [
+              17.03343,
+              -29.62911
+            ],
+            [
+              17.03396,
+              -29.62909
+            ],
+            [
+              17.03403,
+              -29.62959
+            ],
+            [
+              17.03463,
+              -29.63022
+            ],
+            [
+              17.03496,
+              -29.6312
+            ],
+            [
+              17.03499,
+              -29.63154
+            ],
+            [
+              17.03449,
+              -29.63325
+            ],
+            [
+              17.03398,
+              -29.63355
+            ],
+            [
+              17.03377,
+              -29.63388
+            ],
+            [
+              17.03373,
+              -29.63492
+            ],
+            [
+              17.03435,
+              -29.63805
+            ],
+            [
+              17.03487,
+              -29.63901
+            ],
+            [
+              17.03516,
+              -29.6403
+            ],
+            [
+              17.03648,
+              -29.64326
+            ],
+            [
+              17.03685,
+              -29.64702
+            ],
+            [
+              17.03646,
+              -29.6489
+            ],
+            [
+              17.03684,
+              -29.6496
+            ],
+            [
+              17.03656,
+              -29.64974
+            ],
+            [
+              17.0365,
+              -29.64996
+            ],
+            [
+              17.03756,
+              -29.65048
+            ],
+            [
+              17.03969,
+              -29.65661
+            ],
+            [
+              17.04021,
+              -29.65769
+            ],
+            [
+              17.04133,
+              -29.65931
+            ],
+            [
+              17.04182,
+              -29.66118
+            ],
+            [
+              17.04195,
+              -29.66315
+            ],
+            [
+              17.0427,
+              -29.66516
+            ],
+            [
+              17.04281,
+              -29.66628
+            ],
+            [
+              17.04394,
+              -29.66859
+            ],
+            [
+              17.04414,
+              -29.66962
+            ],
+            [
+              17.0446,
+              -29.67033
+            ],
+            [
+              17.0447,
+              -29.67101
+            ],
+            [
+              17.04556,
+              -29.67342
+            ],
+            [
+              17.04594,
+              -29.67385
+            ],
+            [
+              17.04694,
+              -29.67423
+            ],
+            [
+              17.0503,
+              -29.67675
+            ],
+            [
+              17.05157,
+              -29.678
+            ],
+            [
+              17.05264,
+              -29.68011
+            ],
+            [
+              17.05351,
+              -29.68252
+            ],
+            [
+              17.0536,
+              -29.6836
+            ],
+            [
+              17.05324,
+              -29.68462
+            ],
+            [
+              17.05325,
+              -29.68502
+            ],
+            [
+              17.05381,
+              -29.68569
+            ],
+            [
+              17.05497,
+              -29.68771
+            ],
+            [
+              17.05571,
+              -29.68939
+            ],
+            [
+              17.05617,
+              -29.69193
+            ],
+            [
+              17.05614,
+              -29.69226
+            ],
+            [
+              17.05577,
+              -29.69285
+            ],
+            [
+              17.05574,
+              -29.69334
+            ],
+            [
+              17.05603,
+              -29.69615
+            ],
+            [
+              17.0562,
+              -29.69655
+            ],
+            [
+              17.05674,
+              -29.69696
+            ],
+            [
+              17.05718,
+              -29.69782
+            ],
+            [
+              17.05541,
+              -29.69945
+            ],
+            [
+              17.05496,
+              -29.70028
+            ],
+            [
+              17.05466,
+              -29.70252
+            ],
+            [
+              17.05333,
+              -29.70599
+            ],
+            [
+              17.05321,
+              -29.70885
+            ],
+            [
+              17.05343,
+              -29.70955
+            ],
+            [
+              17.05445,
+              -29.71044
+            ],
+            [
+              17.05616,
+              -29.70995
+            ],
+            [
+              17.05747,
+              -29.7103
+            ],
+            [
+              17.05847,
+              -29.71128
+            ],
+            [
+              17.0594,
+              -29.7133
+            ],
+            [
+              17.05937,
+              -29.71735
+            ],
+            [
+              17.05842,
+              -29.71909
+            ],
+            [
+              17.05814,
+              -29.72053
+            ],
+            [
+              17.05843,
+              -29.72122
+            ],
+            [
+              17.05941,
+              -29.72246
+            ],
+            [
+              17.06024,
+              -29.724
+            ],
+            [
+              17.06013,
+              -29.72729
+            ],
+            [
+              17.06041,
+              -29.72882
+            ],
+            [
+              17.05999,
+              -29.72895
+            ],
+            [
+              17.05979,
+              -29.72922
+            ],
+            [
+              17.05901,
+              -29.73119
+            ],
+            [
+              17.05895,
+              -29.73216
+            ],
+            [
+              17.05912,
+              -29.7338
+            ],
+            [
+              17.05819,
+              -29.73412
+            ],
+            [
+              17.05718,
+              -29.73698
+            ],
+            [
+              17.05723,
+              -29.73725
+            ],
+            [
+              17.058,
+              -29.73829
+            ],
+            [
+              17.05774,
+              -29.73897
+            ],
+            [
+              17.05785,
+              -29.74082
+            ],
+            [
+              17.05749,
+              -29.74285
+            ],
+            [
+              17.05762,
+              -29.7444
+            ],
+            [
+              17.0579,
+              -29.74483
+            ],
+            [
+              17.05895,
+              -29.74483
+            ],
+            [
+              17.05946,
+              -29.74516
+            ],
+            [
+              17.05962,
+              -29.74553
+            ],
+            [
+              17.05961,
+              -29.74686
+            ],
+            [
+              17.05992,
+              -29.74798
+            ],
+            [
+              17.06079,
+              -29.74902
+            ],
+            [
+              17.06077,
+              -29.74926
+            ],
+            [
+              17.05996,
+              -29.75021
+            ],
+            [
+              17.05933,
+              -29.7527
+            ],
+            [
+              17.05924,
+              -29.75424
+            ],
+            [
+              17.05939,
+              -29.75527
+            ],
+            [
+              17.06011,
+              -29.75779
+            ],
+            [
+              17.06144,
+              -29.76041
+            ],
+            [
+              17.06197,
+              -29.76213
+            ],
+            [
+              17.06221,
+              -29.76223
+            ],
+            [
+              17.06284,
+              -29.76196
+            ],
+            [
+              17.06304,
+              -29.76215
+            ],
+            [
+              17.06278,
+              -29.76273
+            ],
+            [
+              17.06278,
+              -29.76319
+            ],
+            [
+              17.06296,
+              -29.76527
+            ],
+            [
+              17.06333,
+              -29.76633
+            ],
+            [
+              17.0636,
+              -29.76666
+            ],
+            [
+              17.06411,
+              -29.7669
+            ],
+            [
+              17.06408,
+              -29.76732
+            ],
+            [
+              17.06438,
+              -29.76744
+            ],
+            [
+              17.06456,
+              -29.76777
+            ],
+            [
+              17.06512,
+              -29.76788
+            ],
+            [
+              17.06609,
+              -29.76874
+            ],
+            [
+              17.06645,
+              -29.76853
+            ],
+            [
+              17.0667,
+              -29.76859
+            ],
+            [
+              17.06767,
+              -29.77006
+            ],
+            [
+              17.069,
+              -29.77129
+            ],
+            [
+              17.06914,
+              -29.77211
+            ],
+            [
+              17.06903,
+              -29.77285
+            ],
+            [
+              17.06849,
+              -29.77336
+            ],
+            [
+              17.06786,
+              -29.7736
+            ],
+            [
+              17.06778,
+              -29.7739
+            ],
+            [
+              17.068,
+              -29.77427
+            ],
+            [
+              17.0691,
+              -29.77503
+            ],
+            [
+              17.06897,
+              -29.77732
+            ],
+            [
+              17.06959,
+              -29.77757
+            ],
+            [
+              17.0702,
+              -29.77751
+            ],
+            [
+              17.07036,
+              -29.77847
+            ],
+            [
+              17.07112,
+              -29.78003
+            ],
+            [
+              17.07161,
+              -29.78148
+            ],
+            [
+              17.07261,
+              -29.7826
+            ],
+            [
+              17.07386,
+              -29.78331
+            ],
+            [
+              17.07393,
+              -29.78386
+            ],
+            [
+              17.07323,
+              -29.78476
+            ],
+            [
+              17.07313,
+              -29.78618
+            ],
+            [
+              17.07325,
+              -29.78702
+            ],
+            [
+              17.07348,
+              -29.7874
+            ],
+            [
+              17.07388,
+              -29.78755
+            ],
+            [
+              17.07413,
+              -29.78754
+            ],
+            [
+              17.07447,
+              -29.78725
+            ],
+            [
+              17.07473,
+              -29.78731
+            ],
+            [
+              17.07495,
+              -29.78909
+            ],
+            [
+              17.07556,
+              -29.78936
+            ],
+            [
+              17.07585,
+              -29.79002
+            ],
+            [
+              17.0769,
+              -29.79049
+            ],
+            [
+              17.07652,
+              -29.79115
+            ],
+            [
+              17.07701,
+              -29.79175
+            ],
+            [
+              17.07706,
+              -29.7924
+            ],
+            [
+              17.07665,
+              -29.79336
+            ],
+            [
+              17.07584,
+              -29.79414
+            ],
+            [
+              17.07516,
+              -29.79536
+            ],
+            [
+              17.0751,
+              -29.79618
+            ],
+            [
+              17.07443,
+              -29.79772
+            ],
+            [
+              17.07439,
+              -29.79857
+            ],
+            [
+              17.07453,
+              -29.79894
+            ],
+            [
+              17.07525,
+              -29.80007
+            ],
+            [
+              17.07642,
+              -29.80005
+            ],
+            [
+              17.07677,
+              -29.80062
+            ],
+            [
+              17.07767,
+              -29.80097
+            ],
+            [
+              17.07777,
+              -29.80171
+            ],
+            [
+              17.07759,
+              -29.80272
+            ],
+            [
+              17.07823,
+              -29.80367
+            ],
+            [
+              17.0788,
+              -29.80403
+            ],
+            [
+              17.07977,
+              -29.80423
+            ],
+            [
+              17.08061,
+              -29.80488
+            ],
+            [
+              17.08061,
+              -29.80512
+            ],
+            [
+              17.0801,
+              -29.80561
+            ],
+            [
+              17.08036,
+              -29.80596
+            ],
+            [
+              17.08014,
+              -29.8063
+            ],
+            [
+              17.08014,
+              -29.80735
+            ],
+            [
+              17.08124,
+              -29.81066
+            ],
+            [
+              17.08114,
+              -29.81125
+            ],
+            [
+              17.08013,
+              -29.81146
+            ],
+            [
+              17.07949,
+              -29.81256
+            ],
+            [
+              17.07909,
+              -29.81214
+            ],
+            [
+              17.07796,
+              -29.8123
+            ],
+            [
+              17.0765,
+              -29.81185
+            ],
+            [
+              17.07479,
+              -29.81227
+            ],
+            [
+              17.07439,
+              -29.81267
+            ],
+            [
+              17.07476,
+              -29.81444
+            ],
+            [
+              17.07559,
+              -29.81475
+            ],
+            [
+              17.07581,
+              -29.81507
+            ],
+            [
+              17.07648,
+              -29.81527
+            ],
+            [
+              17.07689,
+              -29.81576
+            ],
+            [
+              17.07691,
+              -29.81653
+            ],
+            [
+              17.07732,
+              -29.81717
+            ],
+            [
+              17.07714,
+              -29.81949
+            ],
+            [
+              17.0775,
+              -29.82048
+            ],
+            [
+              17.07804,
+              -29.82064
+            ],
+            [
+              17.07844,
+              -29.82029
+            ],
+            [
+              17.07902,
+              -29.82041
+            ],
+            [
+              17.07945,
+              -29.82069
+            ],
+            [
+              17.07943,
+              -29.82211
+            ],
+            [
+              17.07977,
+              -29.82442
+            ],
+            [
+              17.07964,
+              -29.8249
+            ],
+            [
+              17.07999,
+              -29.82619
+            ],
+            [
+              17.08066,
+              -29.82756
+            ],
+            [
+              17.08164,
+              -29.82757
+            ],
+            [
+              17.08201,
+              -29.82786
+            ],
+            [
+              17.08303,
+              -29.82997
+            ],
+            [
+              17.08311,
+              -29.83206
+            ],
+            [
+              17.08336,
+              -29.83275
+            ],
+            [
+              17.08549,
+              -29.83555
+            ],
+            [
+              17.08693,
+              -29.837
+            ],
+            [
+              17.08712,
+              -29.8375
+            ],
+            [
+              17.08733,
+              -29.83932
+            ],
+            [
+              17.08848,
+              -29.83932
+            ],
+            [
+              17.08884,
+              -29.83988
+            ],
+            [
+              17.08894,
+              -29.84055
+            ],
+            [
+              17.08877,
+              -29.8427
+            ],
+            [
+              17.08962,
+              -29.84389
+            ],
+            [
+              17.08983,
+              -29.84455
+            ],
+            [
+              17.08967,
+              -29.84528
+            ],
+            [
+              17.08918,
+              -29.84631
+            ],
+            [
+              17.08917,
+              -29.84689
+            ],
+            [
+              17.08957,
+              -29.84962
+            ],
+            [
+              17.09043,
+              -29.85243
+            ],
+            [
+              17.09123,
+              -29.85346
+            ],
+            [
+              17.09163,
+              -29.85361
+            ],
+            [
+              17.09252,
+              -29.8536
+            ],
+            [
+              17.09278,
+              -29.85377
+            ],
+            [
+              17.09301,
+              -29.85509
+            ],
+            [
+              17.09331,
+              -29.85547
+            ],
+            [
+              17.09431,
+              -29.85595
+            ],
+            [
+              17.09505,
+              -29.85582
+            ],
+            [
+              17.0963,
+              -29.85767
+            ],
+            [
+              17.09669,
+              -29.85783
+            ],
+            [
+              17.09764,
+              -29.85781
+            ],
+            [
+              17.09851,
+              -29.85846
+            ],
+            [
+              17.09906,
+              -29.85911
+            ],
+            [
+              17.09974,
+              -29.86026
+            ],
+            [
+              17.09981,
+              -29.86083
+            ],
+            [
+              17.09945,
+              -29.86173
+            ],
+            [
+              17.1005,
+              -29.86304
+            ],
+            [
+              17.10063,
+              -29.86571
+            ],
+            [
+              17.10134,
+              -29.86732
+            ],
+            [
+              17.10196,
+              -29.86761
+            ],
+            [
+              17.1031,
+              -29.8674
+            ],
+            [
+              17.10425,
+              -29.86745
+            ],
+            [
+              17.10465,
+              -29.86774
+            ],
+            [
+              17.10485,
+              -29.86821
+            ],
+            [
+              17.10538,
+              -29.8683
+            ],
+            [
+              17.10551,
+              -29.86848
+            ],
+            [
+              17.10519,
+              -29.86961
+            ],
+            [
+              17.10536,
+              -29.87048
+            ],
+            [
+              17.10502,
+              -29.87089
+            ],
+            [
+              17.10418,
+              -29.8714
+            ],
+            [
+              17.10326,
+              -29.87274
+            ],
+            [
+              17.10307,
+              -29.87356
+            ],
+            [
+              17.10296,
+              -29.87506
+            ],
+            [
+              17.10303,
+              -29.87522
+            ],
+            [
+              17.10339,
+              -29.87499
+            ],
+            [
+              17.10356,
+              -29.87506
+            ],
+            [
+              17.10341,
+              -29.87566
+            ],
+            [
+              17.10351,
+              -29.87628
+            ],
+            [
+              17.10382,
+              -29.87716
+            ],
+            [
+              17.10422,
+              -29.8777
+            ],
+            [
+              17.10434,
+              -29.87924
+            ],
+            [
+              17.10405,
+              -29.87969
+            ],
+            [
+              17.10338,
+              -29.88001
+            ],
+            [
+              17.10302,
+              -29.88042
+            ],
+            [
+              17.10208,
+              -29.88297
+            ],
+            [
+              17.10136,
+              -29.8843
+            ],
+            [
+              17.10134,
+              -29.88492
+            ],
+            [
+              17.10157,
+              -29.88553
+            ],
+            [
+              17.10192,
+              -29.88575
+            ],
+            [
+              17.10347,
+              -29.88531
+            ],
+            [
+              17.104,
+              -29.88545
+            ],
+            [
+              17.10553,
+              -29.88696
+            ],
+            [
+              17.1069,
+              -29.88769
+            ],
+            [
+              17.10704,
+              -29.88844
+            ],
+            [
+              17.10685,
+              -29.88932
+            ],
+            [
+              17.10686,
+              -29.89039
+            ],
+            [
+              17.10632,
+              -29.89083
+            ],
+            [
+              17.1062,
+              -29.89115
+            ],
+            [
+              17.10623,
+              -29.89164
+            ],
+            [
+              17.10654,
+              -29.89206
+            ],
+            [
+              17.10664,
+              -29.89271
+            ],
+            [
+              17.10702,
+              -29.89347
+            ],
+            [
+              17.10737,
+              -29.89376
+            ],
+            [
+              17.10771,
+              -29.8947
+            ],
+            [
+              17.10904,
+              -29.89516
+            ],
+            [
+              17.1095,
+              -29.89569
+            ],
+            [
+              17.11027,
+              -29.89572
+            ],
+            [
+              17.1104,
+              -29.89618
+            ],
+            [
+              17.11022,
+              -29.89679
+            ],
+            [
+              17.11037,
+              -29.8972
+            ],
+            [
+              17.11067,
+              -29.89749
+            ],
+            [
+              17.11123,
+              -29.89766
+            ],
+            [
+              17.11183,
+              -29.8982
+            ],
+            [
+              17.11143,
+              -29.89988
+            ],
+            [
+              17.11071,
+              -29.90103
+            ],
+            [
+              17.11067,
+              -29.90137
+            ],
+            [
+              17.11175,
+              -29.90361
+            ],
+            [
+              17.11158,
+              -29.90462
+            ],
+            [
+              17.11199,
+              -29.90467
+            ],
+            [
+              17.11201,
+              -29.90581
+            ],
+            [
+              17.11174,
+              -29.90634
+            ],
+            [
+              17.11208,
+              -29.9066
+            ],
+            [
+              17.11211,
+              -29.90681
+            ],
+            [
+              17.11148,
+              -29.90811
+            ],
+            [
+              17.11185,
+              -29.91125
+            ],
+            [
+              17.11226,
+              -29.91164
+            ],
+            [
+              17.11225,
+              -29.9124
+            ],
+            [
+              17.1125,
+              -29.91277
+            ],
+            [
+              17.11255,
+              -29.91451
+            ],
+            [
+              17.11302,
+              -29.91494
+            ],
+            [
+              17.11462,
+              -29.91455
+            ],
+            [
+              17.11525,
+              -29.91457
+            ],
+            [
+              17.11616,
+              -29.91489
+            ],
+            [
+              17.11729,
+              -29.91572
+            ],
+            [
+              17.11717,
+              -29.91683
+            ],
+            [
+              17.11685,
+              -29.91779
+            ],
+            [
+              17.11684,
+              -29.91858
+            ],
+            [
+              17.11604,
+              -29.91979
+            ],
+            [
+              17.11601,
+              -29.92017
+            ],
+            [
+              17.11651,
+              -29.92184
+            ],
+            [
+              17.11724,
+              -29.92212
+            ],
+            [
+              17.11783,
+              -29.92303
+            ],
+            [
+              17.11852,
+              -29.92361
+            ],
+            [
+              17.1186,
+              -29.92432
+            ],
+            [
+              17.11831,
+              -29.92455
+            ],
+            [
+              17.11828,
+              -29.92496
+            ],
+            [
+              17.11857,
+              -29.92575
+            ],
+            [
+              17.1196,
+              -29.92724
+            ],
+            [
+              17.11968,
+              -29.92816
+            ],
+            [
+              17.11907,
+              -29.92853
+            ],
+            [
+              17.11927,
+              -29.92913
+            ],
+            [
+              17.1192,
+              -29.93013
+            ],
+            [
+              17.11942,
+              -29.9304
+            ],
+            [
+              17.11945,
+              -29.93075
+            ],
+            [
+              17.11898,
+              -29.9312
+            ],
+            [
+              17.11819,
+              -29.93152
+            ],
+            [
+              17.11793,
+              -29.93213
+            ],
+            [
+              17.11858,
+              -29.93261
+            ],
+            [
+              17.11853,
+              -29.9331
+            ],
+            [
+              17.11865,
+              -29.93325
+            ],
+            [
+              17.11961,
+              -29.93379
+            ],
+            [
+              17.11993,
+              -29.93439
+            ],
+            [
+              17.1208,
+              -29.93454
+            ],
+            [
+              17.12166,
+              -29.93422
+            ],
+            [
+              17.12285,
+              -29.9345
+            ],
+            [
+              17.12377,
+              -29.93439
+            ],
+            [
+              17.12458,
+              -29.93501
+            ],
+            [
+              17.12495,
+              -29.93559
+            ],
+            [
+              17.12554,
+              -29.93571
+            ],
+            [
+              17.12618,
+              -29.93664
+            ],
+            [
+              17.12715,
+              -29.9376
+            ],
+            [
+              17.1273,
+              -29.93848
+            ],
+            [
+              17.12807,
+              -29.93865
+            ],
+            [
+              17.1281,
+              -29.93922
+            ],
+            [
+              17.1286,
+              -29.93979
+            ],
+            [
+              17.12861,
+              -29.94077
+            ],
+            [
+              17.12763,
+              -29.94166
+            ],
+            [
+              17.12747,
+              -29.94203
+            ],
+            [
+              17.1279,
+              -29.94273
+            ],
+            [
+              17.12829,
+              -29.94295
+            ],
+            [
+              17.1289,
+              -29.94376
+            ],
+            [
+              17.12966,
+              -29.94443
+            ],
+            [
+              17.13009,
+              -29.94457
+            ],
+            [
+              17.13078,
+              -29.94424
+            ],
+            [
+              17.13156,
+              -29.94429
+            ],
+            [
+              17.13321,
+              -29.94552
+            ],
+            [
+              17.13432,
+              -29.9459
+            ],
+            [
+              17.13469,
+              -29.9462
+            ],
+            [
+              17.13531,
+              -29.94744
+            ],
+            [
+              17.13641,
+              -29.94838
+            ],
+            [
+              17.13671,
+              -29.94965
+            ],
+            [
+              17.1375,
+              -29.95002
+            ],
+            [
+              17.1382,
+              -29.9507
+            ],
+            [
+              17.1391,
+              -29.95244
+            ],
+            [
+              17.1423,
+              -29.95618
+            ],
+            [
+              17.14276,
+              -29.95768
+            ],
+            [
+              17.14243,
+              -29.95888
+            ],
+            [
+              17.14339,
+              -29.96001
+            ],
+            [
+              17.1435,
+              -29.96085
+            ],
+            [
+              17.14443,
+              -29.96225
+            ],
+            [
+              17.14463,
+              -29.9628
+            ],
+            [
+              17.14655,
+              -29.9634
+            ],
+            [
+              17.14702,
+              -29.96378
+            ],
+            [
+              17.14709,
+              -29.96419
+            ],
+            [
+              17.14681,
+              -29.96451
+            ],
+            [
+              17.14676,
+              -29.96491
+            ],
+            [
+              17.14692,
+              -29.96624
+            ],
+            [
+              17.14708,
+              -29.96651
+            ],
+            [
+              17.14781,
+              -29.96637
+            ],
+            [
+              17.14824,
+              -29.96657
+            ],
+            [
+              17.14792,
+              -29.96669
+            ],
+            [
+              17.14789,
+              -29.96696
+            ],
+            [
+              17.14821,
+              -29.96713
+            ],
+            [
+              17.14837,
+              -29.96744
+            ],
+            [
+              17.1476,
+              -29.96798
+            ],
+            [
+              17.14761,
+              -29.96838
+            ],
+            [
+              17.14786,
+              -29.96896
+            ],
+            [
+              17.14833,
+              -29.96934
+            ],
+            [
+              17.14826,
+              -29.96956
+            ],
+            [
+              17.14842,
+              -29.96986
+            ],
+            [
+              17.14915,
+              -29.9703
+            ],
+            [
+              17.1496,
+              -29.97025
+            ],
+            [
+              17.14991,
+              -29.97043
+            ],
+            [
+              17.15053,
+              -29.97048
+            ],
+            [
+              17.15085,
+              -29.97102
+            ],
+            [
+              17.15154,
+              -29.97141
+            ],
+            [
+              17.15215,
+              -29.97256
+            ],
+            [
+              17.15251,
+              -29.97248
+            ],
+            [
+              17.15274,
+              -29.97303
+            ],
+            [
+              17.15253,
+              -29.97363
+            ],
+            [
+              17.1528,
+              -29.97379
+            ],
+            [
+              17.15274,
+              -29.97409
+            ],
+            [
+              17.15359,
+              -29.97411
+            ],
+            [
+              17.15365,
+              -29.97446
+            ],
+            [
+              17.15423,
+              -29.97526
+            ],
+            [
+              17.15486,
+              -29.97548
+            ],
+            [
+              17.15517,
+              -29.97592
+            ],
+            [
+              17.1548,
+              -29.97655
+            ],
+            [
+              17.15485,
+              -29.97681
+            ],
+            [
+              17.1557,
+              -29.977
+            ],
+            [
+              17.15656,
+              -29.97836
+            ],
+            [
+              17.15662,
+              -29.97869
+            ],
+            [
+              17.15624,
+              -29.97901
+            ],
+            [
+              17.15613,
+              -29.97932
+            ],
+            [
+              17.15643,
+              -29.98039
+            ],
+            [
+              17.15695,
+              -29.98082
+            ],
+            [
+              17.15768,
+              -29.98191
+            ],
+            [
+              17.1585,
+              -29.98221
+            ],
+            [
+              17.15872,
+              -29.98258
+            ],
+            [
+              17.15956,
+              -29.98482
+            ],
+            [
+              17.15956,
+              -29.985
+            ],
+            [
+              17.15909,
+              -29.98528
+            ],
+            [
+              17.15906,
+              -29.98549
+            ],
+            [
+              17.15951,
+              -29.98564
+            ],
+            [
+              17.15945,
+              -29.98616
+            ],
+            [
+              17.16003,
+              -29.98647
+            ],
+            [
+              17.16014,
+              -29.9871
+            ],
+            [
+              17.15999,
+              -29.9877
+            ],
+            [
+              17.15899,
+              -29.98832
+            ],
+            [
+              17.15895,
+              -29.98855
+            ],
+            [
+              17.15929,
+              -29.98896
+            ],
+            [
+              17.16,
+              -29.98939
+            ],
+            [
+              17.16011,
+              -29.98977
+            ],
+            [
+              17.15797,
+              -29.99122
+            ],
+            [
+              17.15792,
+              -29.99152
+            ],
+            [
+              17.15833,
+              -29.99218
+            ],
+            [
+              17.15809,
+              -29.9927
+            ],
+            [
+              17.15753,
+              -29.99287
+            ],
+            [
+              17.15723,
+              -29.99423
+            ],
+            [
+              17.15741,
+              -29.99459
+            ],
+            [
+              17.15856,
+              -29.9957
+            ],
+            [
+              17.15912,
+              -29.99736
+            ],
+            [
+              17.15998,
+              -29.99809
+            ],
+            [
+              17.1611,
+              -29.99992
+            ],
+            [
+              17.161110256410257,
+              -30
+            ],
+            [
+              18,
+              -30
+            ],
+            [
+              18,
+              -29
+            ],
+            [
+              17,
+              -29
+            ],
+            [
+              17,
+              -29.541455714285714
+            ],
+            [
+              17.00079,
+              -29.54202
+            ],
+            [
+              17.00115,
+              -29.54338
+            ],
+            [
+              17.0009,
+              -29.5434
+            ],
+            [
+              17.00088,
+              -29.54366
+            ],
+            [
+              17.00118,
+              -29.54485
+            ],
+            [
+              17.00197,
+              -29.54522
+            ],
+            [
+              17.00236,
+              -29.54499
+            ],
+            [
+              17.00262,
+              -29.54511
+            ],
+            [
+              17.00285,
+              -29.54598
+            ],
+            [
+              17.00256,
+              -29.54606
+            ],
+            [
+              17.00259,
+              -29.54649
+            ],
+            [
+              17.00394,
+              -29.54783
+            ],
+            [
+              17.00379,
+              -29.54926
+            ],
+            [
+              17.00339,
+              -29.54964
+            ],
+            [
+              17.00398,
+              -29.5504
+            ],
+            [
+              17.00392,
+              -29.55069
+            ],
+            [
+              17.00358,
+              -29.55093
+            ],
+            [
+              17.00361,
+              -29.55115
+            ],
+            [
+              17.00502,
+              -29.55194
+            ],
+            [
+              17.00564,
+              -29.55258
+            ],
+            [
+              17.00629,
+              -29.55415
+            ],
+            [
+              17.00629,
+              -29.55437
+            ],
+            [
+              17.00568,
+              -29.55507
+            ],
+            [
+              17.00552,
+              -29.5562
+            ],
+            [
+              17.00571,
+              -29.55729
+            ],
+            [
+              17.0065,
+              -29.55836
+            ],
+            [
+              17.00683,
+              -29.56056
+            ],
+            [
+              17.0067,
+              -29.56207
+            ],
+            [
+              17.00697,
+              -29.563
+            ],
+            [
+              17.00691,
+              -29.56361
+            ],
+            [
+              17.00617,
+              -29.56416
+            ],
+            [
+              17.00462,
+              -29.5643
+            ],
+            [
+              17.0039,
+              -29.56463
+            ],
+            [
+              17.00364,
+              -29.56498
+            ],
+            [
+              17.00364,
+              -29.56562
+            ],
+            [
+              17.00319,
+              -29.56689
+            ],
+            [
+              17.00283,
+              -29.56721
+            ],
+            [
+              17.00244,
+              -29.56725
+            ],
+            [
+              17.00206,
+              -29.56668
+            ],
+            [
+              17.00148,
+              -29.56702
+            ],
+            [
+              17.00148,
+              -29.56774
+            ],
+            [
+              17.00195,
+              -29.56888
+            ],
+            [
+              17.00171,
+              -29.56922
+            ],
+            [
+              17.00124,
+              -29.56914
+            ],
+            [
+              17.00067,
+              -29.56838
+            ],
+            [
+              17.00034,
+              -29.56822
+            ],
+            [
+              17,
+              -29.56831822222222
+            ],
+            [
+              17,
+              -29.573556875
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

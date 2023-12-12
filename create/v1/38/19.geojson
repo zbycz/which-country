@@ -1,0 +1,502 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192789,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Sudan",
+        "local_name": "السودان",
+        "name_en": "Sudan",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+          "name": "السودان",
+          "name:af": "Soedan",
+          "name:ak": "Sudan",
+          "name:am": "ሱዳን",
+          "name:an": "Sudán",
+          "name:ar": "السودان",
+          "name:az": "Sudan",
+          "name:ba": "Судан",
+          "name:be": "Судан",
+          "name:bg": "Судан",
+          "name:bm": "Sudan",
+          "name:bn": "সুদান",
+          "name:bo": "སུའུ་ཏན།",
+          "name:br": "Soudan",
+          "name:bs": "Sudan",
+          "name:ca": "Sudan",
+          "name:ce": "Судан",
+          "name:cs": "Súdán",
+          "name:cv": "Судан",
+          "name:cy": "Sudan",
+          "name:da": "Sudan",
+          "name:de": "Sudan",
+          "name:dv": "ސޫދާން",
+          "name:ee": "Sudan",
+          "name:el": "Σουδάν",
+          "name:en": "Sudan",
+          "name:eo": "Sudano",
+          "name:es": "Sudán",
+          "name:et": "Sudaan",
+          "name:eu": "Sudan",
+          "name:fa": "سودان",
+          "name:fi": "Sudan",
+          "name:fo": "Sudan",
+          "name:fr": "Soudan",
+          "name:fy": "Sûdan",
+          "name:ga": "An tSúdáin",
+          "name:gd": "Sudan",
+          "name:gl": "Sudán",
+          "name:gn": "Sudano",
+          "name:gu": "સુદાન",
+          "name:gv": "Yn Toodaan",
+          "name:ha": "Sudan",
+          "name:he": "סודאן",
+          "name:hi": "सूडान",
+          "name:hr": "Sudan",
+          "name:ht": "Soudan",
+          "name:hu": "Szudán",
+          "name:hy": "Սուդան",
+          "name:ia": "Sudan",
+          "name:id": "Sudan",
+          "name:ie": "Sudan",
+          "name:ig": "Sudan",
+          "name:io": "Sudan",
+          "name:is": "Súdan",
+          "name:it": "Sudan",
+          "name:ja": "スーダン",
+          "name:jv": "Sudan",
+          "name:ka": "სუდანი",
+          "name:kg": "Sudan",
+          "name:ki": "Sũdana",
+          "name:kk": "Судан",
+          "name:kn": "ಸುಡಾನ್",
+          "name:ko": "수단",
+          "name:ku": "Sûdan",
+          "name:kw": "Soudan",
+          "name:ky": "Судан",
+          "name:la": "Sudania",
+          "name:lb": "Sudan",
+          "name:li": "Soedan",
+          "name:ln": "Sudani",
+          "name:lt": "Sudanas",
+          "name:lv": "Sudāna",
+          "name:mi": "Hūtāne",
+          "name:mk": "Судан",
+          "name:ml": "സുഡാൻ",
+          "name:mn": "Судан",
+          "name:mr": "सुदान",
+          "name:ms": "Sudan",
+          "name:mt": "Sudan",
+          "name:my": "ဆူဒန်နိုင်ငံ",
+          "name:na": "Tudan",
+          "name:nl": "Soedan",
+          "name:nn": "Sudan",
+          "name:no": "Sudan",
+          "name:nv": "Soodą́ą",
+          "name:ny": "Sudan",
+          "name:oc": "Sodan",
+          "name:om": "Sudaan",
+          "name:or": "ସୁଦାନ",
+          "name:os": "Судан",
+          "name:pa": "ਸੁਡਾਨ",
+          "name:pl": "Sudan",
+          "name:ps": "سوډان",
+          "name:pt": "Sudão",
+          "name:qu": "Sudan",
+          "name:rm": "Sudan",
+          "name:ro": "Sudan",
+          "name:ru": "Судан",
+          "name:rw": "Sudani",
+          "name:sa": "सूडान",
+          "name:sc": "Sudan",
+          "name:sd": "سوڊان",
+          "name:se": "Sudan",
+          "name:sg": "Sudäan",
+          "name:sh": "Sudan",
+          "name:sk": "Sudán",
+          "name:sl": "Sudan",
+          "name:sm": "Sudan",
+          "name:sn": "Sudan",
+          "name:so": "Suudaan",
+          "name:sq": "Sudani",
+          "name:sr": "Судан",
+          "name:ss": "ISudani",
+          "name:su": "Sudan",
+          "name:sv": "Sudan",
+          "name:sw": "Sudan",
+          "name:ta": "சூடான்",
+          "name:te": "సూడాన్",
+          "name:tg": "Судон",
+          "name:th": "ประเทศซูดาน",
+          "name:ti": "ሱዳን",
+          "name:tk": "Sudan",
+          "name:tl": "Sudan",
+          "name:tr": "Sudan",
+          "name:ts": "Sudan",
+          "name:tt": "Судан",
+          "name:ug": "سۇدان",
+          "name:uk": "Судан",
+          "name:ur": "سوڈان",
+          "name:uz": "Sudan",
+          "name:vi": "Sudan",
+          "name:vo": "Sudän",
+          "name:wo": "Sudaan",
+          "name:yi": "סודאן",
+          "name:yo": "Sudan",
+          "name:zh": "苏丹 / 蘇丹",
+          "boundary": "administrative",
+          "name:ace": "Sudan",
+          "name:als": "Sudan",
+          "name:ang": "Sudan",
+          "name:arc": "ܣܘܕܐܢ",
+          "name:arz": "السودان",
+          "name:ast": "Sudán",
+          "name:azb": "سودان",
+          "name:bar": "Sudan",
+          "name:bcl": "Sudan",
+          "name:ber": "ⵙⵓⴷⴰⵏ",
+          "name:bjn": "Sudan",
+          "name:bpy": "সুদান",
+          "name:bxr": "Судан",
+          "name:ceb": "Sudan",
+          "name:ckb": "سوودان",
+          "name:crh": "Sudan",
+          "name:din": "Thudän",
+          "name:diq": "Sudan",
+          "name:dsb": "Sudan",
+          "name:ext": "Sudán",
+          "name:frp": "Sodan",
+          "name:gag": "Sudan",
+          "name:hif": "Sudan",
+          "name:hsb": "Sudan",
+          "name:ilo": "Sudan",
+          "name:jbo": "sudan",
+          "name:kaa": "Sudan",
+          "name:kab": "Sudan",
+          "name:kbd": "Судан",
+          "name:kmr": "سوودان",
+          "name:lez": "Судан",
+          "name:lij": "Sudan",
+          "name:lmo": "Sudan",
+          "name:lzh": "蘇丹",
+          "name:mrj": "Судан",
+          "name:mzn": "سودان",
+          "name:nah": "Sudan",
+          "name:nan": "Sudan",
+          "name:nds": "Sudan",
+          "name:new": "सुदान",
+          "name:nov": "Sudan",
+          "name:nso": "Sudan",
+          "name:ota": "سودان",
+          "name:pam": "Sudan",
+          "name:pap": "Sudan",
+          "name:pih": "Sudan",
+          "name:pms": "Sudan",
+          "name:pnb": "سوڈان",
+          "name:rue": "Судан",
+          "name:sah": "Судан",
+          "name:scn": "Sudan",
+          "name:sco": "Sudan",
+          "name:smn": "Sudan",
+          "name:sms": "Sudaan",
+          "name:stq": "Sudan",
+          "name:szl": "Sudan",
+          "name:tzl": "Sudan",
+          "name:vec": "Sudan",
+          "name:vro": "Sudaan",
+          "name:war": "Sudan",
+          "name:wuu": "苏丹",
+          "name:xal": "Суданмудин Орн",
+          "name:yue": "蘇丹",
+          "name:zgh": "ⵙⵓⴷⴰⵏ",
+          "timezone": "Africa/Khartoum",
+          "way_area": "158.862",
+          "wikidata": "Q1049",
+          "ISO3166-1": "SD",
+          "wikipedia": "ar:السودان",
+          "admin_level": "2",
+          "alt_name:vi": "Xu-đăng",
+          "name:simple": "Sudan",
+          "name:bat-smg": "Sudans",
+          "name:kk-Arab": "سۋدان",
+          "name:ku-Arab": "سوودان",
+          "name:zh-Hans": "苏丹",
+          "name:zh-Hant": "蘇丹",
+          "name:kab-Arab": "سودان",
+          "name:roa-tara": "Sudan",
+          "official_name": "جمهورية السودان",
+          "name:be-tarask": "Судан",
+          "ISO3166-1:alpha2": "SD",
+          "ISO3166-1:alpha3": "SDN",
+          "default_language": "ar",
+          "official_name:ar": "جمهورية السودان",
+          "official_name:cs": "Súdánská republika",
+          "official_name:fa": "جمهوری سودان",
+          "official_name:ur": "جمہوریہ سوڈان",
+          "official_name:vi": "Cộng hòa Sudan",
+          "official_name:zh": "苏丹共和国 / 蘇丹共和國",
+          "ISO3166-1:numeric": "729",
+          "official_name:azb": "سودان جومهوریتی",
+          "official_name:zh-Hans": "苏丹共和国",
+          "official_name:zh-Hant": "蘇丹共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              38,
+              19
+            ],
+            [
+              38.88098308360694,
+              19
+            ],
+            [
+              38.8805272,
+              19.0003569
+            ],
+            [
+              38.8514848,
+              19.0165065
+            ],
+            [
+              38.8280712,
+              19.0257532
+            ],
+            [
+              38.8099852,
+              19.0309464
+            ],
+            [
+              38.7914795,
+              19.0345881
+            ],
+            [
+              38.7793127,
+              19.0361072
+            ],
+            [
+              38.7708093,
+              19.036776
+            ],
+            [
+              38.7521604,
+              19.0365315
+            ],
+            [
+              38.7425435,
+              19.0463488
+            ],
+            [
+              38.7242992,
+              19.0611644
+            ],
+            [
+              38.704388,
+              19.0739212
+            ],
+            [
+              38.6788568,
+              19.0864199
+            ],
+            [
+              38.6570952,
+              19.0941152
+            ],
+            [
+              38.6326862,
+              19.0999923
+            ],
+            [
+              38.6077093,
+              19.1030792
+            ],
+            [
+              38.5825208,
+              19.1033318
+            ],
+            [
+              38.5574802,
+              19.1007465
+            ],
+            [
+              38.5327353,
+              19.0954899
+            ],
+            [
+              38.5103538,
+              19.0880741
+            ],
+            [
+              38.4951734,
+              19.0814429
+            ],
+            [
+              38.4701236,
+              19.0673297
+            ],
+            [
+              38.4509909,
+              19.0528288
+            ],
+            [
+              38.4463765,
+              19.0584059
+            ],
+            [
+              38.4333285,
+              19.0715371
+            ],
+            [
+              38.4221135,
+              19.0809543
+            ],
+            [
+              38.4189218,
+              19.099369
+            ],
+            [
+              38.4141664,
+              19.1166406
+            ],
+            [
+              38.402989,
+              19.1441406
+            ],
+            [
+              38.3938794,
+              19.159367
+            ],
+            [
+              38.3975951,
+              19.170265
+            ],
+            [
+              38.4020726,
+              19.1945812
+            ],
+            [
+              38.4033982,
+              19.2239329
+            ],
+            [
+              38.4014998,
+              19.2454274
+            ],
+            [
+              38.3971555,
+              19.2666029
+            ],
+            [
+              38.3904152,
+              19.2872122
+            ],
+            [
+              38.3813568,
+              19.3070145
+            ],
+            [
+              38.371205,
+              19.3242634
+            ],
+            [
+              38.3518089,
+              19.3491665
+            ],
+            [
+              38.3285658,
+              19.3709438
+            ],
+            [
+              38.3020326,
+              19.3890721
+            ],
+            [
+              38.2728462,
+              19.4031158
+            ],
+            [
+              38.2417075,
+              19.4127371
+            ],
+            [
+              38.215982,
+              19.4170812
+            ],
+            [
+              38.1875885,
+              19.4187704
+            ],
+            [
+              38.1704192,
+              19.4181537
+            ],
+            [
+              38.1533597,
+              19.4162242
+            ],
+            [
+              38.136523,
+              19.4129947
+            ],
+            [
+              38.1231042,
+              19.4093289
+            ],
+            [
+              38.1211154,
+              19.4250316
+            ],
+            [
+              38.1171635,
+              19.4370951
+            ],
+            [
+              38.1156273,
+              19.444275
+            ],
+            [
+              38.1128259,
+              19.4503357
+            ],
+            [
+              38.1088645,
+              19.4624283
+            ],
+            [
+              38.0977432,
+              19.4829667
+            ],
+            [
+              38.0891035,
+              19.4968505
+            ],
+            [
+              38.062589,
+              19.526973
+            ],
+            [
+              38.0303388,
+              19.5516353
+            ],
+            [
+              38,
+              19.56670479539257
+            ],
+            [
+              38,
+              19
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

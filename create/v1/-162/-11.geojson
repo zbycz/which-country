@@ -1,0 +1,633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2184233,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cook Islands",
+        "local_name": "Kūki ʻĀirani",
+        "name_en": "Cook Islands",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
+          "name": "Kūki ʻĀirani",
+          "name:af": "Cookeilande",
+          "name:ak": "Kook Nsupɔw",
+          "name:am": "ኩክ ደሴቶች",
+          "name:an": "islas Cook",
+          "name:ar": "جزر كوك",
+          "name:az": "Kuk adaları",
+          "name:ba": "Кук Утрауҙары",
+          "name:be": "Астравы Кука",
+          "name:bg": "Острови Кук",
+          "name:bm": "Kuki Gun",
+          "name:bn": "কুক দ্বীপপুঞ্জ",
+          "name:bo": "ཀཱུག གླིང་ཕྲེན་རྒྱལ་ཁབ།",
+          "name:br": "Inizi Cook",
+          "name:bs": "Cookova Ostrva",
+          "name:ca": "Illes Cook",
+          "name:cs": "Cookovy ostrovy",
+          "name:cy": "Ynysoedd Cook",
+          "name:da": "Cook-øerne",
+          "name:de": "Cookinseln",
+          "name:dv": "ކުކް ޖަޒީރާ",
+          "name:dz": "ཀུག་གླིང་ཚོམ",
+          "name:ee": "Kook ƒudomekpo nutome",
+          "name:el": "Νήσοι Κουκ",
+          "name:en": "Cook Islands",
+          "name:eo": "Kukinsuloj",
+          "name:es": "Islas Cook",
+          "name:et": "Cooki saared",
+          "name:eu": "Cook uharteak",
+          "name:fa": "جزایر کوک",
+          "name:ff": "Duuɗe Kuuk",
+          "name:fi": "Cookinsaaret",
+          "name:fo": "Cooksoyggjarnar",
+          "name:fr": "Îles Cook",
+          "name:fy": "de Cookeilannen",
+          "name:ga": "Oileáin Cook",
+          "name:gd": "Eileanan Cook",
+          "name:gl": "Illas Cook",
+          "name:gu": "કુક આઇલેન્ડ્સ",
+          "name:ha": "Tsibiran Kuku",
+          "name:he": "איי קוּק",
+          "name:hi": "कुक द्वीपसमूह",
+          "name:hr": "Cookovo Otočje",
+          "name:hu": "Cook-szigetek",
+          "name:hy": "Կուկի կղզիներ",
+          "name:ia": "Insulas Cook",
+          "name:id": "Kepulauan Cook",
+          "name:io": "Insuli Cook",
+          "name:is": "Cooks-eyjar",
+          "name:it": "Isole Cook",
+          "name:ja": "クック諸島",
+          "name:jv": "Kapuloan Cook",
+          "name:ka": "კუკის კუნძულები",
+          "name:ki": "Visiwa vya Cook",
+          "name:kk": "Кук аралдары",
+          "name:kl": "Cook qeqertaq",
+          "name:km": "កោះ​ខូក",
+          "name:kn": "ಕುಕ್ ದ್ವೀಪಗಳು",
+          "name:ko": "쿡 제도",
+          "name:ks": "کُک جٔزیٖرٕ",
+          "name:ku": "Giravên Cook",
+          "name:kw": "Ynysow Cook",
+          "name:ky": "Кук аралдары",
+          "name:la": "Insulae Cookenses",
+          "name:lb": "Cookinseln",
+          "name:lg": "Bizinga bya Kkuki",
+          "name:li": "Cookeilenj",
+          "name:ln": "Bisanga bya Kookɛ",
+          "name:lo": "ຫມູ່ເກາະຄຸກ",
+          "name:lt": "Kuko Salos",
+          "name:lv": "Kuka Salas",
+          "name:mg": "Nosy Kook",
+          "name:mi": "Kuki Airani",
+          "name:mk": "Кукови Острови",
+          "name:ml": "കൂക്ക് ദ്വീപുകൾ",
+          "name:mn": "Күүкийн Арлууд",
+          "name:mr": "कूक द्वीपसमूह",
+          "name:ms": "Kepulauan Cook",
+          "name:mt": "Gżejjer Cook",
+          "name:my": "ကွတ် ကျွန်းစု",
+          "name:ne": "कुक टापु",
+          "name:nl": "Cookeilanden",
+          "name:nn": "Cookøyane",
+          "name:no": "Cookøyene",
+          "name:oc": "Illas Cook",
+          "name:or": "କୁକ୍ ଆଇସଲ୍ୟାଣ୍ଡ",
+          "name:os": "Кучы сакъадæхтæ",
+          "name:pa": "ਕੁੱਕ ਟਾਪੂ",
+          "name:pl": "Wyspy Cooka",
+          "name:pt": "Ilhas Cook",
+          "name:rm": "Inslas Cook",
+          "name:rn": "Izinga rya Kuku",
+          "name:ro": "Insulele Cook",
+          "name:ru": "Острова Кука",
+          "name:rw": "Ibirwa bya Kuke",
+          "name:se": "Cook-sullot",
+          "name:sg": "âzûâ Kûku",
+          "name:sh": "Kukova Ostrva",
+          "name:si": "කුක් දිවයින්",
+          "name:sk": "Cookove ostrovy",
+          "name:sl": "Cookovi otoki",
+          "name:sn": "Zvitsuwa zveCook",
+          "name:so": "Jaziiradda Cook",
+          "name:sq": "Ishulli Kuk",
+          "name:sr": "Кукова Острва",
+          "name:su": "Kapuloan Cook",
+          "name:sv": "Cooköarna",
+          "name:sw": "Visiwa vya Cook",
+          "name:ta": "குக் தீவுகள்",
+          "name:te": "కుక్ దీవులు",
+          "name:th": "หมู่เกาะคุก",
+          "name:ti": "ኩክ ደሴቶች",
+          "name:tl": "Kapuluang Cook",
+          "name:to": "ʻOtumotu Kuki",
+          "name:tr": "Cook Adaları",
+          "name:tt": "Кук утраулары",
+          "name:ug": "Kuk Taqim Aralliri",
+          "name:uk": "Острови́ Ку́ка",
+          "name:ur": "جزائر کک",
+          "name:uz": "Kuk orollari",
+          "name:vi": "Quần đảo Cook",
+          "name:wo": "Dunu Kook",
+          "name:yo": "Orílẹ́ède Etíokun Kùúkù",
+          "name:zh": "库克群岛 / 庫克群島",
+          "name:zu": "i-Cook Islands",
+          "boundary": "administrative",
+          "int_name": "Cook Islands",
+          "maritime": "yes",
+          "name:ace": "Pulo-pulo Cook",
+          "name:als": "Cookinsle",
+          "name:ang": "Cōcīega",
+          "name:arz": "جزر كوك",
+          "name:ast": "Islles Cook",
+          "name:azb": "کوک آدالاری",
+          "name:bpy": "কোক দ্বীপমালা",
+          "name:ceb": "Cook Islands",
+          "name:chr": "ᎠᏓᏍᏓᏴᎲᏍᎩ ᎤᎦᏚᏛ",
+          "name:crh": "Kuk Adaları",
+          "name:dsb": "Cookowe kupy",
+          "name:ext": "Islas Cook",
+          "name:frp": "Iles Cook",
+          "name:fur": "Isulis Cook",
+          "name:gag": "Cook Adaları",
+          "name:hak": "Khù-khiet Khiùn-tó",
+          "name:hif": "Cook Islands",
+          "name:hsb": "Cookowe kupy",
+          "name:kaa": "Kuk atawları",
+          "name:kab": "Tigzirin n Kuk",
+          "name:ksh": "de Kuuk-Enselle",
+          "name:lij": "Isoe Cook",
+          "name:mrj": "Кук ошмаотывлӓ",
+          "name:mzn": "کوک جزایر",
+          "name:nan": "Cook Kûn-tó",
+          "name:new": "कूक टापु",
+          "name:rar": "Kūki ʻĀirani",
+          "name:scn": "Ìsuli Cook",
+          "name:sco": "Cook Islands",
+          "name:szl": "Wyspy Cooka",
+          "name:vec": "Ìxołe Cuc",
+          "name:vro": "Cooki saarõq",
+          "name:war": "Kapuropod-an Cook",
+          "name:yue": "曲克群島",
+          "timezone": "Pacific/Rarotonga",
+          "way_area": "2.74068",
+          "wikidata": "Q26988",
+          "ISO3166-1": "CK",
+          "wikipedia": "en:Cook Islands",
+          "population": "18600",
+          "admin_level": "2",
+          "alt_name:el": "Νησιά Κουκ",
+          "alt_name:eo": "Kuk-Insularo;Insularo Cook",
+          "alt_name:hu": "Cook szigetcsoport",
+          "alt_name:is": "Cookseyjar",
+          "alt_name:mr": "कुक बेटे",
+          "alt_name:sh": "Cookovi Otoci",
+          "alt_name:sl": "Cookovo otočje",
+          "alt_name:ur": "کک آئلینڈز",
+          "alt_name:yo": "Àwọn Erékùṣù Cook",
+          "alt_name:zh": "库克群岛",
+          "geonames:id": "1899402",
+          "capital_city": "Avarua",
+          "name:zh-Hans": "库克群岛",
+          "name:zh-Hant": "庫克群島",
+          "name:be-tarask": "Астравы Кука",
+          "ISO3166-1:alpha2": "CK",
+          "ISO3166-1:alpha3": "COK",
+          "default_language": "en",
+          "ISO3166-1:numeric": "184",
+          "country_code_fips": "CW",
+          "country_code_iso3166_1_alpha_2": "CK"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -161.308243,
+              -10.032722
+            ],
+            [
+              -161.3080381,
+              -10.0420703
+            ],
+            [
+              -161.3073945,
+              -10.0513991
+            ],
+            [
+              -161.3067223,
+              -10.0575974
+            ],
+            [
+              -161.3053509,
+              -10.0668486
+            ],
+            [
+              -161.3035465,
+              -10.0760266
+            ],
+            [
+              -161.3021049,
+              -10.0820947
+            ],
+            [
+              -161.2994399,
+              -10.0916442
+            ],
+            [
+              -161.2967627,
+              -10.0998263
+            ],
+            [
+              -161.2946272,
+              -10.1057934
+            ],
+            [
+              -161.2910706,
+              -10.1146115
+            ],
+            [
+              -161.2884675,
+              -10.1203935
+            ],
+            [
+              -161.284221,
+              -10.1289068
+            ],
+            [
+              -161.279573,
+              -10.1372117
+            ],
+            [
+              -161.2745338,
+              -10.1452896
+            ],
+            [
+              -161.2709625,
+              -10.1505398
+            ],
+            [
+              -161.2652966,
+              -10.1581995
+            ],
+            [
+              -161.2592714,
+              -10.1655852
+            ],
+            [
+              -161.2550615,
+              -10.1703486
+            ],
+            [
+              -161.2484677,
+              -10.1772414
+            ],
+            [
+              -161.2438921,
+              -10.1816616
+            ],
+            [
+              -161.239178,
+              -10.1859367
+            ],
+            [
+              -161.2318574,
+              -10.192068
+            ],
+            [
+              -161.2242523,
+              -10.1978495
+            ],
+            [
+              -161.2178998,
+              -10.2022953
+            ],
+            [
+              -161.2097753,
+              -10.2075143
+            ],
+            [
+              -161.204223,
+              -10.2107775
+            ],
+            [
+              -161.1985686,
+              -10.2138638
+            ],
+            [
+              -161.1899079,
+              -10.218155
+            ],
+            [
+              -161.18105,
+              -10.2220315
+            ],
+            [
+              -161.1727154,
+              -10.225297
+            ],
+            [
+              -161.1643525,
+              -10.2282247
+            ],
+            [
+              -161.1570619,
+              -10.2304582
+            ],
+            [
+              -161.1641137,
+              -10.2379567
+            ],
+            [
+              -161.1702879,
+              -10.2452112
+            ],
+            [
+              -161.1761096,
+              -10.2527463
+            ],
+            [
+              -161.1815658,
+              -10.2605452
+            ],
+            [
+              -161.1866444,
+              -10.2685904
+            ],
+            [
+              -161.1900091,
+              -10.274438
+            ],
+            [
+              -161.1987607,
+              -10.287568
+            ],
+            [
+              -161.2020638,
+              -10.2928928
+            ],
+            [
+              -161.2067011,
+              -10.3010644
+            ],
+            [
+              -161.2122763,
+              -10.3122759
+            ],
+            [
+              -161.217423,
+              -10.3235645
+            ],
+            [
+              -161.2212513,
+              -10.332769
+            ],
+            [
+              -161.2258823,
+              -10.3457773
+            ],
+            [
+              -161.228721,
+              -10.3551134
+            ],
+            [
+              -161.231099,
+              -10.3645749
+            ],
+            [
+              -161.2337329,
+              -10.3770671
+            ],
+            [
+              -161.2355165,
+              -10.3836472
+            ],
+            [
+              -161.2376371,
+              -10.3929927
+            ],
+            [
+              -161.2393053,
+              -10.4024276
+            ],
+            [
+              -161.2405174,
+              -10.4119306
+            ],
+            [
+              -161.2414758,
+              -10.4229967
+            ],
+            [
+              -161.2419246,
+              -10.433259
+            ],
+            [
+              -161.2418215,
+              -10.4458506
+            ],
+            [
+              -161.2412334,
+              -10.4560932
+            ],
+            [
+              -161.2398572,
+              -10.4681748
+            ],
+            [
+              -161.2383416,
+              -10.4771698
+            ],
+            [
+              -161.2371027,
+              -10.4831246
+            ],
+            [
+              -161.2352713,
+              -10.4907437
+            ],
+            [
+              -161.232707,
+              -10.4998257
+            ],
+            [
+              -161.2297148,
+              -10.5087785
+            ],
+            [
+              -161.2250708,
+              -10.5204807
+            ],
+            [
+              -161.2211069,
+              -10.5290561
+            ],
+            [
+              -161.2167405,
+              -10.5374378
+            ],
+            [
+              -161.2103091,
+              -10.5482806
+            ],
+            [
+              -161.2050422,
+              -10.5561396
+            ],
+            [
+              -161.1985708,
+              -10.5649184
+            ],
+            [
+              -161.1924607,
+              -10.5723823
+            ],
+            [
+              -161.1881898,
+              -10.5771939
+            ],
+            [
+              -161.1837658,
+              -10.5818684
+            ],
+            [
+              -161.176853,
+              -10.5886124
+            ],
+            [
+              -161.1720666,
+              -10.5929233
+            ],
+            [
+              -161.1671435,
+              -10.5970811
+            ],
+            [
+              -161.1620889,
+              -10.6010814
+            ],
+            [
+              -161.1569078,
+              -10.6049202
+            ],
+            [
+              -161.1489107,
+              -10.6103671
+            ],
+            [
+              -161.1434367,
+              -10.6137854
+            ],
+            [
+              -161.135026,
+              -10.6185847
+            ],
+            [
+              -161.1263809,
+              -10.6230011
+            ],
+            [
+              -161.1192725,
+              -10.6282194
+            ],
+            [
+              -161.1112621,
+              -10.6335756
+            ],
+            [
+              -161.1030027,
+              -10.6385483
+            ],
+            [
+              -161.0973674,
+              -10.6416448
+            ],
+            [
+              -161.0887351,
+              -10.6459538
+            ],
+            [
+              -161.0799049,
+              -10.6498512
+            ],
+            [
+              -161.073918,
+              -10.6522164
+            ],
+            [
+              -161.0678582,
+              -10.6543923
+            ],
+            [
+              -161.058645,
+              -10.6572966
+            ],
+            [
+              -161.0493023,
+              -10.6597635
+            ],
+            [
+              -161.0430123,
+              -10.6611623
+            ],
+            [
+              -161.0366805,
+              -10.6623628
+            ],
+            [
+              -161.0271185,
+              -10.6637891
+            ],
+            [
+              -161.0174985,
+              -10.6647633
+            ],
+            [
+              -161.0057382,
+              -10.6653467
+            ],
+            [
+              -161,
+              -10.665429539680355
+            ],
+            [
+              -161,
+              -10
+            ],
+            [
+              -161.30543720642987,
+              -10
+            ],
+            [
+              -161.3057591,
+              -10.0016794
+            ],
+            [
+              -161.3066443,
+              -10.0078514
+            ],
+            [
+              -161.3076088,
+              -10.0171529
+            ],
+            [
+              -161.3081356,
+              -10.0264889
+            ],
+            [
+              -161.308243,
+              -10.032722
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

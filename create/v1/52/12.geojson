@@ -1,0 +1,650 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -305092,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Yemen",
+        "local_name": "اليمن",
+        "name_en": "Yemen",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+          "name": "اليمن",
+          "name:af": "Jemen",
+          "name:am": "የመን (አገር)",
+          "name:an": "Yemen",
+          "name:ar": "اليمن",
+          "name:az": "Yəmən",
+          "name:ba": "Йемен",
+          "name:be": "Емен",
+          "name:bg": "Йемен",
+          "name:bn": "ইয়েমেন",
+          "name:bo": "ཡེ་མེན།",
+          "name:br": "Yemen",
+          "name:bs": "Jemen",
+          "name:ca": "Iemen",
+          "name:ce": "Йемен",
+          "name:co": "Yemen",
+          "name:cs": "Jemen",
+          "name:cv": "Йемен",
+          "name:cy": "Yemen",
+          "name:da": "Yemen",
+          "name:de": "Jemen",
+          "name:dv": "ޔަމަން",
+          "name:el": "Υεμένη",
+          "name:en": "Yemen",
+          "name:eo": "Jemeno",
+          "name:es": "Yemen",
+          "name:et": "Jeemen",
+          "name:eu": "Yemen",
+          "name:fa": "یمن",
+          "name:fi": "Jemen",
+          "name:fo": "Jemen",
+          "name:fr": "Yémen",
+          "name:fy": "Jemen",
+          "name:ga": "Poblacht Éimin",
+          "name:gd": "Iemen",
+          "name:gl": "Iemen - اليمن",
+          "name:gn": "Jemẽ",
+          "name:gu": "યેમેન",
+          "name:gv": "Yn Yeaman",
+          "name:he": "תימן",
+          "name:hi": "यमन",
+          "name:hr": "Jemen",
+          "name:ht": "Yemèn",
+          "name:hu": "Jemen",
+          "name:hy": "Եմեն",
+          "name:ia": "Yemen",
+          "name:id": "Yaman",
+          "name:ie": "Yemen",
+          "name:io": "Yemen",
+          "name:is": "Jemen",
+          "name:it": "Yemen",
+          "name:ja": "イエメン",
+          "name:jv": "Yaman",
+          "name:ka": "იემენი",
+          "name:ki": "Yemen",
+          "name:kk": "Йемен",
+          "name:kl": "Yemen",
+          "name:kn": "ಯೆಮೆನ್",
+          "name:ko": "예멘",
+          "name:ks": "یَمَن",
+          "name:ku": "Yemen",
+          "name:kv": "Йемен",
+          "name:kw": "Yemen",
+          "name:ky": "Йемен",
+          "name:la": "Iemenia",
+          "name:lb": "Jemen",
+          "name:li": "Jeme",
+          "name:ln": "Yeméni",
+          "name:lt": "Jemenas",
+          "name:lv": "Jemena",
+          "name:mk": "Јемен",
+          "name:ml": "യെമൻ",
+          "name:mn": "Йемен",
+          "name:mr": "येमेनचे प्रजासत्ताक",
+          "name:ms": "Yaman",
+          "name:mt": "Jemen",
+          "name:my": "ယီမင်နိုင်ငံ",
+          "name:na": "Yemen",
+          "name:ne": "गणतन्त्र यमन",
+          "name:nl": "Jemen",
+          "name:nn": "Jemen",
+          "name:no": "Jemen",
+          "name:nv": "Shádiʼááhjí Ásáí Bikéyah",
+          "name:oc": "Iemèn",
+          "name:or": "ୟେମେନ",
+          "name:os": "Йемен",
+          "name:pa": "ਯਮਨ",
+          "name:pl": "Jemen",
+          "name:ps": "یمن",
+          "name:pt": "Iémen",
+          "name:qu": "Yaman",
+          "name:ro": "Yemen",
+          "name:ru": "Йемен",
+          "name:rw": "Yemeni",
+          "name:sa": "यमन",
+          "name:sd": "يمن",
+          "name:se": "Jemen",
+          "name:sh": "Jemen",
+          "name:sk": "Jemen",
+          "name:sl": "Jemen",
+          "name:so": "Yemen",
+          "name:sq": "Jemeni",
+          "name:sr": "Јемен",
+          "name:ss": "IYemeni",
+          "name:su": "Yaman",
+          "name:sv": "Jemen",
+          "name:sw": "Yemen",
+          "name:ta": "யெமன்",
+          "name:te": "యెమన్",
+          "name:tg": "Яман",
+          "name:th": "ประเทศเยเมน",
+          "name:tk": "Ýemen",
+          "name:tl": "Yemen",
+          "name:tr": "Yemen",
+          "name:tt": "Йәмән",
+          "name:ug": "يەمەن",
+          "name:uk": "Ємен",
+          "name:ur": "یمن",
+          "name:uz": "Yaman",
+          "name:vi": "Yemen",
+          "name:vo": "Yämän",
+          "name:wo": "Yaman",
+          "name:yi": "תימן",
+          "name:yo": "Yemen",
+          "name:zh": "也门 / 葉門",
+          "name:zu": "IYemen",
+          "boundary": "administrative",
+          "name:ace": "Yaman",
+          "name:als": "Jemen",
+          "name:ang": "Gemen",
+          "name:arc": "ܝܡܢ",
+          "name:arz": "اليمن",
+          "name:ast": "Yeme",
+          "name:azb": "یمن",
+          "name:bar": "Jemen",
+          "name:bcl": "Yemen",
+          "name:ber": "ⵢⴰⵎⴰⵏ",
+          "name:bpy": "ইয়েমেন",
+          "name:bug": "Yaman",
+          "name:bxr": "Йемен",
+          "name:ceb": "Yemen",
+          "name:ckb": "یەمەن",
+          "name:crh": "Yemen",
+          "name:csb": "Jemen",
+          "name:diq": "Yemen",
+          "name:dsb": "Jemen",
+          "name:ext": "Yemen",
+          "name:frp": "Yèmen",
+          "name:gag": "Yemen",
+          "name:hak": "Ya̍p-mùn",
+          "name:haw": "Iemene",
+          "name:hif": "Yemen",
+          "name:hsb": "Jemen",
+          "name:ilo": "Yemen",
+          "name:jbo": "djemen",
+          "name:kaa": "Yemen",
+          "name:kab": "Yamen",
+          "name:kbd": "Йемен",
+          "name:kmr": "یەمەن",
+          "name:lad": "Teman",
+          "name:lez": "Йемен",
+          "name:lij": "Yemen",
+          "name:lmo": "Yemen",
+          "name:mzn": "یمن",
+          "name:nah": "Yemen",
+          "name:nan": "Yemen",
+          "name:nap": "Yemen",
+          "name:nds": "Jemen",
+          "name:new": "गणतन्त्र यमन",
+          "name:nov": "Yemen",
+          "name:pam": "Yemen",
+          "name:pap": "Yemen",
+          "name:pih": "Yemen",
+          "name:pms": "Yemen",
+          "name:pnb": "یمن",
+          "name:sah": "Йиэмэн",
+          "name:scn": "Yemen",
+          "name:sco": "Yemen",
+          "name:smn": "Jemen",
+          "name:sms": "Jemeeʹn",
+          "name:stq": "Jemen",
+          "name:szl": "Jymyn",
+          "name:tpi": "Yemen",
+          "name:tzl": "Iemén",
+          "name:udm": "Йемен",
+          "name:vec": "Jemen",
+          "name:vro": "Jeemen",
+          "name:war": "Yemen",
+          "name:wuu": "也门",
+          "name:xal": "Йеменмудин Орн",
+          "name:yue": "也門",
+          "name:zea": "Jeem’n",
+          "timezone": "Asia/Aden",
+          "way_area": "44.0982",
+          "wikidata": "Q805",
+          "ISO3166-1": "YE",
+          "wikipedia": "ar:اليمن",
+          "population": "30491000",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:bat-smg": "Jemens",
+          "name:zh-Hans": "也门",
+          "name:zh-Hant": "葉門",
+          "official_name": "الجمهورية اليمنية",
+          "name:be-tarask": "Емэн",
+          "population:date": "2021-07-01",
+          "ISO3166-1:alpha2": "YE",
+          "ISO3166-1:alpha3": "YEM",
+          "default_language": "ar",
+          "official_name:ar": "الجمهورية اليمنية",
+          "official_name:cs": "Jemenská republika",
+          "official_name:eo": "Jemena Respubliko",
+          "official_name:fa": "جمهوری یمن",
+          "official_name:ru": "Йеменская Республика",
+          "official_name:ur": "جمہوریہ یمن",
+          "ISO3166-1:numeric": "887",
+          "official_name:azb": "یمن جومهوریتی"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                52,
+                12.03147931851046
+              ],
+              [
+                52.0033197,
+                12.0296265
+              ],
+              [
+                52.0314185,
+                12.0183573
+              ],
+              [
+                52.0539764,
+                12.012196
+              ],
+              [
+                52.0726329,
+                12.0029455
+              ],
+              [
+                52.0802492873029,
+                12
+              ],
+              [
+                52.50566800748006,
+                12
+              ],
+              [
+                52.5107336,
+                12.0038764
+              ],
+              [
+                52.5310546,
+                12.0228928
+              ],
+              [
+                52.5526505,
+                12.0512372
+              ],
+              [
+                52.560307,
+                12.0647391
+              ],
+              [
+                52.571989,
+                12.0905028
+              ],
+              [
+                52.5772705,
+                12.1069052
+              ],
+              [
+                52.5891929,
+                12.1355432
+              ],
+              [
+                52.5965,
+                12.1662753
+              ],
+              [
+                52.5981558,
+                12.1836806
+              ],
+              [
+                52.5987641,
+                12.197749
+              ],
+              [
+                52.5959267,
+                12.2291783
+              ],
+              [
+                52.588057,
+                12.259778
+              ],
+              [
+                52.5850183,
+                12.2684317
+              ],
+              [
+                52.57535,
+                12.2887835
+              ],
+              [
+                52.5655122,
+                12.3057772
+              ],
+              [
+                52.549621,
+                12.3261469
+              ],
+              [
+                52.5384473,
+                12.3383162
+              ],
+              [
+                52.5181681,
+                12.3556821
+              ],
+              [
+                52.505011,
+                12.3648936
+              ],
+              [
+                52.487668,
+                12.3748952
+              ],
+              [
+                52.4694003,
+                12.3831797
+              ],
+              [
+                52.4503855,
+                12.3896666
+              ],
+              [
+                52.4308087,
+                12.3942928
+              ],
+              [
+                52.4108602,
+                12.3970133
+              ],
+              [
+                52.3971555,
+                12.397761
+              ],
+              [
+                52.3674196,
+                12.3964129
+              ],
+              [
+                52.3526027,
+                12.3938939
+              ],
+              [
+                52.3405936,
+                12.395845
+              ],
+              [
+                52.3448671,
+                12.4199757
+              ],
+              [
+                52.3458747,
+                12.4469352
+              ],
+              [
+                52.3450669,
+                12.4601684
+              ],
+              [
+                52.3422438,
+                12.479496
+              ],
+              [
+                52.3375001,
+                12.498462
+              ],
+              [
+                52.3308809,
+                12.5168847
+              ],
+              [
+                52.3249082,
+                12.5296119
+              ],
+              [
+                52.3122848,
+                12.5514023
+              ],
+              [
+                52.3004854,
+                12.5671666
+              ],
+              [
+                52.2823218,
+                12.5863874
+              ],
+              [
+                52.2576376,
+                12.6061843
+              ],
+              [
+                52.2275575,
+                12.6230505
+              ],
+              [
+                52.1949863,
+                12.6347106
+              ],
+              [
+                52.1749685,
+                12.6389578
+              ],
+              [
+                52.1513069,
+                12.6417664
+              ],
+              [
+                52.1297978,
+                12.6422277
+              ],
+              [
+                52.1181918,
+                12.6412768
+              ],
+              [
+                52.0962947,
+                12.6386281
+              ],
+              [
+                52.0578686,
+                12.6274209
+              ],
+              [
+                52.022426,
+                12.6091095
+              ],
+              [
+                52,
+                12.591288030506316
+              ],
+              [
+                52,
+                12.03147931851046
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                52.7732821,
+                12.1583205
+              ],
+              [
+                52.7762165,
+                12.1320854
+              ],
+              [
+                52.782664,
+                12.1064578
+              ],
+              [
+                52.7925109,
+                12.0818853
+              ],
+              [
+                52.8055844,
+                12.058797
+              ],
+              [
+                52.8216556,
+                12.037596
+              ],
+              [
+                52.8357618,
+                12.0230745
+              ],
+              [
+                52.859975,
+                12.0031583
+              ],
+              [
+                52.86527339988024,
+                12
+              ],
+              [
+                53,
+                12
+              ],
+              [
+                53,
+                12.378022103154958
+              ],
+              [
+                52.99544,
+                12.3778442
+              ],
+              [
+                52.9768226,
+                12.3757934
+              ],
+              [
+                52.9482387,
+                12.3693557
+              ],
+              [
+                52.8907608,
+                12.3488304
+              ],
+              [
+                52.8615008,
+                12.3312938
+              ],
+              [
+                52.8480652,
+                12.3214351
+              ],
+              [
+                52.8309568,
+                12.3061051
+              ],
+              [
+                52.8157405,
+                12.2889774
+              ],
+              [
+                52.8026125,
+                12.2702732
+              ],
+              [
+                52.7917421,
+                12.2502344
+              ],
+              [
+                52.7832691,
+                12.2291197
+              ],
+              [
+                52.7773024,
+                12.207202
+              ],
+              [
+                52.7734399,
+                12.1784502
+              ],
+              [
+                52.7732821,
+                12.1583205
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                52.951687,
+                12.6365639
+              ],
+              [
+                52.9525169,
+                12.6170833
+              ],
+              [
+                52.9552898,
+                12.5977746
+              ],
+              [
+                52.9599789,
+                12.5788219
+              ],
+              [
+                52.966539,
+                12.5604059
+              ],
+              [
+                52.9749072,
+                12.542702
+              ],
+              [
+                52.9850035,
+                12.5258789
+              ],
+              [
+                52.9967312,
+                12.510097
+              ],
+              [
+                53,
+                12.50661028
+              ],
+              [
+                53,
+                12.765281333851993
+              ],
+              [
+                52.9976706,
+                12.7626757
+              ],
+              [
+                52.9856753,
+                12.7463609
+              ],
+              [
+                52.9694071,
+                12.7173531
+              ],
+              [
+                52.9582735,
+                12.6861236
+              ],
+              [
+                52.9553945,
+                12.6737083
+              ],
+              [
+                52.9526886,
+                12.6556052
+              ],
+              [
+                52.951687,
+                12.6365639
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

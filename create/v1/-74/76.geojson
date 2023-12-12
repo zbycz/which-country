@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2184073,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Greenland",
+        "local_name": "Kalaallit Nunaat",
+        "name_en": "Greenland",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+          "name": "Kalaallit Nunaat",
+          "sqkm": "2166086",
+          "name:af": "Groenland",
+          "name:am": "ግሪንላንድ",
+          "name:an": "Gronlandia",
+          "name:ar": "غرينلاند",
+          "name:az": "Qrenlandiya",
+          "name:be": "Грэнландыя",
+          "name:bg": "Гренландия",
+          "name:bn": "গ্রিনল্যান্ড",
+          "name:bo": "གེ་རེན་ལ",
+          "name:br": "Greunland",
+          "name:bs": "Grenland",
+          "name:ca": "Groenlàndia",
+          "name:cs": "Grónsko",
+          "name:cv": "Гренланди",
+          "name:cy": "Yr Ynys Las",
+          "name:da": "Grønland",
+          "name:de": "Grönland",
+          "name:dv": "ގުރީންލޭންޑު",
+          "name:el": "Γροιλανδία",
+          "name:en": "Greenland",
+          "name:eo": "Gronlando",
+          "name:es": "Groenlandia",
+          "name:et": "Gröönimaa",
+          "name:eu": "Groenlandia",
+          "name:fa": "گرینلند",
+          "name:fi": "Grönlanti",
+          "name:fo": "Grønland",
+          "name:fr": "Groenland",
+          "name:fy": "Grienlân",
+          "name:ga": "An Ghraonlainn",
+          "name:gd": "A' Ghraonlainn",
+          "name:gl": "Grenlandia",
+          "name:gn": "Kyoẽlándia",
+          "name:gv": "Greenlynn",
+          "name:he": "גרינלנד",
+          "name:hi": "ग्रीनलैण्ड",
+          "name:hr": "Grenland",
+          "name:hu": "Grönland",
+          "name:hy": "Գրենլանդիա",
+          "name:ia": "Groenlandia",
+          "name:id": "Greenland",
+          "name:ie": "Grenland",
+          "name:io": "Grenlando",
+          "name:is": "Grænland",
+          "name:it": "Groenlandia",
+          "name:iu": "ᐊᑯᑭᑦᑐᑦ",
+          "name:ja": "グリーンランド",
+          "name:jv": "Greenland",
+          "name:ka": "გრენლანდია",
+          "name:kk": "Гренландия",
+          "name:kl": "Kalaallit Nunaat",
+          "name:kn": "ಗ್ರೀನ್‍ಲ್ಯಾಂಡ್",
+          "name:ko": "그린란드",
+          "name:ku": "Grînlenda",
+          "name:kv": "Гренландия",
+          "name:kw": "Greunland",
+          "name:la": "Groenlandia",
+          "name:lb": "Grönland",
+          "name:li": "Greunland",
+          "name:ln": "Groenlandi",
+          "name:lt": "Grenlandija",
+          "name:lv": "Grenlande",
+          "name:mg": "Groenlanda",
+          "name:mi": "Greenland",
+          "name:mk": "Гренланд",
+          "name:ml": "ഗ്രീൻലാൻഡ്",
+          "name:mn": "Гренланд",
+          "name:mr": "ग्रीनलँड",
+          "name:ms": "Greenland",
+          "name:my": "ဂရင်းလန်ကျွန်း",
+          "name:ne": "ग्रीनल्याण्ड",
+          "name:nl": "Groenland",
+          "name:nn": "Grønland",
+          "name:no": "Grønland",
+          "name:nv": "Haʼaʼaahjí Hakʼaz Dineʼé Bikéyah",
+          "name:oc": "Groenlàndia",
+          "name:or": "ଗ୍ରୀନଲାଣ୍ଡ",
+          "name:os": "Гренланди",
+          "name:pa": "ਗਰੀਨਲੈਂਡ",
+          "name:pl": "Grenlandia",
+          "name:pt": "Gronelândia",
+          "name:qu": "Kalalit Nunat",
+          "name:ro": "Groenlanda",
+          "name:ru": "Гренландия",
+          "name:rw": "Goronulande",
+          "name:se": "Kalaallit Nunaat",
+          "name:sh": "Grenland",
+          "name:sk": "Grónsko",
+          "name:sl": "Grenlandija",
+          "name:so": "Griinland",
+          "name:sq": "Groenlanda",
+          "name:sr": "Гренланд",
+          "name:su": "Lemah Héjo",
+          "name:sv": "Grönland",
+          "name:sw": "Greenland",
+          "name:ta": "கிறீன்லாந்து",
+          "name:te": "గ్రీన్‌లాండ్",
+          "name:tg": "Гренландия",
+          "name:th": "กรีนแลนด์",
+          "name:tl": "Lupanlunti",
+          "name:tr": "Grönland",
+          "name:tt": "Гренландия",
+          "name:ug": "گرېنلاندىيە",
+          "name:uk": "Ґренландія",
+          "name:ur": "گرین لینڈ",
+          "name:vi": "Greenland",
+          "name:vo": "Gröneän",
+          "name:wo": "Groenlaand",
+          "name:yi": "גרינלאנד",
+          "name:yo": "Grínlándì",
+          "name:zh": "格陵兰",
+          "boundary": "administrative",
+          "name:als": "Grönland",
+          "name:ang": "Grēneland",
+          "name:arz": "جرينلاند",
+          "name:ast": "Groenlandia",
+          "name:bar": "Grönland",
+          "name:bpy": "গ্রীনল্যান্ড",
+          "name:chr": "ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ",
+          "name:ckb": "گرینلاند",
+          "name:diq": "Gronlanda",
+          "name:dsb": "Grönlandska",
+          "name:ext": "Groenlándia",
+          "name:frp": "Grônlande",
+          "name:frr": "Greenlun",
+          "name:hif": "Greenland",
+          "name:hsb": "Grönlandska",
+          "name:ilo": "Kalaallit Nunaat",
+          "name:lij": "Gròenlandia",
+          "name:lzh": "格陵蘭",
+          "name:mhr": "Гренландий",
+          "name:nah": "Groentlālpan",
+          "name:nan": "Chheⁿ-tē",
+          "name:nds": "Gröönland",
+          "name:nov": "Verdi-lande",
+          "name:pih": "Griinland",
+          "name:pms": "Groenlandia",
+          "name:pnb": "گرینلینڈ",
+          "name:rue": "Ґронсько",
+          "name:sah": "Гренландия",
+          "name:scn": "Groenlannia",
+          "name:sco": "Greenland",
+          "name:stq": "Gräinlound",
+          "name:szl": "Grynlandyjo",
+          "name:tok": "ma Kalalinuna",
+          "name:tpi": "Greenland",
+          "name:tzl": "Päts-Virt",
+          "name:vec": "Groenlandia",
+          "name:war": "Greenland",
+          "name:wuu": "格陵兰",
+          "name:xal": "Гринлэндин Арл",
+          "name:yue": "格陵蘭",
+          "name:zea": "Hroenland",
+          "way_area": "785.731",
+          "wikidata": "Q223",
+          "ISO3166-1": "GL",
+          "wikipedia": "en:Greenland",
+          "name:pt-BR": "Groelândia",
+          "population": "57564",
+          "admin_level": "2",
+          "alt_name:ar": "جرينلاند",
+          "alt_name:ca": "Grenlàndia",
+          "alt_name:eo": "Grenlando",
+          "alt_name:fa": "گروئنلند",
+          "alt_name:gl": "Groenlandia",
+          "alt_name:pt": "Groenlândia",
+          "name:nds-nl": "Gruunlaand",
+          "name:bat-smg": "Grenlandėjė",
+          "name:be-tarask": "Грэнляндыя",
+          "ISO3166-1:alpha2": "GL",
+          "ISO3166-1:alpha3": "GRL",
+          "default_language": "kl",
+          "ISO3166-1:numeric": "304"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74,
+              76.62746246350011
+            ],
+            [
+              -73.9821528,
+              76.6202552
+            ],
+            [
+              -73.9619827,
+              76.6128688
+            ],
+            [
+              -73.9404581,
+              76.605692
+            ],
+            [
+              -73.9176212,
+              76.5987382
+            ],
+            [
+              -73.8935166,
+              76.5920204
+            ],
+            [
+              -73.7462535,
+              76.5527729
+            ],
+            [
+              -73.7282505,
+              76.5481039
+            ],
+            [
+              -73.7033927,
+              76.5421063
+            ],
+            [
+              -73.6807586,
+              76.5370507
+            ],
+            [
+              -73.657362,
+              76.5321889
+            ],
+            [
+              -73.6332341,
+              76.5275274
+            ],
+            [
+              -73.6084066,
+              76.5230722
+            ],
+            [
+              -73.5829124,
+              76.5188289
+            ],
+            [
+              -73.556785,
+              76.5148031
+            ],
+            [
+              -73.5061831,
+              76.507423
+            ],
+            [
+              -73.4871333,
+              76.504865
+            ],
+            [
+              -73.4438442,
+              76.4995878
+            ],
+            [
+              -73.3993665,
+              76.4948881
+            ],
+            [
+              -73.3538405,
+              76.4907807
+            ],
+            [
+              -73.3074095,
+              76.4872785
+            ],
+            [
+              -73.2602194,
+              76.4843923
+            ],
+            [
+              -73.212418,
+              76.4821312
+            ],
+            [
+              -73.1641549,
+              76.4805022
+            ],
+            [
+              -73.113883,
+              76.479209
+            ],
+            [
+              -73.0919506,
+              76.4788125
+            ],
+            [
+              -73.0479936,
+              76.4784107
+            ],
+            [
+              -73,
+              76.47827166307498
+            ],
+            [
+              -73,
+              76.95026679980276
+            ],
+            [
+              -73.0286885,
+              76.9509655
+            ],
+            [
+              -73.0609918,
+              76.9514789
+            ],
+            [
+              -73.0933583,
+              76.9517209
+            ],
+            [
+              -73.1257425,
+              76.9516911
+            ],
+            [
+              -73.158099,
+              76.9513895
+            ],
+            [
+              -73.1903825,
+              76.9508167
+            ],
+            [
+              -73.2225477,
+              76.9499734
+            ],
+            [
+              -73.2545495,
+              76.9488608
+            ],
+            [
+              -73.3820274,
+              76.9439108
+            ],
+            [
+              -73.4293505,
+              76.9417538
+            ],
+            [
+              -73.4760632,
+              76.9390078
+            ],
+            [
+              -73.5220204,
+              76.9356812
+            ],
+            [
+              -73.5670798,
+              76.9317845
+            ],
+            [
+              -73.6111018,
+              76.9273297
+            ],
+            [
+              -73.6539509,
+              76.9223307
+            ],
+            [
+              -73.6954953,
+              76.916803
+            ],
+            [
+              -73.735608,
+              76.9107638
+            ],
+            [
+              -73.7795748,
+              76.9034729
+            ],
+            [
+              -73.8110945,
+              76.8976417
+            ],
+            [
+              -73.8413645,
+              76.8914832
+            ],
+            [
+              -73.87032,
+              76.8850111
+            ],
+            [
+              -73.8978992,
+              76.8782395
+            ],
+            [
+              -73.9240434,
+              76.8711834
+            ],
+            [
+              -73.9486978,
+              76.8638583
+            ],
+            [
+              -73.9749517,
+              76.855197
+            ],
+            [
+              -73.989764,
+              76.8499071
+            ],
+            [
+              -73.9994874,
+              76.8462199
+            ],
+            [
+              -74,
+              76.84600777141146
+            ],
+            [
+              -74,
+              76.62746246350011
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

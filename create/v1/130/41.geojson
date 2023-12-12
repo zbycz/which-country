@@ -1,0 +1,878 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192734,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "North Korea",
+        "local_name": "조선민주주의인민공화국",
+        "name_en": "North Korea",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+          "name": "조선민주주의인민공화국",
+          "name:af": "Noord-Korea",
+          "name:am": "ስሜን ኮርያ",
+          "name:an": "Coreya d'o Norte",
+          "name:ar": "كوريا الشمالية",
+          "name:as": "উত্তৰ কোৰিয়া",
+          "name:az": "Koreya Xalq Demokratik Respublikası",
+          "name:ba": "Корея Халыҡ-Демократик Республикаһы",
+          "name:be": "Карэйская Народна-Дэмакратычная Рэспубліка",
+          "name:bg": "Северна Корея",
+          "name:bh": "उत्तर कोरिया",
+          "name:bn": "উত্তর কোরিয়া",
+          "name:bo": "བྱང་ཀོ་རི་ཡ།",
+          "name:br": "Republik Poblel ha Demokratel Korea",
+          "name:bs": "Sjeverna Koreja",
+          "name:ca": "Corea del Nord",
+          "name:ce": "Корейн Халкъан-Демократин Республика",
+          "name:cs": "Severní Korea",
+          "name:cy": "Gogledd Corea",
+          "name:da": "Nordkorea",
+          "name:de": "Nordkorea",
+          "name:dv": "އުތުރު ކޮރެއާ",
+          "name:dz": "བྱང་ཀོ་རི་ཡ་",
+          "name:ee": "North Korea",
+          "name:el": "Βόρεια Κορέα",
+          "name:en": "North Korea",
+          "name:eo": "Nord-Koreio",
+          "name:es": "Corea del Norte",
+          "name:et": "Põhja-Korea",
+          "name:eu": "Ipar Korea",
+          "name:fa": "کره شمالی",
+          "name:fi": "Pohjois-Korea",
+          "name:fo": "Norðurkorea",
+          "name:fr": "Corée du Nord",
+          "name:fy": "Noard-Koreä",
+          "name:ga": "An Chóiré Thuaidh",
+          "name:gd": "Coirèa a Tuath",
+          "name:gl": "Corea do Norte",
+          "name:gn": "Yvate Koréa",
+          "name:gu": "ઉત્તર કોરિયા",
+          "name:gv": "Yn Chorea Twoaie",
+          "name:ha": "Koriya ta Arewa",
+          "name:he": "קוריאה הצפונית",
+          "name:hi": "उत्तर कोरिया",
+          "name:hr": "Sjeverna Koreja",
+          "name:ht": "Kore dinò",
+          "name:hu": "Észak-Korea",
+          "name:hy": "Կորեայի Ժողովրդա-Դեմոկրատական Հանրապետություն",
+          "name:ia": "Corea del Nord",
+          "name:id": "Korea Utara",
+          "name:ie": "Nord-Korea",
+          "name:ik": "Nigiq Korea",
+          "name:io": "Nord-Korea",
+          "name:is": "Norður-Kórea",
+          "name:it": "Corea del Nord",
+          "name:ja": "朝鮮民主主義人民共和国",
+          "name:jv": "Koréa Lor",
+          "name:ka": "კორეის სახალხო დემოკრატიული რესპუბლიკა",
+          "name:kg": "Hangu ya Node",
+          "name:ki": "North Korea",
+          "name:kk": "Корей Халық Демократиялық Республикасы",
+          "name:kl": "Korea Avannarleq",
+          "name:km": "កូរ៉េខាងជើង",
+          "name:kn": "ಉತ್ತರ ಕೊರಿಯಾ",
+          "name:ko": "조선민주주의인민공화국",
+          "name:ku": "Korêya Bakur",
+          "name:kv": "Корея Войтыр Демократия Республика",
+          "name:kw": "Korea Gledh",
+          "name:ky": "Корей Эл-Демократиялык Республикасы",
+          "name:la": "Res publica popularis democratica Coreana",
+          "name:lb": "Demokratesch Volleksrepublik Korea",
+          "name:li": "Noord-Korea",
+          "name:ln": "Koré ya Nola",
+          "name:lo": "ປະເທດເກົາຫຼີເໜືອ",
+          "name:lt": "Šiaurės Korėja",
+          "name:lv": "Ziemeļkoreja",
+          "name:mg": "Korea Avaratra",
+          "name:mi": "Kōrea-ki-te-raki",
+          "name:mk": "Демократска Народна Република Кореја",
+          "name:ml": "ഉത്തര കൊറിയ",
+          "name:mn": "Умард Солонгос",
+          "name:mr": "उत्तर कोरिया",
+          "name:ms": "Korea Utara",
+          "name:mt": "Korea ta' Fuq",
+          "name:my": "ကိုရီးယား ဒီမိုကရက်တစ် ပြည်သူ့သမ္မတနိုင်ငံ",
+          "name:na": "Ripubrikit Engame Korea",
+          "name:ne": "उत्तर कोरिया",
+          "name:nl": "Noord-Korea",
+          "name:nn": "Nord-Korea",
+          "name:no": "Nord-Korea",
+          "name:nv": "Kolíya Bikéyah Náhookǫsjí Siʼánígíí",
+          "name:oc": "Corèa del Nòrd",
+          "name:om": "Kooriyaa Kaabaa",
+          "name:or": "ପୂର୍ବ କୋରିଆ",
+          "name:os": "Корейы Адæмон Демократон Республикæ",
+          "name:pa": "ਉੱਤਰੀ ਕੋਰੀਆ",
+          "name:pl": "Korea Północna",
+          "name:ps": "شمالي کوريا",
+          "name:pt": "Coreia do Norte",
+          "name:qu": "Chusun Runakapaq Runallaqta Republika",
+          "name:ro": "Coreea de Nord",
+          "name:ru": "Северная Корея",
+          "name:rw": "Koreya y’Amajyaruguru",
+          "name:sa": "उत्तर कोरिया",
+          "name:sc": "Corea de su Norte",
+          "name:sd": "اتر ڪوريا",
+          "name:se": "Davvi-Korea",
+          "name:sh": "Demokratska Narodna Republika Koreja",
+          "name:si": "උතුරු කොරියාව",
+          "name:sk": "Kórejská ľudovodemokratická republika",
+          "name:sl": "Severna Koreja",
+          "name:sn": "North Korea",
+          "name:so": "Waqooyiga Kuuriya",
+          "name:sq": "Koreja e Veriut",
+          "name:sr": "Северна Кореја",
+          "name:ss": "IKhoriya leseNyakatfo",
+          "name:su": "Koréa Kalér",
+          "name:sv": "Nordkorea",
+          "name:sw": "Korea Kaskazini",
+          "name:ta": "வட கொரியா",
+          "name:te": "ఉత్తర కొరియా",
+          "name:tg": "Кореяи Шимолӣ",
+          "name:th": "ประเทศเกาหลีเหนือ",
+          "name:tk": "Demirgazyk Koreýa",
+          "name:tl": "Hilagang Korea",
+          "name:tr": "Kuzey Kore",
+          "name:ts": "North Korea",
+          "name:tt": "Корея Халык Демократик Җөмһүрияте",
+          "name:ug": "شىمالىي چاۋشيەن",
+          "name:uk": "Корейська Народно-Демократична Республіка",
+          "name:ur": "شمالی کوریا",
+          "name:uz": "Koreya Xalq Demokratik Respublikasi",
+          "name:vi": "Bắc Triều Tiên",
+          "name:vo": "Nolüda-Koreyän",
+          "name:wo": "Kore gu Bëj-gànnaar",
+          "name:xh": "Coreia do Twoaie",
+          "name:yi": "צפון קארעע",
+          "name:yo": "Kòréà Àríwá",
+          "name:za": "Cauzsenh Minzcujcujyi Yinzminz Gunghozgoz",
+          "name:zh": "朝鲜 / 北韓",
+          "boundary": "administrative",
+          "name:ace": "Korèa Utara",
+          "name:als": "Nordkorea",
+          "name:ang": "Norþcorēa",
+          "name:arz": "كوريا الشماليه",
+          "name:ast": "Corea del Norte",
+          "name:bar": "Nordkorea",
+          "name:bcl": "North Korea",
+          "name:bjn": "Korea Utara",
+          "name:bpy": "ঔয়াং কোরিয়া",
+          "name:bug": "Korea Utara",
+          "name:bxr": "Хойто Солонгос",
+          "name:ceb": "Amihanang Korea",
+          "name:ckb": "کۆریای باکوور",
+          "name:crh": "Şimaliy Koreya",
+          "name:csb": "Kòrejańskô Lëdowò-Demokratnô Repùblika",
+          "name:din": "Parut Korea",
+          "name:diq": "Koryaya Zımey",
+          "name:dsb": "Pódpołnocna Koreja",
+          "name:ext": "Corea del Norti",
+          "name:frp": "Corê du Nord",
+          "name:gag": "Poyraz Koreya",
+          "name:gan": "朝鮮民主主義人民共和國",
+          "name:hak": "Tsêu-siên Mìn-tsú Tsú-ngi Ngìn-mìn Khiung-fò-koet",
+          "name:haw": "Kōlea ʻĀkau",
+          "name:hif": "North Korea",
+          "name:hsb": "Sewjerna Koreja",
+          "name:ilo": "Amianan a Korea",
+          "name:jbo": "berti zei .dcosyn",
+          "name:kab": "Kurya n Ugafa",
+          "name:kbd": "КӀэрей Джылэр Демократ Республикэ",
+          "name:krc": "Корей Халкъ-Демократ Республика",
+          "name:ksh": "Nordkorea",
+          "name:lad": "Korea del Nord",
+          "name:lez": "Кореядин Халкьдинни-Демократиядин Республика",
+          "name:lmo": "Corea del Nòrd",
+          "name:lzh": "朝鮮民主主義人民共和國",
+          "name:min": "Korea Utaro",
+          "name:nah": "Corea Mictlāmpa",
+          "name:nan": "Tiâu-sián",
+          "name:nap": "Corea d''o Nord",
+          "name:nds": "Noordkorea",
+          "name:nov": "Nord Korea",
+          "name:pam": "Pangulung Korea",
+          "name:pap": "Nort Korea",
+          "name:pih": "North Koriya",
+          "name:pms": "Coréa dël Nòrd",
+          "name:pnb": "اتلا کوریا",
+          "name:sah": "Хоту Кэриэйэ",
+          "name:scn": "Corea dû Nord",
+          "name:sco": "North Korea",
+          "name:smn": "Tave-Korea",
+          "name:sms": "Tâʹvv-Korea",
+          "name:szl": "Pōłnocnŏ Koryjŏ",
+          "name:tpi": "Not Koria",
+          "name:udm": "Корея Калык-Демократи Республика",
+          "name:vec": "Corea del Nord",
+          "name:vro": "Põh'a-Korea",
+          "name:war": "Amihanan nga Korea",
+          "name:wuu": "朝鮮",
+          "name:xal": "Солңһудин Улс Орн",
+          "name:xmf": "ოორუე კორეა",
+          "name:yue": "北韓",
+          "timezone": "Asia/Pyongyang",
+          "way_area": "15.9823",
+          "wikidata": "Q423",
+          "ISO3166-1": "KP",
+          "wikipedia": "en:North Korea",
+          "name:UN:ar": "جمهورية كوريا الشعبية الديمقراطية",
+          "name:UN:en": "Democratic People's Republic of Korea (the)",
+          "name:UN:es": "República Popular Democrática de Corea (la)",
+          "name:UN:fr": "République populaire démocratique de Corée (la)",
+          "name:UN:ru": "Корейская Народно-Демократическая Республика",
+          "name:UN:zh": "朝鲜民主主义人民共和国",
+          "admin_level": "2",
+          "alt_name:eo": "Nord-Koreujo;Nord-Koreo",
+          "alt_name:ru": "Северная Корея",
+          "alt_name:vi": "Cộng hòa Dân chủ Nhân dân Triều Tiên;Triều Tiên",
+          "name:bat-smg": "Šiaurės Kuoriejė",
+          "name:cbk-zam": "Corea del Norte",
+          "name:ko-Hani": "朝鮮民主主義人民共和國",
+          "name:zh-Hans": "朝鲜",
+          "name:zh-Hant": "北韓",
+          "short_name:en": "DPRK",
+          "short_name:ja": "北朝鮮",
+          "short_name:pt": "RPDC",
+          "short_name:ru": "КНДР",
+          "short_name:zh": "朝鲜 / 北韓",
+          "name:be-tarask": "Карэйская Народна-Дэмакратычная Рэспубліка",
+          "ISO3166-1:alpha2": "KP",
+          "ISO3166-1:alpha3": "PRK",
+          "alt_name:zh-Hans": "北朝鲜",
+          "alt_name:zh-Hant": "朝鮮",
+          "default_language": "ko",
+          "official_name:ar": "جمهورية كوريا الديمقراطية الشعبية",
+          "official_name:cs": "Korejská lidově demokratická republika",
+          "official_name:de": "Demokratische Volksrepublik Korea",
+          "official_name:en": "Democratic People's Republic of Korea",
+          "official_name:eo": "Korea Demokratia Popola Respubliko",
+          "official_name:es": "República Popular Democrática de Corea",
+          "official_name:fa": "جمهوری دموکراتیک خلق کره",
+          "official_name:fi": "Korean demokraattinen kansantasavalta",
+          "official_name:fr": "République populaire démocratique de Corée",
+          "official_name:gn": "Koréa Tetarã Retã Jekopytyjojáva",
+          "official_name:hu": "Koreai Népi Demokratikus Köztársaság",
+          "official_name:mi": "Manapori o Iwi Repupirita o Kōrea",
+          "official_name:pl": "Koreańska Republika Ludowo-Demokratyczna",
+          "official_name:pt": "República Popular Democrática da Coreia",
+          "official_name:ru": "Корейская Народно-Демократическая Республика",
+          "official_name:ur": "عوامی جمہوریہ کوریا",
+          "official_name:zh": "朝鲜民主主义人民共和国 / 朝鮮民主主義人民共和國",
+          "ISO3166-1:numeric": "408",
+          "official_name:yue": "朝鮮民主主義人民共和國",
+          "short_name:zh-Hans": "朝鲜",
+          "short_name:zh-Hant": "北韓",
+          "official_name:zh-Hans": "朝鲜民主主义人民共和国",
+          "official_name:zh-Hant": "朝鮮民主主義人民共和國"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                130,
+                41
+              ],
+              [
+                130.01772693030298,
+                41
+              ],
+              [
+                130.0163153,
+                41.0037505
+              ],
+              [
+                130.0124644,
+                41.0126485
+              ],
+              [
+                130.0080674,
+                41.0214003
+              ],
+              [
+                130.0031335,
+                41.0299865
+              ],
+              [
+                130,
+                41.034814246917264
+              ],
+              [
+                130,
+                41
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                130,
+                41.065590233859915
+              ],
+              [
+                130.0001699,
+                41.0662217
+              ],
+              [
+                130.0020488,
+                41.074787
+              ],
+              [
+                130.0031017,
+                41.0809841
+              ],
+              [
+                130.0042009,
+                41.0903188
+              ],
+              [
+                130.0046124,
+                41.0965591
+              ],
+              [
+                130.0047664,
+                41.1028061
+              ],
+              [
+                130.004662,
+                41.1093439
+              ],
+              [
+                130.0042956,
+                41.1156263
+              ],
+              [
+                130.003257,
+                41.1250258
+              ],
+              [
+                130.0022395,
+                41.1312671
+              ],
+              [
+                130.0009631,
+                41.1374811
+              ],
+              [
+                130,
+                41.141199334417784
+              ],
+              [
+                130,
+                41.065590233859915
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                130,
+                41.1772898764264
+              ],
+              [
+                130.00016,
+                41.177802
+              ],
+              [
+                130.002457,
+                41.1870945
+              ],
+              [
+                130.00422,
+                41.1968045
+              ],
+              [
+                130.0078744,
+                41.2047125
+              ],
+              [
+                130.010337,
+                41.210758
+              ],
+              [
+                130.0125459,
+                41.2168592
+              ],
+              [
+                130.015266,
+                41.2255281
+              ],
+              [
+                130.0172914,
+                41.2285854
+              ],
+              [
+                130.0247958,
+                41.2384754
+              ],
+              [
+                130.0309059,
+                41.2474466
+              ],
+              [
+                130.0365723,
+                41.256834
+              ],
+              [
+                130.0408851,
+                41.2649324
+              ],
+              [
+                130.0439316,
+                41.2713269
+              ],
+              [
+                130.0478671,
+                41.2807402
+              ],
+              [
+                130.0510469,
+                41.2898145
+              ],
+              [
+                130.0529229,
+                41.2961899
+              ],
+              [
+                130.0555209,
+                41.3020369
+              ],
+              [
+                130.0579267,
+                41.3080708
+              ],
+              [
+                130.061061,
+                41.3172212
+              ],
+              [
+                130.0628312,
+                41.323379
+              ],
+              [
+                130.0642543,
+                41.3291924
+              ],
+              [
+                130.0664006,
+                41.336565
+              ],
+              [
+                130.0678949,
+                41.3427284
+              ],
+              [
+                130.0696552,
+                41.352032
+              ],
+              [
+                130.0705062,
+                41.3582646
+              ],
+              [
+                130.0715151,
+                41.3710389
+              ],
+              [
+                130.0719078,
+                41.3809533
+              ],
+              [
+                130.0716602,
+                41.3913255
+              ],
+              [
+                130.0707416,
+                41.4015168
+              ],
+              [
+                130.069833,
+                41.4077676
+              ],
+              [
+                130.0686639,
+                41.4139938
+              ],
+              [
+                130.0672353,
+                41.4201893
+              ],
+              [
+                130.0657727,
+                41.425583
+              ],
+              [
+                130.0638613,
+                41.4317043
+              ],
+              [
+                130.0616951,
+                41.4377774
+              ],
+              [
+                130.0576378,
+                41.4475252
+              ],
+              [
+                130.0551784,
+                41.4527098
+              ],
+              [
+                130.0521378,
+                41.4585671
+              ],
+              [
+                130.0466804,
+                41.4679205
+              ],
+              [
+                130.0430073,
+                41.4735693
+              ],
+              [
+                130.0390996,
+                41.4791283
+              ],
+              [
+                130.0354889,
+                41.4839169
+              ],
+              [
+                130.0311514,
+                41.4892929
+              ],
+              [
+                130.0265906,
+                41.4945637
+              ],
+              [
+                130.0218112,
+                41.499724
+              ],
+              [
+                130.0135927,
+                41.5078585
+              ],
+              [
+                130.0089373,
+                41.5121079
+              ],
+              [
+                130.0034308,
+                41.5168419
+              ],
+              [
+                130,
+                41.51961023263889
+              ],
+              [
+                130,
+                41.1772898764264
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                130,
+                41.59764503437972
+              ],
+              [
+                130.0052633,
+                41.6004205
+              ],
+              [
+                130.0119921,
+                41.6042115
+              ],
+              [
+                130.018559,
+                41.6081596
+              ],
+              [
+                130.0249574,
+                41.6122607
+              ],
+              [
+                130.0311812,
+                41.616511
+              ],
+              [
+                130.037224,
+                41.6209061
+              ],
+              [
+                130.0459358,
+                41.627761
+              ],
+              [
+                130.053268,
+                41.6340026
+              ],
+              [
+                130.0585396,
+                41.6387806
+              ],
+              [
+                130.063612,
+                41.6436787
+              ],
+              [
+                130.0684805,
+                41.648692
+              ],
+              [
+                130.0753905,
+                41.6564177
+              ],
+              [
+                130.0818161,
+                41.6643755
+              ],
+              [
+                130.0865674,
+                41.670835
+              ],
+              [
+                130.0925457,
+                41.6798574
+              ],
+              [
+                130.0976204,
+                41.6885481
+              ],
+              [
+                130.1006965,
+                41.6944378
+              ],
+              [
+                130.1029105,
+                41.6990723
+              ],
+              [
+                130.1091228,
+                41.7081432
+              ],
+              [
+                130.1126034,
+                41.713789
+              ],
+              [
+                130.1158488,
+                41.719513
+              ],
+              [
+                130.1202691,
+                41.7282335
+              ],
+              [
+                130.1229132,
+                41.7341287
+              ],
+              [
+                130.1255089,
+                41.7406159
+              ],
+              [
+                130.1269189,
+                41.7433711
+              ],
+              [
+                130.1357599,
+                41.7492926
+              ],
+              [
+                130.1418005,
+                41.7536599
+              ],
+              [
+                130.1477335,
+                41.7582287
+              ],
+              [
+                130.153395,
+                41.7628726
+              ],
+              [
+                130.1588596,
+                41.7676471
+              ],
+              [
+                130.1678947,
+                41.7759727
+              ],
+              [
+                130.1753533,
+                41.7833814
+              ],
+              [
+                130.1800684,
+                41.7884606
+              ],
+              [
+                130.1845722,
+                41.7936462
+              ],
+              [
+                130.1888606,
+                41.7989333
+              ],
+              [
+                130.19488,
+                41.8070432
+              ],
+              [
+                130.2009345,
+                41.8159805
+              ],
+              [
+                130.2045285,
+                41.821745
+              ],
+              [
+                130.2078713,
+                41.8275788
+              ],
+              [
+                130.2116589,
+                41.8349115
+              ],
+              [
+                130.2177762,
+                41.8421687
+              ],
+              [
+                130.2219856,
+                41.8476052
+              ],
+              [
+                130.2278681,
+                41.8559382
+              ],
+              [
+                130.2318562,
+                41.8622021
+              ],
+              [
+                130.2410373,
+                41.8701957
+              ],
+              [
+                130.2491741,
+                41.878073
+              ],
+              [
+                130.2630473,
+                41.8816431
+              ],
+              [
+                130.2747085,
+                41.8851531
+              ],
+              [
+                130.2861379,
+                41.889067
+              ],
+              [
+                130.2973103,
+                41.8933763
+              ],
+              [
+                130.3082013,
+                41.8980715
+              ],
+              [
+                130.318787,
+                41.9031423
+              ],
+              [
+                130.3290443,
+                41.9085777
+              ],
+              [
+                130.3389506,
+                41.9143658
+              ],
+              [
+                130.3484842,
+                41.9204939
+              ],
+              [
+                130.3576241,
+                41.9269487
+              ],
+              [
+                130.3634887,
+                41.9314263
+              ],
+              [
+                130.3719281,
+                41.9383937
+              ],
+              [
+                130.3799222,
+                41.9456485
+              ],
+              [
+                130.3874532,
+                41.9531748
+              ],
+              [
+                130.3945046,
+                41.9609562
+              ],
+              [
+                130.4002137,
+                41.9679022
+              ],
+              [
+                130.4146593,
+                41.9738005
+              ],
+              [
+                130.4219193,
+                41.9770523
+              ],
+              [
+                130.4290388,
+                41.980473
+              ],
+              [
+                130.4360109,
+                41.9840592
+              ],
+              [
+                130.4428285,
+                41.9878074
+              ],
+              [
+                130.4533199,
+                41.9940542
+              ],
+              [
+                130.46236430282516,
+                42
+              ],
+              [
+                130,
+                42
+              ],
+              [
+                130,
+                41.59764503437972
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

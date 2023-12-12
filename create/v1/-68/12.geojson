@@ -1,0 +1,966 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2323309,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Netherlands",
+        "local_name": "Nederland",
+        "name_en": "Netherlands",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+          "name": "Nederland",
+          "name:af": "Nederland",
+          "name:am": "ሆላንድ",
+          "name:an": "Países Baixos",
+          "name:ar": "هولندا",
+          "name:ay": "Aynacha Jach'a Markanaka",
+          "name:az": "Niderland",
+          "name:ba": "Нидерландтар",
+          "name:be": "Нідэрланды",
+          "name:bg": "Нидерландия",
+          "name:bh": "एम्सटर्डम",
+          "name:bi": "Netherlands",
+          "name:bn": "নেদারল্যান্ডস",
+          "name:bo": "ཧོ་ལན།",
+          "name:br": "Izelvroioù",
+          "name:bs": "Nizozemska",
+          "name:ca": "Països Baixos",
+          "name:ce": "Нидерландаш",
+          "name:co": "Paesi Bassi",
+          "name:cs": "Nizozemsko",
+          "name:cu": "Нидєрландꙑ",
+          "name:cv": "Нидерландсем",
+          "name:cy": "Yr Iseldiroedd",
+          "name:da": "Holland",
+          "name:de": "Niederlande",
+          "name:dv": "ނެދަލޭންޑު",
+          "name:dz": "ནེ་དར་ལེནཌསི་",
+          "name:ee": "Netherlands",
+          "name:el": "Κάτω Χώρες",
+          "name:en": "Netherlands",
+          "name:eo": "Nederlando",
+          "name:es": "Países Bajos",
+          "name:et": "Holland",
+          "name:eu": "Herbehereak",
+          "name:fa": "هلند",
+          "name:ff": "Holannda",
+          "name:fi": "Alankomaat",
+          "name:fo": "Niðurlond",
+          "name:fr": "Pays-Bas",
+          "name:fy": "Nederlân",
+          "name:ga": "An Ísiltír",
+          "name:gd": "Na Tìrean Ìsle",
+          "name:gl": "Países Baixos",
+          "name:gn": "Tetãnguéra Yvýi",
+          "name:gu": "નેધરલેંડ",
+          "name:gv": "Yn Çheer Injil",
+          "name:he": "הולנד",
+          "name:hi": "नीदरलैण्ड",
+          "name:hr": "Nizozemska",
+          "name:ht": "Peyiba",
+          "name:hu": "Hollandia",
+          "name:hy": "Նիդերլանդներ",
+          "name:ia": "Pais Basse",
+          "name:id": "Belanda",
+          "name:ie": "Nederland",
+          "name:io": "Nederlando",
+          "name:is": "Holland",
+          "name:it": "Paesi Bassi",
+          "name:ja": "オランダ",
+          "name:jv": "Walanda",
+          "name:ka": "ნიდერლანდი",
+          "name:kg": "Pays-Bas",
+          "name:kk": "Нидерланд",
+          "name:kl": "Hollandi",
+          "name:kn": "ನೆದರ್‍ಲ್ಯಾಂಡ್ಸ್",
+          "name:ko": "네덜란드",
+          "name:ku": "Holenda",
+          "name:kv": "Нидерландъяс",
+          "name:kw": "Iseldiryow",
+          "name:ky": "Нидерландтар",
+          "name:la": "Nederlandia",
+          "name:lb": "Holland",
+          "name:li": "Nederland",
+          "name:ln": "Holanda",
+          "name:lt": "Nyderlandai",
+          "name:lv": "Nīderlande",
+          "name:mi": "Hōrana",
+          "name:mk": "Холандија",
+          "name:ml": "നെതർലന്റ്സ്",
+          "name:mn": "Нидерланд",
+          "name:mr": "नेदरलँड्स",
+          "name:ms": "Belanda",
+          "name:mt": "Pajjiżi l-Baxxi",
+          "name:my": "နယ်သာလန်နိုင်ငံ",
+          "name:na": "Eben Eyong",
+          "name:ne": "नेदरल्याण्ड्स",
+          "name:nl": "Nederland",
+          "name:nn": "Nederland",
+          "name:no": "Nederland",
+          "name:nv": "Tsin Bikeeʼ Dineʼé Bikéyah",
+          "name:oc": "Païses Basses",
+          "name:os": "Нидерландтæ",
+          "name:pa": "ਨੀਦਰਲੈਂਡ",
+          "name:pl": "Holandia",
+          "name:ps": "هالنډ",
+          "name:pt": "Países Baixos",
+          "name:qu": "Urasuyu",
+          "name:rm": "Pajais Bass",
+          "name:ro": "Țările de Jos",
+          "name:ru": "Нидерланды",
+          "name:rw": "Ubuholandi",
+          "name:sa": "नेदरलैंड्स",
+          "name:sc": "Logos Bascios",
+          "name:se": "Vuolleeatnamat",
+          "name:sh": "Holandija",
+          "name:si": "නෙදර්ලන්තය",
+          "name:sk": "Holandsko",
+          "name:sl": "Nizozemska",
+          "name:so": "Holland",
+          "name:sq": "Holanda",
+          "name:sr": "Холандија",
+          "name:ss": "IDashi",
+          "name:st": "Hôlanê",
+          "name:su": "Walanda",
+          "name:sv": "Nederländerna",
+          "name:sw": "Uholanzi",
+          "name:ta": "நெதர்லாந்து",
+          "name:te": "నెదర్లాండ్",
+          "name:tg": "Нидерланд",
+          "name:th": "ประเทศเนเธอร์แลนด์",
+          "name:tk": "Niderlandlar",
+          "name:tl": "Olanda",
+          "name:to": "Holani",
+          "name:tr": "Hollanda",
+          "name:tt": "Нидерландлар",
+          "name:ug": "گوللاندىيە",
+          "name:uk": "Нідерланди",
+          "name:ur": "ہالینڈ",
+          "name:uz": "Niderlandlar",
+          "name:vi": "Hà Lan",
+          "name:vo": "Nedän",
+          "name:wa": "Bas Payis",
+          "name:wo": "Olaand",
+          "name:xh": "ENetherlands",
+          "name:yi": "האלאנד",
+          "name:yo": "Nẹ́dálándì",
+          "name:zh": "荷兰 / 荷蘭",
+          "name:zu": "Netherlands",
+          "boundary": "administrative",
+          "int_name": "Nederland",
+          "name:ace": "Blanda",
+          "name:als": "Niederlande",
+          "name:ang": "Niðerland",
+          "name:arc": "ܗܘܠܢܕܐ",
+          "name:arz": "نيديرلاند",
+          "name:ast": "Países Baxos",
+          "name:azb": "هولند",
+          "name:bar": "Holland",
+          "name:bcl": "Nederlands",
+          "name:bpy": "নেদারল্যান্ড",
+          "name:bug": "Belanda",
+          "name:bxr": "Нидерланд",
+          "name:cdo": "Hò̤-làng",
+          "name:ceb": "Olanda",
+          "name:chr": "ᏁᏛᎳᏂ",
+          "name:ckb": "ھۆلەند",
+          "name:crh": "Felemenk",
+          "name:csb": "Néderlandzkô",
+          "name:diq": "Hollanda",
+          "name:dsb": "Nižozemska",
+          "name:ext": "Paisis Baxus",
+          "name:frp": "Payis-Bâs",
+          "name:frr": "Nederlönje",
+          "name:fur": "Paîs Bas",
+          "name:gag": "Niderland",
+          "name:gan": "荷蘭",
+          "name:grc": "Βαταυία",
+          "name:hak": "Hò-làn",
+          "name:haw": "Hōlani",
+          "name:hif": "The Netherlands",
+          "name:hsb": "Nižozemska",
+          "name:ilo": "Olánda",
+          "name:jbo": "nederland",
+          "name:kaa": "Niderlandiya",
+          "name:kbd": "Нидерлэндхэр",
+          "name:koi": "Недерланд",
+          "name:krc": "Нидерландла",
+          "name:ksh": "Niederlande",
+          "name:lad": "Payises Bashos",
+          "name:lez": "Нидерландар",
+          "name:lij": "Paixi Basci",
+          "name:lmo": "Paes Bass",
+          "name:ltg": "Nīderlandeja",
+          "name:lzh": "荷蘭",
+          "name:mdf": "Недерлантт",
+          "name:mhr": "Нидерланде",
+          "name:min": "Balando",
+          "name:mzn": "هلند",
+          "name:nah": "Tlanitlālpan",
+          "name:nan": "Hô-lân-kok",
+          "name:nap": "Ulanna",
+          "name:nds": "Nedderlannen",
+          "name:new": "नेदरल्यान्द्स्",
+          "name:nov": "Nederlande",
+          "name:nrm": "Pays Bas",
+          "name:pam": "Paises Bahes",
+          "name:pap": "Hulanda",
+          "name:pcd": "Bas-Païs",
+          "name:pdc": "Holland",
+          "name:pih": "Dem Nethiland",
+          "name:pms": "Pais Bass",
+          "name:pnb": "نیدرلینڈز",
+          "name:pnt": "Ολλανδία",
+          "name:rmy": "Olanda",
+          "name:rue": "Нідерланды",
+          "name:sah": "Недерланд",
+          "name:scn": "Paisi Vasci",
+          "name:sco": "Netherlands",
+          "name:smn": "Vuáládâhenâmeh",
+          "name:srn": "Bakrakondre",
+          "name:stq": "Niederlounde",
+          "name:syc": "ܗܘܠܢܕܐ",
+          "name:szl": "Niderlandy",
+          "name:tet": "Olanda",
+          "name:tok": "ma Netelan",
+          "name:tpi": "Ol Nitelan",
+          "name:tzl": "Päts-Bäts",
+          "name:udm": "Нидерланд",
+          "name:vec": "Paéxi Basi",
+          "name:vep": "Alamad",
+          "name:vls": "Holland",
+          "name:vro": "Holland",
+          "name:war": "Nederlandes",
+          "name:wuu": "尼德兰",
+          "name:xal": "Недерлендин Нутг",
+          "name:xmf": "ნიდერლანდი",
+          "name:yue": "荷蘭",
+          "name:zea": "Nederland",
+          "nat_name": "Koninkrijk",
+          "operator": "Koninkrijk der Nederlanden",
+          "way_area": "7.82235",
+          "wikidata": "Q29999",
+          "ISO3166-1": "NL",
+          "wikipedia": "nl:Koninkrijk der Nederlanden",
+          "start_date": "1813",
+          "admin_level": "2",
+          "alt_name:cs": "Nizozemí",
+          "name:nds-nl": "Nederlaand",
+          "name:simple": "Netherlands",
+          "old_name:bs": "Holandija",
+          "old_name:cs": "Holandsko",
+          "operator:de": "Königreich der Niederlande",
+          "operator:fr": "Royaume des Pays-Bas",
+          "operator:nl": "Koninkrijk der Nederlanden",
+          "related_law": "Statuut voor het Koninkrijk der Nederlanden",
+          "alt_name:pcd": "Bos-Païs",
+          "alt_name:vls": "Olland;Nederlandn;Nederland'n",
+          "name:bat-smg": "Nīderlandā",
+          "name:map-bms": "Landa",
+          "name:zh-Hans": "荷兰",
+          "name:zh-Hant": "荷蘭",
+          "operator:grc": "Βασιλεία Βαταυίας",
+          "name:roa-tara": "Pajèsere Vasce",
+          "official_name": "Koninkrijk der Nederlanden",
+          "name:be-tarask": "Нідэрлянды",
+          "old_name:-1815": "Verëenigde Nederlanden",
+          "related_law:url": "https://wetten.overheid.nl/BWBR0002154/2017-11-17",
+          "ISO3166-1:alpha2": "NL",
+          "ISO3166-1:alpha3": "NLD",
+          "default_language": "nl",
+          "official_name:ca": "Regne dels Països Baixos",
+          "official_name:cs": "Nizozemské království",
+          "official_name:de": "Königreich der Niederlande",
+          "official_name:el": "Βασίλειο των Κάτω Χωρών",
+          "official_name:en": "Kingdom of the Netherlands",
+          "official_name:eo": "Reĝlando Nederlando",
+          "official_name:es": "Reino de Los Paises Bajos",
+          "official_name:fi": "Alankomaiden kuningaskunta",
+          "official_name:fr": "Royaume des Pays-Bas",
+          "official_name:it": "Regno dei Paesi Bassi",
+          "official_name:nl": "Koninkrijk der Nederlanden",
+          "official_name:pl": "Królestwo Niderlandów",
+          "official_name:pt": "Reino dos Países Baixos",
+          "ISO3166-1:numeric": "528",
+          "official_name:grc": "Βασιλεία Βαταυίας",
+          "official_name:nds": "Königriek vun de Nedderlannen",
+          "official_name:pcd": "Roéyôme chés Bas-Paÿs",
+          "official_name:vls": "Keunienkryk van de Nederlandn",
+          "official_name:-1815": "Staat der Verëenigde Nederlanden",
+          "official_name:1815--1922-12-13": "Koningrijk der Nederlanden"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68,
+              12.068999378881989
+            ],
+            [
+              -67.9996778,
+              12.07
+            ],
+            [
+              -67.9979548,
+              12.076
+            ],
+            [
+              -67.9959734,
+              12.084
+            ],
+            [
+              -67.9943434,
+              12.092
+            ],
+            [
+              -67.9930277,
+              12.1
+            ],
+            [
+              -67.9922522,
+              12.106
+            ],
+            [
+              -67.9916303,
+              12.1125349
+            ],
+            [
+              -67.9916303,
+              12.154614
+            ],
+            [
+              -67.9926573,
+              12.164
+            ],
+            [
+              -67.9946295,
+              12.176
+            ],
+            [
+              -67.992706,
+              12.188
+            ],
+            [
+              -67.9916303,
+              12.1986933
+            ],
+            [
+              -67.9916303,
+              12.2338141
+            ],
+            [
+              -67.9920172,
+              12.238
+            ],
+            [
+              -67.9933028,
+              12.248
+            ],
+            [
+              -67.9943277,
+              12.254
+            ],
+            [
+              -67.9959958,
+              12.262
+            ],
+            [
+              -67.9985786,
+              12.272
+            ],
+            [
+              -68,
+              12.276677196446213
+            ],
+            [
+              -68,
+              12.068999378881989
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -272644,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Venezuela",
+        "local_name": "Venezuela",
+        "name_en": "Venezuela",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+          "name": "Venezuela",
+          "name:af": "Venezuela",
+          "name:am": "ቬኔዝዌላ",
+          "name:an": "Venezuela",
+          "name:ar": "فنزويلا",
+          "name:av": "Венесуэла",
+          "name:ay": "Winïxwila",
+          "name:az": "Venesuela",
+          "name:ba": "Венесуэла",
+          "name:be": "Венесуэла",
+          "name:bg": "Венецуела",
+          "name:bi": "Venezuela",
+          "name:bm": "Venezuela",
+          "name:bn": "ভেনেজুয়েলা",
+          "name:bo": "ཝེ་ནེ་ཟུའེ་ལ།",
+          "name:br": "Venezuela",
+          "name:bs": "Venecuela",
+          "name:ca": "Veneçuela",
+          "name:ce": "Венесуэла",
+          "name:co": "Venezuela",
+          "name:cs": "Venezuela",
+          "name:cv": "Венесуэла",
+          "name:cy": "Venezuela",
+          "name:da": "Venezuela",
+          "name:de": "Venezuela",
+          "name:dv": "ވެނެޒުއޭލާ",
+          "name:ee": "Venezuela",
+          "name:el": "Βενεζουέλα",
+          "name:en": "Venezuela",
+          "name:eo": "Venezuelo",
+          "name:es": "Venezuela",
+          "name:et": "Venezuela",
+          "name:eu": "Venezuela",
+          "name:fa": "ونزوئلا",
+          "name:fi": "Venezuela",
+          "name:fo": "Venesuela",
+          "name:fr": "Venezuela",
+          "name:fy": "Fenezuëla",
+          "name:ga": "Veiniséala",
+          "name:gd": "A' Bheiniseala",
+          "name:gl": "Venezuela",
+          "name:gn": "Venesuéla",
+          "name:gu": "વેનેઝુએલા",
+          "name:gv": "Yn Veneswaaley",
+          "name:he": "ונצואלה",
+          "name:hi": "वेनेज़ुएला",
+          "name:hr": "Venezuela",
+          "name:ht": "Venezwela",
+          "name:hu": "Venezuela",
+          "name:hy": "Վենեսուելա",
+          "name:ia": "Venezuela",
+          "name:id": "Venezuela",
+          "name:ie": "Venezuela",
+          "name:io": "Venezuela",
+          "name:is": "Venesúela",
+          "name:it": "Venezuela",
+          "name:ja": "ベネズエラ",
+          "name:jv": "Venezuela",
+          "name:ka": "ვენესუელა",
+          "name:kk": "Венесуэла",
+          "name:kn": "ವೆನೆಜುವೆಲಾ",
+          "name:ko": "베네수엘라",
+          "name:ku": "Venezuela",
+          "name:kw": "Veneswela",
+          "name:la": "Venetiola",
+          "name:lb": "Venezuela",
+          "name:li": "Venezuela",
+          "name:ln": "Venezwela",
+          "name:lt": "Venesuela",
+          "name:lv": "Venecuēla",
+          "name:mg": "Venezoela",
+          "name:mi": "Wenehūera",
+          "name:mk": "Венецуела",
+          "name:ml": "വെനിസ്വേല",
+          "name:mn": "Венесуэл",
+          "name:mr": "व्हेनेझुएला",
+          "name:ms": "Venezuela",
+          "name:mt": "Veneżwela",
+          "name:my": "ဗင်နီဇွဲလားနိုင်ငံ",
+          "name:ne": "भेनेजुएला",
+          "name:nl": "Venezuela",
+          "name:nn": "Venezuela",
+          "name:no": "Venezuela",
+          "name:nv": "Táłkááʼ Bighan Dineʼé Bikéyah",
+          "name:oc": "Veneçuèla",
+          "name:or": "ଭେନେଜୁଏଲା",
+          "name:os": "Венесуэлæ",
+          "name:pa": "ਵੈਨੇਜ਼ੁਏਲਾ",
+          "name:pl": "Wenezuela",
+          "name:pt": "Venezuela",
+          "name:qu": "Winisuyla",
+          "name:rm": "Venezuela",
+          "name:rn": "Venezuela",
+          "name:ro": "Venezuela",
+          "name:ru": "Венесуэла",
+          "name:rw": "Venezuwela",
+          "name:sa": "वेनेज्वेला",
+          "name:se": "Venezuela",
+          "name:sh": "Venezuela",
+          "name:sk": "Venezuela",
+          "name:sl": "Venezuela",
+          "name:sm": "Venesuela",
+          "name:so": "Fanansuwela",
+          "name:sq": "Venezuela",
+          "name:sr": "Венецуела",
+          "name:su": "Vénézuéla",
+          "name:sv": "Venezuela",
+          "name:sw": "Venezuela",
+          "name:ta": "வெனிசுவேலா",
+          "name:tg": "Венесуэла",
+          "name:th": "ประเทศเวเนซุเอลา",
+          "name:tk": "Wenesuela",
+          "name:tl": "Venezuela",
+          "name:tr": "Venezuela",
+          "name:tt": "Венесуэла",
+          "name:ug": "ۋېنېسۇئېلا",
+          "name:uk": "Венесуела",
+          "name:ur": "وینیزویلا",
+          "name:uz": "Venesuela",
+          "name:ve": "Venezuela",
+          "name:vi": "Venezuela",
+          "name:vo": "Venesolän",
+          "name:wa": "Venezwela",
+          "name:wo": "Benesuwela",
+          "name:yi": "ווענעזועלע",
+          "name:yo": "Fenesuela",
+          "name:zh": "委內瑞拉",
+          "name:zu": "Venezuela",
+          "boundary": "administrative",
+          "name:ace": "Vènèzuèla",
+          "name:als": "Venezuela",
+          "name:ang": "Feneswela",
+          "name:arc": "ܒܢܙܘܝܠܐ",
+          "name:arz": "فنيزويلا",
+          "name:ast": "Venezuela",
+          "name:bar": "Venezuela",
+          "name:bcl": "Benesuela",
+          "name:bpy": "ভেনেজুয়েলা",
+          "name:ceb": "Venezuela",
+          "name:chr": "ᏪᏁᏑᏪᎳ",
+          "name:ckb": "ڤێنیزوێلا",
+          "name:crh": "Venesuela",
+          "name:diq": "Venezuela",
+          "name:dsb": "Venezuela",
+          "name:eml": "Venesüela",
+          "name:ext": "Veneçuela",
+          "name:frp": "Venezuèla",
+          "name:frr": "Venezuela",
+          "name:fur": "Venezuela",
+          "name:gag": "Venesuela",
+          "name:gcf": "Bénézwèl",
+          "name:guc": "Wenesueela",
+          "name:hif": "Venezuela",
+          "name:hsb": "Venezuela",
+          "name:ilo": "Venezuela",
+          "name:jbo": "benesuel",
+          "name:kbd": "Венесуэлэ",
+          "name:krc": "Венесуэла",
+          "name:lad": "Venezuela",
+          "name:lez": "Венесуэла",
+          "name:lij": "Venezuela",
+          "name:lmo": "Venezuela",
+          "name:ltg": "Venecuela",
+          "name:lzh": "委內瑞拉",
+          "name:mdf": "Венезуела",
+          "name:mhr": "Венесуэле",
+          "name:min": "Venezuela",
+          "name:mrj": "Венесуэла",
+          "name:mzn": "ونزوئلا",
+          "name:nah": "Venezuela",
+          "name:nan": "Venezuela",
+          "name:nap": "Venezuela",
+          "name:nds": "Venezuela",
+          "name:nov": "Venezuela",
+          "name:nrm": "Vénézuéla",
+          "name:pag": "Venezuela",
+          "name:pam": "Beneswela",
+          "name:pap": "Venezuela",
+          "name:pms": "Venessuela",
+          "name:pnb": "وینزویلا",
+          "name:rmy": "Venezuela",
+          "name:rue": "Венеcуела",
+          "name:sah": "Венесуэла",
+          "name:scn": "Venezzuela",
+          "name:sco": "Venezuela",
+          "name:smn": "Venezuela",
+          "name:sms": "Venezuela",
+          "name:srn": "Venswelikondre",
+          "name:szl": "Wynezuela",
+          "name:tet": "Venezuela",
+          "name:tzl": "Veneþuela",
+          "name:udm": "Венесуэла",
+          "name:vec": "Venesueła",
+          "name:vep": "Venesuel",
+          "name:vro": "Venezuela",
+          "name:war": "Venezuela",
+          "name:wuu": "委内瑞拉",
+          "name:xal": "Боливара Венесулмудин Орн",
+          "name:yue": "委內瑞拉",
+          "timezone": "America/Caracas",
+          "way_area": "82.3485",
+          "wikidata": "Q717",
+          "ISO3166-1": "VE",
+          "wikipedia": "en:Es:Venezuela",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:simple": "Venezuela",
+          "name:bat-smg": "Venesoela",
+          "name:cbk-zam": "Venezuela",
+          "name:zh-Hans": "委内瑞拉",
+          "name:zh-Hant": "委內瑞拉",
+          "name:roa-tara": "Venezuela",
+          "name:be-tarask": "Вэнэсуэла",
+          "ISO3166-1:alpha2": "VE",
+          "ISO3166-1:alpha3": "VEN",
+          "default_language": "es",
+          "official_name:cs": "Bolívarovská republika Venezuela",
+          "official_name:de": "Bolivarische Republik Venezuela",
+          "official_name:en": "Bolivarian Republic of Venezuela",
+          "official_name:es": "República Bolivariana de Venezuela",
+          "official_name:fr": "République bolivarienne du Venezuela",
+          "official_name:qu": "Wuliwarpi Republika Winisuyla",
+          "official_name:ru": "Боливарианская Республика Венесуэла",
+          "ISO3166-1:numeric": "862",
+          "official_name:chr": "ᏉᎵᏪᎵᎠᏂ ᏍᎦᏚᎩ ᎾᎿ ᏪᏁᏑᏪᎳ",
+          "official_name:gcf": "Bénézwèl",
+          "official_name:guc": "Mma Woliwarianakat Wenesueela"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -67.8931595,
+                12.0559279
+              ],
+              [
+                -67.8920744,
+                12.0404387
+              ],
+              [
+                -67.8897776,
+                12.0250782
+              ],
+              [
+                -67.886154,
+                12.009528
+              ],
+              [
+                -67.88535321406252,
+                12
+              ],
+              [
+                -67.2141052884709,
+                12
+              ],
+              [
+                -67.2143667,
+                12.007278
+              ],
+              [
+                -67.2160754,
+                12.0223731
+              ],
+              [
+                -67.2189378,
+                12.0372979
+              ],
+              [
+                -67.222938,
+                12.0519673
+              ],
+              [
+                -67.2281723,
+                12.0665946
+              ],
+              [
+                -67.2344151,
+                12.0805878
+              ],
+              [
+                -67.2417214,
+                12.0940734
+              ],
+              [
+                -67.250049,
+                12.1069732
+              ],
+              [
+                -67.2593498,
+                12.1192125
+              ],
+              [
+                -67.26957,
+                12.1307203
+              ],
+              [
+                -67.2806507,
+                12.14143
+              ],
+              [
+                -67.2925276,
+                12.1512795
+              ],
+              [
+                -67.3051321,
+                12.1602117
+              ],
+              [
+                -67.3187386,
+                12.168366
+              ],
+              [
+                -67.333246,
+                12.175618
+              ],
+              [
+                -67.3482951,
+                12.1817098
+              ],
+              [
+                -67.3637901,
+                12.1866025
+              ],
+              [
+                -67.3796326,
+                12.1902651
+              ],
+              [
+                -67.3957216,
+                12.1926742
+              ],
+              [
+                -67.4119549,
+                12.1938144
+              ],
+              [
+                -67.4279832,
+                12.1937166
+              ],
+              [
+                -67.4436092,
+                12.1924239
+              ],
+              [
+                -67.4590881,
+                12.1899547
+              ],
+              [
+                -67.4743286,
+                12.1863236
+              ],
+              [
+                -67.4892405,
+                12.1815519
+              ],
+              [
+                -67.5045822,
+                12.1752468
+              ],
+              [
+                -67.5137967,
+                12.1729647
+              ],
+              [
+                -67.5238976,
+                12.186427
+              ],
+              [
+                -67.5350758,
+                12.1989848
+              ],
+              [
+                -67.5472763,
+                12.210586
+              ],
+              [
+                -67.5604146,
+                12.2211505
+              ],
+              [
+                -67.5744002,
+                12.2306052
+              ],
+              [
+                -67.5895352,
+                12.2390877
+              ],
+              [
+                -67.5928734,
+                12.2406182
+              ],
+              [
+                -67.5961468,
+                12.2423728
+              ],
+              [
+                -67.6103206,
+                12.2486456
+              ],
+              [
+                -67.624939,
+                12.2538396
+              ],
+              [
+                -67.6399172,
+                12.2579248
+              ],
+              [
+                -67.6551683,
+                12.2608774
+              ],
+              [
+                -67.6706038,
+                12.2626802
+              ],
+              [
+                -67.6882618,
+                12.2633941
+              ],
+              [
+                -67.7048171,
+                12.2627341
+              ],
+              [
+                -67.7212634,
+                12.260756
+              ],
+              [
+                -67.7374923,
+                12.2574726
+              ],
+              [
+                -67.7524478,
+                12.2532484
+              ],
+              [
+                -67.7666647,
+                12.2480666
+              ],
+              [
+                -67.7804512,
+                12.2418612
+              ],
+              [
+                -67.7937311,
+                12.2346666
+              ],
+              [
+                -67.8064312,
+                12.2265225
+              ],
+              [
+                -67.8184815,
+                12.2174737
+              ],
+              [
+                -67.830136,
+                12.2073131
+              ],
+              [
+                -67.840675,
+                12.1966302
+              ],
+              [
+                -67.8503802,
+                12.1852087
+              ],
+              [
+                -67.8591984,
+                12.1731113
+              ],
+              [
+                -67.8670813,
+                12.1604046
+              ],
+              [
+                -67.8743601,
+                12.1464019
+              ],
+              [
+                -67.8804314,
+                12.1320713
+              ],
+              [
+                -67.8853593,
+                12.1173221
+              ],
+              [
+                -67.8891148,
+                12.1022424
+              ],
+              [
+                -67.8916755,
+                12.0869223
+              ],
+              [
+                -67.8930264,
+                12.0714534
+              ],
+              [
+                -67.8931595,
+                12.0559279
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                -67.10404070501504,
+                12
+              ],
+              [
+                -67,
+                12
+              ],
+              [
+                -67,
+                12.072408009134293
+              ],
+              [
+                -67.0126421,
+                12.0682465
+              ],
+              [
+                -67.0286733,
+                12.0614601
+              ],
+              [
+                -67.0440559,
+                12.0533495
+              ],
+              [
+                -67.0571671,
+                12.0450406
+              ],
+              [
+                -67.0694692,
+                12.0358711
+              ],
+              [
+                -67.0810314,
+                12.0258121
+              ],
+              [
+                -67.0917875,
+                12.0149214
+              ],
+              [
+                -67.101676,
+                12.0032612
+              ],
+              [
+                -67.10404070501504,
+                12
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

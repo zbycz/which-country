@@ -1,0 +1,503 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -28699,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Georgia",
+        "local_name": "საქართველო",
+        "name_en": "Georgia",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+          "name": "საქართველო",
+          "int_ref": "GE",
+          "name:ab": "Қырҭтәыла",
+          "name:af": "Georgië",
+          "name:am": "ጂዮርጂያ",
+          "name:an": "Cheorchia",
+          "name:ar": "جورجيا",
+          "name:av": "Гуржи",
+          "name:az": "Gürcüstan",
+          "name:be": "Грузія",
+          "name:bg": "Грузия",
+          "name:bn": "জর্জিয়া (রাষ্ট্র)",
+          "name:bo": "འཇོར་ཇི་ཡ། (རྒྱལ་ཁབ།)",
+          "name:br": "Jorjia (bro)",
+          "name:bs": "Gruzija",
+          "name:ca": "Geòrgia",
+          "name:ce": "Гуьржийчоь",
+          "name:cs": "Gruzie",
+          "name:cu": "Гєѡргїꙗ",
+          "name:cv": "Грузи",
+          "name:cy": "Georgia",
+          "name:da": "Georgien",
+          "name:de": "Georgien",
+          "name:dv": "ޖޯޖިޔާ (ޤައުމު)",
+          "name:dz": "ཇཽ་ཇཱ",
+          "name:ee": "Georgia",
+          "name:el": "Γεωργία",
+          "name:en": "Georgia",
+          "name:eo": "Kartvelio",
+          "name:es": "Georgia",
+          "name:et": "Gruusia",
+          "name:eu": "Georgia",
+          "name:fa": "گرجستان",
+          "name:fi": "Georgia",
+          "name:fo": "Georgia (land)",
+          "name:fr": "Géorgie",
+          "name:fy": "Geörgje",
+          "name:ga": "An tSeoirsia",
+          "name:gd": "A' Chairtbheil",
+          "name:gl": "Xeorxia - საქართველო",
+          "name:gn": "Geórgia",
+          "name:gu": "જ્યોર્જીયા (દેશ)",
+          "name:gv": "Yn Çhorshey",
+          "name:he": "גאורגיה",
+          "name:hi": "जॉर्जिया",
+          "name:hr": "Gruzija",
+          "name:ht": "Jeoji",
+          "name:hu": "Grúzia",
+          "name:hy": "Վրաստան",
+          "name:ia": "Georgia",
+          "name:id": "Georgia",
+          "name:ie": "Georgia",
+          "name:io": "Gruzia",
+          "name:is": "Georgía",
+          "name:it": "Georgia",
+          "name:ja": "ジョージア",
+          "name:jv": "Georgia",
+          "name:ka": "საქართველო",
+          "name:kk": "Грузия",
+          "name:kn": "ಜಾರ್ಜಿಯ",
+          "name:ko": "조지아",
+          "name:ku": "Gurcistan",
+          "name:kv": "Грузия",
+          "name:kw": "Pow Grouzi",
+          "name:ky": "Грузия",
+          "name:la": "Georgia",
+          "name:lb": "Georgien",
+          "name:li": "Georgië",
+          "name:lt": "Gruzija",
+          "name:lv": "Gruzija",
+          "name:mi": "Hōria",
+          "name:mk": "Грузија",
+          "name:ml": "ജോർജ്ജിയ",
+          "name:mn": "Гүрж",
+          "name:mr": "जॉर्जिया",
+          "name:ms": "Georgia",
+          "name:mt": "Ġeorġja",
+          "name:my": "ဂျော်ဂျီယာနိုင်ငံ",
+          "name:na": "Djiordjiya",
+          "name:ne": "जर्जिया (देश)",
+          "name:nl": "Georgië",
+          "name:nn": "Georgia",
+          "name:no": "Georgia",
+          "name:nv": "Jóojah (Kéyah)",
+          "name:oc": "Georgia (Caucàs)",
+          "name:or": "ଜର୍ଜିଆ",
+          "name:os": "Гуырдзыстон",
+          "name:pl": "Gruzja",
+          "name:ps": "ګرجستان",
+          "name:pt": "Geórgia",
+          "name:qu": "Kartulsuyu",
+          "name:ro": "Georgia",
+          "name:ru": "Грузия",
+          "name:rw": "Geworugiya",
+          "name:sc": "Georgia",
+          "name:se": "Georgia",
+          "name:sh": "Gruzija",
+          "name:si": "ජෝර්ජියා (රට)",
+          "name:sk": "Gruzínsko",
+          "name:sl": "Gruzija",
+          "name:so": "Joorjiya",
+          "name:sq": "Gjeorgjia",
+          "name:sr": "Грузија",
+          "name:ss": "IJojiya",
+          "name:su": "Géorgia",
+          "name:sv": "Georgien",
+          "name:sw": "Georgia (nchi)",
+          "name:ta": "சியார்சியா (நாடு)",
+          "name:te": "జార్జియా (దేశం)",
+          "name:tg": "Гурҷистон",
+          "name:th": "ประเทศจอร์เจีย",
+          "name:tk": "Gruziýa",
+          "name:tl": "Heorhiya",
+          "name:tr": "Gürcistan",
+          "name:tt": "Гөрҗистан",
+          "name:ug": "گرۇزىيە",
+          "name:uk": "Грузія",
+          "name:ur": "جارجیا",
+          "name:uz": "Gurjiston",
+          "name:vi": "Gruzia",
+          "name:vo": "Grusiyän",
+          "name:wo": "Jeoorji",
+          "name:yi": "גרוזיע",
+          "name:yo": "Georgia",
+          "name:zh": "格鲁吉亚 / 喬治亞",
+          "boundary": "administrative",
+          "int_name": "Georgia",
+          "name:ace": "Georgia",
+          "name:als": "Georgien",
+          "name:ang": "Georgia",
+          "name:arc": "ܓܘܪܓܝܐ",
+          "name:arz": "جيورجيا",
+          "name:ast": "Xeorxa",
+          "name:bar": "Georgien",
+          "name:bcl": "Georgya",
+          "name:bjn": "Jorjiya",
+          "name:bxr": "Гүрж",
+          "name:cdo": "Gáh-lū-gék-ā",
+          "name:ceb": "Georgia",
+          "name:ckb": "گورجستان",
+          "name:crh": "Gürcistan",
+          "name:csb": "Grëzóńskô",
+          "name:diq": "Gurcıstan",
+          "name:dsb": "Georgiska",
+          "name:ext": "Geólgia",
+          "name:frp": "Jôrg·ie",
+          "name:frr": "Georgien",
+          "name:gag": "Gruziya",
+          "name:hak": "Kak-lû-kit-â",
+          "name:haw": "Keokia",
+          "name:hif": "Georgia",
+          "name:hsb": "Georgiska",
+          "name:ilo": "Georgia",
+          "name:kaa": "Gruziya",
+          "name:kbd": "Хъырцей",
+          "name:krc": "Гюрджю",
+          "name:lbe": "Гуржисттан",
+          "name:lez": "Гуржистан",
+          "name:lij": "Geòrgia",
+          "name:lmo": "Georgia",
+          "name:ltg": "Gruzeja",
+          "name:mdf": "Грузие",
+          "name:mhr": "Грузий",
+          "name:min": "Georgia",
+          "name:mzn": "گرجستون",
+          "name:nah": "Georgia",
+          "name:nan": "Sakartvelo",
+          "name:nds": "Georgien",
+          "name:new": "ज्योर्जिया",
+          "name:nov": "Georgia",
+          "name:pam": "Georgya",
+          "name:pih": "Jorja",
+          "name:pms": "Geòrgia",
+          "name:pnb": "گرجستان",
+          "name:pnt": "Γρουζία",
+          "name:sah": "Грузия",
+          "name:scn": "Giorgia",
+          "name:sco": "Georgie",
+          "name:smn": "Georgia",
+          "name:sms": "Georgia",
+          "name:stq": "Georgien",
+          "name:szl": "Gruzyjŏ",
+          "name:tok": "ma Katelo",
+          "name:tzl": "Cartavia",
+          "name:udm": "Грузия",
+          "name:vec": "Zorzania",
+          "name:vep": "Gruzii",
+          "name:vro": "Gruusia",
+          "name:war": "Georgia",
+          "name:wuu": "格鲁吉亚",
+          "name:xal": "Гүрҗмүдин Орн",
+          "name:xmf": "საქორთუო",
+          "name:yue": "格魯吉亞",
+          "name:zea": "Georhië",
+          "timezone": "Asia/Tbilisi",
+          "way_area": "8.26176",
+          "wikidata": "Q230",
+          "ISO3166-1": "GE",
+          "wikipedia": "en:Georgia (country)",
+          "population": "3729500",
+          "admin_level": "2",
+          "alt_name:eo": "Kartvelujo",
+          "border_type": "International",
+          "old_name:fi": "Gruusia",
+          "old_name:ja": "グルジア",
+          "addr:country": "GE",
+          "alt_name:ckb": "جۆرجیا",
+          "name:bat-smg": "Grozėjė",
+          "name:zh-Hans": "格鲁吉亚",
+          "name:zh-Hant": "喬治亞",
+          "name:be-tarask": "Грузія",
+          "population:date": "2015",
+          "ISO3166-1:alpha2": "GE",
+          "ISO3166-1:alpha3": "GEO",
+          "default_language": "ka",
+          "ISO3166-1:numeric": "268"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.21535921781304,
+              43
+            ],
+            [
+              40.2188213,
+              42.999328
+            ],
+            [
+              40.2366628,
+              42.9968031
+            ],
+            [
+              40.2546984,
+              42.9951746
+            ],
+            [
+              40.2728438,
+              42.99445
+            ],
+            [
+              40.2910146,
+              42.9946328
+            ],
+            [
+              40.2971888,
+              42.9950042
+            ],
+            [
+              40.3059166,
+              42.9899548
+            ],
+            [
+              40.3209058,
+              42.9824388
+            ],
+            [
+              40.3365611,
+              42.9756878
+            ],
+            [
+              40.3528096,
+              42.9697336
+            ],
+            [
+              40.3695756,
+              42.9646041
+            ],
+            [
+              40.3856882,
+              42.9605953
+            ],
+            [
+              40.3985976,
+              42.9520117
+            ],
+            [
+              40.4128506,
+              42.9437598
+            ],
+            [
+              40.4278397,
+              42.9362382
+            ],
+            [
+              40.4434951,
+              42.9294821
+            ],
+            [
+              40.4597436,
+              42.9235234
+            ],
+            [
+              40.4765096,
+              42.91839
+            ],
+            [
+              40.4937149,
+              42.9141061
+            ],
+            [
+              40.5112793,
+              42.9106919
+            ],
+            [
+              40.5291208,
+              42.9081634
+            ],
+            [
+              40.5471564,
+              42.9065325
+            ],
+            [
+              40.5653018,
+              42.9058069
+            ],
+            [
+              40.5698426,
+              42.9058526
+            ],
+            [
+              40.5873087,
+              42.9004609
+            ],
+            [
+              40.604514,
+              42.8961758
+            ],
+            [
+              40.6220784,
+              42.8927606
+            ],
+            [
+              40.6399199,
+              42.8902313
+            ],
+            [
+              40.6579555,
+              42.8886
+            ],
+            [
+              40.6761009,
+              42.8878741
+            ],
+            [
+              40.6942717,
+              42.8880573
+            ],
+            [
+              40.712383,
+              42.8891485
+            ],
+            [
+              40.7303505,
+              42.8911427
+            ],
+            [
+              40.739622,
+              42.892652
+            ],
+            [
+              40.7435837,
+              42.887234
+            ],
+            [
+              40.7532385,
+              42.8759527
+            ],
+            [
+              40.7639214,
+              42.8651786
+            ],
+            [
+              40.7755827,
+              42.8549622
+            ],
+            [
+              40.7881678,
+              42.8453513
+            ],
+            [
+              40.8016183,
+              42.8363912
+            ],
+            [
+              40.8158713,
+              42.8281239
+            ],
+            [
+              40.8308604,
+              42.8205881
+            ],
+            [
+              40.8465157,
+              42.8138194
+            ],
+            [
+              40.8615361,
+              42.8083007
+            ],
+            [
+              40.865978,
+              42.8022177
+            ],
+            [
+              40.8756328,
+              42.7909209
+            ],
+            [
+              40.8863157,
+              42.780132
+            ],
+            [
+              40.8897839,
+              42.7770896
+            ],
+            [
+              40.8900133,
+              42.7750414
+            ],
+            [
+              40.8927352,
+              42.7618514
+            ],
+            [
+              40.8966769,
+              42.7488258
+            ],
+            [
+              40.90182,
+              42.7360254
+            ],
+            [
+              40.9081405,
+              42.72351
+            ],
+            [
+              40.915609,
+              42.7113382
+            ],
+            [
+              40.9241907,
+              42.6995669
+            ],
+            [
+              40.9338455,
+              42.6882514
+            ],
+            [
+              40.9445284,
+              42.6774446
+            ],
+            [
+              40.9561897,
+              42.6671971
+            ],
+            [
+              40.9687748,
+              42.6575571
+            ],
+            [
+              40.9822253,
+              42.6485698
+            ],
+            [
+              40.9964783,
+              42.6402774
+            ],
+            [
+              41,
+              42.63850150140569
+            ],
+            [
+              41,
+              43
+            ],
+            [
+              40.21535921781304,
+              43
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

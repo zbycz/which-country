@@ -1,0 +1,638 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -382313,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Japan",
+        "local_name": "日本",
+        "name_en": "Japan",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+          "name": "日本",
+          "name:ab": "Иапониа",
+          "name:af": "Japan",
+          "name:am": "ጃፓን",
+          "name:an": "Chapón",
+          "name:ar": "اليابان",
+          "name:ay": "Nihun",
+          "name:az": "Yaponiya",
+          "name:ba": "Япония",
+          "name:be": "Японія",
+          "name:bg": "Япония",
+          "name:bn": "জাপান",
+          "name:bo": "རི་པིན།",
+          "name:br": "Japan",
+          "name:bs": "Japan",
+          "name:ca": "Japó",
+          "name:ce": "Япони",
+          "name:ch": "Chapan",
+          "name:cs": "Japonsko",
+          "name:cu": "Ꙗпѡнїꙗ",
+          "name:cv": "Япони",
+          "name:cy": "Japan",
+          "name:da": "Japan",
+          "name:de": "Japan",
+          "name:dv": "ޖަޕާނު",
+          "name:dz": "ཇཱ་པཱན།",
+          "name:ee": "Japan",
+          "name:el": "Ιαπωνία",
+          "name:en": "Japan",
+          "name:eo": "Japanio",
+          "name:es": "Japón",
+          "name:et": "Jaapan",
+          "name:eu": "Japonia",
+          "name:fa": "ژاپن",
+          "name:fi": "Japani",
+          "name:fo": "Japan",
+          "name:fr": "Japon",
+          "name:fy": "Japan",
+          "name:ga": "An tSeapáin",
+          "name:gd": "An t-Seapan",
+          "name:gl": "Xapón",
+          "name:gn": "Hapõ",
+          "name:gu": "જાપાન",
+          "name:gv": "Yn Çhapaan",
+          "name:ha": "Japan",
+          "name:he": "יפן",
+          "name:hi": "जापान",
+          "name:hr": "Japan",
+          "name:ht": "Japon",
+          "name:hu": "Japán",
+          "name:hy": "Ճապոնիա",
+          "name:ia": "Japon",
+          "name:id": "Jepang",
+          "name:ie": "Japan",
+          "name:io": "Japonia",
+          "name:is": "Japan",
+          "name:it": "Giappone",
+          "name:iu": "ᓃᑉᐊᓐ",
+          "name:ja": "日本",
+          "name:jv": "Jepang",
+          "name:ka": "იაპონია",
+          "name:ki": "Japan",
+          "name:kk": "Жапония",
+          "name:kl": "Japani",
+          "name:km": "ជប៉ុន",
+          "name:kn": "ಜಪಾನ್",
+          "name:ko": "일본",
+          "name:ku": "Japon",
+          "name:kv": "Япония",
+          "name:kw": "Nihon",
+          "name:ky": "Жапония",
+          "name:la": "Iaponia",
+          "name:lb": "Japan",
+          "name:li": "Japan",
+          "name:ln": "Zapɔ́",
+          "name:lo": "ປະເທດຍີ່ປຸ່ນ",
+          "name:lt": "Japonija",
+          "name:lv": "Japāna",
+          "name:mg": "Japana",
+          "name:mi": "Hapani",
+          "name:mk": "Јапонија",
+          "name:ml": "ജപ്പാൻ",
+          "name:mn": "Япон",
+          "name:mo": "Жапония",
+          "name:mr": "जपान",
+          "name:ms": "Jepun",
+          "name:mt": "Ġappun",
+          "name:my": "ဂျပန်နိုင်ငံ",
+          "name:na": "Djapan",
+          "name:ne": "जापान",
+          "name:nl": "Japan",
+          "name:nn": "Japan",
+          "name:no": "Japan",
+          "name:nv": "Binaʼadaałtzózí Dinéʼiʼ Bikéyah",
+          "name:oc": "Japon",
+          "name:om": "Jaappaan",
+          "name:or": "ଜାପାନ",
+          "name:os": "Япон",
+          "name:pa": "ਜਪਾਨ",
+          "name:pl": "Japonia",
+          "name:ps": "جاپان",
+          "name:pt": "Japão",
+          "name:qu": "Nihun",
+          "name:rm": "Giapun",
+          "name:ro": "Japonia",
+          "name:ru": "Япония",
+          "name:rw": "Ubuyapani",
+          "name:sa": "सूर्यमूल",
+          "name:sc": "Giapone",
+          "name:sd": "جاپان",
+          "name:se": "Japána",
+          "name:sh": "Japan",
+          "name:si": "ජපානය",
+          "name:sk": "Japonsko",
+          "name:sl": "Japonska",
+          "name:sm": "Iapani",
+          "name:so": "Jabaan",
+          "name:sq": "Japonia",
+          "name:sr": "Јапан",
+          "name:ss": "IJaphani",
+          "name:su": "Jepang",
+          "name:sv": "Japan",
+          "name:sw": "Japani",
+          "name:ta": "ஜப்பான்",
+          "name:te": "జపాన్",
+          "name:tg": "Жопун",
+          "name:th": "ประเทศญี่ปุ่น",
+          "name:ti": "ጃፓን",
+          "name:tk": "Ýaponiýa",
+          "name:tl": "Hapon",
+          "name:tr": "Japonya",
+          "name:tt": "Япония",
+          "name:tw": "Yapan",
+          "name:ty": "Tāpōnē",
+          "name:ug": "ياپونىيە",
+          "name:uk": "Японія",
+          "name:ur": "جاپان",
+          "name:uz": "Yaponiya",
+          "name:vi": "Nhật Bản",
+          "name:vo": "Yapän",
+          "name:wo": "Sapoŋ",
+          "name:yi": "יאפאן",
+          "name:yo": "Japan",
+          "name:za": "Nditbonj",
+          "name:zh": "日本",
+          "name:zu": "IJapani",
+          "boundary": "administrative",
+          "name:ace": "Jeupun",
+          "name:als": "Japan",
+          "name:ang": "Iapan",
+          "name:arc": "ܝܦܢ",
+          "name:arz": "اليابان",
+          "name:ast": "Xapón",
+          "name:bar": "Japan",
+          "name:bcl": "Hapon",
+          "name:bjn": "Japang",
+          "name:bpy": "জাপান",
+          "name:bug": "ᨍᨛᨄ",
+          "name:bxr": "Япон Улас",
+          "name:cdo": "Nĭk-buōng",
+          "name:ceb": "Hapon",
+          "name:chr": "ᏣᏆᏂᏱ",
+          "name:ckb": "ژاپۆن",
+          "name:crh": "Yaponiya",
+          "name:csb": "Japòńskô",
+          "name:din": "Japan",
+          "name:diq": "Japonya",
+          "name:dsb": "Japańska",
+          "name:ext": "Japón",
+          "name:frp": "J·apon",
+          "name:frr": "Japan",
+          "name:gag": "Yaponiya",
+          "name:gan": "日本",
+          "name:hak": "Ngi̍t-pún",
+          "name:haw": "Iāpana",
+          "name:hif": "Japan",
+          "name:hsb": "Japanska",
+          "name:ilo": "Hapón",
+          "name:jbo": "gugdejupu",
+          "name:kab": "Japun",
+          "name:kbd": "Япон",
+          "name:koi": "Ниппон",
+          "name:krc": "Япония",
+          "name:lez": "Япония",
+          "name:lij": "Giappon",
+          "name:lmo": "Giapun",
+          "name:ltg": "Japoneja",
+          "name:lzh": "日本",
+          "name:mdf": "Япунмастор",
+          "name:mhr": "Японий",
+          "name:min": "Japang",
+          "name:mrj": "Япони",
+          "name:mwl": "Japon",
+          "name:mzn": "جاپون",
+          "name:nah": "Xapon",
+          "name:nan": "Ji̍t-pún",
+          "name:nap": "Giappone",
+          "name:nds": "Japan",
+          "name:new": "जापान",
+          "name:nov": "Japan",
+          "name:nrm": "Japon",
+          "name:nso": "Japane",
+          "name:pam": "Hapon",
+          "name:pap": "Hapon",
+          "name:pcd": "Japon",
+          "name:pdc": "Japan",
+          "name:pih": "Japan",
+          "name:pms": "Giapon",
+          "name:pnb": "جاپان",
+          "name:rue": "Японія",
+          "name:sah": "Дьоппуон",
+          "name:scn": "Giappuni",
+          "name:sco": "Japan",
+          "name:smn": "Jaapaan",
+          "name:sms": "Japaan",
+          "name:srn": "Japan",
+          "name:stq": "Japan",
+          "name:szl": "Japōnijŏ",
+          "name:tok": "ma Nijon",
+          "name:tpi": "Siapan",
+          "name:tzl": "Cipangu",
+          "name:udm": "Япония",
+          "name:vec": "Giapòn",
+          "name:vro": "Jaapan",
+          "name:war": "Hapon",
+          "name:wuu": "日本",
+          "name:xal": "Ниxуудин Нутг",
+          "name:xmf": "იაპონია",
+          "name:yue": "日本",
+          "name:zea": "Japan",
+          "timezone": "Asia/Tokyo",
+          "way_area": "76.5268",
+          "wikidata": "Q17",
+          "ISO3166-1": "JP",
+          "wikipedia": "ja:日本",
+          "name:ja_rm": "Nippon",
+          "admin_level": "2",
+          "alt_name:eo": "Japanujo",
+          "alt_name:vi": "Nhật",
+          "name:nds-nl": "Japan",
+          "old_name:vi": "Nhật Bổn",
+          "driving_side": "left",
+          "name:bat-smg": "Japuonėjė",
+          "name:cbk-zam": "Japón",
+          "name:ja_kana": "にほん",
+          "name:roa-rup": "Japonia",
+          "name:zh-Hans": "日本",
+          "name:zh-Hant": "日本",
+          "name:roa-tara": "Giappone",
+          "name:be-tarask": "Японія",
+          "ISO3166-1:alpha2": "JP",
+          "ISO3166-1:alpha3": "JPN",
+          "default_language": "ja",
+          "official_name:ar": "دولة اليابان",
+          "official_name:en": "State of Japan",
+          "official_name:es": "Estado de Japón",
+          "official_name:fr": "État du Japon",
+          "official_name:ko": "일본국",
+          "ISO3166-1:numeric": "392"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135,
+              33.45489663428726
+            ],
+            [
+              135.2046617,
+              33.4647205
+            ],
+            [
+              135.2112063,
+              33.4580433
+            ],
+            [
+              135.2180942,
+              33.4515447
+            ],
+            [
+              135.2252825,
+              33.4451351
+            ],
+            [
+              135.2328141,
+              33.4391547
+            ],
+            [
+              135.2390154,
+              33.4336396
+            ],
+            [
+              135.2455815,
+              33.4283568
+            ],
+            [
+              135.2523192,
+              33.4232529
+            ],
+            [
+              135.2593573,
+              33.4184173
+            ],
+            [
+              135.2665027,
+              33.4137785
+            ],
+            [
+              135.2738841,
+              33.4094976
+            ],
+            [
+              135.283583,
+              33.4016519
+            ],
+            [
+              135.293711,
+              33.3941995
+            ],
+            [
+              135.3044613,
+              33.387284
+            ],
+            [
+              135.3156408,
+              33.3809413
+            ],
+            [
+              135.3271635,
+              33.375082
+            ],
+            [
+              135.3393086,
+              33.369724
+            ],
+            [
+              135.3518613,
+              33.3648855
+            ],
+            [
+              135.3646286,
+              33.3605664
+            ],
+            [
+              135.3724361,
+              33.3557542
+            ],
+            [
+              135.3800965,
+              33.3514167
+            ],
+            [
+              135.3879071,
+              33.3473658
+            ],
+            [
+              135.4001594,
+              33.3414146
+            ],
+            [
+              135.4130555,
+              33.336198
+            ],
+            [
+              135.4226899,
+              33.3328276
+            ],
+            [
+              135.4311228,
+              33.3301564
+            ],
+            [
+              135.4398346,
+              33.3276643
+            ],
+            [
+              135.449791,
+              33.3252977
+            ],
+            [
+              135.4587388,
+              33.3234509
+            ],
+            [
+              135.4677128,
+              33.3219807
+            ],
+            [
+              135.4716778,
+              33.320618
+            ],
+            [
+              135.4758191,
+              33.3194346
+            ],
+            [
+              135.4883933,
+              33.3144498
+            ],
+            [
+              135.4960752,
+              33.3116703
+            ],
+            [
+              135.5126834,
+              33.3065954
+            ],
+            [
+              135.5206871,
+              33.3046228
+            ],
+            [
+              135.5288625,
+              33.3028114
+            ],
+            [
+              135.5375958,
+              33.3011436
+            ],
+            [
+              135.5457926,
+              33.2997985
+            ],
+            [
+              135.5542255,
+              33.2987224
+            ],
+            [
+              135.5628944,
+              33.2978974
+            ],
+            [
+              135.5715418,
+              33.2973056
+            ],
+            [
+              135.5800804,
+              33.2970634
+            ],
+            [
+              135.5877032,
+              33.2905598
+            ],
+            [
+              135.5956528,
+              33.2844283
+            ],
+            [
+              135.6039303,
+              33.2786732
+            ],
+            [
+              135.6129248,
+              33.2729178
+            ],
+            [
+              135.6219808,
+              33.2677615
+            ],
+            [
+              135.6314261,
+              33.2629305
+            ],
+            [
+              135.6411172,
+              33.2582533
+            ],
+            [
+              135.6510542,
+              33.2541071
+            ],
+            [
+              135.66136,
+              33.2503205
+            ],
+            [
+              135.6720756,
+              33.2468079
+            ],
+            [
+              135.6825248,
+              33.2438435
+            ],
+            [
+              135.693179,
+              33.2413588
+            ],
+            [
+              135.7045297,
+              33.2390797
+            ],
+            [
+              135.7253462,
+              33.2359093
+            ],
+            [
+              135.7361027,
+              33.2346412
+            ],
+            [
+              135.7470232,
+              33.2338357
+            ],
+            [
+              135.758169,
+              33.2333216
+            ],
+            [
+              135.7689871,
+              33.2334415
+            ],
+            [
+              135.78001,
+              33.23399
+            ],
+            [
+              135.7909714,
+              33.2348811
+            ],
+            [
+              135.8021992,
+              33.2361835
+            ],
+            [
+              135.8129148,
+              33.2378972
+            ],
+            [
+              135.8235901,
+              33.2400651
+            ],
+            [
+              135.8326864,
+              33.2414787
+            ],
+            [
+              135.8413121,
+              33.2430381
+            ],
+            [
+              135.8498764,
+              33.2448373
+            ],
+            [
+              135.8586045,
+              33.2469278
+            ],
+            [
+              135.8671483,
+              33.2492068
+            ],
+            [
+              135.8755128,
+              33.2519092
+            ],
+            [
+              135.8983702,
+              33.2570247
+            ],
+            [
+              135.9097857,
+              33.2600212
+            ],
+            [
+              135.9207505,
+              33.2635558
+            ],
+            [
+              135.9316725,
+              33.2675029
+            ],
+            [
+              135.9423155,
+              33.2719343
+            ],
+            [
+              135.9495467,
+              33.2751994
+            ],
+            [
+              135.9562415,
+              33.2785361
+            ],
+            [
+              135.9628042,
+              33.282043
+            ],
+            [
+              135.9747669,
+              33.2874243
+            ],
+            [
+              135.9862038,
+              33.2933792
+            ],
+            [
+              135.9973403,
+              33.2998897
+            ],
+            [
+              136,
+              33.30167796314661
+            ],
+            [
+              136,
+              34
+            ],
+            [
+              135,
+              34
+            ],
+            [
+              135,
+              33.45489663428726
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

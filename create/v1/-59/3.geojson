@@ -1,0 +1,981 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -287083,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Guyana",
+        "local_name": "Guyana",
+        "name_en": "Guyana",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+          "name": "Guyana",
+          "name:af": "Guyana",
+          "name:am": "ጋያና",
+          "name:an": "Guyana",
+          "name:ar": "غويانا",
+          "name:ay": "Wayana",
+          "name:az": "Qayana",
+          "name:ba": "Гайана",
+          "name:be": "Гаяна",
+          "name:bg": "Гвиана",
+          "name:bn": "গায়ানা",
+          "name:bo": "གུ་ཡ་ན།",
+          "name:br": "Guyana",
+          "name:bs": "Gvajana",
+          "name:ca": "Guyana",
+          "name:ce": "Гайана",
+          "name:cs": "Guyana",
+          "name:cv": "Гайана",
+          "name:cy": "Guyana",
+          "name:da": "Guyana",
+          "name:de": "Guyana",
+          "name:dv": "ގުޔާނާ",
+          "name:ee": "Guyana",
+          "name:el": "Γουιάνα",
+          "name:en": "Guyana",
+          "name:eo": "Gujano",
+          "name:es": "Guyana",
+          "name:et": "Guyana",
+          "name:eu": "Guyana",
+          "name:fa": "گویان",
+          "name:fi": "Guyana",
+          "name:fo": "Gujana",
+          "name:fr": "Guyana",
+          "name:fy": "Guyana",
+          "name:ga": "An Ghuáin",
+          "name:gd": "Guiana",
+          "name:gl": "Güiana",
+          "name:gn": "Gujána",
+          "name:gu": "ગુયાના",
+          "name:gv": "Geeaaney",
+          "name:he": "גיאנה",
+          "name:hi": "गयाना",
+          "name:hr": "Gvajana",
+          "name:ht": "Giyàn",
+          "name:hu": "Guyana",
+          "name:hy": "Գայանա",
+          "name:ia": "Guyana",
+          "name:id": "Guyana",
+          "name:ie": "Guyana",
+          "name:io": "Guyana",
+          "name:is": "Gvæjana",
+          "name:it": "Guyana",
+          "name:ja": "ガイアナ",
+          "name:jv": "Guyana",
+          "name:ka": "გაიანა",
+          "name:kk": "Гайана",
+          "name:kl": "Guyana",
+          "name:kn": "ಗಯಾನ",
+          "name:ko": "가이아나",
+          "name:ku": "Guyana",
+          "name:kw": "Gwayana",
+          "name:la": "Guiana",
+          "name:lb": "Guyana",
+          "name:li": "Guyana",
+          "name:ln": "Gwiana",
+          "name:lt": "Gajana",
+          "name:lv": "Gajāna",
+          "name:mi": "Kaiana",
+          "name:mk": "Гвајана",
+          "name:ml": "ഗയാന",
+          "name:mn": "Гайана",
+          "name:mr": "गयाना",
+          "name:ms": "Guyana",
+          "name:mt": "Gujana",
+          "name:my": "ဂိုင်ယာနာနိုင်ငံ",
+          "name:na": "Guyana",
+          "name:ne": "गुयना",
+          "name:nl": "Guyana",
+          "name:nn": "Guyana",
+          "name:no": "Guyana",
+          "name:oc": "Guyana",
+          "name:or": "ଗାଇଓନା",
+          "name:os": "Гайанæ",
+          "name:pa": "ਗੁਇਆਨਾ",
+          "name:pl": "Gujana",
+          "name:ps": "ګويانا",
+          "name:pt": "Guiana",
+          "name:qu": "Wayana",
+          "name:ro": "Guyana",
+          "name:ru": "Гайана",
+          "name:rw": "Giyana",
+          "name:sa": "गयाना",
+          "name:sc": "Guyana",
+          "name:se": "Guyana",
+          "name:sh": "Gvajana",
+          "name:sk": "Guyana",
+          "name:sl": "Gvajana",
+          "name:so": "Guyana",
+          "name:sq": "Guajana",
+          "name:sr": "Гвајана",
+          "name:su": "Guyana",
+          "name:sv": "Guyana",
+          "name:sw": "Guyana",
+          "name:ta": "கயானா",
+          "name:te": "గయానా",
+          "name:th": "ประเทศกายอานา",
+          "name:tl": "Guyana",
+          "name:tr": "Guyana",
+          "name:tt": "Гайана",
+          "name:ug": "گايانا",
+          "name:uk": "Гаяна",
+          "name:ur": "گیانا",
+          "name:uz": "Gayana",
+          "name:vi": "Guyana",
+          "name:vo": "Gvayän",
+          "name:wo": "Guyaana",
+          "name:yi": "גויאנע",
+          "name:yo": "Gùyánà",
+          "name:zh": "圭亚那 / 蓋亞那 / 圭亞那",
+          "boundary": "administrative",
+          "name:ace": "Guyana",
+          "name:als": "Guyana",
+          "name:arz": "جويانا",
+          "name:ast": "Guyana",
+          "name:bcl": "Guyana",
+          "name:bpy": "গায়েনা",
+          "name:ceb": "Guyana",
+          "name:ckb": "گویانا",
+          "name:crh": "Gayana",
+          "name:diq": "Guyana",
+          "name:dsb": "Guyana",
+          "name:ext": "Guyana",
+          "name:frp": "Guyana",
+          "name:frr": "Guyana",
+          "name:gag": "Gayana",
+          "name:hak": "Koi-â-nâ",
+          "name:hif": "Guyana",
+          "name:hsb": "Guyana",
+          "name:ilo": "Guyana",
+          "name:jbo": "gudjanas",
+          "name:krc": "Гайана",
+          "name:lij": "Guyana",
+          "name:lmo": "Gujana",
+          "name:ltg": "Gajana",
+          "name:mdf": "Гайана",
+          "name:mhr": "Гайане",
+          "name:mrj": "Гайана",
+          "name:nah": "Guyana",
+          "name:nan": "Guyana",
+          "name:nds": "Guyana",
+          "name:nov": "Guyana",
+          "name:pam": "Guyana",
+          "name:pap": "Guiana",
+          "name:pih": "Gwiiana",
+          "name:pms": "Gujan-a",
+          "name:pnb": "گیآنا",
+          "name:sah": "Гайана",
+          "name:sco": "Guyana",
+          "name:smn": "Guyana",
+          "name:sms": "Guyana",
+          "name:srn": "Kayanakondre",
+          "name:szl": "Gujana",
+          "name:tet": "Giana",
+          "name:tzl": "Güiana",
+          "name:vec": "Guyana",
+          "name:vro": "Guyana",
+          "name:war": "Guyana",
+          "name:wuu": "圭亚那",
+          "name:xal": "Ниитә Гайанмудин Орн",
+          "name:yue": "圭亞那",
+          "timezone": "America/Guyana",
+          "way_area": "18.0102",
+          "wikidata": "Q734",
+          "ISO3166-1": "GY",
+          "wikipedia": "en:Guyana",
+          "name:zh-HK": "圭亞那",
+          "name:zh-TW": "蓋亞那",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:simple": "Guyana",
+          "driving_side": "left",
+          "name:bat-smg": "Gajana",
+          "name:roa-rup": "Gaiana",
+          "name:zh-Hans": "圭亚那",
+          "name:zh-Hant": "蓋亞那 / 圭亞那",
+          "name:be-tarask": "Гаяна",
+          "ISO3166-1:alpha2": "GY",
+          "ISO3166-1:alpha3": "GUY",
+          "default_language": "en",
+          "official_name:cs": "Guyanská kooperativní republika",
+          "official_name:en": "Republic of Guyana",
+          "official_name:es": "República de Guyana",
+          "official_name:ru": "Республика Гайана",
+          "ISO3166-1:numeric": "328"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -59,
+              3
+            ],
+            [
+              -58,
+              3
+            ],
+            [
+              -58,
+              3.9491746843503166
+            ],
+            [
+              -58.0001468,
+              3.9492115
+            ],
+            [
+              -58.0013055,
+              3.9497253
+            ],
+            [
+              -58.0039126,
+              3.9499447
+            ],
+            [
+              -58.0044007,
+              3.9501802
+            ],
+            [
+              -58.0054843,
+              3.9511542
+            ],
+            [
+              -58.0085421,
+              3.9522352
+            ],
+            [
+              -58.0101299,
+              3.9530433
+            ],
+            [
+              -58.0106396,
+              3.9538942
+            ],
+            [
+              -58.0109292,
+              3.9559814
+            ],
+            [
+              -58.0107093,
+              3.9567413
+            ],
+            [
+              -58.0100226,
+              3.9576832
+            ],
+            [
+              -58.0097061,
+              3.9593796
+            ],
+            [
+              -58.0103713,
+              3.9607978
+            ],
+            [
+              -58.0108595,
+              3.9612474
+            ],
+            [
+              -58.0116212,
+              3.961638
+            ],
+            [
+              -58.0126351,
+              3.961745
+            ],
+            [
+              -58.0170608,
+              3.9602038
+            ],
+            [
+              -58.0179566,
+              3.9603536
+            ],
+            [
+              -58.019287,
+              3.9609102
+            ],
+            [
+              -58.0218673,
+              3.960953
+            ],
+            [
+              -58.0235463,
+              3.9604981
+            ],
+            [
+              -58.0250484,
+              3.9592566
+            ],
+            [
+              -58.0259121,
+              3.9588605
+            ],
+            [
+              -58.0267221,
+              3.9587107
+            ],
+            [
+              -58.0281705,
+              3.9588231
+            ],
+            [
+              -58.0294418,
+              3.9595027
+            ],
+            [
+              -58.0303699,
+              3.959294
+            ],
+            [
+              -58.0308044,
+              3.9598399
+            ],
+            [
+              -58.031255,
+              3.9613544
+            ],
+            [
+              -58.0308849,
+              3.9641907
+            ],
+            [
+              -58.0309492,
+              3.9647205
+            ],
+            [
+              -58.0326498,
+              3.9665561
+            ],
+            [
+              -58.0338353,
+              3.9685201
+            ],
+            [
+              -58.0340445,
+              3.9691195
+            ],
+            [
+              -58.0338889,
+              3.9697564
+            ],
+            [
+              -58.0332667,
+              3.9706768
+            ],
+            [
+              -58.0329824,
+              3.9714367
+            ],
+            [
+              -58.0330521,
+              3.9752149
+            ],
+            [
+              -58.0334598,
+              3.9755146
+            ],
+            [
+              -58.0343396,
+              3.9756751
+            ],
+            [
+              -58.0351389,
+              3.9772699
+            ],
+            [
+              -58.036598,
+              3.9785864
+            ],
+            [
+              -58.0372256,
+              3.9787255
+            ],
+            [
+              -58.0381268,
+              3.978474
+            ],
+            [
+              -58.038615,
+              3.9787309
+            ],
+            [
+              -58.0388403,
+              3.9795496
+            ],
+            [
+              -58.0386043,
+              3.9808982
+            ],
+            [
+              -58.0399561,
+              3.982707
+            ],
+            [
+              -58.0398434,
+              3.9849921
+            ],
+            [
+              -58.0394679,
+              3.9854202
+            ],
+            [
+              -58.0371827,
+              3.986544
+            ],
+            [
+              -58.0367804,
+              3.987138
+            ],
+            [
+              -58.0366355,
+              3.9877802
+            ],
+            [
+              -58.0379391,
+              3.9890163
+            ],
+            [
+              -58.0383575,
+              3.9899635
+            ],
+            [
+              -58.0387706,
+              3.9904559
+            ],
+            [
+              -58.0405355,
+              3.9914512
+            ],
+            [
+              -58.0407393,
+              3.9920827
+            ],
+            [
+              -58.0408251,
+              3.994234
+            ],
+            [
+              -58.0406106,
+              3.9964976
+            ],
+            [
+              -58.0403477,
+              3.9972414
+            ],
+            [
+              -58.0399561,
+              3.997905
+            ],
+            [
+              -58.0384541,
+              3.9992857
+            ],
+            [
+              -58.03791769545393,
+              4
+            ],
+            [
+              -59,
+              4
+            ],
+            [
+              -59,
+              3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -287082,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Suriname",
+        "local_name": "Suriname",
+        "name_en": "Suriname",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+          "name": "Suriname",
+          "name:af": "Suriname",
+          "name:am": "ሱሪናም",
+          "name:an": "Surinam",
+          "name:ar": "سورينام",
+          "name:ay": "Suriname",
+          "name:az": "Surinam",
+          "name:ba": "Суринам",
+          "name:be": "Сурынам",
+          "name:bg": "Суринам",
+          "name:bn": "সুরিনাম",
+          "name:bo": "སུ་རི་ནེམ།",
+          "name:br": "Surinam",
+          "name:bs": "Surinam",
+          "name:ca": "Surinam",
+          "name:ce": "Суринам",
+          "name:cs": "Surinam",
+          "name:cv": "Суринам",
+          "name:cy": "Suriname",
+          "name:da": "Surinam",
+          "name:de": "Suriname",
+          "name:dv": "ސުރިނާމް",
+          "name:ee": "Suriname",
+          "name:el": "Σουρινάμ",
+          "name:en": "Suriname",
+          "name:eo": "Surinamo",
+          "name:es": "Surinam",
+          "name:et": "Suriname",
+          "name:eu": "Surinam",
+          "name:fa": "سورینام",
+          "name:fi": "Suriname",
+          "name:fo": "Surinam",
+          "name:fr": "Suriname",
+          "name:fy": "Suriname",
+          "name:ga": "Suranam",
+          "name:gd": "Suranam",
+          "name:gl": "Suriname",
+          "name:gn": "Surinam",
+          "name:gu": "સુરીનામ",
+          "name:gv": "Yn Toorinam",
+          "name:he": "סורינאם",
+          "name:hi": "सूरीनाम",
+          "name:hr": "Surinam",
+          "name:ht": "Sirinam",
+          "name:hu": "Suriname",
+          "name:hy": "Սուրինամ",
+          "name:id": "Suriname",
+          "name:ie": "Surinam",
+          "name:io": "Surinam",
+          "name:is": "Súrínam",
+          "name:it": "Suriname",
+          "name:ja": "スリナム",
+          "name:jv": "Suriname",
+          "name:ka": "სურინამი",
+          "name:kk": "Суринам",
+          "name:kl": "Suriname",
+          "name:kn": "ಸುರಿನಾಮ್",
+          "name:ko": "수리남",
+          "name:ku": "Sûrînam",
+          "name:kw": "Surinam",
+          "name:la": "Surinamia",
+          "name:lb": "Surinam",
+          "name:li": "Suriname",
+          "name:ln": "Suriname",
+          "name:lt": "Surinamas",
+          "name:lv": "Surinama",
+          "name:mi": "Hurināme",
+          "name:mk": "Суринам",
+          "name:ml": "സുരിനാം",
+          "name:mn": "Суринам",
+          "name:mr": "सुरिनाम",
+          "name:ms": "Suriname",
+          "name:mt": "Surinam",
+          "name:my": "ဆူရာနမ်နိုင်ငံ",
+          "name:nb": "Surinam",
+          "name:nl": "Suriname",
+          "name:nn": "Surinam",
+          "name:no": "Surinam",
+          "name:nv": "Sówinam",
+          "name:oc": "Surinam",
+          "name:or": "ସରିନମ",
+          "name:os": "Суринам",
+          "name:pa": "ਸੂਰੀਨਾਮ",
+          "name:pl": "Surinam",
+          "name:ps": "سورينام",
+          "name:pt": "Suriname",
+          "name:qu": "Surinam",
+          "name:rm": "Suriname",
+          "name:ro": "Surinam",
+          "name:ru": "Суринам",
+          "name:rw": "Surinamu",
+          "name:se": "Suriname",
+          "name:sh": "Surinam",
+          "name:sk": "Surinam",
+          "name:sl": "Surinam",
+          "name:so": "Surinam",
+          "name:sq": "Surinami",
+          "name:sr": "Суринам",
+          "name:su": "Suriname",
+          "name:sv": "Surinam",
+          "name:sw": "Surinam",
+          "name:ta": "சுரிநாம்",
+          "name:te": "సురినామ్",
+          "name:th": "ประเทศซูรินาม",
+          "name:tl": "Surinam",
+          "name:tr": "Surinam",
+          "name:tt": "Суринам",
+          "name:ug": "سۇرىنام",
+          "name:uk": "Суринам",
+          "name:ur": "سرینام",
+          "name:uz": "Surinam",
+          "name:vi": "Suriname",
+          "name:vo": "Surinän",
+          "name:wo": "Surinaam",
+          "name:yi": "סורינאם",
+          "name:yo": "Sùrìnámù",
+          "name:zh": "苏里南 / 蘇利南 / 蘇里南",
+          "boundary": "administrative",
+          "name:ace": "Suriname",
+          "name:als": "Suriname",
+          "name:arz": "سورينام",
+          "name:ast": "Surinam",
+          "name:bcl": "Surinam",
+          "name:bpy": "সুরিনাম",
+          "name:ceb": "Surinam",
+          "name:ckb": "سورینام",
+          "name:crh": "Surinam",
+          "name:diq": "Surinam",
+          "name:dsb": "Surinam",
+          "name:ext": "Surinam",
+          "name:frp": "Suriname",
+          "name:frr": "Suurinam",
+          "name:gag": "Surinam",
+          "name:hak": "Sû-li-nàm",
+          "name:hif": "Suriname",
+          "name:hsb": "Surinamska",
+          "name:ilo": "Surinam",
+          "name:jbo": "surinam",
+          "name:lij": "Suriname",
+          "name:lmo": "Suriname",
+          "name:ltg": "Surinams",
+          "name:mdf": "Суринам",
+          "name:mhr": "Суринам",
+          "name:mrj": "Суринам",
+          "name:nah": "Surinam",
+          "name:nan": "Suriname",
+          "name:nds": "Surinam",
+          "name:nov": "Suriname",
+          "name:pam": "Surinam",
+          "name:pap": "Suriname",
+          "name:pdc": "Surinaem",
+          "name:pms": "Suriname",
+          "name:pnb": "سورینام",
+          "name:sah": "Суринам",
+          "name:scn": "Surinami",
+          "name:sco": "Suriname",
+          "name:smn": "Suriname",
+          "name:sms": "Surinaam",
+          "name:srn": "Sranan",
+          "name:tet": "Suriname",
+          "name:tzl": "Surinam",
+          "name:vec": "Suriname",
+          "name:vro": "Suriname",
+          "name:war": "Surinam",
+          "name:wuu": "苏里南",
+          "name:xal": "Суринамудин Орн",
+          "name:yue": "蘇里南",
+          "name:zea": "Surinaome",
+          "timezone": "America/Paramaribo",
+          "way_area": "12.5262",
+          "wikidata": "Q730",
+          "ISO3166-1": "SR",
+          "wikipedia": "en:Suriname",
+          "name:zh-HK": "蘇里南",
+          "name:zh-TW": "蘇利南",
+          "admin_level": "2",
+          "alt_name:de": "Surinam",
+          "border_type": "nation",
+          "name:simple": "Suriname",
+          "driving_side": "left",
+          "name:bat-smg": "Sorėnams",
+          "name:zh-Hans": "苏里南",
+          "name:zh-Hant": "蘇利南 / 蘇里南",
+          "official_name": "Republiek Suriname",
+          "name:be-tarask": "Сурынам",
+          "ISO3166-1:alpha2": "SR",
+          "ISO3166-1:alpha3": "SUR",
+          "default_language": "nl",
+          "official_name:cs": "Surinamská republika",
+          "official_name:en": "Republic of Surinam",
+          "official_name:es": "República de Surinam",
+          "official_name:ru": "Республика Суринам",
+          "ISO3166-1:numeric": "740",
+          "official_name:ckb": "کۆماری سورینام"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.0408251,
+              3.994234
+            ],
+            [
+              -58.0407393,
+              3.9920827
+            ],
+            [
+              -58.0405355,
+              3.9914512
+            ],
+            [
+              -58.0387706,
+              3.9904559
+            ],
+            [
+              -58.0383575,
+              3.9899635
+            ],
+            [
+              -58.0379391,
+              3.9890163
+            ],
+            [
+              -58.0366355,
+              3.9877802
+            ],
+            [
+              -58.0367804,
+              3.987138
+            ],
+            [
+              -58.0371827,
+              3.986544
+            ],
+            [
+              -58.0394679,
+              3.9854202
+            ],
+            [
+              -58.0398434,
+              3.9849921
+            ],
+            [
+              -58.0399561,
+              3.982707
+            ],
+            [
+              -58.0386043,
+              3.9808982
+            ],
+            [
+              -58.0388403,
+              3.9795496
+            ],
+            [
+              -58.038615,
+              3.9787309
+            ],
+            [
+              -58.0381268,
+              3.978474
+            ],
+            [
+              -58.0372256,
+              3.9787255
+            ],
+            [
+              -58.036598,
+              3.9785864
+            ],
+            [
+              -58.0351389,
+              3.9772699
+            ],
+            [
+              -58.0343396,
+              3.9756751
+            ],
+            [
+              -58.0334598,
+              3.9755146
+            ],
+            [
+              -58.0330521,
+              3.9752149
+            ],
+            [
+              -58.0329824,
+              3.9714367
+            ],
+            [
+              -58.0332667,
+              3.9706768
+            ],
+            [
+              -58.0338889,
+              3.9697564
+            ],
+            [
+              -58.0340445,
+              3.9691195
+            ],
+            [
+              -58.0338353,
+              3.9685201
+            ],
+            [
+              -58.0326498,
+              3.9665561
+            ],
+            [
+              -58.0309492,
+              3.9647205
+            ],
+            [
+              -58.0308849,
+              3.9641907
+            ],
+            [
+              -58.031255,
+              3.9613544
+            ],
+            [
+              -58.0308044,
+              3.9598399
+            ],
+            [
+              -58.0303699,
+              3.959294
+            ],
+            [
+              -58.0294418,
+              3.9595027
+            ],
+            [
+              -58.0281705,
+              3.9588231
+            ],
+            [
+              -58.0267221,
+              3.9587107
+            ],
+            [
+              -58.0259121,
+              3.9588605
+            ],
+            [
+              -58.0250484,
+              3.9592566
+            ],
+            [
+              -58.0235463,
+              3.9604981
+            ],
+            [
+              -58.0218673,
+              3.960953
+            ],
+            [
+              -58.019287,
+              3.9609102
+            ],
+            [
+              -58.0179566,
+              3.9603536
+            ],
+            [
+              -58.0170608,
+              3.9602038
+            ],
+            [
+              -58.0126351,
+              3.961745
+            ],
+            [
+              -58.0116212,
+              3.961638
+            ],
+            [
+              -58.0108595,
+              3.9612474
+            ],
+            [
+              -58.0103713,
+              3.9607978
+            ],
+            [
+              -58.0097061,
+              3.9593796
+            ],
+            [
+              -58.0100226,
+              3.9576832
+            ],
+            [
+              -58.0107093,
+              3.9567413
+            ],
+            [
+              -58.0109292,
+              3.9559814
+            ],
+            [
+              -58.0106396,
+              3.9538942
+            ],
+            [
+              -58.0101299,
+              3.9530433
+            ],
+            [
+              -58.0085421,
+              3.9522352
+            ],
+            [
+              -58.0054843,
+              3.9511542
+            ],
+            [
+              -58.0044007,
+              3.9501802
+            ],
+            [
+              -58.0039126,
+              3.9499447
+            ],
+            [
+              -58.0013055,
+              3.9497253
+            ],
+            [
+              -58.0001468,
+              3.9492115
+            ],
+            [
+              -58,
+              3.9491746843503166
+            ],
+            [
+              -58,
+              4
+            ],
+            [
+              -58.03791769545393,
+              4
+            ],
+            [
+              -58.0384541,
+              3.9992857
+            ],
+            [
+              -58.0399561,
+              3.997905
+            ],
+            [
+              -58.0403477,
+              3.9972414
+            ],
+            [
+              -58.0406106,
+              3.9964976
+            ],
+            [
+              -58.0408251,
+              3.994234
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

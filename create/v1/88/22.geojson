@@ -1,0 +1,5211 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -184640,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Bangladesh",
+        "local_name": "বাংলাদেশ",
+        "name_en": "Bangladesh",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+          "name": "বাংলাদেশ",
+          "name:af": "Bangladesj",
+          "name:ak": "Bangladɛhye",
+          "name:am": "ባንግላዴሽ",
+          "name:an": "Bangladesh",
+          "name:ar": "بنغلاديش",
+          "name:as": "বাংলাদেশ",
+          "name:az": "Banqladeş",
+          "name:ba": "Бангладе́ш",
+          "name:be": "Бангладэ́ш",
+          "name:bg": "Бангладеш",
+          "name:bh": "बांग्लादेश",
+          "name:bi": "Bangladesh",
+          "name:bm": "Bɛngiladɛsi",
+          "name:bn": "বাংলাদেশ",
+          "name:bo": "བྷང་ལ་རྡེ་ཤུ།",
+          "name:br": "Bangladesh",
+          "name:bs": "Bangladeš",
+          "name:ca": "Bangla Desh",
+          "name:ce": "Бангладеш",
+          "name:co": "Bangladesh",
+          "name:cs": "Bangladéš",
+          "name:cv": "Бангладеш",
+          "name:cy": "Bangladesh",
+          "name:da": "Bangladesh",
+          "name:de": "Bangladesch",
+          "name:dv": "ބަންގާޅު",
+          "name:dz": "བངྒ་ལ་དེཤ",
+          "name:el": "Μπανγκλαντές",
+          "name:en": "Bangladesh",
+          "name:eo": "Bangladeŝo",
+          "name:es": "Bangladés",
+          "name:et": "Bangladesh",
+          "name:eu": "Bangladesh",
+          "name:fa": "بنگلادش",
+          "name:ff": "Banglaadees",
+          "name:fi": "Bangladesh",
+          "name:fo": "Bangladesj",
+          "name:fr": "Bangladesh",
+          "name:fy": "Bangladesj",
+          "name:ga": "an Bhanglaidéis",
+          "name:gd": "Bangladais",
+          "name:gl": "Bangladesh",
+          "name:gn": "Vangyladẽ",
+          "name:gu": "બાંગ્લાદેશ",
+          "name:gv": "yn Vangladesh",
+          "name:ha": "Bangladash",
+          "name:he": "בנגלדש",
+          "name:hi": "बांग्लादेश",
+          "name:hr": "Bangladeš",
+          "name:ht": "Bangladèch",
+          "name:hu": "Banglades",
+          "name:hy": "Բանգլադեշ",
+          "name:ia": "Bangladesh",
+          "name:id": "Bangladesh",
+          "name:ie": "Bangladesh",
+          "name:io": "Bangladesh",
+          "name:is": "Bangladess",
+          "name:it": "Bangladesh",
+          "name:ja": "バングラデシュ",
+          "name:jv": "Bangladèsh",
+          "name:ka": "ბანგლადეში",
+          "name:kg": "Bangladesh",
+          "name:ki": "Bangladesh",
+          "name:kk": "Бангладеш",
+          "name:kl": "Bangladesh",
+          "name:km": "បង់ក្លាដែស្ស",
+          "name:kn": "ಬಾಂಗ್ಲಾದೇಶ",
+          "name:ko": "방글라데시",
+          "name:ks": "بَنٛگلادیش",
+          "name:ku": "Bengalistan",
+          "name:kv": "Бангладеш",
+          "name:kw": "Bangladesh",
+          "name:ky": "Баңгладеш",
+          "name:la": "Bangladesia",
+          "name:lb": "Bangladesch",
+          "name:lg": "Bangaladesi",
+          "name:li": "Bangladesj",
+          "name:ln": "Bángaladɛ́si",
+          "name:lo": "ບັງກະລາເທດ",
+          "name:lt": "Bangladešas",
+          "name:lv": "Bangladeša",
+          "name:mg": "Bangladesy",
+          "name:mi": "Pākaratēhi",
+          "name:mk": "Бангладеш",
+          "name:ml": "ബംഗ്ലാദേശ്",
+          "name:mn": "Бангладеш",
+          "name:mr": "बांगलादेश",
+          "name:ms": "Bangladesh",
+          "name:mt": "Bangladexx",
+          "name:my": "ဘင်္ဂလားဒေ့ရှ်နိုင်ငံ",
+          "name:na": "Bangradet",
+          "name:ne": "बंगलादेश",
+          "name:nl": "Bangladesh",
+          "name:nn": "Bangladesh",
+          "name:no": "Bangladesh",
+          "name:nv": "Bikéyah",
+          "name:oc": "Bangladèsh",
+          "name:om": "Baangilaadish",
+          "name:or": "ବଙ୍ଗଳାଦେଶ",
+          "name:os": "Бангладеш",
+          "name:pa": "ਬੰਗਲਾਦੇਸ਼",
+          "name:pi": "बंगलादेश",
+          "name:pl": "Bangladesz",
+          "name:ps": "بنګله دېش",
+          "name:pt": "Bangladeche",
+          "name:qu": "Banladish",
+          "name:rm": "Bangladesch",
+          "name:rn": "Bangaladeshi",
+          "name:ro": "Bangladesh",
+          "name:ru": "Бангладеш",
+          "name:rw": "Bangaladeshi",
+          "name:sa": "बंगलादेशः",
+          "name:sd": "بنگلاديش",
+          "name:se": "Bangladesh",
+          "name:sg": "Bengladêshi",
+          "name:sh": "Bangladeš",
+          "name:si": "බංගලාදේශය",
+          "name:sk": "Bangladéš",
+          "name:sl": "Bangladeš",
+          "name:sn": "Bangladeshi",
+          "name:so": "Bangladhesh",
+          "name:sq": "Bangladeshi",
+          "name:sr": "Бангладеш",
+          "name:ss": "iBhangladeshi",
+          "name:su": "Bangladés",
+          "name:sv": "Bangladesh",
+          "name:sw": "Bangladesh",
+          "name:ta": "வங்காளத்தேசம்",
+          "name:te": "బంగ్లాదేశ్",
+          "name:tg": "Бангладеш",
+          "name:th": "บังกลาเทศ",
+          "name:ti": "ባንግላዲሽ",
+          "name:tk": "Bangladeş",
+          "name:tl": "Bangglades",
+          "name:to": "Pengilātesi",
+          "name:tr": "Bangladeş",
+          "name:tt": "Бангладеш",
+          "name:ug": "بانگلادېش",
+          "name:uk": "Банґладе́ш",
+          "name:ur": "بنگلہ دیش",
+          "name:uz": "Bangladesh",
+          "name:ve": "Bangladesh",
+          "name:vi": "Băng-la-đét",
+          "name:vo": "Bangladejän",
+          "name:wo": "Banglaades",
+          "name:yi": "באנגלאדעש",
+          "name:yo": "Bangladẹ́shì",
+          "name:za": "Bangladesh",
+          "name:zh": "孟加拉国 / 孟加拉",
+          "name:zu": "Bangladesh",
+          "boundary": "administrative",
+          "int_name": "Bangladesh",
+          "name:ace": "Bangladèsh",
+          "name:ady": "Бангладеш",
+          "name:als": "Bangladesch",
+          "name:ang": "Bængladesc",
+          "name:arz": "بانجلاديش",
+          "name:ast": "Bangladex",
+          "name:azb": "بنقلادش",
+          "name:bar": "Bangladesch",
+          "name:bcl": "Banglades",
+          "name:bjn": "Bangladésh",
+          "name:bpy": "বাংলাদেশের",
+          "name:bxr": "Бангладеш",
+          "name:cdo": "Mâing-gă-lăk",
+          "name:ceb": "Bangladesh",
+          "name:chr": "ᏆᏂᎦᎵᏕᏍ",
+          "name:ckb": "بەنگلادێش",
+          "name:crh": "Bangladeş",
+          "name:csb": "Bangladesz",
+          "name:din": "Baŋgɛlädic",
+          "name:diq": "Bengladeş",
+          "name:dsb": "Bangladeš",
+          "name:dty": "बंगलादेश",
+          "name:ext": "Bangladesh",
+          "name:frp": "Banglladèch·e",
+          "name:frr": "Bangladesch",
+          "name:fur": "Bangladesh",
+          "name:gag": "Bangladeş",
+          "name:gan": "孟加拉",
+          "name:gom": "बांगलादेश",
+          "name:hak": "Men-kâ-lâ-koet",
+          "name:haw": "Banagaladesa",
+          "name:hif": "Bangladesh",
+          "name:hsb": "Bangladeš",
+          "name:ilo": "Banglades",
+          "name:jam": "Banggladesh",
+          "name:jbo": "begy'gu'e",
+          "name:kaa": "Bangladesh",
+          "name:kab": "Bangladec",
+          "name:kbp": "Paŋgɩladɛɛsɩ",
+          "name:krc": "Бангладеш",
+          "name:ksh": "Bangladesch",
+          "name:lad": "Bangladesh",
+          "name:lez": "Бангладеш",
+          "name:lij": "Bangladesh",
+          "name:lmo": "Bangladesh",
+          "name:lrc": "بأنگئلادئش",
+          "name:lzh": "孟加拉國",
+          "name:mai": "बंगलादेश",
+          "name:mzn": "بنگلادش",
+          "name:nah": "Bangladex",
+          "name:nan": "Bangladesh",
+          "name:nds": "Bangladesch",
+          "name:new": "बंगलादेश",
+          "name:nov": "Bangladesh",
+          "name:olo": "Bangladeš",
+          "name:pam": "Banglades",
+          "name:pap": "Bangladesh",
+          "name:pih": "Bangladash",
+          "name:pms": "Bangladesh",
+          "name:pnb": "بنگلہ دیش",
+          "name:rue": "Банґладеш",
+          "name:sah": "Баҥладеш",
+          "name:scn": "Bangladesci",
+          "name:sco": "Bangladesh",
+          "name:smn": "Bangladesh",
+          "name:sms": "Bangladeš",
+          "name:stq": "Bangladesch",
+          "name:szl": "Bangladesz",
+          "name:tet": "Bangladexe",
+          "name:tok": "ma Panla",
+          "name:tpi": "Bangladesh",
+          "name:tum": "Bangladesh",
+          "name:tzl": "Bangladésch",
+          "name:udm": "Бангладеш",
+          "name:vec": "Bangladesh",
+          "name:vep": "Bangladeš",
+          "name:vro": "Bangladesh",
+          "name:war": "Bangladesh",
+          "name:wuu": "孟加拉国",
+          "name:xal": "Бенгалмудин",
+          "name:xmf": "ბანგლადეში",
+          "name:yue": "孟加拉國",
+          "name:zea": "Bangladesh",
+          "old_name": "পূর্ব পাকিস্তান",
+          "timezone": "Asia/Dhaka",
+          "way_area": "14.8041",
+          "wikidata": "Q902",
+          "ISO3166-1": "BD",
+          "wikipedia": "bn:বাংলাদেশ",
+          "population": "165158616",
+          "admin_level": "2",
+          "alt_name:jv": "Banggaladésa",
+          "alt_name:ku": "Bangladeş",
+          "alt_name:la": "Bangladesa",
+          "alt_name:ln": "Bángladɛ́sh",
+          "alt_name:pt": "Bangladexe",
+          "alt_name:qu": "Bangladesh",
+          "alt_name:ro": "Bangladeș",
+          "alt_name:so": "Bangladesh",
+          "alt_name:sw": "Bangla Desh",
+          "alt_name:zh": "孟加拉",
+          "old_name:an": "Pakistán Oriental",
+          "old_name:ar": "باكستان الشرقية",
+          "old_name:az": "Şərqi Pakistan",
+          "old_name:bn": "পূর্ব পাকিস্তান",
+          "old_name:bs": "Istočni Pakistan",
+          "old_name:ca": "Pakistan Oriental",
+          "old_name:cs": "Východní Pákistán",
+          "old_name:cy": "Dwyrain Pacistan",
+          "old_name:da": "Østpakistan",
+          "old_name:de": "Ostpakistan",
+          "old_name:el": "Ανατολικό Πακιστάν",
+          "old_name:eo": "Orientpakistano",
+          "old_name:es": "Pakistán Oriental",
+          "old_name:fa": "پاکستان شرقی",
+          "old_name:fi": "Itä-Pakistanin",
+          "old_name:fo": "Eysturpakistan",
+          "old_name:fr": "Pakistan oriental",
+          "old_name:ga": "Bhain Oirthear na Pacastáine",
+          "old_name:gl": "Paquistán Oriental",
+          "old_name:he": "מזרח פקיסטן",
+          "old_name:hu": "Kelet-Pakisztánra",
+          "old_name:ia": "Pakistan Oriental",
+          "old_name:id": "Pakistan Timur",
+          "old_name:io": "Estala Pakistan",
+          "old_name:is": "Austur-Pakistan",
+          "old_name:it": "Pakistan orientale",
+          "old_name:ko": "동파키스탄",
+          "old_name:li": "Oos-Pakistan",
+          "old_name:lt": "Rytų Pakistanu",
+          "old_name:ms": "Pakistan Timur",
+          "old_name:nl": "Oost-Pakistan",
+          "old_name:nn": "Aust-Pakistan",
+          "old_name:no": "Øst-Pakistan",
+          "old_name:oc": "Paquistan Orientau",
+          "old_name:pl": "Pakistan Wschodni",
+          "old_name:pt": "Paquistão Oriental",
+          "old_name:ro": "Pakistanul de Est",
+          "old_name:sh": "Istočni Pakistan",
+          "old_name:sk": "Východný Pakistan",
+          "old_name:sq": "Pakistanin-Lindorë",
+          "old_name:su": "Pakistan Wétan",
+          "old_name:sv": "Östpakistan",
+          "old_name:sw": "Pakistan ya Mashariki",
+          "old_name:tr": "Doğu Pakistan",
+          "old_name:ur": "مشرقی پاکستان",
+          "old_name:vi": "Đông Pakistan",
+          "alt_name:ast": "Bangladesh",
+          "alt_name:ceb": "Bangglades",
+          "driving_side": "left",
+          "name:bat-smg": "Bangladešos",
+          "name:cbk-zam": "Bangladesh",
+          "name:roa-rup": "Bangladesh",
+          "name:zh-Hans": "孟加拉国",
+          "name:zh-Hant": "孟加拉",
+          "old_name:als": "Oschtpakistan",
+          "old_name:ang": "Ēast Pacistan",
+          "old_name:bar": "Ostpakistan",
+          "old_name:ceb": "East Pakistan",
+          "old_name:dsb": "Pódzajtšny Pakistan",
+          "old_name:hif": "East Pakistan",
+          "old_name:hsb": "Wuchodny Pakistan",
+          "old_name:nds": "Ostpakistan",
+          "name:roa-tara": "Bangladesh",
+          "official_name": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+          "name:be-tarask": "Банглядэ́ш",
+          "name:zh_pinyin": "Mèngjiālāguó",
+          "population:date": "2022",
+          "ISO3166-1:alpha2": "BD",
+          "ISO3166-1:alpha3": "BGD",
+          "default_language": "bn",
+          "official_name:am": "ባንግላዴሽ ሕዝባዊ ሪፐብሊክ",
+          "official_name:an": "Republica Popular de Bangladesh de Delwar Hasib",
+          "official_name:ar": "جمهورية بنغلاديش الشعبية",
+          "official_name:as": "গণপ্ৰজাতন্ত্ৰী বাংলাদেশ",
+          "official_name:az": "Banqladeş Xalq Respublikası",
+          "official_name:ba": "Бангладе́ш Халыҡ Республикаһы",
+          "official_name:be": "Наро́дная Рэспу́бліка Бангладэ́ш",
+          "official_name:bg": "Народна република Бангладеш",
+          "official_name:bh": "पीपल्स रिपब्लिक ऑफ बांग्लादेश",
+          "official_name:bn": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+          "official_name:bo": "བྷང་ལ་རྡེ་ཤུ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ",
+          "official_name:br": "Republik pobl Bangladesh",
+          "official_name:bs": "Narodna Republika Bangladeš",
+          "official_name:ca": "República Popular Bangla Desh",
+          "official_name:cs": "Bangladéšská lidová republika",
+          "official_name:cv": "Бангладеш халăх республики",
+          "official_name:cy": "Gweriniaeth Pobl Bangladesh",
+          "official_name:da": "Folkerepublikken Bangladesh",
+          "official_name:de": "Volksrepublik Bangladesch",
+          "official_name:el": "Λαϊκή Δημοκρατία του Μπανγκλαντές",
+          "official_name:en": "People's Republic of Bangladesh",
+          "official_name:eo": "Popolrespubliko de Bangladeŝo",
+          "official_name:es": "República Popular de Bangladés",
+          "official_name:et": "Bangladeshi Rahvavabariik",
+          "official_name:eu": "Bangladeshko Herri Errepublika",
+          "official_name:fa": "جمهوری خلق بَنْگِلادِش",
+          "official_name:fi": "Bangladeshin kansantasavalta",
+          "official_name:fo": "Fólkalýðveldið Bangladesj",
+          "official_name:fr": "République populaire du Bangladesh",
+          "official_name:ga": "Daonphoblacht na Bangladéise",
+          "official_name:gl": "República Popular de Bangladesh",
+          "official_name:gn": "Vangyladẽ Tekoha Tetã",
+          "official_name:gv": "Deynphobblaght ny Bangladesh",
+          "official_name:ha": "Jamhuriyar jama'ar kasar Bangladash",
+          "official_name:he": "הרפובליקה העממית של בנגלדש",
+          "official_name:hi": "बांग्लादेश गणतन्त्र",
+          "official_name:hr": "Narodna Republika Bangladeš",
+          "official_name:hu": "Bangladesi Népi Köztársaság",
+          "official_name:hy": "Բանգլադեշի Ժողովրդական Հանրապետություն",
+          "official_name:id": "Republik Rakyat Bangladesh",
+          "official_name:io": "Populala Republiko di Bangladesh",
+          "official_name:is": "Alþýðulýðveldið Bangladess",
+          "official_name:it": "Repubblica Popolare del Bangladesh",
+          "official_name:ja": "バングラデシュ人民共和国",
+          "official_name:ka": "ბანგლადეშის სახალხო რესპუბლიკა",
+          "official_name:kk": "Бангладеш Халық Республикасы",
+          "official_name:km": "សាធារណរដ្ឋប្រជាជនបង់ក្លាដេស",
+          "official_name:kn": "ಬಾಂಗ್ಲಾದೇಶದ ಜನ ಗಣತಂತ್ರ",
+          "official_name:ko": "방글라데시 인민공화국",
+          "official_name:kv": "Бангладеш Войтыр республика",
+          "official_name:la": "Res Publica Popularis Bangladesiae",
+          "official_name:lb": "Volleksrepublik Bangladesch",
+          "official_name:lo": "ສາທາລະນະລັດປະຊາຊົນບັງກະລາເທດ",
+          "official_name:lt": "Bangladešo Liaudies Respublika",
+          "official_name:lv": "Bangladešas Tautas Republika",
+          "official_name:mk": "Народна Република Бангладеш",
+          "official_name:ml": "പീപ്പിൾസ് റിപ്പബ്ലിക് ഓഫ് ബംഗ്ലാദേശ്",
+          "official_name:mn": "Бүгд Найрамдах Бангладеш Ард Улс",
+          "official_name:mr": "बांगलादेशाचे प्रजासत्ताक",
+          "official_name:ms": "Republik Rakyat Bangladesh",
+          "official_name:mt": "Repubblika Popolari tal-Bangladexx",
+          "official_name:my": "ဘင်္ဂလားဒေရှ်ပြည်သူ့သမ္မတနိုင်ငံ",
+          "official_name:ne": "जनगणतान्त्रिक बंगलादेश",
+          "official_name:nl": "Volksrepubliek Bangladesh",
+          "official_name:no": "Folkerepublikken Bangladesh",
+          "official_name:nv": "Haʼaʼaahjí Naakaii Dootłʼizhí Bikéyah",
+          "official_name:oc": "Republica Populara de Bangladèsh",
+          "official_name:os": "Бангладешы адæмон республикæ",
+          "official_name:pa": "ਬੰਗਲਾਦੇਸ਼ ਗਣਤੰਤਰ",
+          "official_name:pl": "Ludowa Republika Bangladeszu",
+          "official_name:ps": "خلکو جمهوري بنگله دېش",
+          "official_name:pt": "República Popular do Bangladesh",
+          "official_name:qu": "Banladish Runallaqta Ripuwlika",
+          "official_name:ro": "Republica Populară Bangladesh",
+          "official_name:ru": "Народная Республика Бангладеш",
+          "official_name:sa": "जनानां बाङ्ग्लादेश-गणतन्त्रम्",
+          "official_name:se": "Bangladesha álbmotdásseváldi",
+          "official_name:sh": "Narodna Republika Bangladeš",
+          "official_name:si": "බංගලාදේශ ජනතා සමූහාණ්ඩුව",
+          "official_name:sk": "Bangladéšska ľudová republika",
+          "official_name:sl": "Ljudska republika Bangladeš",
+          "official_name:so": "Jamhuuriyadda shacabka Bangladesh",
+          "official_name:sq": "Republika Popullore e Bangladeshit",
+          "official_name:sr": "Народна Република Бангладеш",
+          "official_name:su": "Républik Rahayat Bangladés",
+          "official_name:sv": "Folkrepubliken Bangladesh",
+          "official_name:sw": "Jamhuri ya Watu wa Bangladesh",
+          "official_name:ta": "வங்காளத்தேச மக்கள் குடியரசு",
+          "official_name:te": "బంగ్లాదేశ్ ప్రజా గణతంత్రం",
+          "official_name:th": "สาธารณรัฐประชาชนบังกลาเทศ",
+          "official_name:tk": "Bangladeş Halk Respublikasy",
+          "official_name:tl": "Republikang Bayan ng Bangladesh",
+          "official_name:tr": "Bangladeş Halk Cumhuriyeti",
+          "official_name:tt": "Бангладеш Халык Җөмһүрияте",
+          "official_name:uk": "Наро́дна Респу́бліка Бангладе́ш",
+          "official_name:ur": "عوامی جمہوریہ بنگلہ دیش",
+          "official_name:uz": "Bangladesh Xalq Respublikasi",
+          "official_name:vi": "Cộng hoà Nhân dân Bangladesh",
+          "official_name:yi": "פֿאלקס רעפובליק פֿון באנגלאדעש",
+          "official_name:yo": "Olominira Araalu ile Bangladesh",
+          "official_name:zh": "孟加拉人民共和国 / 孟加拉人民共和國",
+          "ISO3166-1:numeric": "050",
+          "official_name:ady": "Volksrepubliek van Bangladesj",
+          "official_name:als": "Volksrepublik Bangladesch",
+          "official_name:ast": "República Popular de Bangladex",
+          "official_name:azb": "بنقلادش خالق جومهوریتی",
+          "official_name:bar": "Volksrepublik Bangladesch",
+          "official_name:bjn": "Ripublik Rakyat Bangladesh",
+          "official_name:bpy": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+          "official_name:bxr": "Бүгэдэ Найрамдаха Бангладеш Арад Улас",
+          "official_name:chr": "ᏴᏫ ᏍᎦᏚᎩ ᎾᎿ ᏆᏂᎦᎵᏕᏍ",
+          "official_name:ckb": "کۆماری گەلی بەنگلادیش",
+          "official_name:crh": "Bangladeş Halq Cumhuriyeti",
+          "official_name:dsb": "Ludowa republika Bangladeš",
+          "official_name:dty": "जनगणतान्त्रिक बंगलादेश",
+          "official_name:ext": "Repúbrica Populal de Bangladesh",
+          "official_name:fur": "Republiche popolâr Bangladesh",
+          "official_name:gag": "Bangladeş Halk Respublikası",
+          "official_name:gan": "孟加拉人民共和國",
+          "official_name:hif": "People's Republic of Bangladesh",
+          "official_name:hsb": "Ludowa republika Bangladeš",
+          "official_name:ilo": "Republika ti Tattao ti Banglades",
+          "official_name:jam": "Piiplz Ripoblik a Banggladesh",
+          "official_name:jbo": "begygu'e.zei prenu gubyseltru",
+          "official_name:kaa": "Bangladesh Respublikasi",
+          "official_name:krc": "Бангладеш Халкъ Республика",
+          "official_name:lez": "Бангладеш Халкьдин Республика",
+          "official_name:lrc": "کوٙمأرە ڤئلات خألک بأنگئلادئش",
+          "official_name:lzh": "孟加拉人民共和國",
+          "official_name:mai": "जनगणतान्त्रिक बंगलादेश",
+          "official_name:nah": "Āltepēhuahcāyōtl Tlācatlahtohcāyōtl Bangladex",
+          "official_name:nan": "Bangladesh Jîn-bîn Kiōng-hô-kok",
+          "official_name:new": "जनतातेगु गणतन्त्र बंगलादेश",
+          "official_name:olo": "Rahvahan Tazavaldu Bangladeš",
+          "official_name:pam": "Pangmaldang Republika ning Banglades",
+          "official_name:rue": "Банґладеська народна републіка",
+          "official_name:sah": "Баҥладеш Дьон Республиката",
+          "official_name:sco": "Fowkrepublic o Bangladesh",
+          "official_name:szl": "Ludowo Republika Bangladeszu",
+          "official_name:tet": "Repúblika Populár Bangladexe niam",
+          "official_name:vec": "Republica Popolare del Bangladesh",
+          "official_name:vep": "Bangladešan Rahvahaline Tazovaldkund",
+          "official_name:vro": "Bangladeshi Rahvavabariik",
+          "official_name:xal": "Бенгалмудин Улс Орн",
+          "official_name:xmf": "ბანგლადეშიშ ოკათე რესპუბლიკა",
+          "official_name:roa-rup": "Republica Popularã Bangladesh",
+          "official_name:zh-Hans": "孟加拉人民共和国",
+          "official_name:zh-Hant": "孟加拉人民共和國",
+          "official_name:roa-tara": "Repubbleche Populare d'u Bangladesh",
+          "official_name:be-tarask": "Наро́дная Рэспу́бліка Банглядэ́ш"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                88.8549897,
+                22.9585865
+              ],
+              [
+                88.855279,
+                22.9565619
+              ],
+              [
+                88.8555852,
+                22.9548775
+              ],
+              [
+                88.857712,
+                22.9497392
+              ],
+              [
+                88.8582565,
+                22.9479612
+              ],
+              [
+                88.8586818,
+                22.9443712
+              ],
+              [
+                88.858852,
+                22.9437417
+              ],
+              [
+                88.8595155,
+                22.9426868
+              ],
+              [
+                88.8598898,
+                22.9423465
+              ],
+              [
+                88.8606214,
+                22.9422784
+              ],
+              [
+                88.861268,
+                22.9432312
+              ],
+              [
+                88.8621187,
+                22.945341
+              ],
+              [
+                88.8627312,
+                22.9463789
+              ],
+              [
+                88.8665934,
+                22.9497817
+              ],
+              [
+                88.867979,
+                22.9509246
+              ],
+              [
+                88.8686389,
+                22.9512556
+              ],
+              [
+                88.8691539,
+                22.951384
+              ],
+              [
+                88.8700873,
+                22.9512457
+              ],
+              [
+                88.8719104,
+                22.9499859
+              ],
+              [
+                88.8735151,
+                22.9486177
+              ],
+              [
+                88.8740623,
+                22.9483065
+              ],
+              [
+                88.8749899,
+                22.9482334
+              ],
+              [
+                88.8759512,
+                22.9485737
+              ],
+              [
+                88.8765637,
+                22.948982
+              ],
+              [
+                88.8775165,
+                22.950122
+              ],
+              [
+                88.878044,
+                22.9516533
+              ],
+              [
+                88.8782481,
+                22.9532441
+              ],
+              [
+                88.8785204,
+                22.9537715
+              ],
+              [
+                88.879337,
+                22.9542649
+              ],
+              [
+                88.890107,
+                22.9533292
+              ],
+              [
+                88.8921487,
+                22.9530059
+              ],
+              [
+                88.8939693,
+                22.9524104
+              ],
+              [
+                88.8942755,
+                22.9521041
+              ],
+              [
+                88.8944116,
+                22.9515086
+              ],
+              [
+                88.8934758,
+                22.950173
+              ],
+              [
+                88.8925534,
+                22.9460539
+              ],
+              [
+                88.8926081,
+                22.9415723
+              ],
+              [
+                88.8928565,
+                22.939286
+              ],
+              [
+                88.8926822,
+                22.9380016
+              ],
+              [
+                88.8920977,
+                22.9372337
+              ],
+              [
+                88.8905154,
+                22.9362979
+              ],
+              [
+                88.8874783,
+                22.9349368
+              ],
+              [
+                88.887087,
+                22.9346135
+              ],
+              [
+                88.887087,
+                22.9336097
+              ],
+              [
+                88.8890934,
+                22.9292546
+              ],
+              [
+                88.8905834,
+                22.9276292
+              ],
+              [
+                88.8920467,
+                22.9269657
+              ],
+              [
+                88.8947859,
+                22.9264893
+              ],
+              [
+                88.9036929,
+                22.9232225
+              ],
+              [
+                88.906866,
+                22.9213765
+              ],
+              [
+                88.9079549,
+                22.9201174
+              ],
+              [
+                88.9081591,
+                22.9196751
+              ],
+              [
+                88.9083122,
+                22.9191987
+              ],
+              [
+                88.9081931,
+                22.9180928
+              ],
+              [
+                88.9076827,
+                22.9168337
+              ],
+              [
+                88.9061227,
+                22.9150077
+              ],
+              [
+                88.9054066,
+                22.9145556
+              ],
+              [
+                88.9040896,
+                22.9142221
+              ],
+              [
+                88.9030543,
+                22.9141505
+              ],
+              [
+                88.8988888,
+                22.9142592
+              ],
+              [
+                88.8961181,
+                22.9146223
+              ],
+              [
+                88.8957131,
+                22.9145025
+              ],
+              [
+                88.8955066,
+                22.914227
+              ],
+              [
+                88.8953899,
+                22.9130906
+              ],
+              [
+                88.895748,
+                22.9117663
+              ],
+              [
+                88.8960779,
+                22.9111956
+              ],
+              [
+                88.9005759,
+                22.9075144
+              ],
+              [
+                88.901284,
+                22.9065953
+              ],
+              [
+                88.9011875,
+                22.9037243
+              ],
+              [
+                88.9008855,
+                22.9024142
+              ],
+              [
+                88.900307,
+                22.9011892
+              ],
+              [
+                88.898495,
+                22.8984243
+              ],
+              [
+                88.9002351,
+                22.8974128
+              ],
+              [
+                88.9024226,
+                22.8966173
+              ],
+              [
+                88.903649,
+                22.8954738
+              ],
+              [
+                88.9055051,
+                22.8962362
+              ],
+              [
+                88.9062012,
+                22.8951755
+              ],
+              [
+                88.9063669,
+                22.894148
+              ],
+              [
+                88.9070961,
+                22.8938166
+              ],
+              [
+                88.9085545,
+                22.8940817
+              ],
+              [
+                88.9089191,
+                22.8937503
+              ],
+              [
+                88.9077921,
+                22.8930874
+              ],
+              [
+                88.9071292,
+                22.8915959
+              ],
+              [
+                88.9065658,
+                22.8908998
+              ],
+              [
+                88.9063006,
+                22.8901706
+              ],
+              [
+                88.9063006,
+                22.8892094
+              ],
+              [
+                88.9065326,
+                22.8885465
+              ],
+              [
+                88.9070961,
+                22.8879499
+              ],
+              [
+                88.9087533,
+                22.8879499
+              ],
+              [
+                88.9092837,
+                22.8875853
+              ],
+              [
+                88.9092837,
+                22.8873202
+              ],
+              [
+                88.9090185,
+                22.886823
+              ],
+              [
+                88.9069304,
+                22.8866904
+              ],
+              [
+                88.9066652,
+                22.886359
+              ],
+              [
+                88.9068641,
+                22.8858949
+              ],
+              [
+                88.9076596,
+                22.8855304
+              ],
+              [
+                88.908223,
+                22.8854309
+              ],
+              [
+                88.9096814,
+                22.8856629
+              ],
+              [
+                88.910046,
+                22.8853315
+              ],
+              [
+                88.9101454,
+                22.8847514
+              ],
+              [
+                88.9098471,
+                22.8826965
+              ],
+              [
+                88.9101454,
+                22.8821661
+              ],
+              [
+                88.9132412,
+                22.8820004
+              ],
+              [
+                88.9137383,
+                22.8813375
+              ],
+              [
+                88.910921,
+                22.8812049
+              ],
+              [
+                88.9105896,
+                22.8808403
+              ],
+              [
+                88.910457,
+                22.8802769
+              ],
+              [
+                88.910689,
+                22.879846
+              ],
+              [
+                88.9125783,
+                22.8792494
+              ],
+              [
+                88.9127771,
+                22.8789179
+              ],
+              [
+                88.9133075,
+                22.8789179
+              ],
+              [
+                88.9138046,
+                22.8795145
+              ],
+              [
+                88.914567,
+                22.8800117
+              ],
+              [
+                88.9154619,
+                22.8799454
+              ],
+              [
+                88.9162242,
+                22.880078
+              ],
+              [
+                88.9170528,
+                22.8796471
+              ],
+              [
+                88.9177489,
+                22.8789842
+              ],
+              [
+                88.9183455,
+                22.8786528
+              ],
+              [
+                88.9185444,
+                22.8772275
+              ],
+              [
+                88.9189421,
+                22.8770287
+              ],
+              [
+                88.9194393,
+                22.8771281
+              ],
+              [
+                88.9203342,
+                22.8789511
+              ],
+              [
+                88.9209308,
+                22.8795808
+              ],
+              [
+                88.9216268,
+                22.8799454
+              ],
+              [
+                88.9224886,
+                22.8800449
+              ],
+              [
+                88.9234498,
+                22.8805752
+              ],
+              [
+                88.923947,
+                22.88031
+              ],
+              [
+                88.924179,
+                22.8797466
+              ],
+              [
+                88.9250275,
+                22.8761503
+              ],
+              [
+                88.9254252,
+                22.8756863
+              ],
+              [
+                88.9269168,
+                22.8753217
+              ],
+              [
+                88.9273477,
+                22.8754211
+              ],
+              [
+                88.9279443,
+                22.875156
+              ],
+              [
+                88.9279774,
+                22.8732004
+              ],
+              [
+                88.9297672,
+                22.873101
+              ],
+              [
+                88.9313913,
+                22.873797
+              ],
+              [
+                88.9324851,
+                22.8739628
+              ],
+              [
+                88.9339766,
+                22.8747582
+              ],
+              [
+                88.9371586,
+                22.8744599
+              ],
+              [
+                88.9379872,
+                22.8746919
+              ],
+              [
+                88.9402742,
+                22.8748245
+              ],
+              [
+                88.9416,
+                22.8772773
+              ],
+              [
+                88.942243,
+                22.8781556
+              ],
+              [
+                88.9426076,
+                22.8794814
+              ],
+              [
+                88.9426407,
+                22.8802106
+              ],
+              [
+                88.9436205,
+                22.8801009
+              ],
+              [
+                88.9452782,
+                22.8808118
+              ],
+              [
+                88.9463602,
+                22.8797815
+              ],
+              [
+                88.946739,
+                22.8790577
+              ],
+              [
+                88.9477111,
+                22.8779635
+              ],
+              [
+                88.9479384,
+                22.8777951
+              ],
+              [
+                88.9490578,
+                22.8775931
+              ],
+              [
+                88.949647,
+                22.877004
+              ],
+              [
+                88.9497901,
+                22.8762212
+              ],
+              [
+                88.9495881,
+                22.8736793
+              ],
+              [
+                88.9497648,
+                22.8727702
+              ],
+              [
+                88.9503119,
+                22.8721895
+              ],
+              [
+                88.951545,
+                22.8719201
+              ],
+              [
+                88.9517386,
+                22.8709774
+              ],
+              [
+                88.952151,
+                22.8701357
+              ],
+              [
+                88.9532915,
+                22.8684944
+              ],
+              [
+                88.9537545,
+                22.8662555
+              ],
+              [
+                88.9530474,
+                22.8651698
+              ],
+              [
+                88.9529801,
+                22.8645679
+              ],
+              [
+                88.9531148,
+                22.8642565
+              ],
+              [
+                88.9536703,
+                22.8639535
+              ],
+              [
+                88.9552485,
+                22.864105
+              ],
+              [
+                88.9572854,
+                22.862792
+              ],
+              [
+                88.958792,
+                22.8599681
+              ],
+              [
+                88.9586489,
+                22.859017
+              ],
+              [
+                88.9581691,
+                22.8575987
+              ],
+              [
+                88.9581523,
+                22.8570096
+              ],
+              [
+                88.9593475,
+                22.8558901
+              ],
+              [
+                88.9609299,
+                22.8551284
+              ],
+              [
+                88.9637369,
+                22.8520562
+              ],
+              [
+                88.9682358,
+                22.8457351
+              ],
+              [
+                88.9685893,
+                22.8446661
+              ],
+              [
+                88.9685977,
+                22.8434583
+              ],
+              [
+                88.9676718,
+                22.8389637
+              ],
+              [
+                88.9657444,
+                22.8333369
+              ],
+              [
+                88.9644482,
+                22.8303658
+              ],
+              [
+                88.9639431,
+                22.8285309
+              ],
+              [
+                88.9637706,
+                22.8225044
+              ],
+              [
+                88.9633834,
+                22.8200592
+              ],
+              [
+                88.9629962,
+                22.818822
+              ],
+              [
+                88.9622598,
+                22.8173742
+              ],
+              [
+                88.9604165,
+                22.8149165
+              ],
+              [
+                88.9592886,
+                22.8138896
+              ],
+              [
+                88.9575715,
+                22.8127071
+              ],
+              [
+                88.9566611,
+                22.8123536
+              ],
+              [
+                88.956429,
+                22.8089655
+              ],
+              [
+                88.9566942,
+                22.8087666
+              ],
+              [
+                88.9593789,
+                22.8096284
+              ],
+              [
+                88.960075,
+                22.8095621
+              ],
+              [
+                88.9605722,
+                22.8092307
+              ],
+              [
+                88.9607379,
+                22.8086672
+              ],
+              [
+                88.9592462,
+                22.8057935
+              ],
+              [
+                88.9591693,
+                22.8044702
+              ],
+              [
+                88.959354,
+                22.8020544
+              ],
+              [
+                88.9591232,
+                22.8000233
+              ],
+              [
+                88.9599672,
+                22.7983757
+              ],
+              [
+                88.9591469,
+                22.7972985
+              ],
+              [
+                88.9591469,
+                22.7968345
+              ],
+              [
+                88.9583846,
+                22.7968676
+              ],
+              [
+                88.9562302,
+                22.7974642
+              ],
+              [
+                88.9500226,
+                22.797635
+              ],
+              [
+                88.9483748,
+                22.7954755
+              ],
+              [
+                88.9474468,
+                22.7952766
+              ],
+              [
+                88.9468833,
+                22.7943154
+              ],
+              [
+                88.9459884,
+                22.7938514
+              ],
+              [
+                88.9457564,
+                22.7924925
+              ],
+              [
+                88.944815,
+                22.7925256
+              ],
+              [
+                88.9429258,
+                22.7908684
+              ],
+              [
+                88.9425612,
+                22.7910341
+              ],
+              [
+                88.9423623,
+                22.7914318
+              ],
+              [
+                88.9411665,
+                22.7916528
+              ],
+              [
+                88.9390075,
+                22.7927553
+              ],
+              [
+                88.9391141,
+                22.7921942
+              ],
+              [
+                88.9386832,
+                22.791929
+              ],
+              [
+                88.9378877,
+                22.7918296
+              ],
+              [
+                88.9371917,
+                22.7914981
+              ],
+              [
+                88.9366282,
+                22.7895426
+              ],
+              [
+                88.9363962,
+                22.788051
+              ],
+              [
+                88.937026,
+                22.7836262
+              ],
+              [
+                88.9369265,
+                22.782433
+              ],
+              [
+                88.9350041,
+                22.782665
+              ],
+              [
+                88.9336121,
+                22.783129
+              ],
+              [
+                88.9317496,
+                22.7832514
+              ],
+              [
+                88.9312418,
+                22.7831129
+              ],
+              [
+                88.929807,
+                22.7832947
+              ],
+              [
+                88.929807,
+                22.7827313
+              ],
+              [
+                88.9305362,
+                22.7809083
+              ],
+              [
+                88.9277189,
+                22.7805437
+              ],
+              [
+                88.9258628,
+                22.7805768
+              ],
+              [
+                88.9251336,
+                22.7800134
+              ],
+              [
+                88.9259799,
+                22.7799408
+              ],
+              [
+                88.926518,
+                22.7772659
+              ],
+              [
+                88.9274412,
+                22.7741731
+              ],
+              [
+                88.9266411,
+                22.7697108
+              ],
+              [
+                88.9263795,
+                22.7693108
+              ],
+              [
+                88.9260256,
+                22.7692184
+              ],
+              [
+                88.9207921,
+                22.7701557
+              ],
+              [
+                88.9194227,
+                22.7702024
+              ],
+              [
+                88.9188625,
+                22.770109
+              ],
+              [
+                88.9182244,
+                22.7697044
+              ],
+              [
+                88.917537,
+                22.7688949
+              ],
+              [
+                88.916357,
+                22.7668566
+              ],
+              [
+                88.9144118,
+                22.7607875
+              ],
+              [
+                88.913261,
+                22.7594967
+              ],
+              [
+                88.9123769,
+                22.7590647
+              ],
+              [
+                88.911741,
+                22.7576992
+              ],
+              [
+                88.9124342,
+                22.7567012
+              ],
+              [
+                88.9124092,
+                22.7552296
+              ],
+              [
+                88.9130078,
+                22.7550052
+              ],
+              [
+                88.9135316,
+                22.7550301
+              ],
+              [
+                88.9149532,
+                22.753783
+              ],
+              [
+                88.9162751,
+                22.75508
+              ],
+              [
+                88.9174474,
+                22.7549054
+              ],
+              [
+                88.9200413,
+                22.7535586
+              ],
+              [
+                88.9204903,
+                22.7531096
+              ],
+              [
+                88.9209392,
+                22.7522367
+              ],
+              [
+                88.9213881,
+                22.7503162
+              ],
+              [
+                88.9211518,
+                22.7490018
+              ],
+              [
+                88.9204268,
+                22.7484086
+              ],
+              [
+                88.9185419,
+                22.7479111
+              ],
+              [
+                88.9182683,
+                22.7474365
+              ],
+              [
+                88.9177246,
+                22.7457724
+              ],
+              [
+                88.9168513,
+                22.7440423
+              ],
+              [
+                88.917049,
+                22.7419827
+              ],
+              [
+                88.9163405,
+                22.7406316
+              ],
+              [
+                88.9161593,
+                22.7399066
+              ],
+              [
+                88.9161099,
+                22.7384072
+              ],
+              [
+                88.9154035,
+                22.7365058
+              ],
+              [
+                88.9160275,
+                22.7348153
+              ],
+              [
+                88.9160402,
+                22.7339132
+              ],
+              [
+                88.9163359,
+                22.7333219
+              ],
+              [
+                88.9170637,
+                22.7327306
+              ],
+              [
+                88.9176092,
+                22.731454
+              ],
+              [
+                88.9183342,
+                22.7305314
+              ],
+              [
+                88.9221807,
+                22.7290464
+              ],
+              [
+                88.9241365,
+                22.7277614
+              ],
+              [
+                88.9246141,
+                22.7276705
+              ],
+              [
+                88.9252874,
+                22.7269724
+              ],
+              [
+                88.9259135,
+                22.7257037
+              ],
+              [
+                88.9257982,
+                22.7237264
+              ],
+              [
+                88.9259786,
+                22.7223715
+              ],
+              [
+                88.9272977,
+                22.7199381
+              ],
+              [
+                88.9274341,
+                22.7185508
+              ],
+              [
+                88.9279402,
+                22.718009
+              ],
+              [
+                88.9314823,
+                22.7162538
+              ],
+              [
+                88.9332786,
+                22.7149938
+              ],
+              [
+                88.9415829,
+                22.7103473
+              ],
+              [
+                88.9436085,
+                22.7085214
+              ],
+              [
+                88.9451094,
+                22.7082031
+              ],
+              [
+                88.9461783,
+                22.7077482
+              ],
+              [
+                88.9474519,
+                22.7061335
+              ],
+              [
+                88.9479067,
+                22.7051783
+              ],
+              [
+                88.948771,
+                22.7051783
+              ],
+              [
+                88.9507359,
+                22.7065883
+              ],
+              [
+                88.9524416,
+                22.7054967
+              ],
+              [
+                88.9555345,
+                22.7041322
+              ],
+              [
+                88.9576041,
+                22.7012553
+              ],
+              [
+                88.9576495,
+                22.7001637
+              ],
+              [
+                88.958933,
+                22.6986818
+              ],
+              [
+                88.9602877,
+                22.6978894
+              ],
+              [
+                88.9609927,
+                22.696252
+              ],
+              [
+                88.9617204,
+                22.6953878
+              ],
+              [
+                88.9621343,
+                22.6941597
+              ],
+              [
+                88.9620434,
+                22.6929771
+              ],
+              [
+                88.9616795,
+                22.6919992
+              ],
+              [
+                88.9617175,
+                22.6908718
+              ],
+              [
+                88.9613611,
+                22.6900433
+              ],
+              [
+                88.9613611,
+                22.6888607
+              ],
+              [
+                88.9607698,
+                22.6882239
+              ],
+              [
+                88.9606333,
+                22.6874393
+              ],
+              [
+                88.9613715,
+                22.6864395
+              ],
+              [
+                88.9622778,
+                22.6856322
+              ],
+              [
+                88.9622942,
+                22.6852532
+              ],
+              [
+                88.9620141,
+                22.6849896
+              ],
+              [
+                88.9601557,
+                22.6848467
+              ],
+              [
+                88.9561814,
+                22.6851873
+              ],
+              [
+                88.9551433,
+                22.6850287
+              ],
+              [
+                88.9518974,
+                22.6812823
+              ],
+              [
+                88.9509912,
+                22.6806232
+              ],
+              [
+                88.9502003,
+                22.6805903
+              ],
+              [
+                88.949673,
+                22.6802443
+              ],
+              [
+                88.9487668,
+                22.6784483
+              ],
+              [
+                88.9482725,
+                22.6778881
+              ],
+              [
+                88.9479594,
+                22.6768336
+              ],
+              [
+                88.9483055,
+                22.6742962
+              ],
+              [
+                88.9476958,
+                22.6724508
+              ],
+              [
+                88.9472927,
+                22.670485
+              ],
+              [
+                88.9463148,
+                22.6690522
+              ],
+              [
+                88.9460152,
+                22.6671947
+              ],
+              [
+                88.9460481,
+                22.6662555
+              ],
+              [
+                88.9452078,
+                22.6639982
+              ],
+              [
+                88.9449936,
+                22.6625976
+              ],
+              [
+                88.943754,
+                22.6622636
+              ],
+              [
+                88.9430494,
+                22.6619056
+              ],
+              [
+                88.9429999,
+                22.6607523
+              ],
+              [
+                88.9427198,
+                22.660192
+              ],
+              [
+                88.9422585,
+                22.6597142
+              ],
+              [
+                88.9416818,
+                22.6594341
+              ],
+              [
+                88.9392738,
+                22.6602396
+              ],
+              [
+                88.9381558,
+                22.6599943
+              ],
+              [
+                88.9373907,
+                22.65958
+              ],
+              [
+                88.9362991,
+                22.6592616
+              ],
+              [
+                88.9357831,
+                22.6582807
+              ],
+              [
+                88.9359479,
+                22.6561058
+              ],
+              [
+                88.9358161,
+                22.6553643
+              ],
+              [
+                88.9355195,
+                22.6550019
+              ],
+              [
+                88.9339111,
+                22.6546222
+              ],
+              [
+                88.9334108,
+                22.6543493
+              ],
+              [
+                88.932443,
+                22.6521268
+              ],
+              [
+                88.9313483,
+                22.651818
+              ],
+              [
+                88.9309131,
+                22.6519538
+              ],
+              [
+                88.9297948,
+                22.6534624
+              ],
+              [
+                88.9293172,
+                22.6538262
+              ],
+              [
+                88.9285167,
+                22.6534624
+              ],
+              [
+                88.9268534,
+                22.6520653
+              ],
+              [
+                88.9280259,
+                22.6478323
+              ],
+              [
+                88.929206,
+                22.6458314
+              ],
+              [
+                88.9300782,
+                22.6449591
+              ],
+              [
+                88.9310017,
+                22.6428555
+              ],
+              [
+                88.931874,
+                22.637417
+              ],
+              [
+                88.9322844,
+                22.636083
+              ],
+              [
+                88.932541,
+                22.6341333
+              ],
+              [
+                88.9324897,
+                22.6329533
+              ],
+              [
+                88.9329514,
+                22.6311575
+              ],
+              [
+                88.9329514,
+                22.6290712
+              ],
+              [
+                88.9333835,
+                22.6274565
+              ],
+              [
+                88.9332079,
+                22.6259242
+              ],
+              [
+                88.9336697,
+                22.6205883
+              ],
+              [
+                88.9345419,
+                22.6189977
+              ],
+              [
+                88.9362351,
+                22.6182794
+              ],
+              [
+                88.9379282,
+                22.6180742
+              ],
+              [
+                88.941571,
+                22.6179203
+              ],
+              [
+                88.9428307,
+                22.6184051
+              ],
+              [
+                88.9449002,
+                22.6181095
+              ],
+              [
+                88.946753,
+                22.6182794
+              ],
+              [
+                88.9478818,
+                22.6188438
+              ],
+              [
+                88.9499341,
+                22.619203
+              ],
+              [
+                88.9517601,
+                22.6200551
+              ],
+              [
+                88.9533903,
+                22.620549
+              ],
+              [
+                88.9550698,
+                22.6206478
+              ],
+              [
+                88.9578361,
+                22.6195611
+              ],
+              [
+                88.958824,
+                22.6187213
+              ],
+              [
+                88.9600096,
+                22.6166466
+              ],
+              [
+                88.9600416,
+                22.6155088
+              ],
+              [
+                88.9596311,
+                22.6119687
+              ],
+              [
+                88.9584511,
+                22.6096085
+              ],
+              [
+                88.957271,
+                22.608018
+              ],
+              [
+                88.9518548,
+                22.6031109
+              ],
+              [
+                88.9482069,
+                22.6004956
+              ],
+              [
+                88.9415889,
+                22.5948214
+              ],
+              [
+                88.9394876,
+                22.5919786
+              ],
+              [
+                88.9385551,
+                22.5901137
+              ],
+              [
+                88.9382595,
+                22.587885
+              ],
+              [
+                88.9387371,
+                22.5834275
+              ],
+              [
+                88.9394648,
+                22.5804255
+              ],
+              [
+                88.9402608,
+                22.5788563
+              ],
+              [
+                88.9410682,
+                22.5736679
+              ],
+              [
+                88.9411708,
+                22.5698198
+              ],
+              [
+                88.9409143,
+                22.5633552
+              ],
+              [
+                88.94153,
+                22.5602767
+              ],
+              [
+                88.9426587,
+                22.5579166
+              ],
+              [
+                88.944044,
+                22.5567878
+              ],
+              [
+                88.9459424,
+                22.5557104
+              ],
+              [
+                88.948025,
+                22.555318
+              ],
+              [
+                88.949435,
+                22.5545675
+              ],
+              [
+                88.9529146,
+                22.5532257
+              ],
+              [
+                88.9566897,
+                22.5527353
+              ],
+              [
+                88.9586665,
+                22.5521189
+              ],
+              [
+                88.9594875,
+                22.5517597
+              ],
+              [
+                88.9614371,
+                22.5489892
+              ],
+              [
+                88.963079,
+                22.5459107
+              ],
+              [
+                88.9656645,
+                22.5392961
+              ],
+              [
+                88.9677479,
+                22.532263
+              ],
+              [
+                88.9687478,
+                22.530165
+              ],
+              [
+                88.9705672,
+                22.52324
+              ],
+              [
+                88.9713631,
+                22.5211932
+              ],
+              [
+                88.9724775,
+                22.5174066
+              ],
+              [
+                88.9731143,
+                22.5143591
+              ],
+              [
+                88.9738875,
+                22.500782
+              ],
+              [
+                88.9750273,
+                22.4974125
+              ],
+              [
+                88.9763859,
+                22.4943008
+              ],
+              [
+                88.9780513,
+                22.4913644
+              ],
+              [
+                88.9811192,
+                22.4843522
+              ],
+              [
+                88.9822148,
+                22.4825992
+              ],
+              [
+                88.985195,
+                22.4793341
+              ],
+              [
+                88.9873863,
+                22.4774496
+              ],
+              [
+                88.9904191,
+                22.475565
+              ],
+              [
+                88.9940129,
+                22.4729793
+              ],
+              [
+                88.9959412,
+                22.4705031
+              ],
+              [
+                88.9962042,
+                22.4694074
+              ],
+              [
+                88.9963357,
+                22.4679173
+              ],
+              [
+                88.996248,
+                22.4659451
+              ],
+              [
+                88.995686,
+                22.4619409
+              ],
+              [
+                88.9948945,
+                22.4593026
+              ],
+              [
+                88.994789,
+                22.4579835
+              ],
+              [
+                88.9948945,
+                22.4564005
+              ],
+              [
+                88.9941558,
+                22.4542899
+              ],
+              [
+                88.990726,
+                22.4488022
+              ],
+              [
+                88.9903039,
+                22.4478524
+              ],
+              [
+                88.9897763,
+                22.4462695
+              ],
+              [
+                88.989829,
+                22.4448976
+              ],
+              [
+                88.9902511,
+                22.4435784
+              ],
+              [
+                88.9939252,
+                22.4381593
+              ],
+              [
+                88.9969054,
+                22.4355735
+              ],
+              [
+                89,
+                22.432092111776257
+              ],
+              [
+                89,
+                23
+              ],
+              [
+                88.86557276425879,
+                23
+              ],
+              [
+                88.8655195,
+                22.9994835
+              ],
+              [
+                88.8638228,
+                22.9940543
+              ],
+              [
+                88.8640508,
+                22.9906639
+              ],
+              [
+                88.8646218,
+                22.9877476
+              ],
+              [
+                88.8659066,
+                22.9840257
+              ],
+              [
+                88.8671932,
+                22.9819354
+              ],
+              [
+                88.8683827,
+                22.9808624
+              ],
+              [
+                88.8704467,
+                22.9795055
+              ],
+              [
+                88.8708651,
+                22.9791154
+              ],
+              [
+                88.8711447,
+                22.9785187
+              ],
+              [
+                88.8707194,
+                22.977736
+              ],
+              [
+                88.8698346,
+                22.9768683
+              ],
+              [
+                88.8661425,
+                22.9745544
+              ],
+              [
+                88.8616338,
+                22.9727679
+              ],
+              [
+                88.8601706,
+                22.9724446
+              ],
+              [
+                88.8588264,
+                22.971679
+              ],
+              [
+                88.8576014,
+                22.9699265
+              ],
+              [
+                88.8568017,
+                22.9682081
+              ],
+              [
+                88.8559425,
+                22.9656645
+              ],
+              [
+                88.8551258,
+                22.9616661
+              ],
+              [
+                88.8549897,
+                22.9585865
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                88.9722936,
+                22.4105389
+              ],
+              [
+                88.9725402,
+                22.4095523
+              ],
+              [
+                88.9724416,
+                22.4084178
+              ],
+              [
+                88.9727375,
+                22.4072832
+              ],
+              [
+                88.9742174,
+                22.4057048
+              ],
+              [
+                88.9779663,
+                22.4023505
+              ],
+              [
+                88.97989,
+                22.40092
+              ],
+              [
+                88.9832316,
+                22.3977514
+              ],
+              [
+                88.9872636,
+                22.3949027
+              ],
+              [
+                88.9907914,
+                22.3927316
+              ],
+              [
+                88.9915314,
+                22.3920903
+              ],
+              [
+                88.992074,
+                22.3911531
+              ],
+              [
+                88.9921726,
+                22.3900186
+              ],
+              [
+                88.991482,
+                22.3875029
+              ],
+              [
+                88.9907421,
+                22.3861217
+              ],
+              [
+                88.9896569,
+                22.3845925
+              ],
+              [
+                88.9875852,
+                22.3822248
+              ],
+              [
+                88.9865986,
+                22.3808436
+              ],
+              [
+                88.9850694,
+                22.3793145
+              ],
+              [
+                88.9841322,
+                22.3775387
+              ],
+              [
+                88.9832937,
+                22.374727
+              ],
+              [
+                88.9832937,
+                22.3737898
+              ],
+              [
+                88.9836883,
+                22.3725566
+              ],
+              [
+                88.9850694,
+                22.3706328
+              ],
+              [
+                88.988621,
+                22.3668839
+              ],
+              [
+                88.9894103,
+                22.3652561
+              ],
+              [
+                88.9895089,
+                22.3644175
+              ],
+              [
+                88.9894103,
+                22.3633817
+              ],
+              [
+                88.9868254,
+                22.3592938
+              ],
+              [
+                88.9865186,
+                22.3585487
+              ],
+              [
+                88.9864309,
+                22.3564889
+              ],
+              [
+                88.9865493,
+                22.3554399
+              ],
+              [
+                88.9873878,
+                22.3531708
+              ],
+              [
+                88.9883251,
+                22.3512964
+              ],
+              [
+                88.988621,
+                22.3503098
+              ],
+              [
+                88.9887975,
+                22.348644
+              ],
+              [
+                88.9882278,
+                22.3459706
+              ],
+              [
+                88.9866939,
+                22.340317
+              ],
+              [
+                88.9857297,
+                22.3349263
+              ],
+              [
+                88.9852668,
+                22.3337851
+              ],
+              [
+                88.9847242,
+                22.3290496
+              ],
+              [
+                88.9847735,
+                22.3261886
+              ],
+              [
+                88.9850694,
+                22.3253007
+              ],
+              [
+                88.98576,
+                22.3246595
+              ],
+              [
+                88.9880784,
+                22.323081
+              ],
+              [
+                88.9896076,
+                22.3222424
+              ],
+              [
+                88.9908408,
+                22.3221438
+              ],
+              [
+                88.9951085,
+                22.3235753
+              ],
+              [
+                88.9962918,
+                22.3241889
+              ],
+              [
+                88.9973261,
+                22.324408
+              ],
+              [
+                88.9992651,
+                22.3242134
+              ],
+              [
+                89,
+                22.323845908597185
+              ],
+              [
+                89,
+                22.429434490524287
+              ],
+              [
+                88.9996211,
+                22.4287901
+              ],
+              [
+                88.9988812,
+                22.4281981
+              ],
+              [
+                88.995083,
+                22.4269156
+              ],
+              [
+                88.9906435,
+                22.4249425
+              ],
+              [
+                88.9888677,
+                22.4235614
+              ],
+              [
+                88.9867466,
+                22.4215882
+              ],
+              [
+                88.9846255,
+                22.4185793
+              ],
+              [
+                88.9823564,
+                22.4163595
+              ],
+              [
+                88.9812712,
+                22.4157676
+              ],
+              [
+                88.9747106,
+                22.4130546
+              ],
+              [
+                88.9730335,
+                22.4121667
+              ],
+              [
+                88.9723429,
+                22.4112788
+              ],
+              [
+                88.9722936,
+                22.4105389
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                88.9949937,
+                22.2925103
+              ],
+              [
+                88.995165,
+                22.2889996
+              ],
+              [
+                88.9959784,
+                22.2857459
+              ],
+              [
+                88.9987227,
+                22.2828929
+              ],
+              [
+                89,
+                22.28186932121128
+              ],
+              [
+                89,
+                22.296956813246567
+              ],
+              [
+                88.9987966,
+                22.296613
+              ],
+              [
+                88.9961497,
+                22.2951647
+              ],
+              [
+                88.9954647,
+                22.2943513
+              ],
+              [
+                88.9951222,
+                22.2934094
+              ],
+              [
+                88.9949937,
+                22.2925103
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -304716,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "India",
+        "local_name": "India",
+        "name_en": "India",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+          "name": "India",
+          "name:am": "ህንድ",
+          "name:ar": "الهند",
+          "name:az": "Hindistan",
+          "name:ba": "Һиндостан",
+          "name:be": "Індыя",
+          "name:bg": "Индия",
+          "name:bh": "भारत",
+          "name:bi": "India",
+          "name:bn": "ভারত",
+          "name:bo": "རྒྱ་གར།",
+          "name:br": "India",
+          "name:bs": "Indija",
+          "name:ca": "Índia",
+          "name:ce": "ХӀинди",
+          "name:co": "India",
+          "name:cs": "Indie",
+          "name:cv": "Инди",
+          "name:cy": "India",
+          "name:da": "Indien",
+          "name:de": "Indien",
+          "name:dv": "އިންޑިޔާ",
+          "name:dz": "རྒྱ་གར",
+          "name:ee": "India",
+          "name:el": "Ινδία",
+          "name:en": "India",
+          "name:eo": "Barato",
+          "name:es": "India",
+          "name:et": "India",
+          "name:eu": "India",
+          "name:fa": "هند",
+          "name:fi": "Intia",
+          "name:fo": "India",
+          "name:fr": "Inde",
+          "name:fy": "Yndia",
+          "name:ga": "An India",
+          "name:gd": "Na h-Innseachan",
+          "name:gn": "India",
+          "name:gr": "Ἰνδία",
+          "name:gu": "ભારત",
+          "name:gv": "Yn Injey",
+          "name:ha": "Indiya",
+          "name:he": "הודו",
+          "name:hi": "भारत",
+          "name:hr": "Indija",
+          "name:ht": "End",
+          "name:hu": "India",
+          "name:hy": "Հնդկաստան",
+          "name:ia": "India",
+          "name:id": "India",
+          "name:ie": "India",
+          "name:ig": "Ndia",
+          "name:io": "India",
+          "name:is": "Indland",
+          "name:it": "India",
+          "name:iu": "ᐃᓐᑎᐊ",
+          "name:ja": "インド",
+          "name:jv": "India",
+          "name:ka": "ინდოეთი",
+          "name:kg": "India",
+          "name:kk": "Үндістан",
+          "name:kl": "India",
+          "name:km": "ឥណ្ឌា",
+          "name:kn": "ಭಾರತ",
+          "name:ko": "인도",
+          "name:ks": "ہِندوستان",
+          "name:ku": "Hindistan",
+          "name:kv": "Индия",
+          "name:kw": "Eynda",
+          "name:ky": "Индия",
+          "name:la": "India",
+          "name:lb": "Indien",
+          "name:li": "India",
+          "name:ln": "India",
+          "name:lt": "Indija",
+          "name:lv": "Indija",
+          "name:mg": "India",
+          "name:mi": "Īnia",
+          "name:mk": "Индија",
+          "name:ml": "ഇന്ത്യ",
+          "name:mn": "Энэтхэг",
+          "name:mo": "Индия",
+          "name:mr": "भारत",
+          "name:ms": "India",
+          "name:mt": "Indja",
+          "name:my": "အိန္ဒိယနိုင်ငံ",
+          "name:na": "Indjiya",
+          "name:ne": "भारत",
+          "name:nl": "India",
+          "name:nn": "India",
+          "name:no": "India",
+          "name:nv": "Tó Wónaanídę́ę́ʼ Bitsįʼ Yishtłizhii Bikéyah",
+          "name:oc": "Índia",
+          "name:or": "ଭାରତ",
+          "name:os": "Инди",
+          "name:pa": "ਭਾਰਤ",
+          "name:pi": "भारत",
+          "name:pl": "Indie",
+          "name:ps": "هند",
+          "name:pt": "Índia",
+          "name:qu": "Indya",
+          "name:rm": "India",
+          "name:rn": "Ubuhindi",
+          "name:ro": "India",
+          "name:ru": "Индия",
+          "name:rw": "Ubuhinde",
+          "name:sa": "भारतम्",
+          "name:sc": "Ìndia",
+          "name:sd": "ڀارت",
+          "name:se": "India",
+          "name:sh": "Indija",
+          "name:si": "භාරත ජනරජය",
+          "name:sk": "India",
+          "name:sl": "Indija",
+          "name:sm": "Igitia",
+          "name:so": "Hindiya",
+          "name:sq": "India",
+          "name:sr": "Индија",
+          "name:ss": "INdiya",
+          "name:su": "India",
+          "name:sv": "Indien",
+          "name:sw": "Uhindi",
+          "name:ta": "இந்தியா",
+          "name:te": "భారత దేశం",
+          "name:tg": "Ҳиндустон",
+          "name:th": "ประเทศอินเดีย",
+          "name:tk": "Hindistan",
+          "name:tl": "Indiya",
+          "name:to": "ʻInitia",
+          "name:tr": "Hindistan",
+          "name:ts": "India",
+          "name:tt": "Һиндстан",
+          "name:ty": "’Inītia",
+          "name:ug": "ھىندىستان",
+          "name:uk": "Індія",
+          "name:ur": "ہندوستان",
+          "name:uz": "Hindiston",
+          "name:vi": "Ấn Độ",
+          "name:vo": "Lindän",
+          "name:wa": "Inde",
+          "name:wo": "End",
+          "name:yi": "אינדיע",
+          "name:yo": "Índíà",
+          "name:za": "Yindu",
+          "name:zh": "印度",
+          "name:zu": "INdiya",
+          "alt_name": "Hindustan",
+          "boundary": "administrative",
+          "name:arc": "ܗܢܕܘ",
+          "name:azb": "هیندوستان",
+          "name:bar": "Indien",
+          "name:bcl": "Indya",
+          "name:bjn": "India",
+          "name:bpy": "ভারত",
+          "name:bug": "India",
+          "name:bxr": "Энэдхэг",
+          "name:cdo": "Éng-dô",
+          "name:ceb": "Indya",
+          "name:chr": "ᎢᏅᏗᎾ",
+          "name:ckb": "ھیندستان",
+          "name:crh": "İndistan",
+          "name:csb": "Indie",
+          "name:din": "Indiɛn",
+          "name:diq": "Hindıstan",
+          "name:dsb": "Indiska",
+          "name:ext": "La Índia",
+          "name:frp": "Ende",
+          "name:frr": "Indien",
+          "name:fur": "Indie",
+          "name:gag": "İndiya",
+          "name:gan": "印度",
+          "name:glk": "هند",
+          "name:grc": "Ἰνδία",
+          "name:hak": "Yin-thu",
+          "name:haw": "‘Īnia",
+          "name:hif": "India",
+          "name:hsb": "Indiska",
+          "name:ilo": "India",
+          "name:jbo": ".indias.",
+          "name:kbd": "Индиэ",
+          "name:kmr": "حندستان",
+          "name:krc": "Индия",
+          "name:lbe": "Гьиндусттан",
+          "name:lez": "Индия",
+          "name:lij": "India",
+          "name:lmo": "India",
+          "name:lrc": "هند",
+          "name:ltg": "Iņdeja",
+          "name:lzh": "印度",
+          "name:mdf": "Индие",
+          "name:mwl": "Índia",
+          "name:mzn": "هند",
+          "name:nah": "India",
+          "name:nan": "Ìn-tō͘",
+          "name:nap": "Innia",
+          "name:nds": "Indien",
+          "name:new": "भारत",
+          "name:nov": "India",
+          "name:nrm": "Înde",
+          "name:pam": "India",
+          "name:pap": "India",
+          "name:pcd": "Inde",
+          "name:pih": "Endya",
+          "name:pms": "India",
+          "name:pnb": "بھارت",
+          "name:rmy": "Bharat",
+          "name:rue": "Індія",
+          "name:sah": "Индия",
+          "name:sat": "ᱵᱷᱟᱨᱚᱛ",
+          "name:scn": "Innia",
+          "name:sco": "Indie",
+          "name:smn": "India",
+          "name:sms": "Intia",
+          "name:srn": "Indiakondre",
+          "name:stq": "Indien",
+          "name:syc": "ܗܢܕܘ",
+          "name:szl": "Indyjŏ",
+          "name:tet": "Índia",
+          "name:tpi": "India",
+          "name:udm": "Индия",
+          "name:vec": "India",
+          "name:vro": "India",
+          "name:war": "Indya",
+          "name:wuu": "印度",
+          "name:xal": "Индия",
+          "name:xmf": "ინდოეთი",
+          "name:yue": "印度",
+          "name:zea": "India",
+          "timezone": "Asia/Kolkata",
+          "way_area": "304.146",
+          "wikidata": "Q668",
+          "ISO3166-1": "IN",
+          "wikipedia": "en:India",
+          "population": "1407563842",
+          "admin_level": "2",
+          "alt_name:eo": "Hindujo;Hindio",
+          "alt_name:ks": "بًارت",
+          "alt_name:ur": "بھارت;انڈیا",
+          "alt_name:vi": "Thiên Trúc;Quyên Độc",
+          "border_type": "nation",
+          "name:nds-nl": "India",
+          "driving_side": "left",
+          "name:az-Arab": "هیندوستان",
+          "name:bat-smg": "Indėjė",
+          "name:cbk-zam": "India",
+          "name:ku-Arab": "حندستان",
+          "name:map-bms": "India",
+          "name:roa-rup": "India",
+          "name:zh-Hans": "印度",
+          "name:zh-Hant": "印度",
+          "wikipedia:ks": "ہِندوستان",
+          "wikipedia:pa": "ਭਾਰਤ",
+          "wikipedia:ur": "بھارت",
+          "name:kab-Arab": "لهند",
+          "name:roa-tara": "Indie",
+          "name:be-tarask": "Індыя",
+          "population:date": "2021",
+          "ISO3166-1:alpha2": "IN",
+          "ISO3166-1:alpha3": "IND",
+          "official_name:ar": "جمهورية الهند",
+          "official_name:cs": "Indická republika",
+          "official_name:de": "Republik Indien",
+          "official_name:en": "Republic of India",
+          "official_name:eo": "Barata Respubliko",
+          "official_name:es": "República de la India",
+          "official_name:fa": "جمهوری هندوستان",
+          "official_name:fr": "République d'Inde",
+          "official_name:ks": "جۆمہوٗرِیہَ ہِندوستان",
+          "official_name:pa": "ਭਾਰਤ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Indii",
+          "official_name:ps": "د هند جمهوريت",
+          "official_name:ru": "Республика Индия",
+          "official_name:ur": "جمہوریہ ہندوستان",
+          "official_name:vi": "Cộng hoà Ấn Độ",
+          "ISO3166-1:numeric": "356",
+          "official_name:azb": "هیندوستان جومهوریتی",
+          "official_name:pnb": "بھارت گنراج",
+          "official_name:az-Arab": "هیندوستان جومهوریتی"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88,
+              22
+            ],
+            [
+              89,
+              22
+            ],
+            [
+              89,
+              22.28186932121128
+            ],
+            [
+              88.9987227,
+              22.2828929
+            ],
+            [
+              88.9959784,
+              22.2857459
+            ],
+            [
+              88.995165,
+              22.2889996
+            ],
+            [
+              88.9949937,
+              22.2925103
+            ],
+            [
+              88.9951222,
+              22.2934094
+            ],
+            [
+              88.9954647,
+              22.2943513
+            ],
+            [
+              88.9961497,
+              22.2951647
+            ],
+            [
+              88.9987966,
+              22.296613
+            ],
+            [
+              89,
+              22.296956813246567
+            ],
+            [
+              89,
+              22.323845908597185
+            ],
+            [
+              88.9992651,
+              22.3242134
+            ],
+            [
+              88.9973261,
+              22.324408
+            ],
+            [
+              88.9962918,
+              22.3241889
+            ],
+            [
+              88.9951085,
+              22.3235753
+            ],
+            [
+              88.9908408,
+              22.3221438
+            ],
+            [
+              88.9896076,
+              22.3222424
+            ],
+            [
+              88.9880784,
+              22.323081
+            ],
+            [
+              88.98576,
+              22.3246595
+            ],
+            [
+              88.9850694,
+              22.3253007
+            ],
+            [
+              88.9847735,
+              22.3261886
+            ],
+            [
+              88.9847242,
+              22.3290496
+            ],
+            [
+              88.9852668,
+              22.3337851
+            ],
+            [
+              88.9857297,
+              22.3349263
+            ],
+            [
+              88.9866939,
+              22.340317
+            ],
+            [
+              88.9882278,
+              22.3459706
+            ],
+            [
+              88.9887975,
+              22.348644
+            ],
+            [
+              88.988621,
+              22.3503098
+            ],
+            [
+              88.9883251,
+              22.3512964
+            ],
+            [
+              88.9873878,
+              22.3531708
+            ],
+            [
+              88.9865493,
+              22.3554399
+            ],
+            [
+              88.9864309,
+              22.3564889
+            ],
+            [
+              88.9865186,
+              22.3585487
+            ],
+            [
+              88.9868254,
+              22.3592938
+            ],
+            [
+              88.9894103,
+              22.3633817
+            ],
+            [
+              88.9895089,
+              22.3644175
+            ],
+            [
+              88.9894103,
+              22.3652561
+            ],
+            [
+              88.988621,
+              22.3668839
+            ],
+            [
+              88.9850694,
+              22.3706328
+            ],
+            [
+              88.9836883,
+              22.3725566
+            ],
+            [
+              88.9832937,
+              22.3737898
+            ],
+            [
+              88.9832937,
+              22.374727
+            ],
+            [
+              88.9841322,
+              22.3775387
+            ],
+            [
+              88.9850694,
+              22.3793145
+            ],
+            [
+              88.9865986,
+              22.3808436
+            ],
+            [
+              88.9875852,
+              22.3822248
+            ],
+            [
+              88.9896569,
+              22.3845925
+            ],
+            [
+              88.9907421,
+              22.3861217
+            ],
+            [
+              88.991482,
+              22.3875029
+            ],
+            [
+              88.9921726,
+              22.3900186
+            ],
+            [
+              88.992074,
+              22.3911531
+            ],
+            [
+              88.9915314,
+              22.3920903
+            ],
+            [
+              88.9907914,
+              22.3927316
+            ],
+            [
+              88.9872636,
+              22.3949027
+            ],
+            [
+              88.9832316,
+              22.3977514
+            ],
+            [
+              88.97989,
+              22.40092
+            ],
+            [
+              88.9779663,
+              22.4023505
+            ],
+            [
+              88.9742174,
+              22.4057048
+            ],
+            [
+              88.9727375,
+              22.4072832
+            ],
+            [
+              88.9724416,
+              22.4084178
+            ],
+            [
+              88.9725402,
+              22.4095523
+            ],
+            [
+              88.9722936,
+              22.4105389
+            ],
+            [
+              88.9723429,
+              22.4112788
+            ],
+            [
+              88.9730335,
+              22.4121667
+            ],
+            [
+              88.9747106,
+              22.4130546
+            ],
+            [
+              88.9812712,
+              22.4157676
+            ],
+            [
+              88.9823564,
+              22.4163595
+            ],
+            [
+              88.9846255,
+              22.4185793
+            ],
+            [
+              88.9867466,
+              22.4215882
+            ],
+            [
+              88.9888677,
+              22.4235614
+            ],
+            [
+              88.9906435,
+              22.4249425
+            ],
+            [
+              88.995083,
+              22.4269156
+            ],
+            [
+              88.9988812,
+              22.4281981
+            ],
+            [
+              88.9996211,
+              22.4287901
+            ],
+            [
+              89,
+              22.429434490524287
+            ],
+            [
+              89,
+              22.432092111776257
+            ],
+            [
+              88.9969054,
+              22.4355735
+            ],
+            [
+              88.9939252,
+              22.4381593
+            ],
+            [
+              88.9902511,
+              22.4435784
+            ],
+            [
+              88.989829,
+              22.4448976
+            ],
+            [
+              88.9897763,
+              22.4462695
+            ],
+            [
+              88.9903039,
+              22.4478524
+            ],
+            [
+              88.990726,
+              22.4488022
+            ],
+            [
+              88.9941558,
+              22.4542899
+            ],
+            [
+              88.9948945,
+              22.4564005
+            ],
+            [
+              88.994789,
+              22.4579835
+            ],
+            [
+              88.9948945,
+              22.4593026
+            ],
+            [
+              88.995686,
+              22.4619409
+            ],
+            [
+              88.996248,
+              22.4659451
+            ],
+            [
+              88.9963357,
+              22.4679173
+            ],
+            [
+              88.9962042,
+              22.4694074
+            ],
+            [
+              88.9959412,
+              22.4705031
+            ],
+            [
+              88.9940129,
+              22.4729793
+            ],
+            [
+              88.9904191,
+              22.475565
+            ],
+            [
+              88.9873863,
+              22.4774496
+            ],
+            [
+              88.985195,
+              22.4793341
+            ],
+            [
+              88.9822148,
+              22.4825992
+            ],
+            [
+              88.9811192,
+              22.4843522
+            ],
+            [
+              88.9780513,
+              22.4913644
+            ],
+            [
+              88.9763859,
+              22.4943008
+            ],
+            [
+              88.9750273,
+              22.4974125
+            ],
+            [
+              88.9738875,
+              22.500782
+            ],
+            [
+              88.9731143,
+              22.5143591
+            ],
+            [
+              88.9724775,
+              22.5174066
+            ],
+            [
+              88.9713631,
+              22.5211932
+            ],
+            [
+              88.9705672,
+              22.52324
+            ],
+            [
+              88.9687478,
+              22.530165
+            ],
+            [
+              88.9677479,
+              22.532263
+            ],
+            [
+              88.9656645,
+              22.5392961
+            ],
+            [
+              88.963079,
+              22.5459107
+            ],
+            [
+              88.9614371,
+              22.5489892
+            ],
+            [
+              88.9594875,
+              22.5517597
+            ],
+            [
+              88.9586665,
+              22.5521189
+            ],
+            [
+              88.9566897,
+              22.5527353
+            ],
+            [
+              88.9529146,
+              22.5532257
+            ],
+            [
+              88.949435,
+              22.5545675
+            ],
+            [
+              88.948025,
+              22.555318
+            ],
+            [
+              88.9459424,
+              22.5557104
+            ],
+            [
+              88.944044,
+              22.5567878
+            ],
+            [
+              88.9426587,
+              22.5579166
+            ],
+            [
+              88.94153,
+              22.5602767
+            ],
+            [
+              88.9409143,
+              22.5633552
+            ],
+            [
+              88.9411708,
+              22.5698198
+            ],
+            [
+              88.9410682,
+              22.5736679
+            ],
+            [
+              88.9402608,
+              22.5788563
+            ],
+            [
+              88.9394648,
+              22.5804255
+            ],
+            [
+              88.9387371,
+              22.5834275
+            ],
+            [
+              88.9382595,
+              22.587885
+            ],
+            [
+              88.9385551,
+              22.5901137
+            ],
+            [
+              88.9394876,
+              22.5919786
+            ],
+            [
+              88.9415889,
+              22.5948214
+            ],
+            [
+              88.9482069,
+              22.6004956
+            ],
+            [
+              88.9518548,
+              22.6031109
+            ],
+            [
+              88.957271,
+              22.608018
+            ],
+            [
+              88.9584511,
+              22.6096085
+            ],
+            [
+              88.9596311,
+              22.6119687
+            ],
+            [
+              88.9600416,
+              22.6155088
+            ],
+            [
+              88.9600096,
+              22.6166466
+            ],
+            [
+              88.958824,
+              22.6187213
+            ],
+            [
+              88.9578361,
+              22.6195611
+            ],
+            [
+              88.9550698,
+              22.6206478
+            ],
+            [
+              88.9533903,
+              22.620549
+            ],
+            [
+              88.9517601,
+              22.6200551
+            ],
+            [
+              88.9499341,
+              22.619203
+            ],
+            [
+              88.9478818,
+              22.6188438
+            ],
+            [
+              88.946753,
+              22.6182794
+            ],
+            [
+              88.9449002,
+              22.6181095
+            ],
+            [
+              88.9428307,
+              22.6184051
+            ],
+            [
+              88.941571,
+              22.6179203
+            ],
+            [
+              88.9379282,
+              22.6180742
+            ],
+            [
+              88.9362351,
+              22.6182794
+            ],
+            [
+              88.9345419,
+              22.6189977
+            ],
+            [
+              88.9336697,
+              22.6205883
+            ],
+            [
+              88.9332079,
+              22.6259242
+            ],
+            [
+              88.9333835,
+              22.6274565
+            ],
+            [
+              88.9329514,
+              22.6290712
+            ],
+            [
+              88.9329514,
+              22.6311575
+            ],
+            [
+              88.9324897,
+              22.6329533
+            ],
+            [
+              88.932541,
+              22.6341333
+            ],
+            [
+              88.9322844,
+              22.636083
+            ],
+            [
+              88.931874,
+              22.637417
+            ],
+            [
+              88.9310017,
+              22.6428555
+            ],
+            [
+              88.9300782,
+              22.6449591
+            ],
+            [
+              88.929206,
+              22.6458314
+            ],
+            [
+              88.9280259,
+              22.6478323
+            ],
+            [
+              88.9268534,
+              22.6520653
+            ],
+            [
+              88.9285167,
+              22.6534624
+            ],
+            [
+              88.9293172,
+              22.6538262
+            ],
+            [
+              88.9297948,
+              22.6534624
+            ],
+            [
+              88.9309131,
+              22.6519538
+            ],
+            [
+              88.9313483,
+              22.651818
+            ],
+            [
+              88.932443,
+              22.6521268
+            ],
+            [
+              88.9334108,
+              22.6543493
+            ],
+            [
+              88.9339111,
+              22.6546222
+            ],
+            [
+              88.9355195,
+              22.6550019
+            ],
+            [
+              88.9358161,
+              22.6553643
+            ],
+            [
+              88.9359479,
+              22.6561058
+            ],
+            [
+              88.9357831,
+              22.6582807
+            ],
+            [
+              88.9362991,
+              22.6592616
+            ],
+            [
+              88.9373907,
+              22.65958
+            ],
+            [
+              88.9381558,
+              22.6599943
+            ],
+            [
+              88.9392738,
+              22.6602396
+            ],
+            [
+              88.9416818,
+              22.6594341
+            ],
+            [
+              88.9422585,
+              22.6597142
+            ],
+            [
+              88.9427198,
+              22.660192
+            ],
+            [
+              88.9429999,
+              22.6607523
+            ],
+            [
+              88.9430494,
+              22.6619056
+            ],
+            [
+              88.943754,
+              22.6622636
+            ],
+            [
+              88.9449936,
+              22.6625976
+            ],
+            [
+              88.9452078,
+              22.6639982
+            ],
+            [
+              88.9460481,
+              22.6662555
+            ],
+            [
+              88.9460152,
+              22.6671947
+            ],
+            [
+              88.9463148,
+              22.6690522
+            ],
+            [
+              88.9472927,
+              22.670485
+            ],
+            [
+              88.9476958,
+              22.6724508
+            ],
+            [
+              88.9483055,
+              22.6742962
+            ],
+            [
+              88.9479594,
+              22.6768336
+            ],
+            [
+              88.9482725,
+              22.6778881
+            ],
+            [
+              88.9487668,
+              22.6784483
+            ],
+            [
+              88.949673,
+              22.6802443
+            ],
+            [
+              88.9502003,
+              22.6805903
+            ],
+            [
+              88.9509912,
+              22.6806232
+            ],
+            [
+              88.9518974,
+              22.6812823
+            ],
+            [
+              88.9551433,
+              22.6850287
+            ],
+            [
+              88.9561814,
+              22.6851873
+            ],
+            [
+              88.9601557,
+              22.6848467
+            ],
+            [
+              88.9620141,
+              22.6849896
+            ],
+            [
+              88.9622942,
+              22.6852532
+            ],
+            [
+              88.9622778,
+              22.6856322
+            ],
+            [
+              88.9613715,
+              22.6864395
+            ],
+            [
+              88.9606333,
+              22.6874393
+            ],
+            [
+              88.9607698,
+              22.6882239
+            ],
+            [
+              88.9613611,
+              22.6888607
+            ],
+            [
+              88.9613611,
+              22.6900433
+            ],
+            [
+              88.9617175,
+              22.6908718
+            ],
+            [
+              88.9616795,
+              22.6919992
+            ],
+            [
+              88.9620434,
+              22.6929771
+            ],
+            [
+              88.9621343,
+              22.6941597
+            ],
+            [
+              88.9617204,
+              22.6953878
+            ],
+            [
+              88.9609927,
+              22.696252
+            ],
+            [
+              88.9602877,
+              22.6978894
+            ],
+            [
+              88.958933,
+              22.6986818
+            ],
+            [
+              88.9576495,
+              22.7001637
+            ],
+            [
+              88.9576041,
+              22.7012553
+            ],
+            [
+              88.9555345,
+              22.7041322
+            ],
+            [
+              88.9524416,
+              22.7054967
+            ],
+            [
+              88.9507359,
+              22.7065883
+            ],
+            [
+              88.948771,
+              22.7051783
+            ],
+            [
+              88.9479067,
+              22.7051783
+            ],
+            [
+              88.9474519,
+              22.7061335
+            ],
+            [
+              88.9461783,
+              22.7077482
+            ],
+            [
+              88.9451094,
+              22.7082031
+            ],
+            [
+              88.9436085,
+              22.7085214
+            ],
+            [
+              88.9415829,
+              22.7103473
+            ],
+            [
+              88.9332786,
+              22.7149938
+            ],
+            [
+              88.9314823,
+              22.7162538
+            ],
+            [
+              88.9279402,
+              22.718009
+            ],
+            [
+              88.9274341,
+              22.7185508
+            ],
+            [
+              88.9272977,
+              22.7199381
+            ],
+            [
+              88.9259786,
+              22.7223715
+            ],
+            [
+              88.9257982,
+              22.7237264
+            ],
+            [
+              88.9259135,
+              22.7257037
+            ],
+            [
+              88.9252874,
+              22.7269724
+            ],
+            [
+              88.9246141,
+              22.7276705
+            ],
+            [
+              88.9241365,
+              22.7277614
+            ],
+            [
+              88.9221807,
+              22.7290464
+            ],
+            [
+              88.9183342,
+              22.7305314
+            ],
+            [
+              88.9176092,
+              22.731454
+            ],
+            [
+              88.9170637,
+              22.7327306
+            ],
+            [
+              88.9163359,
+              22.7333219
+            ],
+            [
+              88.9160402,
+              22.7339132
+            ],
+            [
+              88.9160275,
+              22.7348153
+            ],
+            [
+              88.9154035,
+              22.7365058
+            ],
+            [
+              88.9161099,
+              22.7384072
+            ],
+            [
+              88.9161593,
+              22.7399066
+            ],
+            [
+              88.9163405,
+              22.7406316
+            ],
+            [
+              88.917049,
+              22.7419827
+            ],
+            [
+              88.9168513,
+              22.7440423
+            ],
+            [
+              88.9177246,
+              22.7457724
+            ],
+            [
+              88.9182683,
+              22.7474365
+            ],
+            [
+              88.9185419,
+              22.7479111
+            ],
+            [
+              88.9204268,
+              22.7484086
+            ],
+            [
+              88.9211518,
+              22.7490018
+            ],
+            [
+              88.9213881,
+              22.7503162
+            ],
+            [
+              88.9209392,
+              22.7522367
+            ],
+            [
+              88.9204903,
+              22.7531096
+            ],
+            [
+              88.9200413,
+              22.7535586
+            ],
+            [
+              88.9174474,
+              22.7549054
+            ],
+            [
+              88.9162751,
+              22.75508
+            ],
+            [
+              88.9149532,
+              22.753783
+            ],
+            [
+              88.9135316,
+              22.7550301
+            ],
+            [
+              88.9130078,
+              22.7550052
+            ],
+            [
+              88.9124092,
+              22.7552296
+            ],
+            [
+              88.9124342,
+              22.7567012
+            ],
+            [
+              88.911741,
+              22.7576992
+            ],
+            [
+              88.9123769,
+              22.7590647
+            ],
+            [
+              88.913261,
+              22.7594967
+            ],
+            [
+              88.9144118,
+              22.7607875
+            ],
+            [
+              88.916357,
+              22.7668566
+            ],
+            [
+              88.917537,
+              22.7688949
+            ],
+            [
+              88.9182244,
+              22.7697044
+            ],
+            [
+              88.9188625,
+              22.770109
+            ],
+            [
+              88.9194227,
+              22.7702024
+            ],
+            [
+              88.9207921,
+              22.7701557
+            ],
+            [
+              88.9260256,
+              22.7692184
+            ],
+            [
+              88.9263795,
+              22.7693108
+            ],
+            [
+              88.9266411,
+              22.7697108
+            ],
+            [
+              88.9274412,
+              22.7741731
+            ],
+            [
+              88.926518,
+              22.7772659
+            ],
+            [
+              88.9259799,
+              22.7799408
+            ],
+            [
+              88.9251336,
+              22.7800134
+            ],
+            [
+              88.9258628,
+              22.7805768
+            ],
+            [
+              88.9277189,
+              22.7805437
+            ],
+            [
+              88.9305362,
+              22.7809083
+            ],
+            [
+              88.929807,
+              22.7827313
+            ],
+            [
+              88.929807,
+              22.7832947
+            ],
+            [
+              88.9312418,
+              22.7831129
+            ],
+            [
+              88.9317496,
+              22.7832514
+            ],
+            [
+              88.9336121,
+              22.783129
+            ],
+            [
+              88.9350041,
+              22.782665
+            ],
+            [
+              88.9369265,
+              22.782433
+            ],
+            [
+              88.937026,
+              22.7836262
+            ],
+            [
+              88.9363962,
+              22.788051
+            ],
+            [
+              88.9366282,
+              22.7895426
+            ],
+            [
+              88.9371917,
+              22.7914981
+            ],
+            [
+              88.9378877,
+              22.7918296
+            ],
+            [
+              88.9386832,
+              22.791929
+            ],
+            [
+              88.9391141,
+              22.7921942
+            ],
+            [
+              88.9390075,
+              22.7927553
+            ],
+            [
+              88.9411665,
+              22.7916528
+            ],
+            [
+              88.9423623,
+              22.7914318
+            ],
+            [
+              88.9425612,
+              22.7910341
+            ],
+            [
+              88.9429258,
+              22.7908684
+            ],
+            [
+              88.944815,
+              22.7925256
+            ],
+            [
+              88.9457564,
+              22.7924925
+            ],
+            [
+              88.9459884,
+              22.7938514
+            ],
+            [
+              88.9468833,
+              22.7943154
+            ],
+            [
+              88.9474468,
+              22.7952766
+            ],
+            [
+              88.9483748,
+              22.7954755
+            ],
+            [
+              88.9500226,
+              22.797635
+            ],
+            [
+              88.9562302,
+              22.7974642
+            ],
+            [
+              88.9583846,
+              22.7968676
+            ],
+            [
+              88.9591469,
+              22.7968345
+            ],
+            [
+              88.9591469,
+              22.7972985
+            ],
+            [
+              88.9599672,
+              22.7983757
+            ],
+            [
+              88.9591232,
+              22.8000233
+            ],
+            [
+              88.959354,
+              22.8020544
+            ],
+            [
+              88.9591693,
+              22.8044702
+            ],
+            [
+              88.9592462,
+              22.8057935
+            ],
+            [
+              88.9607379,
+              22.8086672
+            ],
+            [
+              88.9605722,
+              22.8092307
+            ],
+            [
+              88.960075,
+              22.8095621
+            ],
+            [
+              88.9593789,
+              22.8096284
+            ],
+            [
+              88.9566942,
+              22.8087666
+            ],
+            [
+              88.956429,
+              22.8089655
+            ],
+            [
+              88.9566611,
+              22.8123536
+            ],
+            [
+              88.9575715,
+              22.8127071
+            ],
+            [
+              88.9592886,
+              22.8138896
+            ],
+            [
+              88.9604165,
+              22.8149165
+            ],
+            [
+              88.9622598,
+              22.8173742
+            ],
+            [
+              88.9629962,
+              22.818822
+            ],
+            [
+              88.9633834,
+              22.8200592
+            ],
+            [
+              88.9637706,
+              22.8225044
+            ],
+            [
+              88.9639431,
+              22.8285309
+            ],
+            [
+              88.9644482,
+              22.8303658
+            ],
+            [
+              88.9657444,
+              22.8333369
+            ],
+            [
+              88.9676718,
+              22.8389637
+            ],
+            [
+              88.9685977,
+              22.8434583
+            ],
+            [
+              88.9685893,
+              22.8446661
+            ],
+            [
+              88.9682358,
+              22.8457351
+            ],
+            [
+              88.9637369,
+              22.8520562
+            ],
+            [
+              88.9609299,
+              22.8551284
+            ],
+            [
+              88.9593475,
+              22.8558901
+            ],
+            [
+              88.9581523,
+              22.8570096
+            ],
+            [
+              88.9581691,
+              22.8575987
+            ],
+            [
+              88.9586489,
+              22.859017
+            ],
+            [
+              88.958792,
+              22.8599681
+            ],
+            [
+              88.9572854,
+              22.862792
+            ],
+            [
+              88.9552485,
+              22.864105
+            ],
+            [
+              88.9536703,
+              22.8639535
+            ],
+            [
+              88.9531148,
+              22.8642565
+            ],
+            [
+              88.9529801,
+              22.8645679
+            ],
+            [
+              88.9530474,
+              22.8651698
+            ],
+            [
+              88.9537545,
+              22.8662555
+            ],
+            [
+              88.9532915,
+              22.8684944
+            ],
+            [
+              88.952151,
+              22.8701357
+            ],
+            [
+              88.9517386,
+              22.8709774
+            ],
+            [
+              88.951545,
+              22.8719201
+            ],
+            [
+              88.9503119,
+              22.8721895
+            ],
+            [
+              88.9497648,
+              22.8727702
+            ],
+            [
+              88.9495881,
+              22.8736793
+            ],
+            [
+              88.9497901,
+              22.8762212
+            ],
+            [
+              88.949647,
+              22.877004
+            ],
+            [
+              88.9490578,
+              22.8775931
+            ],
+            [
+              88.9479384,
+              22.8777951
+            ],
+            [
+              88.9477111,
+              22.8779635
+            ],
+            [
+              88.946739,
+              22.8790577
+            ],
+            [
+              88.9463602,
+              22.8797815
+            ],
+            [
+              88.9452782,
+              22.8808118
+            ],
+            [
+              88.9436205,
+              22.8801009
+            ],
+            [
+              88.9426407,
+              22.8802106
+            ],
+            [
+              88.9426076,
+              22.8794814
+            ],
+            [
+              88.942243,
+              22.8781556
+            ],
+            [
+              88.9416,
+              22.8772773
+            ],
+            [
+              88.9402742,
+              22.8748245
+            ],
+            [
+              88.9379872,
+              22.8746919
+            ],
+            [
+              88.9371586,
+              22.8744599
+            ],
+            [
+              88.9339766,
+              22.8747582
+            ],
+            [
+              88.9324851,
+              22.8739628
+            ],
+            [
+              88.9313913,
+              22.873797
+            ],
+            [
+              88.9297672,
+              22.873101
+            ],
+            [
+              88.9279774,
+              22.8732004
+            ],
+            [
+              88.9279443,
+              22.875156
+            ],
+            [
+              88.9273477,
+              22.8754211
+            ],
+            [
+              88.9269168,
+              22.8753217
+            ],
+            [
+              88.9254252,
+              22.8756863
+            ],
+            [
+              88.9250275,
+              22.8761503
+            ],
+            [
+              88.924179,
+              22.8797466
+            ],
+            [
+              88.923947,
+              22.88031
+            ],
+            [
+              88.9234498,
+              22.8805752
+            ],
+            [
+              88.9224886,
+              22.8800449
+            ],
+            [
+              88.9216268,
+              22.8799454
+            ],
+            [
+              88.9209308,
+              22.8795808
+            ],
+            [
+              88.9203342,
+              22.8789511
+            ],
+            [
+              88.9194393,
+              22.8771281
+            ],
+            [
+              88.9189421,
+              22.8770287
+            ],
+            [
+              88.9185444,
+              22.8772275
+            ],
+            [
+              88.9183455,
+              22.8786528
+            ],
+            [
+              88.9177489,
+              22.8789842
+            ],
+            [
+              88.9170528,
+              22.8796471
+            ],
+            [
+              88.9162242,
+              22.880078
+            ],
+            [
+              88.9154619,
+              22.8799454
+            ],
+            [
+              88.914567,
+              22.8800117
+            ],
+            [
+              88.9138046,
+              22.8795145
+            ],
+            [
+              88.9133075,
+              22.8789179
+            ],
+            [
+              88.9127771,
+              22.8789179
+            ],
+            [
+              88.9125783,
+              22.8792494
+            ],
+            [
+              88.910689,
+              22.879846
+            ],
+            [
+              88.910457,
+              22.8802769
+            ],
+            [
+              88.9105896,
+              22.8808403
+            ],
+            [
+              88.910921,
+              22.8812049
+            ],
+            [
+              88.9137383,
+              22.8813375
+            ],
+            [
+              88.9132412,
+              22.8820004
+            ],
+            [
+              88.9101454,
+              22.8821661
+            ],
+            [
+              88.9098471,
+              22.8826965
+            ],
+            [
+              88.9101454,
+              22.8847514
+            ],
+            [
+              88.910046,
+              22.8853315
+            ],
+            [
+              88.9096814,
+              22.8856629
+            ],
+            [
+              88.908223,
+              22.8854309
+            ],
+            [
+              88.9076596,
+              22.8855304
+            ],
+            [
+              88.9068641,
+              22.8858949
+            ],
+            [
+              88.9066652,
+              22.886359
+            ],
+            [
+              88.9069304,
+              22.8866904
+            ],
+            [
+              88.9090185,
+              22.886823
+            ],
+            [
+              88.9092837,
+              22.8873202
+            ],
+            [
+              88.9092837,
+              22.8875853
+            ],
+            [
+              88.9087533,
+              22.8879499
+            ],
+            [
+              88.9070961,
+              22.8879499
+            ],
+            [
+              88.9065326,
+              22.8885465
+            ],
+            [
+              88.9063006,
+              22.8892094
+            ],
+            [
+              88.9063006,
+              22.8901706
+            ],
+            [
+              88.9065658,
+              22.8908998
+            ],
+            [
+              88.9071292,
+              22.8915959
+            ],
+            [
+              88.9077921,
+              22.8930874
+            ],
+            [
+              88.9089191,
+              22.8937503
+            ],
+            [
+              88.9085545,
+              22.8940817
+            ],
+            [
+              88.9070961,
+              22.8938166
+            ],
+            [
+              88.9063669,
+              22.894148
+            ],
+            [
+              88.9062012,
+              22.8951755
+            ],
+            [
+              88.9055051,
+              22.8962362
+            ],
+            [
+              88.903649,
+              22.8954738
+            ],
+            [
+              88.9024226,
+              22.8966173
+            ],
+            [
+              88.9002351,
+              22.8974128
+            ],
+            [
+              88.898495,
+              22.8984243
+            ],
+            [
+              88.900307,
+              22.9011892
+            ],
+            [
+              88.9008855,
+              22.9024142
+            ],
+            [
+              88.9011875,
+              22.9037243
+            ],
+            [
+              88.901284,
+              22.9065953
+            ],
+            [
+              88.9005759,
+              22.9075144
+            ],
+            [
+              88.8960779,
+              22.9111956
+            ],
+            [
+              88.895748,
+              22.9117663
+            ],
+            [
+              88.8953899,
+              22.9130906
+            ],
+            [
+              88.8955066,
+              22.914227
+            ],
+            [
+              88.8957131,
+              22.9145025
+            ],
+            [
+              88.8961181,
+              22.9146223
+            ],
+            [
+              88.8988888,
+              22.9142592
+            ],
+            [
+              88.9030543,
+              22.9141505
+            ],
+            [
+              88.9040896,
+              22.9142221
+            ],
+            [
+              88.9054066,
+              22.9145556
+            ],
+            [
+              88.9061227,
+              22.9150077
+            ],
+            [
+              88.9076827,
+              22.9168337
+            ],
+            [
+              88.9081931,
+              22.9180928
+            ],
+            [
+              88.9083122,
+              22.9191987
+            ],
+            [
+              88.9081591,
+              22.9196751
+            ],
+            [
+              88.9079549,
+              22.9201174
+            ],
+            [
+              88.906866,
+              22.9213765
+            ],
+            [
+              88.9036929,
+              22.9232225
+            ],
+            [
+              88.8947859,
+              22.9264893
+            ],
+            [
+              88.8920467,
+              22.9269657
+            ],
+            [
+              88.8905834,
+              22.9276292
+            ],
+            [
+              88.8890934,
+              22.9292546
+            ],
+            [
+              88.887087,
+              22.9336097
+            ],
+            [
+              88.887087,
+              22.9346135
+            ],
+            [
+              88.8874783,
+              22.9349368
+            ],
+            [
+              88.8905154,
+              22.9362979
+            ],
+            [
+              88.8920977,
+              22.9372337
+            ],
+            [
+              88.8926822,
+              22.9380016
+            ],
+            [
+              88.8928565,
+              22.939286
+            ],
+            [
+              88.8926081,
+              22.9415723
+            ],
+            [
+              88.8925534,
+              22.9460539
+            ],
+            [
+              88.8934758,
+              22.950173
+            ],
+            [
+              88.8944116,
+              22.9515086
+            ],
+            [
+              88.8942755,
+              22.9521041
+            ],
+            [
+              88.8939693,
+              22.9524104
+            ],
+            [
+              88.8921487,
+              22.9530059
+            ],
+            [
+              88.890107,
+              22.9533292
+            ],
+            [
+              88.879337,
+              22.9542649
+            ],
+            [
+              88.8785204,
+              22.9537715
+            ],
+            [
+              88.8782481,
+              22.9532441
+            ],
+            [
+              88.878044,
+              22.9516533
+            ],
+            [
+              88.8775165,
+              22.950122
+            ],
+            [
+              88.8765637,
+              22.948982
+            ],
+            [
+              88.8759512,
+              22.9485737
+            ],
+            [
+              88.8749899,
+              22.9482334
+            ],
+            [
+              88.8740623,
+              22.9483065
+            ],
+            [
+              88.8735151,
+              22.9486177
+            ],
+            [
+              88.8719104,
+              22.9499859
+            ],
+            [
+              88.8700873,
+              22.9512457
+            ],
+            [
+              88.8691539,
+              22.951384
+            ],
+            [
+              88.8686389,
+              22.9512556
+            ],
+            [
+              88.867979,
+              22.9509246
+            ],
+            [
+              88.8665934,
+              22.9497817
+            ],
+            [
+              88.8627312,
+              22.9463789
+            ],
+            [
+              88.8621187,
+              22.945341
+            ],
+            [
+              88.861268,
+              22.9432312
+            ],
+            [
+              88.8606214,
+              22.9422784
+            ],
+            [
+              88.8598898,
+              22.9423465
+            ],
+            [
+              88.8595155,
+              22.9426868
+            ],
+            [
+              88.858852,
+              22.9437417
+            ],
+            [
+              88.8586818,
+              22.9443712
+            ],
+            [
+              88.8582565,
+              22.9479612
+            ],
+            [
+              88.857712,
+              22.9497392
+            ],
+            [
+              88.8555852,
+              22.9548775
+            ],
+            [
+              88.855279,
+              22.9565619
+            ],
+            [
+              88.8549897,
+              22.9585865
+            ],
+            [
+              88.8551258,
+              22.9616661
+            ],
+            [
+              88.8559425,
+              22.9656645
+            ],
+            [
+              88.8568017,
+              22.9682081
+            ],
+            [
+              88.8576014,
+              22.9699265
+            ],
+            [
+              88.8588264,
+              22.971679
+            ],
+            [
+              88.8601706,
+              22.9724446
+            ],
+            [
+              88.8616338,
+              22.9727679
+            ],
+            [
+              88.8661425,
+              22.9745544
+            ],
+            [
+              88.8698346,
+              22.9768683
+            ],
+            [
+              88.8707194,
+              22.977736
+            ],
+            [
+              88.8711447,
+              22.9785187
+            ],
+            [
+              88.8708651,
+              22.9791154
+            ],
+            [
+              88.8704467,
+              22.9795055
+            ],
+            [
+              88.8683827,
+              22.9808624
+            ],
+            [
+              88.8671932,
+              22.9819354
+            ],
+            [
+              88.8659066,
+              22.9840257
+            ],
+            [
+              88.8646218,
+              22.9877476
+            ],
+            [
+              88.8640508,
+              22.9906639
+            ],
+            [
+              88.8638228,
+              22.9940543
+            ],
+            [
+              88.8655195,
+              22.9994835
+            ],
+            [
+              88.86557276425879,
+              23
+            ],
+            [
+              88,
+              23
+            ],
+            [
+              88,
+              22
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

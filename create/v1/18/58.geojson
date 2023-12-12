@@ -1,0 +1,825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -52822,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Sweden",
+        "local_name": "Sverige",
+        "name_en": "Sweden",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+          "name": "Sverige",
+          "name:ab": "Швециа",
+          "name:af": "Swede",
+          "name:ak": "Sweden",
+          "name:am": "ስዊድን",
+          "name:an": "Suecia",
+          "name:ar": "السويد",
+          "name:az": "İsveç",
+          "name:ba": "Швеция",
+          "name:be": "Швецыя",
+          "name:bg": "Швеция",
+          "name:bi": "Sweden",
+          "name:bm": "Swedi",
+          "name:bn": "সুইডেন",
+          "name:bo": "སི་ཝེ་དེན།",
+          "name:br": "Sveden",
+          "name:bs": "Švedska",
+          "name:ca": "Suècia",
+          "name:ce": "Швеци",
+          "name:co": "Svezia",
+          "name:cs": "Švédsko",
+          "name:cu": "Свєньско",
+          "name:cv": "Швеци",
+          "name:cy": "Sweden",
+          "name:da": "Sverige",
+          "name:de": "Schweden",
+          "name:dv": "ސުވިޑަން",
+          "name:dz": "སུའི་ཌན་",
+          "name:ee": "Sweden",
+          "name:el": "Σουηδία",
+          "name:en": "Sweden",
+          "name:eo": "Svedio",
+          "name:es": "Suecia",
+          "name:et": "Rootsi",
+          "name:eu": "Suedia",
+          "name:fa": "سوئد",
+          "name:fi": "Ruotsi",
+          "name:fo": "Svøríki",
+          "name:fr": "Suède",
+          "name:fy": "Sweden",
+          "name:ga": "An tSualainn",
+          "name:gd": "An t-Suain",
+          "name:gl": "Suecia",
+          "name:gn": "Suesia",
+          "name:gu": "સ્વિડન",
+          "name:gv": "Yn Toolynn",
+          "name:he": "שבדיה",
+          "name:hi": "स्वीडन",
+          "name:hr": "Švedska",
+          "name:ht": "Syèd",
+          "name:hu": "Svédország",
+          "name:hy": "Շվեդիա",
+          "name:ia": "Svedia",
+          "name:id": "Swedia",
+          "name:ie": "Svedia",
+          "name:io": "Suedia",
+          "name:is": "Svíþjóð",
+          "name:it": "Svezia",
+          "name:iu": "ᔅᕗᕆᑭ",
+          "name:ja": "スウェーデン",
+          "name:jv": "Swédia",
+          "name:ka": "შვედეთი",
+          "name:kg": "Suedi",
+          "name:ki": "Sweden",
+          "name:kk": "Швеция",
+          "name:kl": "Svenskit Nunaat",
+          "name:km": "ស៊ុយអែត",
+          "name:kn": "ಸ್ವೀಡನ್",
+          "name:ko": "스웨덴",
+          "name:ku": "Swêd",
+          "name:kv": "Швеция",
+          "name:kw": "Swedherwyk",
+          "name:ky": "Швеция",
+          "name:la": "Suecia",
+          "name:lb": "Schweden",
+          "name:lg": "Swiiden",
+          "name:li": "Zwede",
+          "name:ln": "Swédi",
+          "name:lt": "Švedija",
+          "name:lv": "Zviedrija",
+          "name:mg": "Soeda",
+          "name:mi": "Huītene",
+          "name:mk": "Шведска",
+          "name:ml": "സ്വീഡൻ",
+          "name:mn": "Швед",
+          "name:mr": "स्वीडन",
+          "name:ms": "Sweden",
+          "name:mt": "Żvezja",
+          "name:my": "ဆွီဒင်နိုင်ငံ",
+          "name:na": "Widen",
+          "name:ne": "स्वीडेन",
+          "name:nl": "Zweden",
+          "name:nn": "Sverige",
+          "name:no": "Sverige",
+          "name:oc": "Suècia",
+          "name:or": "ସ୍ଵିଡେନ",
+          "name:os": "Швеци",
+          "name:pa": "ਸਵੀਡਨ",
+          "name:pl": "Szwecja",
+          "name:ps": "سويډن",
+          "name:pt": "Suécia",
+          "name:qu": "Suwidsuyu",
+          "name:rm": "Svezia",
+          "name:ro": "Suedia",
+          "name:ru": "Швеция",
+          "name:rw": "Suwede",
+          "name:sa": "स्वीडन",
+          "name:sc": "Isvetzia",
+          "name:se": "Ruoŧŧa",
+          "name:sh": "Švedska",
+          "name:sk": "Švédsko",
+          "name:sl": "Švedska",
+          "name:sm": "Sweden",
+          "name:so": "Iswiidhan",
+          "name:sq": "Suedia",
+          "name:sr": "Шведска",
+          "name:ss": "ISwideni",
+          "name:su": "Swédia",
+          "name:sv": "Sverige",
+          "name:sw": "Uswidi",
+          "name:ta": "சுவீடன்",
+          "name:te": "స్వీడన్",
+          "name:tg": "Шветсия",
+          "name:th": "ประเทศสวีเดน",
+          "name:tk": "Şwesiýa",
+          "name:tl": "Suwesya",
+          "name:tr": "İsveç",
+          "name:tt": "Швеция",
+          "name:tw": "Sweden",
+          "name:ug": "شۋېتسىيە",
+          "name:uk": "Швеція",
+          "name:ur": "سویڈن",
+          "name:uz": "Shvetsiya",
+          "name:vi": "Thụy Điển",
+          "name:vo": "Svedän",
+          "name:wa": "Suwedwesse",
+          "name:wo": "Suweed",
+          "name:yi": "שוועדן",
+          "name:yo": "Swídìn",
+          "name:zh": "瑞典",
+          "name:zu": "ISwidi",
+          "boundary": "administrative",
+          "int_name": "Sweden",
+          "name:ace": "Swèdia",
+          "name:als": "Schweden",
+          "name:ang": "Swēoland",
+          "name:arc": "ܣܘܝܕ",
+          "name:arz": "السويد",
+          "name:ast": "Suecia",
+          "name:bar": "Schwedn",
+          "name:bcl": "Suesya",
+          "name:bpy": "সুইডেন",
+          "name:bxr": "Швед",
+          "name:cdo": "Sôi-diēng",
+          "name:ceb": "Suwesya",
+          "name:chr": "ᏍᏫᏕᏂ",
+          "name:ckb": "سوید",
+          "name:crh": "İsveç",
+          "name:csb": "Szwedzkô",
+          "name:diq": "İswec",
+          "name:dsb": "Šwedska",
+          "name:ext": "Suécia",
+          "name:frp": "Suède",
+          "name:frr": "Swärik",
+          "name:fur": "Svezie",
+          "name:gag": "Şvețiya",
+          "name:gan": "瑞典",
+          "name:hak": "Shuì-tién",
+          "name:haw": "Kuekene",
+          "name:hif": "Sweden",
+          "name:hsb": "Šwedska",
+          "name:ilo": "Suésia",
+          "name:jbo": "sueriges",
+          "name:kaa": "Shvetsiya",
+          "name:kab": "Sswid",
+          "name:kbd": "Шуэц",
+          "name:koi": "Шведму",
+          "name:krc": "Швеция",
+          "name:krl": "Ruočči",
+          "name:lad": "Suesia",
+          "name:lez": "Швеция",
+          "name:lij": "Sveçia",
+          "name:lmo": "Svezia",
+          "name:ltg": "Švedeja",
+          "name:lzh": "瑞典",
+          "name:mdf": "Шведмастор",
+          "name:mhr": "Швеций",
+          "name:myv": "Швеция Мастор",
+          "name:mzn": "سوئد",
+          "name:nah": "Suecia",
+          "name:nan": "Sūi-tián",
+          "name:nap": "Sguezia",
+          "name:nds": "Sweden",
+          "name:new": "स्विदेन",
+          "name:nov": "Suedia",
+          "name:nrm": "Suède",
+          "name:pag": "Suesia",
+          "name:pam": "Sweden",
+          "name:pap": "Suecia",
+          "name:pcd": "Suède",
+          "name:pih": "Swiiden",
+          "name:pms": "Svessia",
+          "name:pnb": "سویڈن",
+          "name:pnt": "Σουηδία",
+          "name:rue": "Швеція",
+          "name:sah": "Швеция",
+          "name:scn": "Svezzia",
+          "name:sco": "Swaden",
+          "name:sje": "Sverrje",
+          "name:smn": "Ruotâ",
+          "name:sms": "Ruõcc",
+          "name:stq": "Sweeden",
+          "name:szl": "Szwedyjŏ",
+          "name:tet": "Suésia",
+          "name:tok": "ma Wensa",
+          "name:tpi": "Suwidan",
+          "name:tzl": "Sveiria",
+          "name:udm": "Швеция",
+          "name:vec": "Svèsia",
+          "name:vep": "Ročinma",
+          "name:vls": "Zweedn",
+          "name:vro": "Roodsi",
+          "name:war": "Suwesya",
+          "name:wuu": "瑞典",
+          "name:xal": "Сведин Нутг",
+          "name:xmf": "შვედეთი",
+          "name:yue": "瑞典",
+          "name:zea": "Zweden",
+          "timezone": "Europe/Stockholm",
+          "way_area": "92.383",
+          "wikidata": "Q34",
+          "ISO3166-1": "SE",
+          "wikipedia": "sv:Sverige",
+          "admin_level": "2",
+          "alt_name:eo": "Svedujo",
+          "name:nds-nl": "Sveden",
+          "name:bat-smg": "Švedėjė",
+          "name:roa-rup": "Suidia",
+          "name:zh-Hans": "瑞典",
+          "name:roa-tara": "Svezzie",
+          "official_name": "Konungariket Sverige",
+          "name:be-tarask": "Швэцыя",
+          "ISO3166-1:alpha2": "SE",
+          "ISO3166-1:alpha3": "SWE",
+          "default_language": "sv",
+          "official_name:be": "Каралеўства Швецыя",
+          "official_name:cs": "Švédské království",
+          "official_name:de": "Königreich Schweden",
+          "official_name:el": "Βασίλειο της Σουηδίας",
+          "official_name:eo": "Reĝlando Svedio",
+          "official_name:sv": "Konungariket Sverige",
+          "ISO3166-1:numeric": "752"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                18,
+                58.50018258741589
+              ],
+              [
+                18.0778816,
+                58.5183527
+              ],
+              [
+                18.0955534,
+                58.5214416
+              ],
+              [
+                18.1079913,
+                58.5239242
+              ],
+              [
+                18.1202586,
+                58.5266319
+              ],
+              [
+                18.1323379,
+                58.5295604
+              ],
+              [
+                18.1442187,
+                58.5327058
+              ],
+              [
+                18.1558839,
+                58.5360656
+              ],
+              [
+                18.1673194,
+                58.539636
+              ],
+              [
+                18.1785128,
+                58.5434108
+              ],
+              [
+                18.1894502,
+                58.547387
+              ],
+              [
+                18.2001175,
+                58.5515596
+              ],
+              [
+                18.2105022,
+                58.5559235
+              ],
+              [
+                18.2180691,
+                58.5593157
+              ],
+              [
+                18.237341,
+                58.5670289
+              ],
+              [
+                18.2456331,
+                58.5700588
+              ],
+              [
+                18.2563074,
+                58.5742312
+              ],
+              [
+                18.2723028,
+                58.5810841
+              ],
+              [
+                18.4234487,
+                58.6419094
+              ],
+              [
+                18.5363715,
+                58.687098
+              ],
+              [
+                18.706304,
+                58.7546945
+              ],
+              [
+                18.7707625,
+                58.7802067
+              ],
+              [
+                18.7795803,
+                58.7828503
+              ],
+              [
+                18.7909775,
+                58.7865224
+              ],
+              [
+                18.8021224,
+                58.7903987
+              ],
+              [
+                18.8130008,
+                58.7944734
+              ],
+              [
+                18.8236034,
+                58.7987416
+              ],
+              [
+                18.8339143,
+                58.8031992
+              ],
+              [
+                18.8439223,
+                58.8078386
+              ],
+              [
+                18.853615,
+                58.8126566
+              ],
+              [
+                18.8629795,
+                58.8176465
+              ],
+              [
+                18.8706198,
+                58.8219961
+              ],
+              [
+                18.8829917,
+                58.8279408
+              ],
+              [
+                19,
+                58.88645869226459
+              ],
+              [
+                19,
+                59
+              ],
+              [
+                18,
+                59
+              ],
+              [
+                18,
+                58.50018258741589
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                18.291014815299363,
+                58
+              ],
+              [
+                19,
+                58
+              ],
+              [
+                19,
+                58.57538273894854
+              ],
+              [
+                18.9945977,
+                58.5739358
+              ],
+              [
+                18.9829563,
+                58.5705429
+              ],
+              [
+                18.9715497,
+                58.5669385
+              ],
+              [
+                18.960394,
+                58.5631276
+              ],
+              [
+                18.9495003,
+                58.5591144
+              ],
+              [
+                18.9388862,
+                58.5549039
+              ],
+              [
+                18.9285613,
+                58.550502
+              ],
+              [
+                18.9185397,
+                58.545913
+              ],
+              [
+                18.9088326,
+                58.5411437
+              ],
+              [
+                18.8994526,
+                58.5361993
+              ],
+              [
+                18.8904108,
+                58.5310866
+              ],
+              [
+                18.8817181,
+                58.5258108
+              ],
+              [
+                18.8733855,
+                58.5203789
+              ],
+              [
+                18.8654224,
+                58.5147987
+              ],
+              [
+                18.8578396,
+                58.5090753
+              ],
+              [
+                18.8506463,
+                58.5032157
+              ],
+              [
+                18.8438486,
+                58.4972288
+              ],
+              [
+                18.8374573,
+                58.4911207
+              ],
+              [
+                18.83148,
+                58.4849001
+              ],
+              [
+                18.8259225,
+                58.4785732
+              ],
+              [
+                18.8207923,
+                58.472148
+              ],
+              [
+                18.8160936,
+                58.4656333
+              ],
+              [
+                18.8118354,
+                58.4590361
+              ],
+              [
+                18.8080186,
+                58.4523646
+              ],
+              [
+                18.8046506,
+                58.4456284
+              ],
+              [
+                18.8017338,
+                58.4388338
+              ],
+              [
+                18.799274,
+                58.4319896
+              ],
+              [
+                18.79727,
+                58.4251049
+              ],
+              [
+                18.7952906,
+                58.4157354
+              ],
+              [
+                18.7943436,
+                58.4095178
+              ],
+              [
+                18.7937234,
+                58.4025615
+              ],
+              [
+                18.7935684,
+                58.3955967
+              ],
+              [
+                18.7938743,
+                58.3886345
+              ],
+              [
+                18.7946434,
+                58.3816819
+              ],
+              [
+                18.7958728,
+                58.3747471
+              ],
+              [
+                18.7975632,
+                58.3678399
+              ],
+              [
+                18.7997101,
+                58.3609668
+              ],
+              [
+                18.8023108,
+                58.3541385
+              ],
+              [
+                18.8053624,
+                58.3473606
+              ],
+              [
+                18.8088605,
+                58.3406439
+              ],
+              [
+                18.8128006,
+                58.3339948
+              ],
+              [
+                18.8178527,
+                58.3262299
+              ],
+              [
+                18.8224464,
+                58.3196976
+              ],
+              [
+                18.8330046,
+                58.3054881
+              ],
+              [
+                18.8380245,
+                58.2990448
+              ],
+              [
+                18.8434662,
+                58.2926973
+              ],
+              [
+                18.8484475,
+                58.2872212
+              ],
+              [
+                18.8507737,
+                58.282849
+              ],
+              [
+                18.8547084,
+                58.2761994
+              ],
+              [
+                18.8590784,
+                58.2696264
+              ],
+              [
+                18.8638791,
+                58.2631381
+              ],
+              [
+                18.869106,
+                58.2567411
+              ],
+              [
+                18.8747514,
+                58.2504443
+              ],
+              [
+                18.8808072,
+                58.2442543
+              ],
+              [
+                18.8872674,
+                58.2381803
+              ],
+              [
+                18.8941241,
+                58.2322278
+              ],
+              [
+                18.9013678,
+                58.226405
+              ],
+              [
+                18.9089887,
+                58.2207177
+              ],
+              [
+                18.9169793,
+                58.215175
+              ],
+              [
+                18.9253297,
+                58.2097816
+              ],
+              [
+                18.9340289,
+                58.204545
+              ],
+              [
+                18.9430656,
+                58.1994708
+              ],
+              [
+                18.9524301,
+                58.1945656
+              ],
+              [
+                18.9621113,
+                58.1898359
+              ],
+              [
+                18.9720961,
+                58.1852857
+              ],
+              [
+                18.9887236,
+                58.1783825
+              ],
+              [
+                18.8052802,
+                58.1510282
+              ],
+              [
+                18.615331,
+                58.1223426
+              ],
+              [
+                18.5940978,
+                58.1185162
+              ],
+              [
+                18.5759023,
+                58.1146981
+              ],
+              [
+                18.5638919,
+                58.1118516
+              ],
+              [
+                18.530418,
+                58.1029154
+              ],
+              [
+                18.5188187,
+                58.0996291
+              ],
+              [
+                18.5074435,
+                58.0961306
+              ],
+              [
+                18.4965961,
+                58.0925204
+              ],
+              [
+                18.4785754,
+                58.0859576
+              ],
+              [
+                18.4681002,
+                58.081747
+              ],
+              [
+                18.4579128,
+                58.0773454
+              ],
+              [
+                18.4480221,
+                58.0727569
+              ],
+              [
+                18.438444,
+                58.0679875
+              ],
+              [
+                18.4260742,
+                58.0612989
+              ],
+              [
+                18.4160111,
+                58.0575298
+              ],
+              [
+                18.4055453,
+                58.0533195
+              ],
+              [
+                18.3953639,
+                58.0489183
+              ],
+              [
+                18.3854827,
+                58.0443295
+              ],
+              [
+                18.3759108,
+                58.03956
+              ],
+              [
+                18.3647021,
+                58.0336844
+              ],
+              [
+                18.3556182,
+                58.0286551
+              ],
+              [
+                18.3459021,
+                58.0229777
+              ],
+              [
+                18.3373326,
+                58.0177018
+              ],
+              [
+                18.3261498,
+                58.0102088
+              ],
+              [
+                18.3165911,
+                58.0076981
+              ],
+              [
+                18.3050218,
+                58.004412
+              ],
+              [
+                18.2936788,
+                58.0009124
+              ],
+              [
+                18.291014815299363,
+                58
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

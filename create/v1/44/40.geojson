@@ -1,0 +1,2452 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -364066,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Armenia",
+        "local_name": "Հայաստան",
+        "name_en": "Armenia",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+          "name": "Հայաստան",
+          "int_ref": "AM",
+          "name:ab": "Ермантәыла",
+          "name:af": "Armenië",
+          "name:ak": "Armenia",
+          "name:am": "አርመኒያ",
+          "name:an": "Armenia",
+          "name:ar": "أرمينيا",
+          "name:as": "আৰ্মেনিয়া",
+          "name:av": "ЦIамухъ",
+          "name:az": "Ermənistan",
+          "name:ba": "Әрмәнстан",
+          "name:be": "Арме́нія",
+          "name:bg": "Армения",
+          "name:bh": "आर्मीनिया",
+          "name:bi": "Armenia",
+          "name:bm": "Arimeni",
+          "name:bn": "আর্মেনিয়া",
+          "name:bo": "ཨར་མེ་ནི་ཡ།",
+          "name:br": "Armenia",
+          "name:bs": "Ermenija",
+          "name:ca": "Armènia",
+          "name:ce": "Эрмалойчоь",
+          "name:ch": "Armenia",
+          "name:co": "Armenia",
+          "name:cs": "Arménie",
+          "name:cu": "Армєні́ꙗ",
+          "name:cv": "Эрмени",
+          "name:cy": "Armenia",
+          "name:da": "Armenien",
+          "name:de": "Armenien",
+          "name:dv": "އަރުމީނިއާ",
+          "name:dz": "ཨར་མི་ནི་ཡ",
+          "name:ee": "Armenia",
+          "name:el": "Αρμενία",
+          "name:en": "Armenia",
+          "name:eo": "Armenio",
+          "name:es": "Armenia",
+          "name:et": "Armeenia",
+          "name:eu": "Armenia",
+          "name:fa": "ارمنستان",
+          "name:ff": "Armaaniya",
+          "name:fi": "Armenia",
+          "name:fo": "Armenia",
+          "name:fr": "Arménie",
+          "name:fy": "Armeenje",
+          "name:ga": "An Airméin",
+          "name:gd": "Airmeinia",
+          "name:gl": "Armenia",
+          "name:gn": "Aymenia",
+          "name:gu": "આર્મેનિયા",
+          "name:gv": "Armeain",
+          "name:ha": "Armeniya",
+          "name:he": "אַרְמֶנְיָה",
+          "name:hi": "आर्मीनिया",
+          "name:hr": "Armenija",
+          "name:ht": "Ameni",
+          "name:hu": "Örményország",
+          "name:hy": "Հայաստան",
+          "name:ia": "Armenia",
+          "name:id": "Armenia",
+          "name:ie": "Armenia",
+          "name:io": "Armenia",
+          "name:is": "Armenía",
+          "name:it": "Armenia",
+          "name:ja": "アルメニア",
+          "name:jv": "Armènia",
+          "name:ka": "სომხეთი",
+          "name:kg": "Armenia",
+          "name:ki": "Armenia",
+          "name:kk": "Армения",
+          "name:kl": "Armenia",
+          "name:km": "អាមេនី",
+          "name:kn": "ಆರ್ಮೇನಿಯ",
+          "name:ko": "아르메니아",
+          "name:ks": "اَرمانِیا",
+          "name:ku": "Ermenistan",
+          "name:kv": "Армения",
+          "name:kw": "Armeni",
+          "name:ky": "Армения",
+          "name:la": "Armenia",
+          "name:lb": "Armenien",
+          "name:lg": "Arameniya",
+          "name:li": "Armenië",
+          "name:ln": "Armeni",
+          "name:lo": "ປະເທດອາກເມນີ",
+          "name:lt": "Armėnija",
+          "name:lv": "Armēnija",
+          "name:mg": "Armenia",
+          "name:mi": "Āmenia",
+          "name:mk": "Ерменија",
+          "name:ml": "അർമേനിയ",
+          "name:mn": "Армен",
+          "name:mo": "Армения",
+          "name:mr": "आर्मेनिया",
+          "name:ms": "Armenia",
+          "name:mt": "Armenja",
+          "name:my": "အာမေးနီးယားနိုင်ငံ",
+          "name:na": "Arminiya",
+          "name:ne": "आर्मेनिया",
+          "name:nl": "Armenië",
+          "name:nn": "Armenia",
+          "name:no": "Armenia",
+          "name:nv": "Aooméénii Bikéyah",
+          "name:oc": "Armenia",
+          "name:om": "Armeeniyaa",
+          "name:or": "ଆର୍ମେନିଆ",
+          "name:os": "Сомихыстон",
+          "name:pa": "ਅਰਮੀਨੀਆ",
+          "name:pi": "आर्मीनिया",
+          "name:pl": "Armenia",
+          "name:ps": "ارمنستان",
+          "name:pt": "Arménia",
+          "name:qu": "Arminya",
+          "name:rm": "Armenia",
+          "name:rn": "Arumeniya",
+          "name:ro": "Armenia",
+          "name:ru": "Армения",
+          "name:rw": "Arumeniya",
+          "name:sa": "आर्मीनिया",
+          "name:sc": "Armènia",
+          "name:sd": "آرمينيا",
+          "name:se": "Armenia",
+          "name:sg": "Armenïi",
+          "name:sh": "Jermenija",
+          "name:si": "ආර්මේනියාව",
+          "name:sk": "Arménsko",
+          "name:sl": "Armenija",
+          "name:sm": "Amenia",
+          "name:sn": "Armenia",
+          "name:so": "Armania",
+          "name:sq": "Armenia",
+          "name:sr": "Јерменија",
+          "name:ss": "iArimeniya",
+          "name:su": "Arménia",
+          "name:sv": "Armenien",
+          "name:sw": "Armenia",
+          "name:ta": "ஆர்மீனியா",
+          "name:te": "ఆర్మేనియా",
+          "name:tg": "Арманистон",
+          "name:th": "อาร์มีเนีย",
+          "name:ti": "አርሜኒያ",
+          "name:tk": "Ermenistan",
+          "name:tl": "Armenya",
+          "name:to": "ʻĀminia",
+          "name:tr": "Ermenistan",
+          "name:ts": "Armenia",
+          "name:tt": "Әрмәнстан",
+          "name:tw": "Aminia",
+          "name:ty": "Āmenia",
+          "name:ug": "ئەرمېنىيە",
+          "name:uk": "Вірме́нія",
+          "name:ur": "آرمینیا",
+          "name:uz": "Armaniston",
+          "name:vi": "Armenia",
+          "name:vo": "Larmeniyän",
+          "name:wo": "Armeeni",
+          "name:yi": "אַרמעניע",
+          "name:yo": "Arméníà",
+          "name:za": "Armenia",
+          "name:zh": "亚美尼亚 / 亞美尼亞",
+          "name:zu": "i-Armenia",
+          "boundary": "administrative",
+          "int_name": "Armenia",
+          "name:ace": "Armenia",
+          "name:ady": "Армение",
+          "name:als": "Armenie",
+          "name:ang": "Armenia",
+          "name:arc": "ܐܪܡܢܝܐ",
+          "name:arz": "أرمينيا",
+          "name:ast": "Armenia",
+          "name:azb": "ائرمنیستان",
+          "name:bar": "Armenien",
+          "name:bcl": "Armenya",
+          "name:bpy": "আর্মেনিয়া",
+          "name:bxr": "Армени",
+          "name:cdo": "Ā-mī-nà̤-ā",
+          "name:ceb": "Armenya",
+          "name:chr": "ᎠᎺᏂᏱ",
+          "name:ckb": "ئەرمەنستان",
+          "name:crh": "Ermenistan",
+          "name:csb": "Armenijô",
+          "name:diq": "Ermenıstan",
+          "name:dsb": "Armeńska",
+          "name:dty": "आर्मीनिया",
+          "name:eml": "Armègna",
+          "name:ext": "Arménia",
+          "name:frp": "Armènie",
+          "name:frr": "Armeenien",
+          "name:fur": "Armenie",
+          "name:gag": "Armeniya",
+          "name:glk": "Armөnөston",
+          "name:gom": "अर्मेनिया",
+          "name:hak": "Â-mî-nì-â",
+          "name:haw": "‘Āmēnia",
+          "name:hif": "Armenia",
+          "name:hsb": "Armenska",
+          "name:ilo": "Armenia",
+          "name:jam": "Aamiinia",
+          "name:jbo": "xaiastan",
+          "name:kaa": "Armeniya",
+          "name:kab": "Arminya",
+          "name:kbp": "Armenii",
+          "name:krc": "Эрмения",
+          "name:ksh": "Arrmeenije",
+          "name:lad": "Armenia",
+          "name:lez": "Эрменистан",
+          "name:lij": "Armenia",
+          "name:lmo": "Armenia",
+          "name:lrc": "أرمنستان",
+          "name:ltg": "Armeneja",
+          "name:lzh": "亞美尼亞",
+          "name:mai": "अर्मेनिया",
+          "name:mdf": "Армение",
+          "name:mhr": "Арме́ний",
+          "name:min": "Armenia",
+          "name:mrj": "Арме́ни",
+          "name:mwl": "Arménia",
+          "name:myv": "Армения Мастор",
+          "name:mzn": "ارمنستون",
+          "name:nah": "Armenia",
+          "name:nan": "Hayastan",
+          "name:nap": "Armenia",
+          "name:nds": "Armenien",
+          "name:new": "आर्मेनिया",
+          "name:nov": "Armenia",
+          "name:olo": "Armenii",
+          "name:pag": "Hayastan",
+          "name:pam": "Armenia",
+          "name:pap": "Armenia",
+          "name:pcd": "Arménie",
+          "name:pdc": "Armeni",
+          "name:pih": "Aarmanya",
+          "name:pms": "Armenia",
+          "name:pnb": "آرمینیا",
+          "name:pnt": "Αρμενία",
+          "name:rue": "Арменія",
+          "name:sah": "Эрмээн Сирэ",
+          "name:scn": "Armenia",
+          "name:sco": "Armenie",
+          "name:smn": "Armenia",
+          "name:sms": "Armenia",
+          "name:stq": "Armenien",
+          "name:szl": "Armynijŏ",
+          "name:tet": "Arménia",
+          "name:tok": "ma Aja",
+          "name:tpi": "Armenia",
+          "name:tum": "Armenia",
+          "name:tzl": "Haiastan",
+          "name:udm": "Армения",
+          "name:vec": "Armenia",
+          "name:vep": "Armenii",
+          "name:vls": "Armenië",
+          "name:vro": "Armeeniä",
+          "name:war": "Armenya",
+          "name:wuu": "亚美尼亚",
+          "name:xal": "Хемшудин Орн",
+          "name:xmf": "სომხეთი",
+          "name:yue": "亞美尼亞",
+          "name:zea": "Armenië",
+          "timezone": "Asia/Yerevan",
+          "way_area": "3.14657",
+          "wikidata": "Q399",
+          "ISO3166-1": "AM",
+          "land_area": "administrative",
+          "wikipedia": "hy:Հայաստան",
+          "admin_level": "2",
+          "alt_name:av": "Эрменистан",
+          "alt_name:eo": "Armenujo",
+          "alt_name:gd": "Arminia",
+          "alt_name:gn": "Aymeña",
+          "alt_name:jv": "Hayastan",
+          "alt_name:kk": "Әрменстан;Әрмения",
+          "alt_name:kn": "ಹಯಸ್ತಾನಿ ಹನ್ರಪೆತುತ್ಯುನ್",
+          "alt_name:ku": "Flestan",
+          "alt_name:lo": "ປະເທດຮາຢາສະຕານ",
+          "alt_name:os": "Сомих",
+          "alt_name:pt": "Armênia",
+          "alt_name:sh": "Armenija",
+          "alt_name:te": "ఆర్మీనియా",
+          "alt_name:th": "อาร์เมเนีย",
+          "alt_name:vi": "Acmeni",
+          "name:nds-nl": "Armenië",
+          "alt_name:ady": "Ермэлые",
+          "alt_name:ckb": "ئەرمەنیا؛ئەرمینیا",
+          "alt_name:lad": "Ermenistan",
+          "alt_name:lij": "Ærminnia",
+          "alt_name:rue": "Арменьско",
+          "name:bat-smg": "Armienėjė",
+          "name:cbk-zam": "Armenia",
+          "name:roa-rup": "Ermenia",
+          "name:zh-Hans": "亚美尼亚",
+          "name:zh-Hant": "亞美尼亞",
+          "official_name": "Հայաստանի Հանրապետություն",
+          "name:be-tarask": "Армэ́нія",
+          "name:zh_pinyin": "Yàměiníyà",
+          "ISO3166-1:alpha2": "AM",
+          "ISO3166-1:alpha3": "ARM",
+          "default_language": "hy",
+          "official_name:ab": "Ермантәыла Аҳәынҭқарра",
+          "official_name:af": "Republiek van Armenië",
+          "official_name:am": "የአርሜንያ ሪፐብሊክ",
+          "official_name:an": "Republica d'Armenia",
+          "official_name:ar": "جمهورية أرمينيا",
+          "official_name:az": "Ermənistan Respublikası",
+          "official_name:ba": "Әрмәнстан Республикаһы",
+          "official_name:be": "Рэспу́бліка Арме́нія",
+          "official_name:bg": "Република Армения",
+          "official_name:bh": "आर्मीनिया रिपब्लिक",
+          "official_name:bn": "প্রজাতন্ত্রী আর্মেনিয়া",
+          "official_name:br": "Republik Armenia",
+          "official_name:bs": "Republika Ermenija",
+          "official_name:ca": "República d'Armènia",
+          "official_name:co": "Republica di Armenia",
+          "official_name:cs": "Arménská republika",
+          "official_name:cu": "Армєні́ꙗ Димократі́ꙗ",
+          "official_name:cy": "Gweriniaeth Armenia",
+          "official_name:da": "Republikken Armenien",
+          "official_name:de": "Republik Armenien",
+          "official_name:el": "Δημοκρατία της Αρμενίας",
+          "official_name:en": "Republic of Armenia",
+          "official_name:eo": "Respubliko Armenio",
+          "official_name:es": "República de Armenia",
+          "official_name:et": "Armeenia Vabariik",
+          "official_name:eu": "Armeniako Errepublika",
+          "official_name:fa": "جمهوری ارمنستان",
+          "official_name:ff": "Republik bu Armaaniya",
+          "official_name:fi": "Armenian tasavalta",
+          "official_name:fo": "Lýðveldið Armenia",
+          "official_name:fr": "République d'Arménie",
+          "official_name:ga": "Poblacht na hAirméine",
+          "official_name:gd": "Poblachd Airmeinia",
+          "official_name:gl": "República de Armenia",
+          "official_name:gn": "Tetã Armenia",
+          "official_name:gu": "આર્મેનિયા ગણરાજ્ય",
+          "official_name:gv": "Pobblaght ny h-Armeain",
+          "official_name:he": "רֶפּוּבְּלִיקַת אַרְמֶנְיָה",
+          "official_name:hi": "आर्मीनिया गणराज्य",
+          "official_name:hr": "Republika Armenija",
+          "official_name:hu": "Örmény Köztársaság",
+          "official_name:hy": "Հայաստանի Հանրապետություն",
+          "official_name:ia": "Republica de Armenia",
+          "official_name:id": "Republik Armenia",
+          "official_name:io": "Republiko Armenia",
+          "official_name:is": "Lýðveldið Armenía",
+          "official_name:it": "Repubblica di Armenia",
+          "official_name:ja": "アルメニア共和国",
+          "official_name:ka": "სომხეთის რესპუბლიკა",
+          "official_name:kk": "Армения Республикасы",
+          "official_name:km": "សាធារណរដ្ឋអាមេនី",
+          "official_name:kn": "ಆರ್ಮೇನಿಯ ಗಣರಾಜ್ಯ",
+          "official_name:ko": "아르메니아 공화국",
+          "official_name:ku": "Komara Ermenistanê",
+          "official_name:kv": "Армения Республика",
+          "official_name:kw": "Repoblek Armeni",
+          "official_name:ky": "Армения Республикасы",
+          "official_name:la": "Res publica Armenia",
+          "official_name:lb": "Republik Armenien",
+          "official_name:li": "Rippebliek Armenië",
+          "official_name:lt": "Armėnijos Respublika",
+          "official_name:lv": "Armēnijas Republika",
+          "official_name:mk": "Република Ерменија",
+          "official_name:ml": "റിപബ്ലിക്ക്‌ ഓഫ്‌ അർമേനിയ",
+          "official_name:mn": "Бүгд Найрамдах Армен Улс",
+          "official_name:mr": "आर्मेनियाचे प्रजासत्ताक",
+          "official_name:ms": "Republik Armenia",
+          "official_name:mt": "Repubblika tal-Armenja",
+          "official_name:my": "အာမေးနီးယား သမ္မတနိုင်ငံ",
+          "official_name:ne": "आर्मीनिया गणराज्य",
+          "official_name:nl": "Republiek Armenië",
+          "official_name:nn": "Republikk Armenia",
+          "official_name:no": "Republikken Armenia",
+          "official_name:oc": "Republica d'Armenia",
+          "official_name:om": "Rippabliikii Armeeniyaa",
+          "official_name:os": "Республикæ Сомих",
+          "official_name:pl": "Republika Armenii",
+          "official_name:ps": "ارمنستان جمهوريت",
+          "official_name:pt": "República da Armênia",
+          "official_name:qu": "Arminya Ripuwlika",
+          "official_name:ro": "Republica Armenia",
+          "official_name:ru": "Республика Армения",
+          "official_name:se": "Armenia dásseváldi",
+          "official_name:sh": "Republika Jermenija",
+          "official_name:si": "ආර්මේනියානු ජනරජය",
+          "official_name:sk": "Arménska republika",
+          "official_name:sl": "Republika Armenija",
+          "official_name:sm": "Lepulika o Amenia",
+          "official_name:sq": "Republika e Armenisë",
+          "official_name:sr": "Република Јерменија",
+          "official_name:su": "Républik Arménia",
+          "official_name:sv": "Republiken Armenien",
+          "official_name:sw": "Jamhuri ya Armenia",
+          "official_name:ta": "ஆர்மீனியக் குடியரசு",
+          "official_name:te": "రిపబ్లిక్ ఆఫ్ ఆర్మేనియా",
+          "official_name:th": "สาธารณรัฐอาร์มีเนีย",
+          "official_name:tk": "Ermenistan Respublikasy",
+          "official_name:tl": "Republika ng Armenia",
+          "official_name:tr": "Ermenistan Cumhuriyeti",
+          "official_name:tt": "Әрмәнстан Җөмһүрияте",
+          "official_name:ug": "ئارمېنىيە جۇمىۇرىيىتى",
+          "official_name:uk": "Респу́бліка Вірме́нія",
+          "official_name:ur": "جمہوریہ آرمینیا",
+          "official_name:uz": "Armaniston Respublikasi",
+          "official_name:vi": "Cộng hoà Armenia",
+          "official_name:wo": "Republik bu Armeeni",
+          "official_name:yi": "רעפובליק פון ארמעניע",
+          "official_name:yo": "Republic of Armenia",
+          "official_name:zh": "亚美尼亚共和国 / 亞美尼亞共和國",
+          "ISO3166-1:numeric": "051",
+          "official_name:ady": "Республикэу Армение",
+          "official_name:als": "Republik Armenie",
+          "official_name:arc": "ܩܘܛܢܝܘܬܐ ܕܐܪܡܢܝܐ",
+          "official_name:arz": "جمهورية أرمينيا",
+          "official_name:ast": "República d'Armenia",
+          "official_name:azb": "ائرمنیستان جومهوریتی",
+          "official_name:bar": "Republik Armenien",
+          "official_name:bcl": "Republika nin Armenia",
+          "official_name:bpy": "প্রজাতন্ত্রি আর্মেনিয়া",
+          "official_name:bxr": "Бүгэдэ Найрамдаха Армени Улас",
+          "official_name:chr": "ᏍᎦᏚᎩ ᎾᎿ ᎠᎵᎻᏂᎠ",
+          "official_name:ckb": "کۆماری ئەرمەنستان",
+          "official_name:crh": "Ermenistan Cumhuriyeti",
+          "official_name:diq": "Cumhuriyetê Ermenıstani",
+          "official_name:dsb": "Republika Armeńska",
+          "official_name:dty": "आर्मीनिया गणराज्य",
+          "official_name:eml": "Repùblica 'd Armègna",
+          "official_name:frr": "Republiik Armeenien",
+          "official_name:gag": "Ermeniya Respublikası",
+          "official_name:haw": "Lepupalika o ʻĀmēnia",
+          "official_name:hsb": "Armenska republika",
+          "official_name:ilo": "Republika ti Armenia",
+          "official_name:jam": "Ripoblik a Aamiinia",
+          "official_name:kab": "Tagduda n Arminya",
+          "official_name:krc": "Эрмения Республика",
+          "official_name:lad": "Repuvlika de Armenia",
+          "official_name:lez": "Республика Эрменистан",
+          "official_name:lrc": "کۈمرأ ڤولات أرمنستان",
+          "official_name:lzh": "亞美尼亞共和國",
+          "official_name:mai": "अर्मेनिया गणतन्त्र",
+          "official_name:mdf": "Армениень республикась",
+          "official_name:mhr": "Арме́ний Респу́блик",
+          "official_name:mrj": "Арме́ни Респу́блика",
+          "official_name:myv": "Армениянь Республика",
+          "official_name:nah": "Tlācatlahtohcāyōtl Armenia",
+          "official_name:nan": "Armenia Kiōng-hô-kok",
+          "official_name:nap": "Repubbreca 'e Armenia",
+          "official_name:nds": "Republik Armenien",
+          "official_name:new": "आर्मेनिया गणराज्य",
+          "official_name:olo": "Armenien tazavaldu",
+          "official_name:pam": "Republika ning Armenia",
+          "official_name:pap": "Republika di Armenia",
+          "official_name:pcd": "République d'Arménie",
+          "official_name:rue": "Арменьска републіка",
+          "official_name:sah": "Эрмээн Сирин Республиката",
+          "official_name:sco": "Republic o Armenie",
+          "official_name:stq": "Republik Armenien",
+          "official_name:udm": "Армян Элькун",
+          "official_name:vec": "Republica de Armenia",
+          "official_name:vep": "Armenijan Tazovaldkund",
+          "official_name:vls": "Republiek Armenië",
+          "official_name:vro": "Armeeniä Vabariik",
+          "official_name:wuu": "亚美尼亚共和国",
+          "official_name:yue": "亞美尼亞共和國",
+          "official_name:zea": "Republiek Armenië",
+          "official_name:nds-nl": "Reppubliek Armenië",
+          "official_name:roa-rup": "Republia Ermenia",
+          "official_name:zh-Hans": "亚美尼亚共和国",
+          "official_name:zh-Hant": "亞美尼亞共和國",
+          "official_name:be-tarask": "Рэспу́бліка Армэ́нія"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              40.02834911081538
+            ],
+            [
+              44.0036143,
+              40.0249608
+            ],
+            [
+              44.0090803,
+              40.0241972
+            ],
+            [
+              44.0132566,
+              40.0259267
+            ],
+            [
+              44.016743,
+              40.0275998
+            ],
+            [
+              44.0200775,
+              40.0275117
+            ],
+            [
+              44.0215722,
+              40.0285022
+            ],
+            [
+              44.0225783,
+              40.0286783
+            ],
+            [
+              44.0248491,
+              40.0274897
+            ],
+            [
+              44.0262197,
+              40.0270508
+            ],
+            [
+              44.0282733,
+              40.0270238
+            ],
+            [
+              44.0320301,
+              40.0277092
+            ],
+            [
+              44.0374255,
+              40.0274712
+            ],
+            [
+              44.0428242,
+              40.0291245
+            ],
+            [
+              44.0444544,
+              40.0285925
+            ],
+            [
+              44.0463681,
+              40.0282793
+            ],
+            [
+              44.0483969,
+              40.0275379
+            ],
+            [
+              44.0502127,
+              40.0270851
+            ],
+            [
+              44.0564716,
+              40.0274629
+            ],
+            [
+              44.0617291,
+              40.0287333
+            ],
+            [
+              44.0640625,
+              40.0295894
+            ],
+            [
+              44.0650957,
+              40.0306903
+            ],
+            [
+              44.0665214,
+              40.0315883
+            ],
+            [
+              44.0689963,
+              40.0322698
+            ],
+            [
+              44.0779853,
+              40.0326823
+            ],
+            [
+              44.0795013,
+              40.0322426
+            ],
+            [
+              44.0806989,
+              40.0322905
+            ],
+            [
+              44.0840408,
+              40.0332149
+            ],
+            [
+              44.0893642,
+              40.0340302
+            ],
+            [
+              44.0990283,
+              40.0323301
+            ],
+            [
+              44.1014303,
+              40.0313242
+            ],
+            [
+              44.1034613,
+              40.0308959
+            ],
+            [
+              44.1055211,
+              40.0300504
+            ],
+            [
+              44.1070671,
+              40.0299268
+            ],
+            [
+              44.108959,
+              40.030347
+            ],
+            [
+              44.1139055,
+              40.0320731
+            ],
+            [
+              44.1148968,
+              40.0340174
+            ],
+            [
+              44.1159565,
+              40.0347837
+            ],
+            [
+              44.116959,
+              40.0348298
+            ],
+            [
+              44.1195389,
+              40.034016
+            ],
+            [
+              44.1230008,
+              40.0340994
+            ],
+            [
+              44.1269908,
+              40.0320023
+            ],
+            [
+              44.1296009,
+              40.0292458
+            ],
+            [
+              44.1312571,
+              40.0282298
+            ],
+            [
+              44.1333329,
+              40.0278572
+            ],
+            [
+              44.1354858,
+              40.0282006
+            ],
+            [
+              44.1357699,
+              40.0289743
+            ],
+            [
+              44.1362787,
+              40.0296483
+            ],
+            [
+              44.1378325,
+              40.0312183
+            ],
+            [
+              44.1380862,
+              40.0321344
+            ],
+            [
+              44.1389163,
+              40.0327781
+            ],
+            [
+              44.1411921,
+              40.0330551
+            ],
+            [
+              44.1433245,
+              40.0328543
+            ],
+            [
+              44.1468167,
+              40.0332451
+            ],
+            [
+              44.1481531,
+              40.033088
+            ],
+            [
+              44.151249,
+              40.0313738
+            ],
+            [
+              44.1565436,
+              40.0304296
+            ],
+            [
+              44.1605989,
+              40.0306852
+            ],
+            [
+              44.1621091,
+              40.0311212
+            ],
+            [
+              44.1629899,
+              40.0318662
+            ],
+            [
+              44.1651919,
+              40.0323381
+            ],
+            [
+              44.1662521,
+              40.0319056
+            ],
+            [
+              44.1677458,
+              40.0298821
+            ],
+            [
+              44.1686411,
+              40.0293513
+            ],
+            [
+              44.1701313,
+              40.0274637
+            ],
+            [
+              44.1707428,
+              40.0272909
+            ],
+            [
+              44.1730506,
+              40.0272854
+            ],
+            [
+              44.1742737,
+              40.0275933
+            ],
+            [
+              44.177282,
+              40.0295834
+            ],
+            [
+              44.1777434,
+              40.0297352
+            ],
+            [
+              44.1791331,
+              40.0299455
+            ],
+            [
+              44.1811965,
+              40.0299336
+            ],
+            [
+              44.1827357,
+              40.0296284
+            ],
+            [
+              44.1861105,
+              40.0303577
+            ],
+            [
+              44.1880004,
+              40.0305916
+            ],
+            [
+              44.1890221,
+              40.0314971
+            ],
+            [
+              44.189647,
+              40.0327748
+            ],
+            [
+              44.1895923,
+              40.0340902
+            ],
+            [
+              44.1884293,
+              40.0362558
+            ],
+            [
+              44.1884059,
+              40.0369704
+            ],
+            [
+              44.1892785,
+              40.038557
+            ],
+            [
+              44.1901406,
+              40.0390648
+            ],
+            [
+              44.1926468,
+              40.0395434
+            ],
+            [
+              44.1939491,
+              40.0395963
+            ],
+            [
+              44.1973143,
+              40.0388832
+            ],
+            [
+              44.1994082,
+              40.0387661
+            ],
+            [
+              44.2018386,
+              40.0392528
+            ],
+            [
+              44.2034263,
+              40.0391358
+            ],
+            [
+              44.2051625,
+              40.0393441
+            ],
+            [
+              44.2063658,
+              40.0390722
+            ],
+            [
+              44.2073351,
+              40.0384841
+            ],
+            [
+              44.2089055,
+              40.0356744
+            ],
+            [
+              44.2093734,
+              40.0350984
+            ],
+            [
+              44.2106172,
+              40.0344635
+            ],
+            [
+              44.2113687,
+              40.0343643
+            ],
+            [
+              44.213662,
+              40.0335806
+            ],
+            [
+              44.215748,
+              40.0346437
+            ],
+            [
+              44.217437,
+              40.036087
+            ],
+            [
+              44.2184572,
+              40.0375138
+            ],
+            [
+              44.2189272,
+              40.0401664
+            ],
+            [
+              44.2199455,
+              40.0420063
+            ],
+            [
+              44.2206512,
+              40.0426737
+            ],
+            [
+              44.2218122,
+              40.042914
+            ],
+            [
+              44.2231618,
+              40.042605
+            ],
+            [
+              44.225225,
+              40.0429441
+            ],
+            [
+              44.2262598,
+              40.0426323
+            ],
+            [
+              44.2272612,
+              40.0420546
+            ],
+            [
+              44.229213,
+              40.0421348
+            ],
+            [
+              44.2317802,
+              40.04304
+            ],
+            [
+              44.2324901,
+              40.0438797
+            ],
+            [
+              44.2329849,
+              40.0450752
+            ],
+            [
+              44.234359,
+              40.0468207
+            ],
+            [
+              44.2356016,
+              40.0474993
+            ],
+            [
+              44.2369479,
+              40.0475913
+            ],
+            [
+              44.2381931,
+              40.0474259
+            ],
+            [
+              44.2408945,
+              40.0461951
+            ],
+            [
+              44.2419285,
+              40.0461265
+            ],
+            [
+              44.2425547,
+              40.046238
+            ],
+            [
+              44.2454001,
+              40.0484116
+            ],
+            [
+              44.2483806,
+              40.049075
+            ],
+            [
+              44.2524597,
+              40.0485494
+            ],
+            [
+              44.2544296,
+              40.048542
+            ],
+            [
+              44.2611284,
+              40.0465561
+            ],
+            [
+              44.2639631,
+              40.0466216
+            ],
+            [
+              44.2704312,
+              40.0488088
+            ],
+            [
+              44.2721944,
+              40.0492388
+            ],
+            [
+              44.2743686,
+              40.049423
+            ],
+            [
+              44.2775819,
+              40.0489314
+            ],
+            [
+              44.2790501,
+              40.0484154
+            ],
+            [
+              44.280612,
+              40.0475546
+            ],
+            [
+              44.2833139,
+              40.0450508
+            ],
+            [
+              44.2842732,
+              40.0439297
+            ],
+            [
+              44.2850707,
+              40.0434819
+            ],
+            [
+              44.2874187,
+              40.0433305
+            ],
+            [
+              44.2903836,
+              40.0441015
+            ],
+            [
+              44.2928487,
+              40.0443681
+            ],
+            [
+              44.2938676,
+              40.0440843
+            ],
+            [
+              44.2945672,
+              40.0434271
+            ],
+            [
+              44.2947842,
+              40.0407004
+            ],
+            [
+              44.2955009,
+              40.0393001
+            ],
+            [
+              44.2961188,
+              40.0370104
+            ],
+            [
+              44.2966423,
+              40.0363743
+            ],
+            [
+              44.2977254,
+              40.0361021
+            ],
+            [
+              44.301569,
+              40.0359658
+            ],
+            [
+              44.3038787,
+              40.0366184
+            ],
+            [
+              44.3062524,
+              40.0377484
+            ],
+            [
+              44.3100875,
+              40.0388938
+            ],
+            [
+              44.311863,
+              40.0392244
+            ],
+            [
+              44.314038,
+              40.0393001
+            ],
+            [
+              44.3164166,
+              40.0386745
+            ],
+            [
+              44.3187169,
+              40.0376152
+            ],
+            [
+              44.3205878,
+              40.0343043
+            ],
+            [
+              44.3244684,
+              40.031613
+            ],
+            [
+              44.3266643,
+              40.030862
+            ],
+            [
+              44.3291094,
+              40.0307312
+            ],
+            [
+              44.3307391,
+              40.0310281
+            ],
+            [
+              44.3327738,
+              40.0322828
+            ],
+            [
+              44.3345614,
+              40.0328094
+            ],
+            [
+              44.3356255,
+              40.0326889
+            ],
+            [
+              44.3364829,
+              40.0324681
+            ],
+            [
+              44.3370854,
+              40.0318749
+            ],
+            [
+              44.3379462,
+              40.0299635
+            ],
+            [
+              44.3396391,
+              40.0279202
+            ],
+            [
+              44.3427666,
+              40.0269096
+            ],
+            [
+              44.3451727,
+              40.026715
+            ],
+            [
+              44.3481608,
+              40.0269755
+            ],
+            [
+              44.3502454,
+              40.0274721
+            ],
+            [
+              44.3510875,
+              40.0274808
+            ],
+            [
+              44.3525795,
+              40.0268876
+            ],
+            [
+              44.3545019,
+              40.0250859
+            ],
+            [
+              44.3554488,
+              40.0231524
+            ],
+            [
+              44.3561374,
+              40.020977
+            ],
+            [
+              44.3575721,
+              40.0194169
+            ],
+            [
+              44.3599119,
+              40.017309
+            ],
+            [
+              44.362482,
+              40.0162816
+            ],
+            [
+              44.3639511,
+              40.0155222
+            ],
+            [
+              44.3650345,
+              40.0146221
+            ],
+            [
+              44.365769,
+              40.0136095
+            ],
+            [
+              44.3705986,
+              40.0092916
+            ],
+            [
+              44.372839,
+              40.0079975
+            ],
+            [
+              44.3748302,
+              40.0071107
+            ],
+            [
+              44.3759056,
+              40.0068582
+            ],
+            [
+              44.377136,
+              40.0053954
+            ],
+            [
+              44.3778317,
+              40.0051172
+            ],
+            [
+              44.3788254,
+              40.0041575
+            ],
+            [
+              44.3802394,
+              40.0034964
+            ],
+            [
+              44.3820574,
+              40.0034402
+            ],
+            [
+              44.3838452,
+              40.0037983
+            ],
+            [
+              44.386079,
+              40.0046217
+            ],
+            [
+              44.3919553,
+              40.0051141
+            ],
+            [
+              44.3953367,
+              40.0042769
+            ],
+            [
+              44.3986229,
+              40.0027609
+            ],
+            [
+              44.4009106,
+              40.0022286
+            ],
+            [
+              44.4045428,
+              40.0024359
+            ],
+            [
+              44.4064023,
+              40.0030963
+            ],
+            [
+              44.4090251,
+              40.002987
+            ],
+            [
+              44.4156862,
+              40.0014417
+            ],
+            [
+              44.4185919,
+              40.00039
+            ],
+            [
+              44.419467287840675,
+              40
+            ],
+            [
+              45,
+              40
+            ],
+            [
+              45,
+              41
+            ],
+            [
+              44,
+              41
+            ],
+            [
+              44,
+              40.02834911081538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -174737,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Turkey",
+        "local_name": "Türkiye",
+        "name_en": "Turkey",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+          "name": "Türkiye",
+          "name:aa": "Torusko",
+          "name:ab": "Ҭырқәтәыла",
+          "name:af": "Turkye",
+          "name:ak": "Turki",
+          "name:am": "ቱርክ",
+          "name:an": "Turquía",
+          "name:ar": "تركيا",
+          "name:av": "Туркия",
+          "name:ay": "Turkiya",
+          "name:az": "Türkiyə",
+          "name:ba": "Төркиә",
+          "name:be": "Турцыя",
+          "name:bg": "Турция",
+          "name:bi": "Turkey",
+          "name:bn": "তুরস্ক",
+          "name:bo": "ཏུར་ཀི།",
+          "name:br": "Turkia",
+          "name:bs": "Turska",
+          "name:ca": "Turquia",
+          "name:ce": "Туркойчоь",
+          "name:co": "Turchia",
+          "name:cr": "ᑐᕒᑭ",
+          "name:cs": "Turecko",
+          "name:cu": "Тѷрци",
+          "name:cv": "Турци",
+          "name:cy": "Twrci",
+          "name:da": "Tyrkiet",
+          "name:de": "Türkei",
+          "name:dv": "ތުރުކީވިލާތް",
+          "name:dz": "བྱའི་རིགས་ཅིག",
+          "name:ee": "Turkey",
+          "name:el": "Τουρκία",
+          "name:en": "Turkey",
+          "name:eo": "Turkio",
+          "name:es": "Turquía",
+          "name:et": "Türgi",
+          "name:eu": "Turkia",
+          "name:fa": "ترکیه",
+          "name:fi": "Turkki",
+          "name:fo": "Turkaland",
+          "name:fr": "Turquie",
+          "name:fy": "Turkije",
+          "name:ga": "An Tuirc",
+          "name:gd": "An Tuirc",
+          "name:gl": "Turquía",
+          "name:gn": "Tuykia",
+          "name:gu": "તુર્કસ્તાન",
+          "name:gv": "Yn Turkee",
+          "name:ha": "Turkiyya",
+          "name:he": "טורקיה",
+          "name:hi": "तुर्की",
+          "name:hr": "Turska",
+          "name:ht": "Tiki",
+          "name:hu": "Törökország",
+          "name:hy": "Թուրքիա",
+          "name:ia": "Turchia",
+          "name:id": "Turki",
+          "name:ie": "Turcia",
+          "name:ik": "Turkey",
+          "name:io": "Turkia",
+          "name:is": "Tyrkland",
+          "name:it": "Turchia",
+          "name:ja": "トルコ",
+          "name:jv": "Turki",
+          "name:ka": "თურქეთი",
+          "name:kg": "Turki",
+          "name:ki": "Turkey",
+          "name:kk": "Түркия",
+          "name:kl": "Tyrkia",
+          "name:km": "តួកគី",
+          "name:kn": "ಟರ್ಕಿ",
+          "name:ko": "튀르키예",
+          "name:ku": "Tirkiye",
+          "name:kv": "Турция",
+          "name:kw": "Turki",
+          "name:ky": "Түркия",
+          "name:la": "Turcia",
+          "name:lb": "Tierkei",
+          "name:lg": "Buturuki",
+          "name:li": "Turkije",
+          "name:ln": "Turkí",
+          "name:lt": "Turkija",
+          "name:lv": "Turcija",
+          "name:mg": "Torkia",
+          "name:mi": "Tākei",
+          "name:mk": "Турција",
+          "name:ml": "തുർക്കി",
+          "name:mn": "Турк",
+          "name:mr": "तुर्कस्तान",
+          "name:ms": "Turki",
+          "name:mt": "Turkija",
+          "name:my": "တူရကီနိုင်ငံ",
+          "name:na": "Terki",
+          "name:ne": "टर्की",
+          "name:nl": "Turkije",
+          "name:nn": "Tyrkia",
+          "name:no": "Tyrkia",
+          "name:nv": "Tʼóok Bikéyah",
+          "name:oc": "Turquia",
+          "name:or": "ତୁର୍କୀ",
+          "name:os": "Турк",
+          "name:pa": "ਤੁਰਕੀ",
+          "name:pl": "Turcja",
+          "name:ps": "تورکيه",
+          "name:pt": "Turquia",
+          "name:qu": "Turkiya",
+          "name:rm": "Tirchia",
+          "name:rn": "Turukiya",
+          "name:ro": "Turcia",
+          "name:ru": "Турция",
+          "name:rw": "Turukiya",
+          "name:sa": "तुर्की",
+          "name:sc": "Turkia",
+          "name:se": "Durka",
+          "name:sh": "Turska",
+          "name:si": "තුර්කිය",
+          "name:sk": "Turecko",
+          "name:sl": "Turčija",
+          "name:sm": "Take",
+          "name:so": "Turkiga",
+          "name:sq": "Turqia",
+          "name:sr": "Турска",
+          "name:ss": "IThekhi",
+          "name:su": "Turki",
+          "name:sv": "Turkiet",
+          "name:sw": "Uturuki",
+          "name:ta": "துருக்கி",
+          "name:te": "టర్కీ",
+          "name:tg": "Туркия",
+          "name:th": "ประเทศตุรกี",
+          "name:ti": "ቱርኪ",
+          "name:tk": "Türkiýe",
+          "name:tl": "Turkiya",
+          "name:tr": "Türkiye",
+          "name:tt": "Төркия",
+          "name:tw": "Turkey",
+          "name:ty": "Turiti",
+          "name:ug": "تۈركىيە",
+          "name:uk": "Туреччина",
+          "name:ur": "ترکی",
+          "name:uz": "Turkiya",
+          "name:vi": "Thổ Nhĩ Kỳ",
+          "name:vo": "Türkän",
+          "name:wa": "Tourkeye",
+          "name:wo": "Tirki",
+          "name:xh": "ITurkiya",
+          "name:yi": "טערקיי",
+          "name:yo": "Túrkì",
+          "name:za": "Dujwjgiz",
+          "name:zh": "土耳其",
+          "name:zu": "ITheki",
+          "boundary": "administrative",
+          "int_name": "Türkiye",
+          "name:ace": "Turuki",
+          "name:ady": "Тыркуе",
+          "name:als": "Türkei",
+          "name:ang": "Turcland",
+          "name:apc": "تركيا",
+          "name:arc": "ܛܘܪܩܝܐ",
+          "name:ary": "أنقارا",
+          "name:arz": "توركيا",
+          "name:ast": "Turquía",
+          "name:azb": "تورکیه",
+          "name:bar": "Tiakei",
+          "name:bcl": "Turkiya",
+          "name:bjn": "Turki",
+          "name:bpy": "তুরস্ক",
+          "name:bug": "Turki",
+          "name:bxr": "Тюрк Улас",
+          "name:cdo": "Tū-ī-gì",
+          "name:ceb": "Turkiya",
+          "name:chr": "ᎬᏂᏱ",
+          "name:chy": "Turkey",
+          "name:ckb": "تورکیا",
+          "name:cnr": "Турска",
+          "name:crh": "Türkiye",
+          "name:csb": "Tëreckô",
+          "name:din": "Turkia",
+          "name:diq": "Tırkiya",
+          "name:dsb": "Turkojska",
+          "name:eml": "Turchî",
+          "name:ext": "Turquia",
+          "name:frp": "Turquie",
+          "name:frr": "Türkei",
+          "name:fur": "Turchie",
+          "name:gag": "Türkiye",
+          "name:gan": "土耳其",
+          "name:glk": "تۊرکيه",
+          "name:got": "𐍄𐍅𐍂𐌺𐌾𐌰",
+          "name:hak": "Thú-ngí-khì",
+          "name:haw": "Tureke",
+          "name:hif": "Turkey",
+          "name:hsb": "Turkowska",
+          "name:hyw": "Թուրքիա",
+          "name:ilo": "Turkia",
+          "name:inh": "Туркий",
+          "name:jbo": "turk",
+          "name:kaa": "Túrkiya",
+          "name:kab": "Tturk",
+          "name:kbd": "Тырку",
+          "name:kiu": "Tırkiya",
+          "name:koi": "Тюркия",
+          "name:krc": "Тюрк",
+          "name:ksh": "Türkei",
+          "name:lad": "Turkia",
+          "name:lbe": "Туркия",
+          "name:lez": "Турция",
+          "name:lij": "Turchia",
+          "name:lmo": "Türchia",
+          "name:ltg": "Turceja",
+          "name:lzh": "土耳其",
+          "name:mdf": "Туркамастор",
+          "name:mhr": "Турций",
+          "name:mrj": "Турци",
+          "name:mwl": "Turquie",
+          "name:mzn": "ترکیه",
+          "name:nah": "Turquia",
+          "name:nan": "Türkiye",
+          "name:nap": "Turchia",
+          "name:nds": "Törkie",
+          "name:new": "टर्की",
+          "name:nov": "Turkia",
+          "name:nrm": "Turtchie",
+          "name:nso": "Turkey",
+          "name:pam": "Turkia",
+          "name:pap": "Turkia",
+          "name:pcd": "Turkie",
+          "name:pdc": "Turkie",
+          "name:pes": "ترکیه",
+          "name:pfl": "Tirkei",
+          "name:pih": "Turkii",
+          "name:pms": "Turchìa",
+          "name:pnb": "ترکی",
+          "name:pnt": "Τουρκία",
+          "name:prs": "ترکیه",
+          "name:rmy": "Turkiya",
+          "name:rue": "Турція",
+          "name:sah": "Түркийэ",
+          "name:scn": "Turchìa",
+          "name:sco": "Turkey",
+          "name:smn": "Turkki",
+          "name:sms": "Turkk",
+          "name:srn": "Turkiyakondre",
+          "name:stq": "Turkäi",
+          "name:szl": "Turcyjŏ",
+          "name:tet": "Turkia",
+          "name:tpi": "Teki",
+          "name:tsd": "Τουρκία",
+          "name:tum": "Turkey",
+          "name:tzl": "Türchia",
+          "name:udm": "Турция",
+          "name:vec": "Turchia",
+          "name:vep": "Turcii",
+          "name:vls": "Turkeye",
+          "name:vro": "Türgü",
+          "name:war": "Turkeya",
+          "name:wuu": "土耳其",
+          "name:xal": "Түргүдин Орн",
+          "name:xmf": "თურქეთი",
+          "name:yue": "土耳其",
+          "name:zea": "Turkije",
+          "name:zza": "Tırkiya",
+          "timezone": "Europe/Istanbul",
+          "way_area": "89.1987",
+          "wikidata": "Q43",
+          "ISO3166-1": "TR",
+          "name:vlca": "Turquia",
+          "wikipedia": "tr:Türkiye",
+          "population": "85279553",
+          "admin_level": "2",
+          "alt_name:ar": "تركيا",
+          "alt_name:eo": "Turkujo",
+          "alt_name:vi": "Thổ Nhĩ Kì",
+          "name:nds-nl": "Turkije",
+          "old_name:ko": "터키",
+          "alt_name:haw": "Kuleke",
+          "alt_name:lad": "Turkiya",
+          "alt_name:tzl": "ma Tuki",
+          "name:bat-smg": "Torkėjė",
+          "name:cbk-zam": "Turquía",
+          "name:ks-Arab": "تُرکی",
+          "name:mn-Mong": "ᠲᠦᠷᠻ",
+          "name:roa-rup": "Turchia",
+          "name:zh-Hans": "土耳其",
+          "name:zh-Hant": "土耳其",
+          "name:cnr-Latn": "Turska",
+          "name:lad-Hebr": "טורקײה",
+          "name:roa-tara": "Turchie",
+          "official_name": "Türkiye Cumhuriyeti",
+          "name:be-tarask": "Турэччына",
+          "population:date": "2022",
+          "ISO3166-1:alpha2": "TR",
+          "ISO3166-1:alpha3": "TUR",
+          "default_language": "tr",
+          "official_name:ar": "الجمهورية التركية",
+          "official_name:cs": "Turecká republika",
+          "official_name:de": "Republik Turkei",
+          "official_name:el": "Δημοκρατία της Τουρκίας",
+          "official_name:en": "Republic of Türkiye",
+          "official_name:eo": "Turka Respubliko",
+          "official_name:es": "República de Turquía",
+          "official_name:fi": "Turkin tasavalta",
+          "official_name:fr": "République de Turquie",
+          "official_name:he": "הרפובליקה הטורקית",
+          "official_name:ko": "튀르키예 공화국",
+          "official_name:ku": "Komara Tirkiyeyê",
+          "official_name:ky": "Түркия Республикасы",
+          "official_name:ru": "Турецкая Республика",
+          "official_name:zh": "土耳其共和國 / 土耳其共和国",
+          "ISO3166-1:numeric": "792",
+          "official_name:xal": "Түргүдин Орн",
+          "official_name:zh-Hans": "土耳其共和国",
+          "official_name:zh-Hant": "土耳其共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44,
+              40
+            ],
+            [
+              44.419467287840675,
+              40
+            ],
+            [
+              44.4185919,
+              40.00039
+            ],
+            [
+              44.4156862,
+              40.0014417
+            ],
+            [
+              44.4090251,
+              40.002987
+            ],
+            [
+              44.4064023,
+              40.0030963
+            ],
+            [
+              44.4045428,
+              40.0024359
+            ],
+            [
+              44.4009106,
+              40.0022286
+            ],
+            [
+              44.3986229,
+              40.0027609
+            ],
+            [
+              44.3953367,
+              40.0042769
+            ],
+            [
+              44.3919553,
+              40.0051141
+            ],
+            [
+              44.386079,
+              40.0046217
+            ],
+            [
+              44.3838452,
+              40.0037983
+            ],
+            [
+              44.3820574,
+              40.0034402
+            ],
+            [
+              44.3802394,
+              40.0034964
+            ],
+            [
+              44.3788254,
+              40.0041575
+            ],
+            [
+              44.3778317,
+              40.0051172
+            ],
+            [
+              44.377136,
+              40.0053954
+            ],
+            [
+              44.3759056,
+              40.0068582
+            ],
+            [
+              44.3748302,
+              40.0071107
+            ],
+            [
+              44.372839,
+              40.0079975
+            ],
+            [
+              44.3705986,
+              40.0092916
+            ],
+            [
+              44.365769,
+              40.0136095
+            ],
+            [
+              44.3650345,
+              40.0146221
+            ],
+            [
+              44.3639511,
+              40.0155222
+            ],
+            [
+              44.362482,
+              40.0162816
+            ],
+            [
+              44.3599119,
+              40.017309
+            ],
+            [
+              44.3575721,
+              40.0194169
+            ],
+            [
+              44.3561374,
+              40.020977
+            ],
+            [
+              44.3554488,
+              40.0231524
+            ],
+            [
+              44.3545019,
+              40.0250859
+            ],
+            [
+              44.3525795,
+              40.0268876
+            ],
+            [
+              44.3518267,
+              40.0272172
+            ],
+            [
+              44.3510875,
+              40.0274808
+            ],
+            [
+              44.3502454,
+              40.0274721
+            ],
+            [
+              44.3481608,
+              40.0269755
+            ],
+            [
+              44.3451727,
+              40.026715
+            ],
+            [
+              44.3427666,
+              40.0269096
+            ],
+            [
+              44.3396391,
+              40.0279202
+            ],
+            [
+              44.3379462,
+              40.0299635
+            ],
+            [
+              44.3370854,
+              40.0318749
+            ],
+            [
+              44.3364829,
+              40.0324681
+            ],
+            [
+              44.3356255,
+              40.0326889
+            ],
+            [
+              44.3345614,
+              40.0328094
+            ],
+            [
+              44.3327738,
+              40.0322828
+            ],
+            [
+              44.3307391,
+              40.0310281
+            ],
+            [
+              44.3291094,
+              40.0307312
+            ],
+            [
+              44.3266643,
+              40.030862
+            ],
+            [
+              44.3244684,
+              40.031613
+            ],
+            [
+              44.3205878,
+              40.0343043
+            ],
+            [
+              44.3187169,
+              40.0376152
+            ],
+            [
+              44.3164166,
+              40.0386745
+            ],
+            [
+              44.314038,
+              40.0393001
+            ],
+            [
+              44.311863,
+              40.0392244
+            ],
+            [
+              44.3100875,
+              40.0388938
+            ],
+            [
+              44.3062524,
+              40.0377484
+            ],
+            [
+              44.3038787,
+              40.0366184
+            ],
+            [
+              44.301569,
+              40.0359658
+            ],
+            [
+              44.2977254,
+              40.0361021
+            ],
+            [
+              44.2966423,
+              40.0363743
+            ],
+            [
+              44.2961188,
+              40.0370104
+            ],
+            [
+              44.2955009,
+              40.0393001
+            ],
+            [
+              44.2947842,
+              40.0407004
+            ],
+            [
+              44.2945672,
+              40.0434271
+            ],
+            [
+              44.2938676,
+              40.0440843
+            ],
+            [
+              44.2928487,
+              40.0443681
+            ],
+            [
+              44.2903836,
+              40.0441015
+            ],
+            [
+              44.2874187,
+              40.0433305
+            ],
+            [
+              44.2850707,
+              40.0434819
+            ],
+            [
+              44.2842732,
+              40.0439297
+            ],
+            [
+              44.2833139,
+              40.0450508
+            ],
+            [
+              44.280612,
+              40.0475546
+            ],
+            [
+              44.2790501,
+              40.0484154
+            ],
+            [
+              44.2775819,
+              40.0489314
+            ],
+            [
+              44.2743686,
+              40.049423
+            ],
+            [
+              44.2721944,
+              40.0492388
+            ],
+            [
+              44.2704312,
+              40.0488088
+            ],
+            [
+              44.2639631,
+              40.0466216
+            ],
+            [
+              44.2611284,
+              40.0465561
+            ],
+            [
+              44.2544296,
+              40.048542
+            ],
+            [
+              44.2524597,
+              40.0485494
+            ],
+            [
+              44.2483806,
+              40.049075
+            ],
+            [
+              44.2454001,
+              40.0484116
+            ],
+            [
+              44.2425547,
+              40.046238
+            ],
+            [
+              44.2419285,
+              40.0461265
+            ],
+            [
+              44.2408945,
+              40.0461951
+            ],
+            [
+              44.2381931,
+              40.0474259
+            ],
+            [
+              44.2369479,
+              40.0475913
+            ],
+            [
+              44.2356016,
+              40.0474993
+            ],
+            [
+              44.234359,
+              40.0468207
+            ],
+            [
+              44.2329849,
+              40.0450752
+            ],
+            [
+              44.2324901,
+              40.0438797
+            ],
+            [
+              44.2317802,
+              40.04304
+            ],
+            [
+              44.229213,
+              40.0421348
+            ],
+            [
+              44.2272612,
+              40.0420546
+            ],
+            [
+              44.2262598,
+              40.0426323
+            ],
+            [
+              44.225225,
+              40.0429441
+            ],
+            [
+              44.2231618,
+              40.042605
+            ],
+            [
+              44.2218122,
+              40.042914
+            ],
+            [
+              44.2206512,
+              40.0426737
+            ],
+            [
+              44.2199455,
+              40.0420063
+            ],
+            [
+              44.2189272,
+              40.0401664
+            ],
+            [
+              44.2184572,
+              40.0375138
+            ],
+            [
+              44.217437,
+              40.036087
+            ],
+            [
+              44.215748,
+              40.0346437
+            ],
+            [
+              44.213662,
+              40.0335806
+            ],
+            [
+              44.2113687,
+              40.0343643
+            ],
+            [
+              44.2106172,
+              40.0344635
+            ],
+            [
+              44.2093734,
+              40.0350984
+            ],
+            [
+              44.2089055,
+              40.0356744
+            ],
+            [
+              44.2073351,
+              40.0384841
+            ],
+            [
+              44.2063658,
+              40.0390722
+            ],
+            [
+              44.2051625,
+              40.0393441
+            ],
+            [
+              44.2034263,
+              40.0391358
+            ],
+            [
+              44.2018386,
+              40.0392528
+            ],
+            [
+              44.1994082,
+              40.0387661
+            ],
+            [
+              44.1973143,
+              40.0388832
+            ],
+            [
+              44.1939491,
+              40.0395963
+            ],
+            [
+              44.1926468,
+              40.0395434
+            ],
+            [
+              44.1901406,
+              40.0390648
+            ],
+            [
+              44.1892785,
+              40.038557
+            ],
+            [
+              44.1884059,
+              40.0369704
+            ],
+            [
+              44.1884293,
+              40.0362558
+            ],
+            [
+              44.1895923,
+              40.0340902
+            ],
+            [
+              44.189647,
+              40.0327748
+            ],
+            [
+              44.1890221,
+              40.0314971
+            ],
+            [
+              44.1880004,
+              40.0305916
+            ],
+            [
+              44.1861105,
+              40.0303577
+            ],
+            [
+              44.1827357,
+              40.0296284
+            ],
+            [
+              44.1811965,
+              40.0299336
+            ],
+            [
+              44.1791331,
+              40.0299455
+            ],
+            [
+              44.1777434,
+              40.0297352
+            ],
+            [
+              44.177282,
+              40.0295834
+            ],
+            [
+              44.1742737,
+              40.0275933
+            ],
+            [
+              44.1730506,
+              40.0272854
+            ],
+            [
+              44.1707428,
+              40.0272909
+            ],
+            [
+              44.1701313,
+              40.0274637
+            ],
+            [
+              44.1686411,
+              40.0293513
+            ],
+            [
+              44.1677458,
+              40.0298821
+            ],
+            [
+              44.1662521,
+              40.0319056
+            ],
+            [
+              44.1651919,
+              40.0323381
+            ],
+            [
+              44.1629899,
+              40.0318662
+            ],
+            [
+              44.1621091,
+              40.0311212
+            ],
+            [
+              44.1605989,
+              40.0306852
+            ],
+            [
+              44.1565436,
+              40.0304296
+            ],
+            [
+              44.151249,
+              40.0313738
+            ],
+            [
+              44.1481531,
+              40.033088
+            ],
+            [
+              44.1468167,
+              40.0332451
+            ],
+            [
+              44.1433245,
+              40.0328543
+            ],
+            [
+              44.1411921,
+              40.0330551
+            ],
+            [
+              44.1389163,
+              40.0327781
+            ],
+            [
+              44.1380862,
+              40.0321344
+            ],
+            [
+              44.1378325,
+              40.0312183
+            ],
+            [
+              44.1362787,
+              40.0296483
+            ],
+            [
+              44.1357699,
+              40.0289743
+            ],
+            [
+              44.1354858,
+              40.0282006
+            ],
+            [
+              44.1333329,
+              40.0278572
+            ],
+            [
+              44.1312571,
+              40.0282298
+            ],
+            [
+              44.1296009,
+              40.0292458
+            ],
+            [
+              44.1269908,
+              40.0320023
+            ],
+            [
+              44.1230008,
+              40.0340994
+            ],
+            [
+              44.1195389,
+              40.034016
+            ],
+            [
+              44.116959,
+              40.0348298
+            ],
+            [
+              44.1159565,
+              40.0347837
+            ],
+            [
+              44.1148968,
+              40.0340174
+            ],
+            [
+              44.1139055,
+              40.0320731
+            ],
+            [
+              44.108959,
+              40.030347
+            ],
+            [
+              44.1070671,
+              40.0299268
+            ],
+            [
+              44.1055211,
+              40.0300504
+            ],
+            [
+              44.1034613,
+              40.0308959
+            ],
+            [
+              44.1014303,
+              40.0313242
+            ],
+            [
+              44.0990283,
+              40.0323301
+            ],
+            [
+              44.0893642,
+              40.0340302
+            ],
+            [
+              44.0840408,
+              40.0332149
+            ],
+            [
+              44.0806989,
+              40.0322905
+            ],
+            [
+              44.0795013,
+              40.0322426
+            ],
+            [
+              44.0779853,
+              40.0326823
+            ],
+            [
+              44.0689963,
+              40.0322698
+            ],
+            [
+              44.0665214,
+              40.0315883
+            ],
+            [
+              44.0650957,
+              40.0306903
+            ],
+            [
+              44.0640625,
+              40.0295894
+            ],
+            [
+              44.0617291,
+              40.0287333
+            ],
+            [
+              44.0564716,
+              40.0274629
+            ],
+            [
+              44.0502127,
+              40.0270851
+            ],
+            [
+              44.0483969,
+              40.0275379
+            ],
+            [
+              44.0463681,
+              40.0282793
+            ],
+            [
+              44.0444544,
+              40.0285925
+            ],
+            [
+              44.0428242,
+              40.0291245
+            ],
+            [
+              44.0374255,
+              40.0274712
+            ],
+            [
+              44.0320301,
+              40.0277092
+            ],
+            [
+              44.0282733,
+              40.0270238
+            ],
+            [
+              44.0262197,
+              40.0270508
+            ],
+            [
+              44.0248491,
+              40.0274897
+            ],
+            [
+              44.0225783,
+              40.0286783
+            ],
+            [
+              44.0215722,
+              40.0285022
+            ],
+            [
+              44.0200775,
+              40.0275117
+            ],
+            [
+              44.016743,
+              40.0275998
+            ],
+            [
+              44.0132566,
+              40.0259267
+            ],
+            [
+              44.0090803,
+              40.0241972
+            ],
+            [
+              44.0036143,
+              40.0249608
+            ],
+            [
+              44,
+              40.02834911081538
+            ],
+            [
+              44,
+              40
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

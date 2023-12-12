@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -304716,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "India",
+        "local_name": "India",
+        "name_en": "India",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+          "name": "India",
+          "name:am": "ህንድ",
+          "name:ar": "الهند",
+          "name:az": "Hindistan",
+          "name:ba": "Һиндостан",
+          "name:be": "Індыя",
+          "name:bg": "Индия",
+          "name:bh": "भारत",
+          "name:bi": "India",
+          "name:bn": "ভারত",
+          "name:bo": "རྒྱ་གར།",
+          "name:br": "India",
+          "name:bs": "Indija",
+          "name:ca": "Índia",
+          "name:ce": "ХӀинди",
+          "name:co": "India",
+          "name:cs": "Indie",
+          "name:cv": "Инди",
+          "name:cy": "India",
+          "name:da": "Indien",
+          "name:de": "Indien",
+          "name:dv": "އިންޑިޔާ",
+          "name:dz": "རྒྱ་གར",
+          "name:ee": "India",
+          "name:el": "Ινδία",
+          "name:en": "India",
+          "name:eo": "Barato",
+          "name:es": "India",
+          "name:et": "India",
+          "name:eu": "India",
+          "name:fa": "هند",
+          "name:fi": "Intia",
+          "name:fo": "India",
+          "name:fr": "Inde",
+          "name:fy": "Yndia",
+          "name:ga": "An India",
+          "name:gd": "Na h-Innseachan",
+          "name:gn": "India",
+          "name:gr": "Ἰνδία",
+          "name:gu": "ભારત",
+          "name:gv": "Yn Injey",
+          "name:ha": "Indiya",
+          "name:he": "הודו",
+          "name:hi": "भारत",
+          "name:hr": "Indija",
+          "name:ht": "End",
+          "name:hu": "India",
+          "name:hy": "Հնդկաստան",
+          "name:ia": "India",
+          "name:id": "India",
+          "name:ie": "India",
+          "name:ig": "Ndia",
+          "name:io": "India",
+          "name:is": "Indland",
+          "name:it": "India",
+          "name:iu": "ᐃᓐᑎᐊ",
+          "name:ja": "インド",
+          "name:jv": "India",
+          "name:ka": "ინდოეთი",
+          "name:kg": "India",
+          "name:kk": "Үндістан",
+          "name:kl": "India",
+          "name:km": "ឥណ្ឌា",
+          "name:kn": "ಭಾರತ",
+          "name:ko": "인도",
+          "name:ks": "ہِندوستان",
+          "name:ku": "Hindistan",
+          "name:kv": "Индия",
+          "name:kw": "Eynda",
+          "name:ky": "Индия",
+          "name:la": "India",
+          "name:lb": "Indien",
+          "name:li": "India",
+          "name:ln": "India",
+          "name:lt": "Indija",
+          "name:lv": "Indija",
+          "name:mg": "India",
+          "name:mi": "Īnia",
+          "name:mk": "Индија",
+          "name:ml": "ഇന്ത്യ",
+          "name:mn": "Энэтхэг",
+          "name:mo": "Индия",
+          "name:mr": "भारत",
+          "name:ms": "India",
+          "name:mt": "Indja",
+          "name:my": "အိန္ဒိယနိုင်ငံ",
+          "name:na": "Indjiya",
+          "name:ne": "भारत",
+          "name:nl": "India",
+          "name:nn": "India",
+          "name:no": "India",
+          "name:nv": "Tó Wónaanídę́ę́ʼ Bitsįʼ Yishtłizhii Bikéyah",
+          "name:oc": "Índia",
+          "name:or": "ଭାରତ",
+          "name:os": "Инди",
+          "name:pa": "ਭਾਰਤ",
+          "name:pi": "भारत",
+          "name:pl": "Indie",
+          "name:ps": "هند",
+          "name:pt": "Índia",
+          "name:qu": "Indya",
+          "name:rm": "India",
+          "name:rn": "Ubuhindi",
+          "name:ro": "India",
+          "name:ru": "Индия",
+          "name:rw": "Ubuhinde",
+          "name:sa": "भारतम्",
+          "name:sc": "Ìndia",
+          "name:sd": "ڀارت",
+          "name:se": "India",
+          "name:sh": "Indija",
+          "name:si": "භාරත ජනරජය",
+          "name:sk": "India",
+          "name:sl": "Indija",
+          "name:sm": "Igitia",
+          "name:so": "Hindiya",
+          "name:sq": "India",
+          "name:sr": "Индија",
+          "name:ss": "INdiya",
+          "name:su": "India",
+          "name:sv": "Indien",
+          "name:sw": "Uhindi",
+          "name:ta": "இந்தியா",
+          "name:te": "భారత దేశం",
+          "name:tg": "Ҳиндустон",
+          "name:th": "ประเทศอินเดีย",
+          "name:tk": "Hindistan",
+          "name:tl": "Indiya",
+          "name:to": "ʻInitia",
+          "name:tr": "Hindistan",
+          "name:ts": "India",
+          "name:tt": "Һиндстан",
+          "name:ty": "’Inītia",
+          "name:ug": "ھىندىستان",
+          "name:uk": "Індія",
+          "name:ur": "ہندوستان",
+          "name:uz": "Hindiston",
+          "name:vi": "Ấn Độ",
+          "name:vo": "Lindän",
+          "name:wa": "Inde",
+          "name:wo": "End",
+          "name:yi": "אינדיע",
+          "name:yo": "Índíà",
+          "name:za": "Yindu",
+          "name:zh": "印度",
+          "name:zu": "INdiya",
+          "alt_name": "Hindustan",
+          "boundary": "administrative",
+          "name:arc": "ܗܢܕܘ",
+          "name:azb": "هیندوستان",
+          "name:bar": "Indien",
+          "name:bcl": "Indya",
+          "name:bjn": "India",
+          "name:bpy": "ভারত",
+          "name:bug": "India",
+          "name:bxr": "Энэдхэг",
+          "name:cdo": "Éng-dô",
+          "name:ceb": "Indya",
+          "name:chr": "ᎢᏅᏗᎾ",
+          "name:ckb": "ھیندستان",
+          "name:crh": "İndistan",
+          "name:csb": "Indie",
+          "name:din": "Indiɛn",
+          "name:diq": "Hindıstan",
+          "name:dsb": "Indiska",
+          "name:ext": "La Índia",
+          "name:frp": "Ende",
+          "name:frr": "Indien",
+          "name:fur": "Indie",
+          "name:gag": "İndiya",
+          "name:gan": "印度",
+          "name:glk": "هند",
+          "name:grc": "Ἰνδία",
+          "name:hak": "Yin-thu",
+          "name:haw": "‘Īnia",
+          "name:hif": "India",
+          "name:hsb": "Indiska",
+          "name:ilo": "India",
+          "name:jbo": ".indias.",
+          "name:kbd": "Индиэ",
+          "name:kmr": "حندستان",
+          "name:krc": "Индия",
+          "name:lbe": "Гьиндусттан",
+          "name:lez": "Индия",
+          "name:lij": "India",
+          "name:lmo": "India",
+          "name:lrc": "هند",
+          "name:ltg": "Iņdeja",
+          "name:lzh": "印度",
+          "name:mdf": "Индие",
+          "name:mwl": "Índia",
+          "name:mzn": "هند",
+          "name:nah": "India",
+          "name:nan": "Ìn-tō͘",
+          "name:nap": "Innia",
+          "name:nds": "Indien",
+          "name:new": "भारत",
+          "name:nov": "India",
+          "name:nrm": "Înde",
+          "name:pam": "India",
+          "name:pap": "India",
+          "name:pcd": "Inde",
+          "name:pih": "Endya",
+          "name:pms": "India",
+          "name:pnb": "بھارت",
+          "name:rmy": "Bharat",
+          "name:rue": "Індія",
+          "name:sah": "Индия",
+          "name:sat": "ᱵᱷᱟᱨᱚᱛ",
+          "name:scn": "Innia",
+          "name:sco": "Indie",
+          "name:smn": "India",
+          "name:sms": "Intia",
+          "name:srn": "Indiakondre",
+          "name:stq": "Indien",
+          "name:syc": "ܗܢܕܘ",
+          "name:szl": "Indyjŏ",
+          "name:tet": "Índia",
+          "name:tpi": "India",
+          "name:udm": "Индия",
+          "name:vec": "India",
+          "name:vro": "India",
+          "name:war": "Indya",
+          "name:wuu": "印度",
+          "name:xal": "Индия",
+          "name:xmf": "ინდოეთი",
+          "name:yue": "印度",
+          "name:zea": "India",
+          "timezone": "Asia/Kolkata",
+          "way_area": "304.146",
+          "wikidata": "Q668",
+          "ISO3166-1": "IN",
+          "wikipedia": "en:India",
+          "population": "1407563842",
+          "admin_level": "2",
+          "alt_name:eo": "Hindujo;Hindio",
+          "alt_name:ks": "بًارت",
+          "alt_name:ur": "بھارت;انڈیا",
+          "alt_name:vi": "Thiên Trúc;Quyên Độc",
+          "border_type": "nation",
+          "name:nds-nl": "India",
+          "driving_side": "left",
+          "name:az-Arab": "هیندوستان",
+          "name:bat-smg": "Indėjė",
+          "name:cbk-zam": "India",
+          "name:ku-Arab": "حندستان",
+          "name:map-bms": "India",
+          "name:roa-rup": "India",
+          "name:zh-Hans": "印度",
+          "name:zh-Hant": "印度",
+          "wikipedia:ks": "ہِندوستان",
+          "wikipedia:pa": "ਭਾਰਤ",
+          "wikipedia:ur": "بھارت",
+          "name:kab-Arab": "لهند",
+          "name:roa-tara": "Indie",
+          "name:be-tarask": "Індыя",
+          "population:date": "2021",
+          "ISO3166-1:alpha2": "IN",
+          "ISO3166-1:alpha3": "IND",
+          "official_name:ar": "جمهورية الهند",
+          "official_name:cs": "Indická republika",
+          "official_name:de": "Republik Indien",
+          "official_name:en": "Republic of India",
+          "official_name:eo": "Barata Respubliko",
+          "official_name:es": "República de la India",
+          "official_name:fa": "جمهوری هندوستان",
+          "official_name:fr": "République d'Inde",
+          "official_name:ks": "جۆمہوٗرِیہَ ہِندوستان",
+          "official_name:pa": "ਭਾਰਤ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Indii",
+          "official_name:ps": "د هند جمهوريت",
+          "official_name:ru": "Республика Индия",
+          "official_name:ur": "جمہوریہ ہندوستان",
+          "official_name:vi": "Cộng hoà Ấn Độ",
+          "ISO3166-1:numeric": "356",
+          "official_name:azb": "هیندوستان جومهوریتی",
+          "official_name:pnb": "بھارت گنراج",
+          "official_name:az-Arab": "هیندوستان جومهوریتی"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93,
+              7.963052737126462
+            ],
+            [
+              93.43994465021356,
+              7
+            ],
+            [
+              94,
+              7
+            ],
+            [
+              94,
+              7.422280689885133
+            ],
+            [
+              93.9954256,
+              7.4274909
+            ],
+            [
+              93.9861072,
+              7.4367982
+            ],
+            [
+              93.9778858,
+              7.4440942
+            ],
+            [
+              93.9727718,
+              7.4482237
+            ],
+            [
+              93.9660678,
+              7.4532515
+            ],
+            [
+              93.962324,
+              7.4650647
+            ],
+            [
+              93.9592313,
+              7.4732768
+            ],
+            [
+              93.9557825,
+              7.4813463
+            ],
+            [
+              93.9499562,
+              7.4931499
+            ],
+            [
+              93.9467564,
+              7.4989258
+            ],
+            [
+              93.9433686,
+              7.5045478
+            ],
+            [
+              93.9385676,
+              7.5118968
+            ],
+            [
+              93.9334498,
+              7.5190298
+            ],
+            [
+              93.9264561,
+              7.5278365
+            ],
+            [
+              93.9164982,
+              7.5392905
+            ],
+            [
+              93.9108069,
+              7.5452716
+            ],
+            [
+              93.9018209,
+              7.5537941
+            ],
+            [
+              93.8949255,
+              7.5596564
+            ],
+            [
+              93.885762,
+              7.5666857
+            ],
+            [
+              93.8774216,
+              7.5724229
+            ],
+            [
+              93.8679452,
+              7.5782464
+            ],
+            [
+              93.8586563,
+              7.5832622
+            ],
+            [
+              93.8540601,
+              7.5879176
+            ],
+            [
+              93.8476448,
+              7.5939167
+            ],
+            [
+              93.8426608,
+              7.5982483
+            ],
+            [
+              93.8375453,
+              7.6023776
+            ],
+            [
+              93.8269123,
+              7.610161
+            ],
+            [
+              93.8195498,
+              7.614957
+            ],
+            [
+              93.81389,
+              7.6183572
+            ],
+            [
+              93.8022896,
+              7.6245375
+            ],
+            [
+              93.7920366,
+              7.6292349
+            ],
+            [
+              93.7799257,
+              7.6340088
+            ],
+            [
+              93.7708379,
+              7.6370607
+            ],
+            [
+              93.76,
+              7.6446385
+            ],
+            [
+              93.750632,
+              7.6503967
+            ],
+            [
+              93.740972,
+              7.6556045
+            ],
+            [
+              93.7290196,
+              7.6611677
+            ],
+            [
+              93.7187945,
+              7.6652134
+            ],
+            [
+              93.7104035,
+              7.6680318
+            ],
+            [
+              93.7047434,
+              7.6697204
+            ],
+            [
+              93.6903133,
+              7.6733308
+            ],
+            [
+              93.6791152,
+              7.6754069
+            ],
+            [
+              93.6764728,
+              7.6760274
+            ],
+            [
+              93.6728859,
+              7.6791454
+            ],
+            [
+              93.6677695,
+              7.6832746
+            ],
+            [
+              93.6571345,
+              7.691058
+            ],
+            [
+              93.6497706,
+              7.695854
+            ],
+            [
+              93.6441097,
+              7.6992543
+            ],
+            [
+              93.6383489,
+              7.7024357
+            ],
+            [
+              93.6265198,
+              7.7082578
+            ],
+            [
+              93.6143339,
+              7.7132953
+            ],
+            [
+              93.6018437,
+              7.7175267
+            ],
+            [
+              93.5933201,
+              7.7198139
+            ],
+            [
+              93.5990462,
+              7.7247211
+            ],
+            [
+              93.6035878,
+              7.7289226
+            ],
+            [
+              93.6124547,
+              7.7302554
+            ],
+            [
+              93.6189253,
+              7.7315143
+            ],
+            [
+              93.627491,
+              7.7335055
+            ],
+            [
+              93.6359615,
+              7.7358673
+            ],
+            [
+              93.6443208,
+              7.7385952
+            ],
+            [
+              93.6525529,
+              7.7416841
+            ],
+            [
+              93.6606423,
+              7.745128
+            ],
+            [
+              93.6685735,
+              7.7489205
+            ],
+            [
+              93.6782587,
+              7.7541358
+            ],
+            [
+              93.6839014,
+              7.7575215
+            ],
+            [
+              93.6912689,
+              7.7623136
+            ],
+            [
+              93.7019102,
+              7.7700911
+            ],
+            [
+              93.7070536,
+              7.7742368
+            ],
+            [
+              93.7120191,
+              7.7785458
+            ],
+            [
+              93.7215523,
+              7.7876416
+            ],
+            [
+              93.7275677,
+              7.7940425
+            ],
+            [
+              93.7319137,
+              7.7990181
+            ],
+            [
+              93.7360521,
+              7.804119
+            ],
+            [
+              93.7413335,
+              7.8111348
+            ],
+            [
+              93.7463032,
+              7.8183736
+            ],
+            [
+              93.7509517,
+              7.8258216
+            ],
+            [
+              93.757303,
+              7.8373549
+            ],
+            [
+              93.7628847,
+              7.8492776
+            ],
+            [
+              93.7661662,
+              7.8574173
+            ],
+            [
+              93.7706574,
+              7.8695233
+            ],
+            [
+              93.7727963,
+              7.8757239
+            ],
+            [
+              93.7753542,
+              7.8841178
+            ],
+            [
+              93.7784969,
+              7.8968972
+            ],
+            [
+              93.7797681,
+              7.9033786
+            ],
+            [
+              93.7812633,
+              7.9133166
+            ],
+            [
+              93.7819875,
+              7.9198394
+            ],
+            [
+              93.7825236,
+              7.926935
+            ],
+            [
+              93.7833766,
+              7.9427768
+            ],
+            [
+              93.783497,
+              7.9508269
+            ],
+            [
+              93.784163,
+              7.9595418
+            ],
+            [
+              93.7897883,
+              7.9730494
+            ],
+            [
+              93.7940369,
+              7.985507
+            ],
+            [
+              93.7974593,
+              7.9982149
+            ],
+            [
+              93.79783675334568,
+              8
+            ],
+            [
+              93,
+              8
+            ],
+            [
+              93,
+              7.963052737126462
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

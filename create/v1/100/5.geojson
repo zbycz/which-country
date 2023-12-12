@@ -1,0 +1,910 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2108121,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Malaysia",
+        "local_name": "Malaysia",
+        "name_en": "Malaysia",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+          "name": "Malaysia",
+          "name:am": "ማሌዢያ",
+          "name:an": "Malaisia",
+          "name:ar": "ماليزيا",
+          "name:az": "Malayziya",
+          "name:ba": "Малайзия",
+          "name:be": "Малайзія",
+          "name:bg": "Малайзия",
+          "name:bn": "মালয়েশিয়া",
+          "name:bo": "མ་ལ་ཤི་ཡ།",
+          "name:br": "Malaysia",
+          "name:bs": "Malezija",
+          "name:ca": "Malàisia",
+          "name:ce": "Малайзи",
+          "name:cs": "Malajsie",
+          "name:cv": "Малайзи",
+          "name:cy": "Malaysia",
+          "name:da": "Malaysia",
+          "name:de": "Malaysia",
+          "name:dv": "މެލޭޝިޔާ",
+          "name:dz": "མ་ལེ་ཤི་ཡ་",
+          "name:el": "Μαλαισία",
+          "name:en": "Malaysia",
+          "name:eo": "Malajzio",
+          "name:es": "Malasia",
+          "name:et": "Malaisia",
+          "name:eu": "Malaysia",
+          "name:fa": "مالزی",
+          "name:fi": "Malesia",
+          "name:fo": "Maleisia",
+          "name:fr": "Malaisie",
+          "name:fy": "Maleizje",
+          "name:ga": "An Mhalaeisia",
+          "name:gd": "Malaidhsia",
+          "name:gl": "Malaisia",
+          "name:gn": "Malásia",
+          "name:gu": "મલેશિયા",
+          "name:gv": "Yn Valaysia",
+          "name:he": "מלזיה",
+          "name:hi": "मलेशिया",
+          "name:hr": "Malezija",
+          "name:ht": "Malezi",
+          "name:hu": "Malajzia",
+          "name:hy": "Մալազիա",
+          "name:ia": "Malaysia",
+          "name:id": "Malaysia",
+          "name:ie": "Malaysia",
+          "name:io": "Malaizia",
+          "name:is": "Malasía",
+          "name:it": "Malesia",
+          "name:ja": "マレーシア",
+          "name:jv": "Malaysia",
+          "name:ka": "მალაიზია",
+          "name:ki": "Malaysia",
+          "name:kk": "Малайзия",
+          "name:km": "ម៉ាឡេស៊ី",
+          "name:kn": "ಮಲೇಶಿಯ",
+          "name:ko": "말레이시아",
+          "name:ku": "Malezya",
+          "name:kv": "Малайзия",
+          "name:kw": "Malaysi",
+          "name:ky": "Малайзия",
+          "name:la": "Malaesia",
+          "name:lb": "Malaysia",
+          "name:li": "Maleisië",
+          "name:lo": "ປະເທດມາເລເຊຍ",
+          "name:lt": "Malaizija",
+          "name:lv": "Malaizija",
+          "name:mi": "Marēhia",
+          "name:mk": "Малезија",
+          "name:ml": "മലേഷ്യ",
+          "name:mn": "Малайз",
+          "name:mr": "मलेशिया",
+          "name:ms": "Maleisië",
+          "name:mt": "Malażja",
+          "name:my": "မလေးရှားနိုင်ငံ",
+          "name:na": "Maraidja",
+          "name:ne": "मलेशिया",
+          "name:nl": "Maleisië",
+          "name:nn": "Malaysia",
+          "name:no": "Malaysia",
+          "name:nv": "Maléízha",
+          "name:oc": "Malàisia",
+          "name:or": "ମାଲେସିଆ",
+          "name:os": "Малайзи",
+          "name:pa": "ਮਲੇਸ਼ੀਆ",
+          "name:pl": "Malezja",
+          "name:pt": "Malásia",
+          "name:qu": "Malasya",
+          "name:ro": "Malaezia",
+          "name:ru": "Малайзия",
+          "name:rw": "Malesiya",
+          "name:sa": "मलयेशिया",
+          "name:se": "Malesia",
+          "name:sg": "Malezïi",
+          "name:sh": "Malezija",
+          "name:sk": "Malajzia",
+          "name:sl": "Malezija",
+          "name:so": "Malaysiya",
+          "name:sq": "Malajzia",
+          "name:sr": "Малезија",
+          "name:ss": "IMaleshiya",
+          "name:su": "Malaysia",
+          "name:sv": "Malaysia",
+          "name:sw": "Malaysia",
+          "name:ta": "மலேசியா",
+          "name:te": "మలేషియా",
+          "name:tg": "Малайзия",
+          "name:th": "ประเทศมาเลเซีย",
+          "name:tk": "Malaýziýa",
+          "name:tl": "Malasya",
+          "name:tr": "Malezya",
+          "name:tt": "Малайзия",
+          "name:tw": "Malaysia",
+          "name:ug": "مالايسىيا",
+          "name:uk": "Малайзія",
+          "name:ur": "ملائیشیا",
+          "name:uz": "Malayziya",
+          "name:vi": "Malaysia",
+          "name:vo": "Malaysiyän",
+          "name:wo": "Maleesi",
+          "name:yi": "מאלייזיע",
+          "name:yo": "Malaysia",
+          "name:za": "Majlaizsihya",
+          "name:zh": "马来西亚",
+          "boundary": "administrative",
+          "name:als": "Malaysia",
+          "name:arz": "ماليزيا",
+          "name:ast": "Malasia",
+          "name:bar": "Malaysia",
+          "name:bcl": "Malasya",
+          "name:bjn": "Malaysia",
+          "name:bpy": "মালয়েশিয়া",
+          "name:bug": "Malaysia",
+          "name:bxr": "Малайзи",
+          "name:cdo": "Mā-lài-să̤-ā",
+          "name:ceb": "Malasya",
+          "name:ckb": "مالیزیا",
+          "name:crh": "Malayziya",
+          "name:csb": "Malezjô",
+          "name:diq": "Malêzya",
+          "name:dsb": "Malayzija",
+          "name:ext": "Malásia",
+          "name:frp": "Malèsie",
+          "name:gag": "Malayziya",
+          "name:gan": "馬來西亞",
+          "name:hak": "Mâ-lòi-sî-â",
+          "name:haw": "Malaisia",
+          "name:hif": "Malaysia",
+          "name:hsb": "Malajzija",
+          "name:ilo": "Malaysia",
+          "name:jbo": "mejgu'e",
+          "name:kbd": "Мэлайзиэ",
+          "name:lij": "Malaysia",
+          "name:lmo": "Malaysia",
+          "name:lzh": "馬來西亞",
+          "name:mhr": "Малайзий",
+          "name:min": "Malaysia",
+          "name:nah": "Malasia",
+          "name:nan": "Má-lâi-se-a",
+          "name:nds": "Malaysia",
+          "name:new": "मलेसिया",
+          "name:nov": "Malaysia",
+          "name:pag": "Malasia",
+          "name:pam": "Malasya",
+          "name:pap": "Malaysia",
+          "name:pih": "Melasya",
+          "name:pms": "Malaysia",
+          "name:pnb": "ملائشیا",
+          "name:sah": "Малайзия",
+          "name:scn": "Malesia",
+          "name:sco": "Malaysie",
+          "name:smn": "Malesia",
+          "name:sms": "Malesia",
+          "name:szl": "Malezyjŏ",
+          "name:tet": "Malázia",
+          "name:tzl": "Malaiçía",
+          "name:udm": "Малайзия",
+          "name:vro": "Malaisia",
+          "name:war": "Malaysia",
+          "name:wuu": "马来西亚",
+          "name:xal": "Малаймудин Орн",
+          "name:yue": "馬來西亞",
+          "way_area": "41.0891",
+          "wikidata": "Q833",
+          "ISO3166-1": "MY",
+          "wikipedia": "en:Malaysia",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:nan-HJ": "马来西亚",
+          "name:nan-TL": "Má-lâi-se-a",
+          "name:simple": "Malaysia",
+          "driving_side": "left",
+          "name:bat-smg": "Malaizėjė",
+          "name:cbk-zam": "Malasia",
+          "name:map-bms": "Malaysia",
+          "name:nan-POJ": "Má-lâi-se-a",
+          "name:zh-Hans": "马来西亚",
+          "name:zh-Hant": "馬來西亞",
+          "name:be-tarask": "Малайзія",
+          "ISO3166-1:alpha2": "MY",
+          "ISO3166-1:alpha3": "MYS",
+          "official_name:ru": "Федерация Малайзия",
+          "ISO3166-1:numeric": "458"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100,
+              5
+            ],
+            [
+              101,
+              5
+            ],
+            [
+              101,
+              5.779257168478258
+            ],
+            [
+              100.999739,
+              5.77906
+            ],
+            [
+              100.998975,
+              5.779201
+            ],
+            [
+              100.998402,
+              5.779607
+            ],
+            [
+              100.998,
+              5.779978
+            ],
+            [
+              100.997465,
+              5.780878
+            ],
+            [
+              100.996414,
+              5.78326
+            ],
+            [
+              100.99584,
+              5.785201
+            ],
+            [
+              100.995554,
+              5.785395
+            ],
+            [
+              100.994579,
+              5.785413
+            ],
+            [
+              100.99368,
+              5.784972
+            ],
+            [
+              100.992935,
+              5.78326
+            ],
+            [
+              100.992514,
+              5.782907
+            ],
+            [
+              100.989456,
+              5.78393
+            ],
+            [
+              100.98894,
+              5.785289
+            ],
+            [
+              100.98938,
+              5.78663
+            ],
+            [
+              100.989418,
+              5.788907
+            ],
+            [
+              100.988653,
+              5.792948
+            ],
+            [
+              100.988214,
+              5.793724
+            ],
+            [
+              100.988692,
+              5.794554
+            ],
+            [
+              100.988806,
+              5.796442
+            ],
+            [
+              100.988367,
+              5.797412
+            ],
+            [
+              100.987507,
+              5.798418
+            ],
+            [
+              100.987105,
+              5.799142
+            ],
+            [
+              100.987316,
+              5.800606
+            ],
+            [
+              100.987143,
+              5.801171
+            ],
+            [
+              100.98657,
+              5.80163
+            ],
+            [
+              100.98527,
+              5.802195
+            ],
+            [
+              100.984582,
+              5.802953
+            ],
+            [
+              100.984525,
+              5.803465
+            ],
+            [
+              100.985098,
+              5.8041
+            ],
+            [
+              100.985213,
+              5.804506
+            ],
+            [
+              100.985041,
+              5.805071
+            ],
+            [
+              100.984238,
+              5.806306
+            ],
+            [
+              100.98399,
+              5.807188
+            ],
+            [
+              100.984181,
+              5.808971
+            ],
+            [
+              100.98441,
+              5.809571
+            ],
+            [
+              100.984754,
+              5.809782
+            ],
+            [
+              100.9855,
+              5.809782
+            ],
+            [
+              100.98592,
+              5.809977
+            ],
+            [
+              100.986647,
+              5.810771
+            ],
+            [
+              100.990259,
+              5.81093
+            ],
+            [
+              100.991998,
+              5.811759
+            ],
+            [
+              100.995401,
+              5.815764
+            ],
+            [
+              100.996165,
+              5.816382
+            ],
+            [
+              100.99649,
+              5.817053
+            ],
+            [
+              100.997656,
+              5.817706
+            ],
+            [
+              100.999281,
+              5.818217
+            ],
+            [
+              100.999682,
+              5.819364
+            ],
+            [
+              100.999529,
+              5.822912
+            ],
+            [
+              101,
+              5.823427637254904
+            ],
+            [
+              101,
+              6
+            ],
+            [
+              100,
+              6
+            ],
+            [
+              100,
+              5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2067731,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Thailand",
+        "local_name": "ประเทศไทย",
+        "name_en": "Thailand",
+        "all_tags": {
+          "fee": "no",
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+          "name": "ประเทศไทย",
+          "name:af": "Thailand",
+          "name:am": "ታይላንድ",
+          "name:an": "Tailandia",
+          "name:ar": "تايلاند",
+          "name:az": "Tailand",
+          "name:ba": "Таиланд",
+          "name:be": "Тайланд",
+          "name:bg": "Тайланд",
+          "name:bn": "থাইল্যান্ড",
+          "name:bo": "ཐའི་ལེན།",
+          "name:br": "Thailand",
+          "name:bs": "Tajland",
+          "name:ca": "Tailàndia",
+          "name:ce": "Таиланд",
+          "name:cs": "Thajsko",
+          "name:cv": "Таиланд",
+          "name:cy": "Gwlad Thai",
+          "name:da": "Thailand",
+          "name:de": "Thailand",
+          "name:dv": "ސިޔާމު",
+          "name:dz": "ཐཱའི་ལེནཌ",
+          "name:el": "Ταϊλάνδη",
+          "name:en": "Thailand",
+          "name:eo": "Tajlando",
+          "name:es": "Tailandia",
+          "name:et": "Tai",
+          "name:eu": "Thailandia",
+          "name:fa": "تایلند",
+          "name:fi": "Thaimaa",
+          "name:fo": "Teiland",
+          "name:fr": "Thaïlande",
+          "name:fy": "Tailân",
+          "name:ga": "An Téalainn",
+          "name:gd": "Dùthaich nan Tàidh",
+          "name:gl": "Tailandia",
+          "name:gn": "Tailandia",
+          "name:gu": "થાઇલેન્ડ",
+          "name:gv": "Yn Çheer Thai",
+          "name:he": "תאילנד",
+          "name:hi": "थाईलैण्ड",
+          "name:hr": "Tajland",
+          "name:ht": "Tayilann",
+          "name:hu": "Thaiföld",
+          "name:hy": "Թաիլանդ",
+          "name:ia": "Thailanda",
+          "name:id": "Thailand",
+          "name:ie": "Thailand",
+          "name:io": "Tailando",
+          "name:is": "Taíland",
+          "name:it": "Thailandia",
+          "name:ja": "タイ王国",
+          "name:jv": "Thailand",
+          "name:ka": "ტაილანდი",
+          "name:ki": "Thailand",
+          "name:kk": "Тайланд",
+          "name:kl": "Thailandi",
+          "name:km": "ថៃ",
+          "name:kn": "ಥೈಲ್ಯಾಂಡ್",
+          "name:ko": "태국",
+          "name:ks": "تھائی لینڈ",
+          "name:ku": "Taylenda",
+          "name:kv": "Таиланд",
+          "name:kw": "Pow Tay",
+          "name:la": "Thailandia",
+          "name:lb": "Thailand",
+          "name:li": "Thailand",
+          "name:lo": "ປະເທດໄທ",
+          "name:lt": "Tailandas",
+          "name:lv": "Taizeme",
+          "name:mg": "Tailandy",
+          "name:mi": "Tairana",
+          "name:mk": "Тајланд",
+          "name:ml": "തായ്‌ലാന്റ്",
+          "name:mn": "Тайланд",
+          "name:mr": "थायलंड",
+          "name:ms": "Thailand",
+          "name:my": "ထိုင်းနိုင်ငံ",
+          "name:na": "Thailand",
+          "name:ne": "थाइल्याण्ड",
+          "name:nl": "Thailand",
+          "name:nn": "Thailand",
+          "name:no": "Thailand",
+          "name:nv": "Tʼáí Bikéyah",
+          "name:oc": "Tailàndia",
+          "name:or": "ଥାଇଲାଣ୍ଡ",
+          "name:os": "Таиланд",
+          "name:pa": "ਥਾਈਲੈਂਡ",
+          "name:pl": "Tajlandia",
+          "name:ps": "تايلنډ",
+          "name:pt": "Tailândia",
+          "name:qu": "Thaysuyu",
+          "name:ro": "Thailanda",
+          "name:ru": "Таиланд",
+          "name:rw": "Tayilande",
+          "name:sa": "श्यामदेश",
+          "name:sd": "ٿائيلينڊ",
+          "name:se": "Thaieana",
+          "name:sg": "Tailânde",
+          "name:sh": "Tajland",
+          "name:sk": "Thajsko",
+          "name:sl": "Tajska",
+          "name:so": "Tayland",
+          "name:sq": "Tajlanda",
+          "name:sr": "Тајланд",
+          "name:ss": "IThayilandi",
+          "name:su": "Thailand",
+          "name:sv": "Thailand",
+          "name:sw": "Uthai",
+          "name:ta": "தாய்லாந்து",
+          "name:te": "థాయిలాండ్",
+          "name:tg": "Таиланд",
+          "name:th": "ประเทศไทย",
+          "name:tk": "Tailand",
+          "name:tl": "Taylandiya",
+          "name:tr": "Tayland",
+          "name:tt": "Таиланд",
+          "name:tw": "Thailand",
+          "name:ug": "تايلاند",
+          "name:uk": "Таїланд",
+          "name:ur": "تھائی لینڈ",
+          "name:uz": "Tailand",
+          "name:vi": "Thái Lan",
+          "name:vo": "Tayän",
+          "name:wo": "Taaylaand",
+          "name:yi": "טיילאנד",
+          "name:yo": "Tháílàndì",
+          "name:za": "Daigoz",
+          "name:zh": "泰国 / 泰國",
+          "boundary": "administrative",
+          "name:als": "Thailand",
+          "name:ang": "Thailand",
+          "name:arz": "تايلاندا",
+          "name:ast": "Tailandia",
+          "name:azb": "تایلند",
+          "name:bar": "Thailand",
+          "name:bcl": "Tailandya",
+          "name:bpy": "টাইলান্ডিয়া",
+          "name:bug": "Thailand",
+          "name:bxr": "Таиланд",
+          "name:ceb": "Tailandya",
+          "name:chr": "ᏔᏱᎦᏙᎯ",
+          "name:ckb": "تایلەند",
+          "name:crh": "Tayland",
+          "name:csb": "Tajlandiô",
+          "name:diq": "Taylanda",
+          "name:dsb": "Thailandska",
+          "name:ext": "Tailándia",
+          "name:frp": "Tayilande",
+          "name:fur": "Tailandie",
+          "name:gag": "Tailand",
+          "name:gan": "泰國",
+          "name:hak": "Thai-koet",
+          "name:haw": "Tailani",
+          "name:hif": "Thailand",
+          "name:hsb": "Thailandska",
+          "name:ilo": "Tailandia",
+          "name:jbo": "tais",
+          "name:kbd": "Тайлэнд",
+          "name:lez": "Таиланд",
+          "name:lij": "Thailandia",
+          "name:lmo": "Thailandia",
+          "name:lrc": "تاؽلٱند",
+          "name:lzh": "泰國",
+          "name:mhr": "Таиланд",
+          "name:min": "Thailand",
+          "name:mzn": "تایلند",
+          "name:nah": "Taitlālpan",
+          "name:nan": "Thài-kok",
+          "name:nds": "Thailand",
+          "name:new": "थाइल्याण्ड",
+          "name:nov": "Tailande",
+          "name:pam": "Tailandya",
+          "name:pap": "Thailand",
+          "name:pih": "Tailan",
+          "name:pms": "Thailandia",
+          "name:pnb": "تھائی لینڈ",
+          "name:rue": "Таїланд",
+          "name:sah": "Тайлаан",
+          "name:scn": "Thailandia",
+          "name:sco": "Thailand",
+          "name:srn": "Taikondre",
+          "name:stq": "Thailound",
+          "name:szl": "Tajlandyjŏ",
+          "name:tpi": "Tailan",
+          "name:tzl": "Taiphäts",
+          "name:udm": "Таиланд",
+          "name:vec": "Thailandia",
+          "name:vro": "Tai",
+          "name:war": "Taylandya",
+          "name:wuu": "泰国",
+          "name:xal": "Тагилмудин Нутг",
+          "name:yue": "泰國",
+          "name:zea": "Thailand",
+          "timezone": "Asia/Bangkok",
+          "way_area": "52.5396",
+          "wikidata": "Q869",
+          "ISO3166-1": "TH",
+          "wikipedia": "en:Thailand",
+          "admin_level": "2",
+          "alt_name:eo": "Tajujo",
+          "alt_name:ko": "타이",
+          "name:nds-nl": "Thailaand",
+          "driving_side": "left",
+          "name:bat-smg": "Tailands",
+          "name:kk-Arab": "تايلاند",
+          "name:map-bms": "Thailand",
+          "name:zh-Hans": "泰国",
+          "name:zh-Hant": "泰國",
+          "name:roa-tara": "Thailandie",
+          "official_name": "ราชอาณาจักรไทย",
+          "name:be-tarask": "Тайлянд",
+          "ISO3166-1:alpha2": "TH",
+          "ISO3166-1:alpha3": "THA",
+          "default_language": "th",
+          "official_name:ar": "مملكة تايلاند",
+          "official_name:cs": "Thajské království",
+          "official_name:en": "Kingdom of Thailand",
+          "official_name:eo": "Tajlanda Reĝlando",
+          "official_name:fa": "پادشاهی تایلند",
+          "official_name:ko": "타이왕국",
+          "official_name:pl": "Królestwo Tajlandii",
+          "official_name:ur": "تمملکت تھائی لینڈ",
+          "ISO3166-1:numeric": "764"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.98399,
+              5.807188
+            ],
+            [
+              100.984238,
+              5.806306
+            ],
+            [
+              100.985041,
+              5.805071
+            ],
+            [
+              100.985213,
+              5.804506
+            ],
+            [
+              100.985098,
+              5.8041
+            ],
+            [
+              100.984525,
+              5.803465
+            ],
+            [
+              100.984582,
+              5.802953
+            ],
+            [
+              100.98527,
+              5.802195
+            ],
+            [
+              100.98657,
+              5.80163
+            ],
+            [
+              100.987143,
+              5.801171
+            ],
+            [
+              100.987316,
+              5.800606
+            ],
+            [
+              100.987105,
+              5.799142
+            ],
+            [
+              100.987507,
+              5.798418
+            ],
+            [
+              100.988367,
+              5.797412
+            ],
+            [
+              100.988806,
+              5.796442
+            ],
+            [
+              100.988692,
+              5.794554
+            ],
+            [
+              100.988214,
+              5.793724
+            ],
+            [
+              100.988653,
+              5.792948
+            ],
+            [
+              100.989418,
+              5.788907
+            ],
+            [
+              100.98938,
+              5.78663
+            ],
+            [
+              100.98894,
+              5.785289
+            ],
+            [
+              100.989456,
+              5.78393
+            ],
+            [
+              100.992514,
+              5.782907
+            ],
+            [
+              100.992935,
+              5.78326
+            ],
+            [
+              100.99368,
+              5.784972
+            ],
+            [
+              100.994579,
+              5.785413
+            ],
+            [
+              100.995554,
+              5.785395
+            ],
+            [
+              100.99584,
+              5.785201
+            ],
+            [
+              100.996414,
+              5.78326
+            ],
+            [
+              100.997465,
+              5.780878
+            ],
+            [
+              100.998,
+              5.779978
+            ],
+            [
+              100.998402,
+              5.779607
+            ],
+            [
+              100.998975,
+              5.779201
+            ],
+            [
+              100.999739,
+              5.77906
+            ],
+            [
+              101,
+              5.779257168478258
+            ],
+            [
+              101,
+              5.823427637254904
+            ],
+            [
+              100.999529,
+              5.822912
+            ],
+            [
+              100.999682,
+              5.819364
+            ],
+            [
+              100.999281,
+              5.818217
+            ],
+            [
+              100.997656,
+              5.817706
+            ],
+            [
+              100.99649,
+              5.817053
+            ],
+            [
+              100.996165,
+              5.816382
+            ],
+            [
+              100.995401,
+              5.815764
+            ],
+            [
+              100.991998,
+              5.811759
+            ],
+            [
+              100.990259,
+              5.81093
+            ],
+            [
+              100.986647,
+              5.810771
+            ],
+            [
+              100.98592,
+              5.809977
+            ],
+            [
+              100.9855,
+              5.809782
+            ],
+            [
+              100.984754,
+              5.809782
+            ],
+            [
+              100.98441,
+              5.809571
+            ],
+            [
+              100.984181,
+              5.808971
+            ],
+            [
+              100.98399,
+              5.807188
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

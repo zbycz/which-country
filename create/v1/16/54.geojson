@@ -1,0 +1,595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -49715,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Poland",
+        "local_name": "Polska",
+        "name_en": "Poland",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+          "name": "Polska",
+          "name:ab": "Полша",
+          "name:af": "Pole",
+          "name:ak": "Poland",
+          "name:am": "ፖላንድ",
+          "name:an": "Polonia",
+          "name:ar": "بولندا",
+          "name:ay": "Puluña",
+          "name:az": "Polşa",
+          "name:ba": "Польша",
+          "name:be": "Польшча",
+          "name:bg": "Полша",
+          "name:bi": "Poland",
+          "name:bn": "পোল্যান্ড",
+          "name:bo": "ཕོ་ལན།",
+          "name:br": "Polonia",
+          "name:bs": "Poljska",
+          "name:ca": "Polònia",
+          "name:ce": "Польша",
+          "name:co": "Polonia",
+          "name:cs": "Polsko",
+          "name:cu": "Пол҄ьска",
+          "name:cv": "Польша",
+          "name:cy": "Gwlad Pwyl",
+          "name:da": "Polen",
+          "name:de": "Polen",
+          "name:dv": "ޕޮލެންޑު",
+          "name:ee": "Poland",
+          "name:el": "Πολωνία",
+          "name:en": "Poland",
+          "name:eo": "Pollando",
+          "name:es": "Polonia",
+          "name:et": "Poola",
+          "name:eu": "Polonia",
+          "name:fa": "لهستان",
+          "name:ff": "Poloonya",
+          "name:fi": "Puola",
+          "name:fo": "Pólland",
+          "name:fr": "Pologne",
+          "name:fy": "Poalen",
+          "name:ga": "An Pholainn",
+          "name:gd": "A' Phòlainn",
+          "name:gl": "Polonia",
+          "name:gn": "Poloña",
+          "name:gu": "પોલેંડ",
+          "name:gv": "Yn Pholynn",
+          "name:ha": "Poland",
+          "name:he": "פולין",
+          "name:hi": "पोलैंड",
+          "name:hr": "Poljska",
+          "name:ht": "Polòy",
+          "name:hu": "Lengyelország",
+          "name:hy": "Լեհաստան",
+          "name:ia": "Polonia",
+          "name:id": "Polandia",
+          "name:ie": "Polonia",
+          "name:ig": "Poland",
+          "name:io": "Polonia",
+          "name:is": "Pólland",
+          "name:it": "Polonia",
+          "name:iu": "ᐳᓚᓐᑦ",
+          "name:ja": "ポーランド",
+          "name:jv": "Polandia",
+          "name:ka": "პოლონეთი",
+          "name:kg": "Pologne",
+          "name:kk": "Польша",
+          "name:kl": "Poleni",
+          "name:km": "ប្រទេសប៉ូឡូញ",
+          "name:kn": "ಪೋಲೆಂಡ್",
+          "name:ko": "폴란드",
+          "name:ku": "Polonya",
+          "name:kv": "Польша",
+          "name:kw": "Poloni",
+          "name:ky": "Польша",
+          "name:la": "Polonia",
+          "name:lb": "Polen",
+          "name:lg": "Bupoolo",
+          "name:li": "Pole",
+          "name:ln": "Poloni",
+          "name:lt": "Lenkija",
+          "name:lv": "Polija",
+          "name:mg": "Polonia",
+          "name:mi": "Pōrana",
+          "name:mk": "Полска",
+          "name:ml": "പോളണ്ട്",
+          "name:mn": "Польш",
+          "name:mr": "पोलंड",
+          "name:ms": "Poland",
+          "name:mt": "Polonja",
+          "name:my": "ပိုလန်နိုင်ငံ",
+          "name:na": "Poran",
+          "name:ne": "पोल्याण्ड",
+          "name:nl": "Polen",
+          "name:nn": "Polen",
+          "name:no": "Polen",
+          "name:nv": "Póolish Dineʼé Bikéyah",
+          "name:oc": "Polonha",
+          "name:or": "ପୋଲାଣ୍ଡ",
+          "name:os": "Польшæ",
+          "name:pa": "ਪੋਲੈਂਡ",
+          "name:pl": "Polska",
+          "name:ps": "پولنډ",
+          "name:pt": "Polónia",
+          "name:qu": "Pulunya",
+          "name:rm": "Pologna",
+          "name:rn": "Polonia",
+          "name:ro": "Polonia",
+          "name:ru": "Польша",
+          "name:rw": "Polonye",
+          "name:sa": "पोलैंड",
+          "name:sc": "Polonia",
+          "name:se": "Polska",
+          "name:sg": "Pölôni",
+          "name:sh": "Poljska",
+          "name:si": "පෝලන්තය",
+          "name:sk": "Poľsko",
+          "name:sl": "Poljska",
+          "name:sm": "Polagi",
+          "name:so": "Boland",
+          "name:sq": "Polonia",
+          "name:sr": "Пољска",
+          "name:ss": "IPholandi",
+          "name:st": "Poland",
+          "name:su": "Polandia",
+          "name:sv": "Polen",
+          "name:sw": "Poland",
+          "name:ta": "போலந்து",
+          "name:te": "పోలాండ్",
+          "name:tg": "Лаҳистон",
+          "name:th": "ประเทศโปแลนด์",
+          "name:tk": "Polşa",
+          "name:tl": "Polonya",
+          "name:tr": "Polonya",
+          "name:tt": "Польша",
+          "name:ug": "پولشا",
+          "name:uk": "Польща",
+          "name:ur": "پولینڈ",
+          "name:uz": "Polsha",
+          "name:vi": "Ba Lan",
+          "name:vo": "Polän",
+          "name:wa": "Pologne",
+          "name:wo": "Poloñ",
+          "name:yi": "פוילן",
+          "name:yo": "Polandi",
+          "name:zh": "波兰",
+          "name:zu": "IPolandi",
+          "boundary": "administrative",
+          "currency": "PLN",
+          "int_name": "Polska",
+          "name:ace": "Polandia",
+          "name:als": "Polen",
+          "name:ang": "Polaland",
+          "name:arc": "ܦܘܠܢܕ",
+          "name:arz": "بولاندا",
+          "name:ast": "Polonia",
+          "name:bar": "Poin",
+          "name:bcl": "Polonya",
+          "name:bpy": "পোল্যান্ড",
+          "name:bxr": "Польш",
+          "name:cdo": "Pŏ̤-làng",
+          "name:ceb": "Polonya",
+          "name:chr": "ᏉᎳᏂ",
+          "name:chy": "Poland",
+          "name:ckb": "پۆڵەندا",
+          "name:crh": "Lehistan",
+          "name:csb": "Pòlskô",
+          "name:diq": "Polonya",
+          "name:dsb": "Pólska",
+          "name:eml": "Pulógna",
+          "name:ext": "Poloña",
+          "name:frp": "Pologne",
+          "name:frr": "Poolen",
+          "name:fur": "Polonie",
+          "name:gag": "Polşa",
+          "name:gan": "波蘭",
+          "name:hak": "Pô-làn",
+          "name:haw": "Pōlani",
+          "name:hif": "Poland",
+          "name:hsb": "Pólska",
+          "name:ilo": "Polonia",
+          "name:jbo": "polskas",
+          "name:kaa": "Polsha",
+          "name:kbd": "Лахь жылэ",
+          "name:koi": "Польска",
+          "name:krc": "Польша",
+          "name:lad": "Polonia",
+          "name:lez": "Польша",
+          "name:lij": "Polonia",
+          "name:lmo": "Pulònia",
+          "name:ltg": "Puoleja",
+          "name:lzh": "波蘭",
+          "name:mdf": "Полень мастор",
+          "name:mhr": "Польшо",
+          "name:mrj": "Польша",
+          "name:mwl": "Polónia",
+          "name:mzn": "لهستون",
+          "name:nah": "Polonia",
+          "name:nan": "Polska",
+          "name:nap": "Pulonnia",
+          "name:nds": "Polen",
+          "name:nov": "Polonia",
+          "name:nrm": "Polongne",
+          "name:pam": "Polonya",
+          "name:pap": "Polonia",
+          "name:pcd": "Polonne",
+          "name:pdc": "Polen",
+          "name:pfl": "Pole",
+          "name:pih": "Poeland",
+          "name:pms": "Polònia",
+          "name:pnb": "پولینڈ",
+          "name:pnt": "Πολωνία",
+          "name:rmy": "Polska",
+          "name:rue": "Польско",
+          "name:sah": "Польша",
+          "name:scn": "Pulonia",
+          "name:sco": "Poland",
+          "name:smn": "Puola",
+          "name:sms": "Puola",
+          "name:stq": "Polen",
+          "name:szl": "Polska",
+          "name:tet": "Polónia",
+          "name:tok": "ma Posuka",
+          "name:tpi": "Polan",
+          "name:tzl": "Polognh",
+          "name:udm": "Польша",
+          "name:vec": "Połonia",
+          "name:vep": "Pol'šanma",
+          "name:vls": "Pooln",
+          "name:vro": "Poola",
+          "name:war": "Polonya",
+          "name:wuu": "波兰",
+          "name:xal": "Польшин Орн",
+          "name:xmf": "პოლონეთი",
+          "name:yue": "波蘭",
+          "name:zea": "Poôl'n",
+          "timezone": "Europe/Warsaw",
+          "way_area": "42.4413",
+          "wikidata": "Q36",
+          "ISO3166-1": "PL",
+          "wikipedia": "pl:Polska",
+          "short_name": "RP",
+          "teryt:terc": "1",
+          "admin_level": "2",
+          "alt_name:ar": "بولونيا",
+          "alt_name:eo": "Polio;Polujo",
+          "name:dative": "Polsce",
+          "name:nds-nl": "Pooln",
+          "long_name:ar": "Rzeczpospolita Polska",
+          "name:bat-smg": "Lėnkėjė",
+          "name:map-bms": "Polandia",
+          "name:roa-tara": "Pulonie",
+          "official_name": "Rzeczpospolita Polska",
+          "short_name:be": "РП",
+          "name:be-tarask": "Польшча",
+          "ISO3166-1:alpha2": "PL",
+          "ISO3166-1:alpha3": "POL",
+          "default_language": "pl",
+          "official_name:ar": "الجمهورية البولندية",
+          "official_name:be": "Рэспубліка Польшча",
+          "official_name:cs": "Polská republika",
+          "official_name:de": "Republik Polen",
+          "official_name:el": "Δημοκρατία της Πολωνίας",
+          "official_name:en": "Republic of Poland",
+          "official_name:eo": "Pola Respubliko",
+          "official_name:es": "República de Polonia",
+          "official_name:fi": "Puolan tasavalta",
+          "official_name:fr": "République de Pologne",
+          "official_name:pl": "Rzeczpospolita Polska",
+          "official_name:ru": "Республика Польша",
+          "official_name:sr": "Република Пољска",
+          "ISO3166-1:numeric": "616",
+          "daytime_headlight": "yes",
+          "official_name:be-tarask": "Рэспубліка Польшча",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "8"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16,
+              54
+            ],
+            [
+              17,
+              54
+            ],
+            [
+              17,
+              54.8791797382973
+            ],
+            [
+              16.9952722,
+              54.8777084
+            ],
+            [
+              16.9757639,
+              54.8727223
+            ],
+            [
+              16.9660111,
+              54.8700584
+            ],
+            [
+              16.9212694,
+              54.8569945
+            ],
+            [
+              16.9003028,
+              54.8504028
+            ],
+            [
+              16.8897139,
+              54.8474695
+            ],
+            [
+              16.88015,
+              54.8445917
+            ],
+            [
+              16.8707472,
+              54.8415445
+            ],
+            [
+              16.8584778,
+              54.8372195
+            ],
+            [
+              16.8436,
+              54.8314028
+            ],
+            [
+              16.8320889,
+              54.8264334
+            ],
+            [
+              16.82095,
+              54.8211889
+            ],
+            [
+              16.8075778,
+              54.8142639
+            ],
+            [
+              16.7973417,
+              54.8084417
+            ],
+            [
+              16.7851556,
+              54.800825
+            ],
+            [
+              16.7759111,
+              54.794475
+            ],
+            [
+              16.7631306,
+              54.7851167
+            ],
+            [
+              16.7469972,
+              54.7824084
+            ],
+            [
+              16.7300389,
+              54.7790167
+            ],
+            [
+              16.7134139,
+              54.7751167
+            ],
+            [
+              16.6940861,
+              54.7698528
+            ],
+            [
+              16.6777361,
+              54.7697445
+            ],
+            [
+              16.6598306,
+              54.7691111
+            ],
+            [
+              16.6420056,
+              54.7679361
+            ],
+            [
+              16.6278389,
+              54.7666111
+            ],
+            [
+              16.6172833,
+              54.7653917
+            ],
+            [
+              16.5386583,
+              54.7553139
+            ],
+            [
+              16.5247583,
+              54.7532556
+            ],
+            [
+              16.4942528,
+              54.7481973
+            ],
+            [
+              16.4840583,
+              54.7462111
+            ],
+            [
+              16.473975,
+              54.7440389
+            ],
+            [
+              16.4437583,
+              54.7368417
+            ],
+            [
+              16.4313083,
+              54.7348084
+            ],
+            [
+              16.417675,
+              54.7322361
+            ],
+            [
+              16.4042389,
+              54.7293389
+            ],
+            [
+              16.391025,
+              54.7261195
+            ],
+            [
+              16.3780556,
+              54.7225834
+            ],
+            [
+              16.3622222,
+              54.7177278
+            ],
+            [
+              16.3415167,
+              54.7104973
+            ],
+            [
+              16.327525,
+              54.7051945
+            ],
+            [
+              16.318775,
+              54.7015806
+            ],
+            [
+              16.3102278,
+              54.6978084
+            ],
+            [
+              16.3018861,
+              54.6938861
+            ],
+            [
+              16.2937639,
+              54.6898111
+            ],
+            [
+              16.2858639,
+              54.6855945
+            ],
+            [
+              16.2781972,
+              54.6812361
+            ],
+            [
+              16.2707694,
+              54.6767389
+            ],
+            [
+              16.2635917,
+              54.6721111
+            ],
+            [
+              16.2481417,
+              54.6644778
+            ],
+            [
+              16.2376056,
+              54.6588611
+            ],
+            [
+              16.2204472,
+              54.6491139
+            ],
+            [
+              16.2029139,
+              54.638525
+            ],
+            [
+              16.1755194,
+              54.6207528
+            ],
+            [
+              16.169025,
+              54.6163778
+            ],
+            [
+              16.1622778,
+              54.6115417
+            ],
+            [
+              16.1516194,
+              54.6032167
+            ],
+            [
+              16.1436417,
+              54.5963306
+            ],
+            [
+              16.1300389,
+              54.5835417
+            ],
+            [
+              16.1189944,
+              54.5768278
+            ],
+            [
+              16.1073083,
+              54.5689861
+            ],
+            [
+              16.0984806,
+              54.5624639
+            ],
+            [
+              16.0881139,
+              54.5540195
+            ],
+            [
+              16.0785222,
+              54.545275
+            ],
+            [
+              16.0714222,
+              54.538075
+            ],
+            [
+              16.0644917,
+              54.5303306
+            ],
+            [
+              16.0518556,
+              54.5147223
+            ],
+            [
+              16.0479333,
+              54.5112195
+            ],
+            [
+              16.019,
+              54.4912306
+            ],
+            [
+              16,
+              54.47974041390895
+            ],
+            [
+              16,
+              54
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

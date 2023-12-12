@@ -1,0 +1,835 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1428125,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Canada",
+        "local_name": "Canada",
+        "name_en": "Canada",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "name": "Canada",
+          "name:ab": "Канада",
+          "name:af": "Kanada",
+          "name:am": "ካናዳ",
+          "name:an": "Canadá",
+          "name:ar": "كندا",
+          "name:as": "কানাডা",
+          "name:av": "Канада",
+          "name:ay": "Kanada",
+          "name:az": "Kanada",
+          "name:ba": "Канада",
+          "name:be": "Канада",
+          "name:bg": "Канада",
+          "name:bi": "Kanada",
+          "name:bm": "Kanada",
+          "name:bn": "কানাডা",
+          "name:bo": "ཁ་ན་ཌ།",
+          "name:br": "Kanada",
+          "name:bs": "Kanada",
+          "name:ca": "Canadà",
+          "name:ce": "Канада",
+          "name:co": "Canadà",
+          "name:cr": "ᑳᓇᑖ",
+          "name:cs": "Kanada",
+          "name:cu": "Канада",
+          "name:cv": "Канада",
+          "name:cy": "Canada",
+          "name:da": "Canada",
+          "name:de": "Kanada",
+          "name:dv": "ކެނެޑާ",
+          "name:dz": "ཀེ་ན་ཌ་",
+          "name:ee": "Canada",
+          "name:el": "Καναδάς",
+          "name:en": "Canada",
+          "name:eo": "Kanado",
+          "name:es": "Canadá",
+          "name:et": "Kanada",
+          "name:eu": "Kanada",
+          "name:fa": "کانادا",
+          "name:fi": "Kanada",
+          "name:fo": "Kanada",
+          "name:fr": "Canada",
+          "name:fy": "Kanada",
+          "name:ga": "Ceanada",
+          "name:gd": "Canada",
+          "name:gl": "Canadá",
+          "name:gn": "Kanatã",
+          "name:gu": "કેનેડા",
+          "name:gv": "Yn Chanadey",
+          "name:ha": "Kanada",
+          "name:he": "קנדה",
+          "name:hi": "कनाडा",
+          "name:hr": "Kanada",
+          "name:ht": "Kanada",
+          "name:hu": "Kanada",
+          "name:hy": "Կանադա",
+          "name:ia": "Canada",
+          "name:id": "Kanada",
+          "name:ie": "Canada",
+          "name:ig": "Kánada",
+          "name:ik": "Kanada",
+          "name:io": "Kanada",
+          "name:is": "Kanada",
+          "name:it": "Canada",
+          "name:iu": "ᑲᓇᑕ",
+          "name:ja": "カナダ",
+          "name:jv": "Kanada",
+          "name:ka": "კანადა",
+          "name:ki": "Canada",
+          "name:kk": "Канада",
+          "name:kl": "Canada",
+          "name:km": "កាណាដា",
+          "name:kn": "ಕೆನಡಾ",
+          "name:ko": "캐나다",
+          "name:ku": "Kanada",
+          "name:kv": "Канада",
+          "name:kw": "Kanada",
+          "name:ky": "Канада",
+          "name:la": "Canada",
+          "name:lb": "Kanada",
+          "name:li": "Canada",
+          "name:ln": "Kanadá",
+          "name:lt": "Kanada",
+          "name:lv": "Kanāda",
+          "name:mg": "Kanada",
+          "name:mi": "Kānata",
+          "name:mk": "Канада",
+          "name:ml": "കാനഡ",
+          "name:mn": "Канад",
+          "name:mr": "कॅनडा",
+          "name:ms": "Kanada",
+          "name:mt": "Kanada",
+          "name:my": "ကနေဒါနိုင်ငံ",
+          "name:na": "Kanada",
+          "name:ne": "क्यानाडा",
+          "name:nl": "Canada",
+          "name:nn": "Canada",
+          "name:no": "Canada",
+          "name:nv": "Deeteel Bikéyah",
+          "name:oc": "Canadà",
+          "name:om": "Canada",
+          "name:or": "କାନାଡ଼ା",
+          "name:os": "Канадæ",
+          "name:pa": "ਕੈਨੇਡਾ",
+          "name:pl": "Kanada",
+          "name:ps": "کاناډا",
+          "name:pt": "Canadá",
+          "name:qu": "Kanada",
+          "name:rm": "Canada",
+          "name:rn": "Kanada",
+          "name:ro": "Canada",
+          "name:ru": "Канада",
+          "name:rw": "Kanada",
+          "name:sa": "केनडा",
+          "name:sc": "Canada",
+          "name:se": "Kanáda",
+          "name:sg": "Kanadäa",
+          "name:sh": "Kanada",
+          "name:sk": "Kanada",
+          "name:sl": "Kanada",
+          "name:sn": "Canada",
+          "name:so": "Kanada",
+          "name:sq": "Kanadaja",
+          "name:sr": "Канада",
+          "name:ss": "IKhanada",
+          "name:su": "Kanada",
+          "name:sv": "Kanada",
+          "name:sw": "Kanada",
+          "name:ta": "கனடா",
+          "name:te": "కెనడా",
+          "name:tg": "Канада",
+          "name:th": "ประเทศแคนาดา",
+          "name:tk": "Kanada",
+          "name:tl": "Kanada",
+          "name:tr": "Kanada",
+          "name:ts": "Canada",
+          "name:tt": "Канада",
+          "name:tw": "Kanada",
+          "name:ty": "Tanata",
+          "name:ug": "كانادا",
+          "name:uk": "Канада",
+          "name:ur": "کینیڈا",
+          "name:uz": "Kanada",
+          "name:vi": "Canada",
+          "name:vo": "Kanadän",
+          "name:wa": "Canada",
+          "name:wo": "Kanadaa",
+          "name:yi": "קאנאדע",
+          "name:yo": "Kánádà",
+          "name:zh": "加拿大",
+          "name:zu": "IKhanada",
+          "boundary": "administrative",
+          "int_name": "Canada",
+          "name:ace": "Kanada",
+          "name:als": "Kanada",
+          "name:ang": "Canada",
+          "name:arc": "ܩܢܕܐ",
+          "name:arz": "كندا",
+          "name:ast": "Canadá",
+          "name:bar": "Kanada",
+          "name:bcl": "Kanada",
+          "name:bpy": "কানাডা",
+          "name:bxr": "Канада",
+          "name:cdo": "Gă-nā-dâi",
+          "name:ceb": "Canada",
+          "name:chr": "ᎨᎾᏓ",
+          "name:chy": "Canada",
+          "name:ckb": "کەنەدا",
+          "name:crh": "Kanada",
+          "name:csb": "Kanada",
+          "name:diq": "Kanada",
+          "name:dsb": "Kanada",
+          "name:ext": "Canadá",
+          "name:frp": "Canada",
+          "name:frr": "Kanada",
+          "name:fur": "Canade",
+          "name:gag": "Kanada",
+          "name:gan": "加拿大",
+          "name:hak": "Kâ-nâ-thai",
+          "name:haw": "Kanakā",
+          "name:hif": "Canada",
+          "name:hsb": "Kanada",
+          "name:ilo": "Kánada",
+          "name:jbo": "kadnygu'e",
+          "name:kab": "Kanada",
+          "name:kbd": "Канадэ",
+          "name:krc": "Канада",
+          "name:lad": "Kanada",
+          "name:lez": "Канада",
+          "name:lij": "Canada",
+          "name:lmo": "Canada",
+          "name:ltg": "Kanada",
+          "name:lzh": "加拿大",
+          "name:mdf": "Канада",
+          "name:mhr": "Канаде",
+          "name:mrj": "Канада",
+          "name:mzn": "کانادا",
+          "name:nah": "Canada",
+          "name:nan": "Canada",
+          "name:nap": "Canadà",
+          "name:nds": "Kanada",
+          "name:new": "क्यानाडा",
+          "name:nov": "Kanada",
+          "name:nrm": "Cannada",
+          "name:pag": "Canada",
+          "name:pam": "Canada",
+          "name:pap": "Canada",
+          "name:pcd": "Canada",
+          "name:pdc": "Kanadaa",
+          "name:pih": "Kaneda",
+          "name:pms": "Canadà",
+          "name:pnb": "کینیڈا",
+          "name:rmy": "Kanada",
+          "name:rue": "Канада",
+          "name:sah": "Канаада",
+          "name:scn": "Canadà",
+          "name:sco": "Canadae",
+          "name:smn": "Kanada",
+          "name:sms": "Kanada",
+          "name:srn": "Kanadakondre",
+          "name:stq": "Kanada",
+          "name:szl": "Kanada",
+          "name:tet": "Kanadá",
+          "name:tpi": "Kanada",
+          "name:tzl": "Canadà",
+          "name:vec": "Canada",
+          "name:vep": "Kanad",
+          "name:vls": "Canada",
+          "name:vro": "Kanada",
+          "name:war": "Kanada",
+          "name:wuu": "加拿大",
+          "name:xal": "Канадин Орн",
+          "name:xmf": "კანადა",
+          "name:yue": "加拿大",
+          "name:zea": "Canada",
+          "way_area": "2290.34",
+          "wikidata": "Q16",
+          "ISO3166-1": "CA",
+          "wikipedia": "en:Canada",
+          "admin_level": "2",
+          "alt_name:vi": "Ca-na-đa",
+          "border_type": "national",
+          "name:nds-nl": "Kannede",
+          "old_name:vi": "Gia Nã Đại",
+          "capital_city": "Ottawa",
+          "name:bat-smg": "Kanada",
+          "name:iu-Latn": "kanata",
+          "name:roa-rup": "Canada",
+          "name:roa-tara": "Canada",
+          "official_name": "Canada",
+          "name:be-tarask": "Канада",
+          "name:zh_pinyin": "Jiānádà",
+          "ISO3166-1:alpha2": "CA",
+          "ISO3166-1:alpha3": "CAN",
+          "default_language": "en",
+          "official_name:en": "Canada",
+          "official_name:fr": "Canada",
+          "ISO3166-1:numeric": "124",
+          "country_code_fips": "CA"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60,
+              82.21684055455559
+            ],
+            [
+              -59.9949722,
+              82.2176111
+            ],
+            [
+              -59.8879722,
+              82.2503889
+            ],
+            [
+              -59.7748611,
+              82.2742778
+            ],
+            [
+              -59.6462222,
+              82.2953889
+            ],
+            [
+              -59.6263356,
+              82.2996308
+            ],
+            [
+              -59.6231061,
+              82.3031728
+            ],
+            [
+              -59.6204094,
+              82.3066272
+            ],
+            [
+              -59.6181611,
+              82.3100875
+            ],
+            [
+              -59.6163625,
+              82.3135525
+            ],
+            [
+              -59.615015,
+              82.3170211
+            ],
+            [
+              -59.6141194,
+              82.3204922
+            ],
+            [
+              -59.6136767,
+              82.323965
+            ],
+            [
+              -59.6136872,
+              82.3274383
+            ],
+            [
+              -59.6141522,
+              82.3309111
+            ],
+            [
+              -59.6150717,
+              82.3343822
+            ],
+            [
+              -59.6164464,
+              82.3378508
+            ],
+            [
+              -59.6182761,
+              82.3413156
+            ],
+            [
+              -59.6194242,
+              82.3431403
+            ],
+            [
+              -59.6173347,
+              82.3481217
+            ],
+            [
+              -59.6164328,
+              82.3515928
+            ],
+            [
+              -59.6159853,
+              82.3550656
+            ],
+            [
+              -59.6159933,
+              82.3585389
+            ],
+            [
+              -59.6164575,
+              82.3620117
+            ],
+            [
+              -59.6173781,
+              82.3654828
+            ],
+            [
+              -59.6187553,
+              82.3689514
+            ],
+            [
+              -59.6205897,
+              82.3724161
+            ],
+            [
+              -59.6228811,
+              82.3758761
+            ],
+            [
+              -59.6256297,
+              82.37933
+            ],
+            [
+              -59.628835,
+              82.3827772
+            ],
+            [
+              -59.6324964,
+              82.3862164
+            ],
+            [
+              -59.6366142,
+              82.3896467
+            ],
+            [
+              -59.6411869,
+              82.3930667
+            ],
+            [
+              -59.6462139,
+              82.3964756
+            ],
+            [
+              -59.6516947,
+              82.3998725
+            ],
+            [
+              -59.6576278,
+              82.4032558
+            ],
+            [
+              -59.6640119,
+              82.4066253
+            ],
+            [
+              -59.6708461,
+              82.4099789
+            ],
+            [
+              -59.6781281,
+              82.4133164
+            ],
+            [
+              -59.6940306,
+              82.4199381
+            ],
+            [
+              -59.7026467,
+              82.4232203
+            ],
+            [
+              -59.7174481,
+              82.4284622
+            ],
+            [
+              -59.7227044,
+              82.4320194
+            ],
+            [
+              -59.7282075,
+              82.4354164
+            ],
+            [
+              -59.7341653,
+              82.4388
+            ],
+            [
+              -59.7405761,
+              82.4421692
+            ],
+            [
+              -59.7474392,
+              82.4455231
+            ],
+            [
+              -59.7547525,
+              82.4488608
+            ],
+            [
+              -59.7625144,
+              82.4521808
+            ],
+            [
+              -59.7761886,
+              82.4575772
+            ],
+            [
+              -59.7834386,
+              82.4625647
+            ],
+            [
+              -59.7889614,
+              82.4659617
+            ],
+            [
+              -59.7949403,
+              82.4693456
+            ],
+            [
+              -59.8013744,
+              82.4727147
+            ],
+            [
+              -59.8082625,
+              82.4760689
+            ],
+            [
+              -59.8156025,
+              82.4794064
+            ],
+            [
+              -59.8316328,
+              82.4860286
+            ],
+            [
+              -59.8403189,
+              82.4893108
+            ],
+            [
+              -59.8590225,
+              82.4958131
+            ],
+            [
+              -59.8690356,
+              82.4990308
+            ],
+            [
+              -59.8903703,
+              82.5053947
+            ],
+            [
+              -59.9134319,
+              82.5116564
+            ],
+            [
+              -59.9256022,
+              82.5147464
+            ],
+            [
+              -59.9512064,
+              82.52084
+            ],
+            [
+              -59.9646328,
+              82.5238414
+            ],
+            [
+              -59.9975114,
+              82.5307131
+            ],
+            [
+              -60,
+              82.53137202803346
+            ],
+            [
+              -60,
+              82.21684055455559
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2184073,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Greenland",
+        "local_name": "Kalaallit Nunaat",
+        "name_en": "Greenland",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+          "name": "Kalaallit Nunaat",
+          "sqkm": "2166086",
+          "name:af": "Groenland",
+          "name:am": "ግሪንላንድ",
+          "name:an": "Gronlandia",
+          "name:ar": "غرينلاند",
+          "name:az": "Qrenlandiya",
+          "name:be": "Грэнландыя",
+          "name:bg": "Гренландия",
+          "name:bn": "গ্রিনল্যান্ড",
+          "name:bo": "གེ་རེན་ལ",
+          "name:br": "Greunland",
+          "name:bs": "Grenland",
+          "name:ca": "Groenlàndia",
+          "name:cs": "Grónsko",
+          "name:cv": "Гренланди",
+          "name:cy": "Yr Ynys Las",
+          "name:da": "Grønland",
+          "name:de": "Grönland",
+          "name:dv": "ގުރީންލޭންޑު",
+          "name:el": "Γροιλανδία",
+          "name:en": "Greenland",
+          "name:eo": "Gronlando",
+          "name:es": "Groenlandia",
+          "name:et": "Gröönimaa",
+          "name:eu": "Groenlandia",
+          "name:fa": "گرینلند",
+          "name:fi": "Grönlanti",
+          "name:fo": "Grønland",
+          "name:fr": "Groenland",
+          "name:fy": "Grienlân",
+          "name:ga": "An Ghraonlainn",
+          "name:gd": "A' Ghraonlainn",
+          "name:gl": "Grenlandia",
+          "name:gn": "Kyoẽlándia",
+          "name:gv": "Greenlynn",
+          "name:he": "גרינלנד",
+          "name:hi": "ग्रीनलैण्ड",
+          "name:hr": "Grenland",
+          "name:hu": "Grönland",
+          "name:hy": "Գրենլանդիա",
+          "name:ia": "Groenlandia",
+          "name:id": "Greenland",
+          "name:ie": "Grenland",
+          "name:io": "Grenlando",
+          "name:is": "Grænland",
+          "name:it": "Groenlandia",
+          "name:iu": "ᐊᑯᑭᑦᑐᑦ",
+          "name:ja": "グリーンランド",
+          "name:jv": "Greenland",
+          "name:ka": "გრენლანდია",
+          "name:kk": "Гренландия",
+          "name:kl": "Kalaallit Nunaat",
+          "name:kn": "ಗ್ರೀನ್‍ಲ್ಯಾಂಡ್",
+          "name:ko": "그린란드",
+          "name:ku": "Grînlenda",
+          "name:kv": "Гренландия",
+          "name:kw": "Greunland",
+          "name:la": "Groenlandia",
+          "name:lb": "Grönland",
+          "name:li": "Greunland",
+          "name:ln": "Groenlandi",
+          "name:lt": "Grenlandija",
+          "name:lv": "Grenlande",
+          "name:mg": "Groenlanda",
+          "name:mi": "Greenland",
+          "name:mk": "Гренланд",
+          "name:ml": "ഗ്രീൻലാൻഡ്",
+          "name:mn": "Гренланд",
+          "name:mr": "ग्रीनलँड",
+          "name:ms": "Greenland",
+          "name:my": "ဂရင်းလန်ကျွန်း",
+          "name:ne": "ग्रीनल्याण्ड",
+          "name:nl": "Groenland",
+          "name:nn": "Grønland",
+          "name:no": "Grønland",
+          "name:nv": "Haʼaʼaahjí Hakʼaz Dineʼé Bikéyah",
+          "name:oc": "Groenlàndia",
+          "name:or": "ଗ୍ରୀନଲାଣ୍ଡ",
+          "name:os": "Гренланди",
+          "name:pa": "ਗਰੀਨਲੈਂਡ",
+          "name:pl": "Grenlandia",
+          "name:pt": "Gronelândia",
+          "name:qu": "Kalalit Nunat",
+          "name:ro": "Groenlanda",
+          "name:ru": "Гренландия",
+          "name:rw": "Goronulande",
+          "name:se": "Kalaallit Nunaat",
+          "name:sh": "Grenland",
+          "name:sk": "Grónsko",
+          "name:sl": "Grenlandija",
+          "name:so": "Griinland",
+          "name:sq": "Groenlanda",
+          "name:sr": "Гренланд",
+          "name:su": "Lemah Héjo",
+          "name:sv": "Grönland",
+          "name:sw": "Greenland",
+          "name:ta": "கிறீன்லாந்து",
+          "name:te": "గ్రీన్‌లాండ్",
+          "name:tg": "Гренландия",
+          "name:th": "กรีนแลนด์",
+          "name:tl": "Lupanlunti",
+          "name:tr": "Grönland",
+          "name:tt": "Гренландия",
+          "name:ug": "گرېنلاندىيە",
+          "name:uk": "Ґренландія",
+          "name:ur": "گرین لینڈ",
+          "name:vi": "Greenland",
+          "name:vo": "Gröneän",
+          "name:wo": "Groenlaand",
+          "name:yi": "גרינלאנד",
+          "name:yo": "Grínlándì",
+          "name:zh": "格陵兰",
+          "boundary": "administrative",
+          "name:als": "Grönland",
+          "name:ang": "Grēneland",
+          "name:arz": "جرينلاند",
+          "name:ast": "Groenlandia",
+          "name:bar": "Grönland",
+          "name:bpy": "গ্রীনল্যান্ড",
+          "name:chr": "ᎢᏤᎢᏳᏍᏗ ᎦᏙᎯ",
+          "name:ckb": "گرینلاند",
+          "name:diq": "Gronlanda",
+          "name:dsb": "Grönlandska",
+          "name:ext": "Groenlándia",
+          "name:frp": "Grônlande",
+          "name:frr": "Greenlun",
+          "name:hif": "Greenland",
+          "name:hsb": "Grönlandska",
+          "name:ilo": "Kalaallit Nunaat",
+          "name:lij": "Gròenlandia",
+          "name:lzh": "格陵蘭",
+          "name:mhr": "Гренландий",
+          "name:nah": "Groentlālpan",
+          "name:nan": "Chheⁿ-tē",
+          "name:nds": "Gröönland",
+          "name:nov": "Verdi-lande",
+          "name:pih": "Griinland",
+          "name:pms": "Groenlandia",
+          "name:pnb": "گرینلینڈ",
+          "name:rue": "Ґронсько",
+          "name:sah": "Гренландия",
+          "name:scn": "Groenlannia",
+          "name:sco": "Greenland",
+          "name:stq": "Gräinlound",
+          "name:szl": "Grynlandyjo",
+          "name:tok": "ma Kalalinuna",
+          "name:tpi": "Greenland",
+          "name:tzl": "Päts-Virt",
+          "name:vec": "Groenlandia",
+          "name:war": "Greenland",
+          "name:wuu": "格陵兰",
+          "name:xal": "Гринлэндин Арл",
+          "name:yue": "格陵蘭",
+          "name:zea": "Hroenland",
+          "way_area": "785.731",
+          "wikidata": "Q223",
+          "ISO3166-1": "GL",
+          "wikipedia": "en:Greenland",
+          "name:pt-BR": "Groelândia",
+          "population": "57564",
+          "admin_level": "2",
+          "alt_name:ar": "جرينلاند",
+          "alt_name:ca": "Grenlàndia",
+          "alt_name:eo": "Grenlando",
+          "alt_name:fa": "گروئنلند",
+          "alt_name:gl": "Groenlandia",
+          "alt_name:pt": "Groenlândia",
+          "name:nds-nl": "Gruunlaand",
+          "name:bat-smg": "Grenlandėjė",
+          "name:be-tarask": "Грэнляндыя",
+          "ISO3166-1:alpha2": "GL",
+          "ISO3166-1:alpha3": "GRL",
+          "default_language": "kl",
+          "ISO3166-1:numeric": "304"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60,
+              82
+            ],
+            [
+              -59,
+              82
+            ],
+            [
+              -59,
+              82.33475759723079
+            ],
+            [
+              -59.0147465,
+              82.3340901
+            ],
+            [
+              -59.1312874,
+              82.328155
+            ],
+            [
+              -59.2132929,
+              82.3232906
+            ],
+            [
+              -59.2326431,
+              82.3224128
+            ],
+            [
+              -59.3058533,
+              82.3199637
+            ],
+            [
+              -59.35661,
+              82.3179409
+            ],
+            [
+              -59.4067695,
+              82.3156729
+            ],
+            [
+              -59.4854728,
+              82.311592
+            ],
+            [
+              -59.5540866,
+              82.307462
+            ],
+            [
+              -59.5826168,
+              82.3046881
+            ],
+            [
+              -59.6263356,
+              82.2996308
+            ],
+            [
+              -59.6462222,
+              82.2953889
+            ],
+            [
+              -59.7748611,
+              82.2742778
+            ],
+            [
+              -59.8879722,
+              82.2503889
+            ],
+            [
+              -59.9949722,
+              82.2176111
+            ],
+            [
+              -60,
+              82.21684055455559
+            ],
+            [
+              -60,
+              82
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

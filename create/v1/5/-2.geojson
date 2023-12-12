@@ -1,0 +1,800 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192791,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Equatorial Guinea",
+        "local_name": "Guinea Ecuatorial",
+        "name_en": "Equatorial Guinea",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+          "name": "Guinea Ecuatorial",
+          "name:af": "Ekwatoriaal-Guinee",
+          "name:ak": "Gini Ikuweta",
+          "name:am": "ኢኳቶሪያል ጊኔ",
+          "name:an": "Guinea Equatorial",
+          "name:ar": "غينيا الاستوائية",
+          "name:az": "Ekvatorial Qvineya",
+          "name:ba": "Экватор Гвинеяһы",
+          "name:be": "Экватарыяльная Гвінея",
+          "name:bg": "Екваториална Гвинея",
+          "name:bh": "भूमध्यरेखीय गिनी",
+          "name:bm": "Cɛmajan Gine",
+          "name:bn": "বিষুবীয় গিনি",
+          "name:bo": "ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།",
+          "name:br": "Ginea ar C'heheder",
+          "name:bs": "Ekvatorijalna Gvineja",
+          "name:ca": "Guinea Equatorial",
+          "name:ce": "Дуьнена асанан Гвине",
+          "name:co": "Guinea Equatoriale",
+          "name:cs": "Rovníková Guinea",
+          "name:cv": "Экваториаллă Гвиней",
+          "name:cy": "Gini Gyhydeddol",
+          "name:da": "Ækvatorialguinea",
+          "name:de": "Äquatorialguinea",
+          "name:dv": "އިކުއެޓޯރިއަލް ގިނީ",
+          "name:dz": "ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི",
+          "name:ee": "Gini Ekwatoria",
+          "name:el": "Ισημερινή Γουινέα",
+          "name:en": "Equatorial Guinea",
+          "name:eo": "Ekvatora Gvineo",
+          "name:es": "Guinea Ecuatorial",
+          "name:et": "Ekvatoriaal-Guinea",
+          "name:eu": "Ekuatore Ginea",
+          "name:fa": "گینه استوایی",
+          "name:ff": "Gine Ekwatoriyal",
+          "name:fi": "Päiväntasaajan Guinea",
+          "name:fo": "Ekvatorguinea",
+          "name:fr": "Guinée équatoriale",
+          "name:fy": "Ekwatoriaal-Guinee",
+          "name:ga": "an Ghuine Mheánchriosach",
+          "name:gd": "Gini Mheadhan-Chriosach",
+          "name:gl": "Guinea Ecuatorial",
+          "name:gn": "Ginéa Ekuatogua",
+          "name:gu": "ઇક્વેટોરિયલ ગિની",
+          "name:gv": "Guinea Chryss ny Cruinney",
+          "name:ha": "Gini Ikwatoriya",
+          "name:he": "גינאה המשוונית",
+          "name:hi": "भूमध्यरेखीय गिनी",
+          "name:hr": "Ekvatorska Gvineja",
+          "name:ht": "Gine ekwateryal",
+          "name:hu": "Egyenlítői-Guinea",
+          "name:hy": "Հասարակածային Գվինեա",
+          "name:ia": "Guinea Equatorial",
+          "name:id": "Guinea Khatulistiwa",
+          "name:ie": "Equatorial Guinéa",
+          "name:ig": "Equatorial Guinea",
+          "name:io": "Equatorala Guinea",
+          "name:is": "Miðbaugs-Gínea",
+          "name:it": "Guinea Equatoriale",
+          "name:ja": "赤道ギニア",
+          "name:jv": "Guinea Khatulistiwa",
+          "name:ka": "ეკვატორული გვინეა",
+          "name:kg": "Ginea ya Ekwatelo",
+          "name:ki": "Ginekweta",
+          "name:kk": "Экваторлық Гвинея",
+          "name:km": "ហ្គីណេអេក្វាទ័រ",
+          "name:kn": "ವಿಷುವದ್ರೇಖೆಯ ಗಿನಿ",
+          "name:ko": "적도 기니",
+          "name:ks": "اِکوِٹورِیَل گِنی",
+          "name:ku": "Gîneya Rojbendî",
+          "name:kw": "Gyni Ekwadoriel",
+          "name:la": "Guinea Aequatorensis",
+          "name:lb": "Equatorialguinea",
+          "name:lg": "Equatorial Guinea",
+          "name:li": "Equatoriaal Guinee",
+          "name:ln": "Gine-Ekwatorial",
+          "name:lo": "ອີຄົວໂທເລຍກີເນຍ",
+          "name:lt": "Pusiaujo Gvinėja",
+          "name:lv": "Ekvatoriālā Gvineja",
+          "name:mg": "Ginea Ekoatorialy",
+          "name:mi": "Kini Ekuatoria",
+          "name:mk": "Екваторска Гвинеја",
+          "name:ml": "ഇക്വറ്റോറിയൽ ഗിനി",
+          "name:mr": "इक्वेटोरीयल गिनी",
+          "name:ms": "Guinea Khatulistiwa",
+          "name:mt": "Gwinea Ekwatorjali",
+          "name:my": "အီကွေတာဂီနီနိုင်ငံ",
+          "name:na": "Gini t Ekwador",
+          "name:nb": "Ekvatorial-Guinea",
+          "name:ne": "इक्वेटोरियल गिनी",
+          "name:nl": "Equatoriaal Guinee",
+          "name:nn": "Ekvatorial-Guinea",
+          "name:no": "Ekvatorial-Guinea",
+          "name:nv": "Gíní Nahasdzáán Ałníiʼgi Siʼánígíí",
+          "name:oc": "Guinèa Eqüatoriala",
+          "name:om": "Iqu’aatoriyaal Giinii",
+          "name:or": "ବିଷୁବରେଖୀୟ ଗିନି",
+          "name:os": "Экваториалон Гвиней",
+          "name:pa": "ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ",
+          "name:pl": "Gwinea Równikowa",
+          "name:ps": "اېکواټوريال ګوينا",
+          "name:pt": "Guiné Equatorial",
+          "name:qu": "Chawpipacha Khiniya",
+          "name:rm": "Guinea Equatoriala",
+          "name:ro": "Guineea Ecuatorială",
+          "name:ru": "Экваториальная Гвинея",
+          "name:rw": "Gineya Ekwatoriyale",
+          "name:sc": "Guinea Ecuadoriale",
+          "name:se": "Ekvatoriála Guinea",
+          "name:sg": "Ginëe tî Ekuatëre",
+          "name:sh": "Ekvatorijalna Gvineja",
+          "name:si": "සමක ගිනියාව",
+          "name:sk": "Rovníková Guinea",
+          "name:sl": "Ekvatorialna Gvineja",
+          "name:sm": "Kini Ekuatoria",
+          "name:sn": "Equatorial Guinea",
+          "name:so": "Ikweetiga Guinea",
+          "name:sq": "Guinea Ekuatoriale",
+          "name:sr": "Екваторијална Гвинеја",
+          "name:st": "Equatorial Guinea",
+          "name:su": "Guinéa Khatulistiwa",
+          "name:sv": "Ekvatorialguinea",
+          "name:sw": "Guinea ya Ikweta",
+          "name:ta": "எக்குவடோரியல் கினி",
+          "name:te": "ఎక్వేటోరియాల్ గినియా",
+          "name:tg": "Гвинеяи Истивоӣ",
+          "name:th": "อิเควทอเรียลกินี",
+          "name:ti": "ኢኳቶሪያል ጊኒ",
+          "name:tk": "Ekwatorial Gwineýa",
+          "name:tl": "Gineang Ekwatoriyal",
+          "name:to": "ʻEkueta Kini",
+          "name:tr": "Ekvator Ginesi",
+          "name:ts": "Gineya ya le Nkaveni",
+          "name:tt": "Экваториа́ль Гвине́я",
+          "name:ug": "ئېكۋاتور گۋىنېيىسى",
+          "name:uk": "Екваторіа́льна Ґвіне́я",
+          "name:ur": "استوائی گنی",
+          "name:uz": "Ekvatorli Gvineya",
+          "name:vi": "Guinea Xích Đạo",
+          "name:vo": "Kveatora-Gineyän",
+          "name:wo": "Gineg yamoo",
+          "name:yi": "עקוואטארישע גינע",
+          "name:yo": "Guinea Alágedeméjì",
+          "name:zh": "赤道几内亚 / 赤道幾內亞",
+          "name:zu": "iGini Enkabazwe",
+          "boundary": "administrative",
+          "name:als": "Equatorialginea",
+          "name:arz": "جينيا الاستوائيه",
+          "name:ast": "Guinea Ecuatorial",
+          "name:bar": "Equatorialguinea",
+          "name:bcl": "Guineyang Ekwatoryal",
+          "name:bjn": "Guinea Katulistiwa",
+          "name:bpy": "একুয়াটরিয়াল গায়ানা",
+          "name:bxr": "Экваторын Гвиней",
+          "name:cdo": "Chiáh-dô̤ Guinea",
+          "name:ceb": "Gineang Ekwatoryal",
+          "name:ckb": "گینێی ئیستوایی",
+          "name:crh": "Ekvatorial Gvineya",
+          "name:diq": "Gineya Ekwatori",
+          "name:dsb": "Ekwatorialna Guineja",
+          "name:dty": "इक्वेटोरियल गिनिया",
+          "name:ext": "Guinea Equatorial",
+          "name:frp": "Guinê èquatoriâla",
+          "name:frr": "Ekwatoriaal-Guinea",
+          "name:gag": "Ekvatorial Gvineya",
+          "name:hak": "Chhak-tho Guinea",
+          "name:hif": "Equatorial Guinea",
+          "name:hsb": "Ekwatorialna Gineja",
+          "name:ilo": "Guinea Ekuatorial",
+          "name:jam": "Ekuatuorial Gini",
+          "name:jbo": "guineas. zei brazbani",
+          "name:kaa": "Ekvatorial Gvineya",
+          "name:kab": "Ginya Tasebgast",
+          "name:kbp": "Kinee-Ekwatoriyaaalɩ",
+          "name:ksh": "Äquatorial Jineeja",
+          "name:lad": "Ginea Ekvatoriala",
+          "name:lez": "Экваториал Гвинея",
+          "name:lij": "Guinea Equatoriâ",
+          "name:lmo": "Guinea Equaturiala",
+          "name:lrc": "گینە ئوستوڤایی",
+          "name:lzh": "赤道幾內亞",
+          "name:min": "Guinea Khatulistiwa",
+          "name:mrj": "Экваториаль Гвиней",
+          "name:mzn": "استوایی گینه",
+          "name:nah": "Guinea Tlahcotlālticpac",
+          "name:nan": "Chhiah-tō Guinea",
+          "name:nds": "Äquatoriaal-Guinea",
+          "name:new": "इक्वेटोरियल गिनी",
+          "name:nov": "Equatoral Gini",
+          "name:nso": "Equatorial Guinea",
+          "name:olo": "Ekvuatourielline Gvinei",
+          "name:pam": "Equatorial Guinea",
+          "name:pih": "Ekwatoryal Gini",
+          "name:pms": "Guinea Equatorial",
+          "name:pnb": "استوائی گنی",
+          "name:sah": "Экуатор Гуинеята",
+          "name:scn": "Guinia Ecuaturiali",
+          "name:sco": "Equatorial Guinea",
+          "name:smn": "Peeivitäsideijee Guinea",
+          "name:sms": "Peiʹvvtaʹssjeei Guinea",
+          "name:stq": "Äquatorioal Guinea",
+          "name:szl": "Růwńikowo Gwinyjo",
+          "name:tok": "ma Kinejekatolija",
+          "name:vec": "Guinea Equatorial",
+          "name:vep": "Ekvatorialine Gvinei",
+          "name:vls": "Equatorioal-Guinea",
+          "name:vro": "Ekvatoriaal-Ginea",
+          "name:war": "Guinea Ecuatorial",
+          "name:wuu": "赤道幾內亞",
+          "name:xal": "Экватор Гвинемудин Орн",
+          "name:xmf": "ეკვატორული გვინეა",
+          "name:yue": "赤道畿內亞",
+          "name:zea": "Equatoriaol Hunea",
+          "timezone": "Africa/Malabo",
+          "way_area": "3.23097",
+          "wikidata": "Q983",
+          "ISO3166-1": "GQ",
+          "wikipedia": "es:Guinea Ecuatorial",
+          "admin_level": "2",
+          "alt_name:fr": "Guinée-Équatoriale",
+          "alt_name:ga": "an Ghuine Mheánchiorclach",
+          "alt_name:gd": "Guinea a’ Chrios Mheadhain;Gini Mheadhan-chearcallach",
+          "alt_name:ha": "Ginen Ekweita",
+          "alt_name:hr": "Ekvatorijalna Gvineja",
+          "alt_name:se": "Ekvatoriála Guinea",
+          "alt_name:su": "Guinéa Ékuator",
+          "name:bat-smg": "Ekvatuorė Gvinėjė",
+          "name:zh-Hans": "赤道几内亚",
+          "name:zh-Hant": "赤道幾內亞",
+          "official_name": "República de Guinea Ecuatorial",
+          "name:be-tarask": "Экватарыя́льная Гвінэ́я",
+          "name:zh_pinyin": "Chìdào Jīnèiyà",
+          "ISO3166-1:alpha2": "GQ",
+          "ISO3166-1:alpha3": "GNQ",
+          "official_name:af": "Republiek Ekwatoriaal-Guinee",
+          "official_name:am": "የኢኳቶሪያል ጊኔ ሪፐብሊከ",
+          "official_name:an": "República de Guinea Ecuatorial",
+          "official_name:ar": "جمهورية غينيا الاستوائية",
+          "official_name:az": "Ekvatorial Qvineya Respublikası",
+          "official_name:ba": "Экватор Гвинеяһы Республикаһы",
+          "official_name:be": "Рэспубліка Экватарыяльная Гвінея",
+          "official_name:bh": "Република Екваториална Гвинея",
+          "official_name:bm": "Cɛmajan Gine ka fasojamana",
+          "official_name:bn": "বিষুবীয় গিনির প্রজাতন্ত্র",
+          "official_name:br": "Republik Ginea ar C'heheder",
+          "official_name:bs": "Republika Ekvatorijalna Gvineja",
+          "official_name:ca": "República Guinea Equatorial",
+          "official_name:cs": "Republika Rovníková Guinea",
+          "official_name:cy": "Gweriniaeth Gini Gyhydeddol",
+          "official_name:da": "Republikken Ækvatorialguinea",
+          "official_name:de": "Republik Äquatorialguinea",
+          "official_name:el": "Δημοκρατία της Ισημερινής Γουινέας",
+          "official_name:en": "Republic of Equatorial Guinea",
+          "official_name:eo": "Ekvatorgvinea Respubliko",
+          "official_name:es": "República de Guinea Ecuatorial",
+          "official_name:et": "Ekvatoriaal-Guinea Vabariik",
+          "official_name:eu": "Ekuatore Gineako Errepublika",
+          "official_name:fa": "جمهوری گینه استوایی",
+          "official_name:fi": "Päiväntasaajan Guinean tasavalta",
+          "official_name:fo": "Lýðveldið Ekvatorguinea",
+          "official_name:fr": "République de Guinée équatoriale",
+          "official_name:fy": "Republyk Ekwatoriaal-Guinee",
+          "official_name:gl": "República da Guinea Ecuatorial",
+          "official_name:gn": "Tavakuairetã Ginéa Ekuatogua",
+          "official_name:gv": "Pobblaght Ghuinea Chryss ny Cruinney",
+          "official_name:ha": "Jamhuriyar Gini Ikwatoriya",
+          "official_name:he": "רפובליקת גינאה המשוונית",
+          "official_name:hi": "भूमध्यरेखीय गिनी गणराज्य",
+          "official_name:hr": "Republika Ekvatorska Gvineja",
+          "official_name:hu": "Egyenlítői-Guinea-i Köztársaság",
+          "official_name:ia": "Republica de Guinea Equatorial",
+          "official_name:id": "Republik Guinea Khatulistiwa",
+          "official_name:io": "Republiko Equatorala Guinea",
+          "official_name:it": "Repubblica della Guinea Equatoriale",
+          "official_name:ja": "赤道ギニア共和国",
+          "official_name:ka": "ეკვატორული გვინეის რესპუბლიკა",
+          "official_name:kg": "Repubilika ya Ginea ya Ekwatelo",
+          "official_name:kk": "Экваторлық Гвинея Республика",
+          "official_name:kn": "ವಿಷುವದ್ರೇಖೆಯ ಗಿನಿ ಗಣರಾಜ್ಯ",
+          "official_name:ko": "적도 기니 공화국",
+          "official_name:kw": "Repoblek Gyni Ekwadoriel",
+          "official_name:la": "res publica Guineae Aequinoctialis",
+          "official_name:lb": "Republik Equatorialguinea",
+          "official_name:li": "Rippubliek Equatoriaol Guinee",
+          "official_name:ln": "Republíki ya Gine-Ekwatorial",
+          "official_name:lt": "Pusiaujo Gvinėjos Respublika",
+          "official_name:lv": "Ekvatoriālās Gvinejas Republika",
+          "official_name:mi": "Whenua Tū Wehe o Kini Ekuatoria",
+          "official_name:mk": "Република Екваторска Гвинеја",
+          "official_name:ml": "റിപ്പബ്ലിക്ക് ഓഫ് ഇക്വറ്റോറിയൽ ഗിനി",
+          "official_name:mr": "इक्वेटोरीयल गिनीचे प्रजासत्ताक",
+          "official_name:ms": "Republik Guinea Khatulistiwa",
+          "official_name:my": "အီကွေတာဂီနီသမ္မတနိုင်ငံ",
+          "official_name:ne": "गणतन्त्र इक्वेटोरियल गिनी",
+          "official_name:nl": "Republiek Equatoriaal-Guinea",
+          "official_name:nn": "Republikken Ekvatorial-Guinea",
+          "official_name:no": "Republikken Ekvatorial-Guinea",
+          "official_name:oc": "Republica de Guinèa Eqüatoriala",
+          "official_name:om": "Riippabiliika Iqu’aatoriyaal Giinii",
+          "official_name:os": "Республикæ Экваториалон Гвиней",
+          "official_name:pa": "ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ ਦਾ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Gwinei Równikowej",
+          "official_name:pt": "República da Guiné Equatorial",
+          "official_name:qu": "Chawpipacha Khiniya Ripuwlika",
+          "official_name:ro": "Republica Guineea Ecuatorială",
+          "official_name:ru": "Республика Экваториальная Гвинея",
+          "official_name:sg": "Ködörösêse tî Ginëe tî Ekuatëre",
+          "official_name:sh": "Republika Ekvatorijalna Gvineja",
+          "official_name:sk": "Republika Rovníkovej Guiney",
+          "official_name:sl": "Republika Ekvatorialna Gvineja",
+          "official_name:so": "Jamhuuriyadda Ikweetiga Guinea",
+          "official_name:sq": "Republika e Guinesë Ekuatoriale",
+          "official_name:sr": "Република Екваторијална Гвинеја",
+          "official_name:su": "Républik Guinéa Khatulistiwa",
+          "official_name:sv": "Republiken Ekvatorialguinea",
+          "official_name:sw": "Jamhuri ya Guinea ya Ikweta",
+          "official_name:ta": "எக்குவடோரியல் கினி குடியரசு",
+          "official_name:th": "สาธารณรัฐอิเควทอเรียลกินี",
+          "official_name:tk": "Ekwatorial Gwineýa Respublikasy",
+          "official_name:tr": "Ekvator Ginesi Cumhuriyeti",
+          "official_name:tt": "Экваториа́ль Гвине́я Җөмһүрияте́",
+          "official_name:ug": "ئېكۋاتور گۋىنېيىسى جۇمھۇرىيىتى",
+          "official_name:uk": "Респу́бліка Екваторіа́льна Ґвіне́я",
+          "official_name:ur": "جمہوریہ استوائی گنی",
+          "official_name:uz": "Ekvator Gvineyasi Respublikasi",
+          "official_name:vi": "Cộng hòa Guinea Xích Đạo",
+          "official_name:wo": "Réewum Gineg yamoo",
+          "official_name:yi": "רעפובליק פון עקוואַטארישער גינע",
+          "official_name:yo": "Orile-ede Olominira ile Guinea Agedemejiaye",
+          "official_name:zh": "赤道几内亚共和国 / 赤道幾內亞共和國",
+          "official_name:zu": "IRiphabliki weGini Enkabazwe",
+          "ISO3166-1:numeric": "226",
+          "official_name:als": "Republik Equatorialginea",
+          "official_name:arz": "جمهورية غينيا الاستوائيه",
+          "official_name:ast": "República de Guinea Ecuatorial",
+          "official_name:bar": "Republik Equatorialguinea",
+          "official_name:bjn": "Republik Guinea Katulistiwa",
+          "official_name:bpy": "প্রজাতন্ত্রি একুয়াটরিয়াল গায়ানা",
+          "official_name:ckb": "کۆماری گینێی ئیستوایی",
+          "official_name:diq": "Cumhuriyetê Gineya Ekwatori",
+          "official_name:dsb": "Republika Ekwatorialna Guineja",
+          "official_name:frr": "Republiik Ekwatoriaal-Guinea",
+          "official_name:hif": "Republic of Equatorial Guinea",
+          "official_name:hsb": "Republika Ekwatorialna Gineja",
+          "official_name:ilo": "Republika iti Guinea Ekuatorial",
+          "official_name:jam": "Ripoblik a Ekuatuorial Gini",
+          "official_name:lad": "Repuvlika Ginea Ekvatoriala",
+          "official_name:lez": "Республика Экваториал Гвинея",
+          "official_name:lrc": "کوٙمأرە ڤولات گینە ئوستوڤایی",
+          "official_name:min": "Republik Guinea Khatulistiwa",
+          "official_name:mrj": "Экваториаль Гвиней Республика",
+          "official_name:nah": "Tlācatlahtohcāyōtl Guinea Tlahcotlālticpac",
+          "official_name:nan": "Chhiah-tō Guinea Kiōng-hô-kok",
+          "official_name:nso": "Repabliki ya Equatorial Guinea",
+          "official_name:olo": "Ekvuatouriellizen Gvinein Tazavaldu",
+          "official_name:pam": "Republic of Equatorial Guinea",
+          "official_name:sah": "Экуатор Гуинеятын Республиката",
+          "official_name:sco": "Republic o Equatorial Guinea",
+          "official_name:szl": "Republika Růwńikowyj Gwinyji",
+          "official_name:vep": "Ekvatorialižen Gvinejan Tazovaldkund",
+          "official_name:vro": "Ekvatoriaal-Ginea Vabariik",
+          "official_name:xmf": "ეკვატორული გვინეაშ რესპუბლიკა",
+          "official_name:zh-Hans": "赤道几内亚共和国",
+          "official_name:zh-Hant": "赤道幾內亞共和國",
+          "official_name:be-tarask": "Рэспу́бліка Экватарыя́льная Гвінэ́я"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4172943,
+              -1.416
+            ],
+            [
+              5.4174441,
+              -1.422
+            ],
+            [
+              5.4180954,
+              -1.432
+            ],
+            [
+              5.4195464,
+              -1.444
+            ],
+            [
+              5.4217433,
+              -1.456
+            ],
+            [
+              5.4225814,
+              -1.468
+            ],
+            [
+              5.4236883,
+              -1.478
+            ],
+            [
+              5.4261607,
+              -1.494
+            ],
+            [
+              5.4272588,
+              -1.5
+            ],
+            [
+              5.429515,
+              -1.51
+            ],
+            [
+              5.4317143,
+              -1.518
+            ],
+            [
+              5.4349765,
+              -1.528
+            ],
+            [
+              5.4380156,
+              -1.536
+            ],
+            [
+              5.4423826,
+              -1.546
+            ],
+            [
+              5.4468887,
+              -1.555
+            ],
+            [
+              5.4519848,
+              -1.564
+            ],
+            [
+              5.4577253,
+              -1.573
+            ],
+            [
+              5.4634249,
+              -1.581
+            ],
+            [
+              5.469751,
+              -1.589
+            ],
+            [
+              5.4767848,
+              -1.597
+            ],
+            [
+              5.4805993,
+              -1.601
+            ],
+            [
+              5.4889078,
+              -1.609
+            ],
+            [
+              5.4970381,
+              -1.616
+            ],
+            [
+              5.5061455,
+              -1.623
+            ],
+            [
+              5.5157525,
+              -1.6312621
+            ],
+            [
+              5.5422447,
+              -1.6466244
+            ],
+            [
+              5.5697853,
+              -1.6598139
+            ],
+            [
+              5.6013621,
+              -1.6691743
+            ],
+            [
+              5.6340486,
+              -1.6732196
+            ],
+            [
+              5.6673085,
+              -1.6717958
+            ],
+            [
+              5.6835781,
+              -1.6690746
+            ],
+            [
+              5.6995676,
+              -1.6650206
+            ],
+            [
+              5.7151677,
+              -1.6596613
+            ],
+            [
+              5.7302721,
+              -1.6530334
+            ],
+            [
+              5.7447777,
+              -1.6451821
+            ],
+            [
+              5.7585856,
+              -1.636161
+            ],
+            [
+              5.7716014,
+              -1.6260316
+            ],
+            [
+              5.7887849,
+              -1.60965
+            ],
+            [
+              5.8020065,
+              -1.5939469
+            ],
+            [
+              5.815531,
+              -1.5735695
+            ],
+            [
+              5.8201848,
+              -1.567748
+            ],
+            [
+              5.8392792,
+              -1.5289465
+            ],
+            [
+              5.84303,
+              -1.512
+            ],
+            [
+              5.8470858,
+              -1.5
+            ],
+            [
+              5.8498353,
+              -1.49
+            ],
+            [
+              5.8520377,
+              -1.48
+            ],
+            [
+              5.8537111,
+              -1.47
+            ],
+            [
+              5.854467,
+              -1.464
+            ],
+            [
+              5.8553202,
+              -1.454
+            ],
+            [
+              5.8560454,
+              -1.4305041
+            ],
+            [
+              5.8576424,
+              -1.4075566
+            ],
+            [
+              5.8565883,
+              -1.3845778
+            ],
+            [
+              5.8541623,
+              -1.3680156
+            ],
+            [
+              5.8500323,
+              -1.3505566
+            ],
+            [
+              5.8465171,
+              -1.3394452
+            ],
+            [
+              5.8375732,
+              -1.3179314
+            ],
+            [
+              5.8261835,
+              -1.2976057
+            ],
+            [
+              5.8125029,
+              -1.2787449
+            ],
+            [
+              5.8005756,
+              -1.2654341
+            ],
+            [
+              5.7875131,
+              -1.2532493
+            ],
+            [
+              5.7734136,
+              -1.2422803
+            ],
+            [
+              5.7583902,
+              -1.2326151
+            ],
+            [
+              5.736026,
+              -1.2214349
+            ],
+            [
+              5.7155753,
+              -1.213893
+            ],
+            [
+              5.6944243,
+              -1.2086244
+            ],
+            [
+              5.6722086,
+              -1.206
+            ],
+            [
+              5.6606524,
+              -1.204
+            ],
+            [
+              5.6524582,
+              -1.203
+            ],
+            [
+              5.6348489,
+              -1.202
+            ],
+            [
+              5.6286923,
+              -1.202
+            ],
+            [
+              5.6110831,
+              -1.203
+            ],
+            [
+              5.6028889,
+              -1.204
+            ],
+            [
+              5.5913327,
+              -1.206
+            ],
+            [
+              5.5825235,
+              -1.208
+            ],
+            [
+              5.5718323,
+              -1.211
+            ],
+            [
+              5.5629233,
+              -1.214
+            ],
+            [
+              5.5527779,
+              -1.218
+            ],
+            [
+              5.5460806,
+              -1.221
+            ],
+            [
+              5.5300084,
+              -1.229
+            ],
+            [
+              5.5227727,
+              -1.233
+            ],
+            [
+              5.5177707,
+              -1.236
+            ],
+            [
+              5.5099463,
+              -1.241
+            ],
+            [
+              5.5025712,
+              -1.246
+            ],
+            [
+              5.4945637,
+              -1.252
+            ],
+            [
+              5.485049,
+              -1.26
+            ],
+            [
+              5.4776206,
+              -1.267
+            ],
+            [
+              5.4699876,
+              -1.275
+            ],
+            [
+              5.4631396,
+              -1.283
+            ],
+            [
+              5.4569768,
+              -1.291
+            ],
+            [
+              5.4514233,
+              -1.299
+            ],
+            [
+              5.4464203,
+              -1.307
+            ],
+            [
+              5.4413918,
+              -1.316
+            ],
+            [
+              5.4374142,
+              -1.324
+            ],
+            [
+              5.4330467,
+              -1.334
+            ],
+            [
+              5.4293078,
+              -1.344
+            ],
+            [
+              5.4261607,
+              -1.354
+            ],
+            [
+              5.4235429,
+              -1.364
+            ],
+            [
+              5.42093,
+              -1.376
+            ],
+            [
+              5.419549,
+              -1.384
+            ],
+            [
+              5.418288,
+              -1.394
+            ],
+            [
+              5.417535,
+              -1.404
+            ],
+            [
+              5.4172943,
+              -1.416
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

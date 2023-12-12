@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -550727,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Grenada",
+        "local_name": "Grenada",
+        "name_en": "Grenada",
+        "all_tags": {
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+          "name": "Grenada",
+          "name:ar": "غرينادا",
+          "name:br": "Grenada",
+          "name:cs": "Grenada",
+          "name:da": "Grenada",
+          "name:de": "Grenada",
+          "name:en": "Grenada",
+          "name:eo": "Grenado",
+          "name:es": "Granada",
+          "name:fr": "Grenade",
+          "name:fy": "Grenada",
+          "name:gn": "Gyranáta",
+          "name:he": "גרנדה",
+          "name:hr": "Grenada",
+          "name:hu": "Grenada",
+          "name:it": "Grenada",
+          "name:ja": "グレナダ",
+          "name:ko": "그레나다",
+          "name:nb": "Grenada",
+          "name:nl": "Grenada",
+          "name:pl": "Grenada",
+          "name:pt": "Granada",
+          "name:ru": "Гренада",
+          "name:se": "Grenada",
+          "name:sl": "Grenada",
+          "name:sq": "Grenada",
+          "name:sr": "Гренада",
+          "name:sv": "Grenada",
+          "name:ta": "கிரெனடா",
+          "name:tr": "Grenada",
+          "name:uk": "Гренада",
+          "name:vo": "Grenadeän",
+          "name:zh": "格林纳达",
+          "boundary": "administrative",
+          "name:hak": "Grenada",
+          "name:jbo": "grenadas",
+          "name:nan": "Grenada",
+          "name:smn": "Grenada",
+          "name:sms": "Grenada",
+          "name:szl": "Grynada",
+          "name:tzl": "Grenada",
+          "timezone": "America/Grenada",
+          "way_area": "0.415294",
+          "wikidata": "Q769",
+          "ISO3166-1": "GD",
+          "wikipedia": "en:Grenada",
+          "admin_level": "2",
+          "driving_side": "left",
+          "name:zh-Hans": "格林纳达",
+          "name:zh-Hant": "格瑞那達",
+          "ISO3166-1:alpha2": "GD",
+          "ISO3166-1:alpha3": "GRD",
+          "default_language": "en",
+          "official_name:cs": "Grenadský stát",
+          "ISO3166-1:numeric": "308"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.007242851122534,
+              12
+            ],
+            [
+              -62.0071422,
+              11.9947371
+            ],
+            [
+              -62.00665,
+              11.9859798
+            ],
+            [
+              -62.0051856,
+              11.9729043
+            ],
+            [
+              -62.0041469,
+              11.966443
+            ],
+            [
+              -62.002856,
+              11.9599511
+            ],
+            [
+              -62,
+              11.948494907340887
+            ],
+            [
+              -62,
+              12
+            ],
+            [
+              -62.007242851122534,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -272644,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Venezuela",
+        "local_name": "Venezuela",
+        "name_en": "Venezuela",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+          "name": "Venezuela",
+          "name:af": "Venezuela",
+          "name:am": "ቬኔዝዌላ",
+          "name:an": "Venezuela",
+          "name:ar": "فنزويلا",
+          "name:av": "Венесуэла",
+          "name:ay": "Winïxwila",
+          "name:az": "Venesuela",
+          "name:ba": "Венесуэла",
+          "name:be": "Венесуэла",
+          "name:bg": "Венецуела",
+          "name:bi": "Venezuela",
+          "name:bm": "Venezuela",
+          "name:bn": "ভেনেজুয়েলা",
+          "name:bo": "ཝེ་ནེ་ཟུའེ་ལ།",
+          "name:br": "Venezuela",
+          "name:bs": "Venecuela",
+          "name:ca": "Veneçuela",
+          "name:ce": "Венесуэла",
+          "name:co": "Venezuela",
+          "name:cs": "Venezuela",
+          "name:cv": "Венесуэла",
+          "name:cy": "Venezuela",
+          "name:da": "Venezuela",
+          "name:de": "Venezuela",
+          "name:dv": "ވެނެޒުއޭލާ",
+          "name:ee": "Venezuela",
+          "name:el": "Βενεζουέλα",
+          "name:en": "Venezuela",
+          "name:eo": "Venezuelo",
+          "name:es": "Venezuela",
+          "name:et": "Venezuela",
+          "name:eu": "Venezuela",
+          "name:fa": "ونزوئلا",
+          "name:fi": "Venezuela",
+          "name:fo": "Venesuela",
+          "name:fr": "Venezuela",
+          "name:fy": "Fenezuëla",
+          "name:ga": "Veiniséala",
+          "name:gd": "A' Bheiniseala",
+          "name:gl": "Venezuela",
+          "name:gn": "Venesuéla",
+          "name:gu": "વેનેઝુએલા",
+          "name:gv": "Yn Veneswaaley",
+          "name:he": "ונצואלה",
+          "name:hi": "वेनेज़ुएला",
+          "name:hr": "Venezuela",
+          "name:ht": "Venezwela",
+          "name:hu": "Venezuela",
+          "name:hy": "Վենեսուելա",
+          "name:ia": "Venezuela",
+          "name:id": "Venezuela",
+          "name:ie": "Venezuela",
+          "name:io": "Venezuela",
+          "name:is": "Venesúela",
+          "name:it": "Venezuela",
+          "name:ja": "ベネズエラ",
+          "name:jv": "Venezuela",
+          "name:ka": "ვენესუელა",
+          "name:kk": "Венесуэла",
+          "name:kn": "ವೆನೆಜುವೆಲಾ",
+          "name:ko": "베네수엘라",
+          "name:ku": "Venezuela",
+          "name:kw": "Veneswela",
+          "name:la": "Venetiola",
+          "name:lb": "Venezuela",
+          "name:li": "Venezuela",
+          "name:ln": "Venezwela",
+          "name:lt": "Venesuela",
+          "name:lv": "Venecuēla",
+          "name:mg": "Venezoela",
+          "name:mi": "Wenehūera",
+          "name:mk": "Венецуела",
+          "name:ml": "വെനിസ്വേല",
+          "name:mn": "Венесуэл",
+          "name:mr": "व्हेनेझुएला",
+          "name:ms": "Venezuela",
+          "name:mt": "Veneżwela",
+          "name:my": "ဗင်နီဇွဲလားနိုင်ငံ",
+          "name:ne": "भेनेजुएला",
+          "name:nl": "Venezuela",
+          "name:nn": "Venezuela",
+          "name:no": "Venezuela",
+          "name:nv": "Táłkááʼ Bighan Dineʼé Bikéyah",
+          "name:oc": "Veneçuèla",
+          "name:or": "ଭେନେଜୁଏଲା",
+          "name:os": "Венесуэлæ",
+          "name:pa": "ਵੈਨੇਜ਼ੁਏਲਾ",
+          "name:pl": "Wenezuela",
+          "name:pt": "Venezuela",
+          "name:qu": "Winisuyla",
+          "name:rm": "Venezuela",
+          "name:rn": "Venezuela",
+          "name:ro": "Venezuela",
+          "name:ru": "Венесуэла",
+          "name:rw": "Venezuwela",
+          "name:sa": "वेनेज्वेला",
+          "name:se": "Venezuela",
+          "name:sh": "Venezuela",
+          "name:sk": "Venezuela",
+          "name:sl": "Venezuela",
+          "name:sm": "Venesuela",
+          "name:so": "Fanansuwela",
+          "name:sq": "Venezuela",
+          "name:sr": "Венецуела",
+          "name:su": "Vénézuéla",
+          "name:sv": "Venezuela",
+          "name:sw": "Venezuela",
+          "name:ta": "வெனிசுவேலா",
+          "name:tg": "Венесуэла",
+          "name:th": "ประเทศเวเนซุเอลา",
+          "name:tk": "Wenesuela",
+          "name:tl": "Venezuela",
+          "name:tr": "Venezuela",
+          "name:tt": "Венесуэла",
+          "name:ug": "ۋېنېسۇئېلا",
+          "name:uk": "Венесуела",
+          "name:ur": "وینیزویلا",
+          "name:uz": "Venesuela",
+          "name:ve": "Venezuela",
+          "name:vi": "Venezuela",
+          "name:vo": "Venesolän",
+          "name:wa": "Venezwela",
+          "name:wo": "Benesuwela",
+          "name:yi": "ווענעזועלע",
+          "name:yo": "Fenesuela",
+          "name:zh": "委內瑞拉",
+          "name:zu": "Venezuela",
+          "boundary": "administrative",
+          "name:ace": "Vènèzuèla",
+          "name:als": "Venezuela",
+          "name:ang": "Feneswela",
+          "name:arc": "ܒܢܙܘܝܠܐ",
+          "name:arz": "فنيزويلا",
+          "name:ast": "Venezuela",
+          "name:bar": "Venezuela",
+          "name:bcl": "Benesuela",
+          "name:bpy": "ভেনেজুয়েলা",
+          "name:ceb": "Venezuela",
+          "name:chr": "ᏪᏁᏑᏪᎳ",
+          "name:ckb": "ڤێنیزوێلا",
+          "name:crh": "Venesuela",
+          "name:diq": "Venezuela",
+          "name:dsb": "Venezuela",
+          "name:eml": "Venesüela",
+          "name:ext": "Veneçuela",
+          "name:frp": "Venezuèla",
+          "name:frr": "Venezuela",
+          "name:fur": "Venezuela",
+          "name:gag": "Venesuela",
+          "name:gcf": "Bénézwèl",
+          "name:guc": "Wenesueela",
+          "name:hif": "Venezuela",
+          "name:hsb": "Venezuela",
+          "name:ilo": "Venezuela",
+          "name:jbo": "benesuel",
+          "name:kbd": "Венесуэлэ",
+          "name:krc": "Венесуэла",
+          "name:lad": "Venezuela",
+          "name:lez": "Венесуэла",
+          "name:lij": "Venezuela",
+          "name:lmo": "Venezuela",
+          "name:ltg": "Venecuela",
+          "name:lzh": "委內瑞拉",
+          "name:mdf": "Венезуела",
+          "name:mhr": "Венесуэле",
+          "name:min": "Venezuela",
+          "name:mrj": "Венесуэла",
+          "name:mzn": "ونزوئلا",
+          "name:nah": "Venezuela",
+          "name:nan": "Venezuela",
+          "name:nap": "Venezuela",
+          "name:nds": "Venezuela",
+          "name:nov": "Venezuela",
+          "name:nrm": "Vénézuéla",
+          "name:pag": "Venezuela",
+          "name:pam": "Beneswela",
+          "name:pap": "Venezuela",
+          "name:pms": "Venessuela",
+          "name:pnb": "وینزویلا",
+          "name:rmy": "Venezuela",
+          "name:rue": "Венеcуела",
+          "name:sah": "Венесуэла",
+          "name:scn": "Venezzuela",
+          "name:sco": "Venezuela",
+          "name:smn": "Venezuela",
+          "name:sms": "Venezuela",
+          "name:srn": "Venswelikondre",
+          "name:szl": "Wynezuela",
+          "name:tet": "Venezuela",
+          "name:tzl": "Veneþuela",
+          "name:udm": "Венесуэла",
+          "name:vec": "Venesueła",
+          "name:vep": "Venesuel",
+          "name:vro": "Venezuela",
+          "name:war": "Venezuela",
+          "name:wuu": "委内瑞拉",
+          "name:xal": "Боливара Венесулмудин Орн",
+          "name:yue": "委內瑞拉",
+          "timezone": "America/Caracas",
+          "way_area": "82.3485",
+          "wikidata": "Q717",
+          "ISO3166-1": "VE",
+          "wikipedia": "en:Es:Venezuela",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:simple": "Venezuela",
+          "name:bat-smg": "Venesoela",
+          "name:cbk-zam": "Venezuela",
+          "name:zh-Hans": "委内瑞拉",
+          "name:zh-Hant": "委內瑞拉",
+          "name:roa-tara": "Venezuela",
+          "name:be-tarask": "Вэнэсуэла",
+          "ISO3166-1:alpha2": "VE",
+          "ISO3166-1:alpha3": "VEN",
+          "default_language": "es",
+          "official_name:cs": "Bolívarovská republika Venezuela",
+          "official_name:de": "Bolivarische Republik Venezuela",
+          "official_name:en": "Bolivarian Republic of Venezuela",
+          "official_name:es": "República Bolivariana de Venezuela",
+          "official_name:fr": "République bolivarienne du Venezuela",
+          "official_name:qu": "Wuliwarpi Republika Winisuyla",
+          "official_name:ru": "Боливарианская Республика Венесуэла",
+          "ISO3166-1:numeric": "862",
+          "official_name:chr": "ᏉᎵᏪᎵᎠᏂ ᏍᎦᏚᎩ ᎾᎿ ᏪᏁᏑᏪᎳ",
+          "official_name:gcf": "Bénézwèl",
+          "official_name:guc": "Mma Woliwarianakat Wenesueela"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63,
+              11.171940175093473
+            ],
+            [
+              -62.9874203,
+              11.1760687
+            ],
+            [
+              -62.9733285,
+              11.1818909
+            ],
+            [
+              -62.959721,
+              11.1887446
+            ],
+            [
+              -62.946675,
+              11.1965908
+            ],
+            [
+              -62.9339477,
+              11.2056279
+            ],
+            [
+              -62.9214368,
+              11.2160445
+            ],
+            [
+              -62.9098181,
+              11.2274237
+            ],
+            [
+              -62.8991672,
+              11.2396912
+            ],
+            [
+              -62.8895537,
+              11.2527671
+            ],
+            [
+              -62.8810404,
+              11.266566
+            ],
+            [
+              -62.8791037,
+              11.2700925
+            ],
+            [
+              -62.8721446,
+              11.28437
+            ],
+            [
+              -62.866352,
+              11.2991462
+            ],
+            [
+              -62.8617625,
+              11.3143286
+            ],
+            [
+              -62.8598914,
+              11.3229634
+            ],
+            [
+              -62.858789,
+              11.325024
+            ],
+            [
+              -62.8549593,
+              11.3332958
+            ],
+            [
+              -62.8524904,
+              11.3394345
+            ],
+            [
+              -62.8489025,
+              11.3492755
+            ],
+            [
+              -62.847356,
+              11.3542879
+            ],
+            [
+              -62.8442506,
+              11.3656937
+            ],
+            [
+              -62.8434175,
+              11.3694927
+            ],
+            [
+              -62.8409964,
+              11.3826714
+            ],
+            [
+              -62.8392414,
+              11.399832
+            ],
+            [
+              -62.8390032,
+              11.4174544
+            ],
+            [
+              -62.8398398,
+              11.4304852
+            ],
+            [
+              -62.8415368,
+              11.4434343
+            ],
+            [
+              -62.8422544,
+              11.4474686
+            ],
+            [
+              -62.845214,
+              11.4610464
+            ],
+            [
+              -62.8494991,
+              11.4757228
+            ],
+            [
+              -62.854908,
+              11.4900337
+            ],
+            [
+              -62.8614095,
+              11.5038957
+            ],
+            [
+              -62.8689656,
+              11.5172277
+            ],
+            [
+              -62.8775324,
+              11.529952
+            ],
+            [
+              -62.8870602,
+              11.541994
+            ],
+            [
+              -62.8976132,
+              11.5534801
+            ],
+            [
+              -62.9084969,
+              11.5636588
+            ],
+            [
+              -62.9201149,
+              11.573016
+            ],
+            [
+              -62.9311919,
+              11.5807324
+            ],
+            [
+              -62.9451342,
+              11.5891368
+            ],
+            [
+              -62.9597187,
+              11.5964065
+            ],
+            [
+              -62.9748507,
+              11.602494
+            ],
+            [
+              -62.9904318,
+              11.6073598
+            ],
+            [
+              -63,
+              11.609529536277684
+            ],
+            [
+              -63,
+              11.171940175093473
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,831 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -556706,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "New Zealand",
+        "local_name": "New Zealand / Aotearoa",
+        "name_en": "New Zealand",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+          "name": "New Zealand / Aotearoa",
+          "name:af": "Nieu-Seeland",
+          "name:am": "ኒው ዚላንድ",
+          "name:an": "Nueva Zelanda",
+          "name:ar": "نيوزيلندا",
+          "name:az": "Yeni Zelandiya",
+          "name:ba": "Яңы Зеландия",
+          "name:be": "Новая Зеландыя",
+          "name:bg": "Нова Зеландия",
+          "name:bh": "न्यूजीलैंड",
+          "name:bi": "Niu Zilan",
+          "name:bm": "New Zealand",
+          "name:bn": "নিউজিল্যান্ড",
+          "name:bo": "ནིའུ་ཛི་ལེན་ཌི།",
+          "name:br": "Zeland-Nevez",
+          "name:bs": "Novi Zeland",
+          "name:ca": "Nova Zelanda",
+          "name:ce": "Керла Зеланди",
+          "name:ch": "Nuebu Silan",
+          "name:co": "Nova Zilanda",
+          "name:cr": "ᓂᐅ ᓯᐊᐧᐣ",
+          "name:cs": "Nový Zéland",
+          "name:cu": "Новъ Ꙁєландъ",
+          "name:cv": "Çĕнĕ Зеланди",
+          "name:cy": "Seland Newydd",
+          "name:da": "New Zealand",
+          "name:de": "Neuseeland",
+          "name:dv": "ނިއުޒިލޭންޑު",
+          "name:dz": "ནིའུ་ཛི་ལེནཌ་",
+          "name:ee": "New Zealand",
+          "name:el": "Νέα Ζηλανδία",
+          "name:en": "New Zealand",
+          "name:eo": "Nov-Zelando",
+          "name:es": "Nueva Zelanda",
+          "name:et": "Uus-Meremaa",
+          "name:eu": "Zeelanda Berria",
+          "name:fa": "نیوزیلند",
+          "name:ff": "Niw-Zilannda",
+          "name:fi": "Uusi-Seelanti",
+          "name:fj": "Niusiladi",
+          "name:fo": "Nýsæland",
+          "name:fr": "Nouvelle-Zélande",
+          "name:fy": "Nij-Seelân",
+          "name:ga": "An Nua-Shéalainn",
+          "name:gd": "Sealainn Nuadh",
+          "name:gl": "Nova Zelandia",
+          "name:gn": "Selánda Pyahu",
+          "name:gu": "ન્યૂઝીલેન્ડ",
+          "name:gv": "Yn Teelynn Noa",
+          "name:ha": "Sabuwar Zelandiya",
+          "name:he": "ניו זילנד",
+          "name:hi": "न्यूज़ीलैण्ड",
+          "name:hr": "Novi Zeland",
+          "name:ht": "Nouvèl Zelann",
+          "name:hu": "Új-Zéland",
+          "name:hy": "Նոր Զելանդիա",
+          "name:ia": "Nove Zelanda",
+          "name:id": "Selandia Baru",
+          "name:ie": "Nov-Zeland",
+          "name:io": "Nova-Zelando",
+          "name:is": "Nýja-Sjáland",
+          "name:it": "Nuova Zelanda",
+          "name:iu": "ᓂᐅ ᓰᓚᓐ",
+          "name:ja": "ニュージーランド",
+          "name:jv": "Sélandia Anyar",
+          "name:ka": "ახალი ზელანდია",
+          "name:kk": "Жаңа Зеландия",
+          "name:kl": "New Zealand",
+          "name:km": "នូវែលសេឡង់",
+          "name:kn": "ನ್ಯೂ ಜೀಲ್ಯಾಂಡ್",
+          "name:ko": "뉴질랜드",
+          "name:ku": "Nû Zelenda",
+          "name:kv": "Выль Зеландия",
+          "name:kw": "Mordir Nowydh",
+          "name:ky": "Жаңы Зеландия",
+          "name:la": "Nova Zelandia",
+          "name:lb": "Neiséiland",
+          "name:li": "Nui-Zieland",
+          "name:lo": "ປະເທດນູແວນ ເຊລັງ",
+          "name:lt": "Naujoji Zelandija",
+          "name:lv": "Jaunzēlande",
+          "name:mg": "Zelandy Vaovao",
+          "name:mi": "Aotearoa",
+          "name:mk": "Нов Зеланд",
+          "name:ml": "ന്യൂസീലൻഡ്",
+          "name:mn": "Шинэ Зеланд",
+          "name:mr": "न्यू झीलँड",
+          "name:ms": "New Zealand",
+          "name:mt": "New Zealand",
+          "name:my": "နယူးဇီလန်နိုင်ငံ",
+          "name:na": "Niu Djiran",
+          "name:ne": "न्यू जील्याण्ड",
+          "name:nl": "Nieuw-Zeeland",
+          "name:nn": "New Zealand",
+          "name:no": "New Zealand",
+          "name:oc": "Nòva Zelanda",
+          "name:or": "ନିଉଜିଲ୍ୟାଣ୍ଡ",
+          "name:os": "Ног Зеланди",
+          "name:pa": "ਨਿਊਜ਼ੀਲੈਂਡ",
+          "name:pi": "न्यू-जीलैंड",
+          "name:pl": "Nowa Zelandia",
+          "name:ps": "نیوزیلنډ",
+          "name:pt": "Nova Zelândia",
+          "name:qu": "Musuq Silanda",
+          "name:rm": "Nova Zelanda",
+          "name:rn": "Nouvelle-Zélande",
+          "name:ro": "Noua Zeelandă",
+          "name:ru": "Новая Зеландия",
+          "name:rw": "Nuveli Zelande",
+          "name:sa": "न्यू-जीलैंड",
+          "name:sc": "Noa Zelanda",
+          "name:sd": "نيوزيلينڊ",
+          "name:se": "Aotearoa",
+          "name:sh": "Novi Zeland",
+          "name:si": "නව සීලන්තය",
+          "name:sk": "Nový Zéland",
+          "name:sl": "Nova Zelandija",
+          "name:sm": "Niu Sila",
+          "name:sn": "New Zealand",
+          "name:so": "New Zealand",
+          "name:sq": "Zelanda e Re",
+          "name:sr": "Нови Зеланд",
+          "name:su": "Selandia Anyar",
+          "name:sv": "Nya Zeeland",
+          "name:sw": "New Zealand",
+          "name:ta": "நியூசிலாந்து",
+          "name:te": "న్యూజీలాండ్",
+          "name:tg": "Зеландияи Нав",
+          "name:th": "ประเทศนิวซีแลนด์",
+          "name:ti": "ኒው ዘይላንድ",
+          "name:tk": "Täze Zelandiýa",
+          "name:tl": "New Zealand",
+          "name:tr": "Yeni Zelanda",
+          "name:tt": "Яңа Зеландия",
+          "name:ty": "Aotearoa",
+          "name:ug": "يېڭى زېلاندىيە",
+          "name:uk": "Нова Зеландія",
+          "name:ur": "نیوزی لینڈ",
+          "name:uz": "Yangi Zelandiya",
+          "name:vi": "New Zealand",
+          "name:vo": "Nula-Seleäns",
+          "name:wa": "Nouve Zelande",
+          "name:wo": "Seland-Gu-Bees",
+          "name:yi": "ניו זילאנד",
+          "name:yo": "New Zealand",
+          "name:za": "Saen Saelanz",
+          "name:zh": "紐西蘭/新西兰",
+          "name:zu": "INyuzilandi",
+          "website": "https://www.govt.nz/",
+          "boundary": "administrative",
+          "name:ace": "Seulandia Barô",
+          "name:als": "Neuseeland",
+          "name:ang": "Nīwe Sǣland",
+          "name:arc": "ܢܝܘ ܙܝܠܢܕ",
+          "name:arz": "نيوزيلاندا",
+          "name:ast": "Nueva Zelanda",
+          "name:ban": "Selandia Anyar",
+          "name:bar": "Neiseeland",
+          "name:bcl": "Nueva Zelanda",
+          "name:bpy": "নিউজিল্যান্ড",
+          "name:bxr": "Шэнэ Зеланд",
+          "name:cdo": "Sĭng-să̤-làng",
+          "name:ceb": "New Zealand",
+          "name:chr": "ᎢᏤᏏᎢᎴᏂᏗ",
+          "name:chy": "New Zealand",
+          "name:ckb": "نیوزیلاند",
+          "name:crh": "Yañı Zelandiya",
+          "name:csb": "Nowô Zelandzkô",
+          "name:din": "New Zealand",
+          "name:diq": "Zelandaya Newiye",
+          "name:dsb": "Nowoseelandska",
+          "name:ext": "Nueva Zelanda",
+          "name:frp": "Novèla-Zèlande",
+          "name:frr": "Nei-Sialun",
+          "name:gag": "Eni Zelandiya",
+          "name:gom": "न्यूझीलंड",
+          "name:got": "𐌽𐌹𐌿𐌾𐌹𐍃 𐍃𐌰𐌹𐍅𐌰𐌻𐌰𐌽𐌳",
+          "name:hak": "Néu Sî-làn",
+          "name:haw": "Nūkilani",
+          "name:hif": "New Zealand",
+          "name:hsb": "Nowoseelandska",
+          "name:ilo": "Baro a Selanda",
+          "name:inh": "Керда Зеланди",
+          "name:jam": "Nyuu Ziilant",
+          "name:jbo": "zis. poi cnino",
+          "name:kaa": "Jan'a Zelandiya",
+          "name:kab": "Ziland Tamaynut",
+          "name:kbd": "Зелэнд ЩӀэ",
+          "name:krc": "Джангы Зеландия",
+          "name:lad": "Mueva Zelanda",
+          "name:lez": "ЦӀийи Зеландия",
+          "name:lfn": "Zeland Nova",
+          "name:lij": "Neuva Selanda",
+          "name:lmo": "Növa Zelanda",
+          "name:lzh": "紐西蘭",
+          "name:mai": "न्युजिल्यान्ड",
+          "name:mrj": "У Зеланди",
+          "name:myv": "Од Зеландия",
+          "name:mzn": "نیوزلند",
+          "name:nah": "Yancuīc Zetlālpan",
+          "name:nan": "Sin Jia̍t-lân-jia",
+          "name:nap": "Nòva Zelanna",
+          "name:nds": "Niegseeland",
+          "name:new": "न्यु जिल्यान्द",
+          "name:nov": "Novi Selande",
+          "name:nrm": "Nouvelle Zélande",
+          "name:nso": "New Zealand",
+          "name:pam": "New Zealand",
+          "name:pap": "Nueva Zelandia",
+          "name:pcd": "Novèle-Zilinde",
+          "name:pih": "Nyuu Ziilan",
+          "name:pms": "Neuva Zelanda",
+          "name:pnb": "نیوزی لینڈ",
+          "name:pnt": "Νέα Ζηλανδία",
+          "name:rue": "Новый Зеланд",
+          "name:sah": "Саҥа Зеландия",
+          "name:sat": "ᱱᱤᱭᱩᱡᱤᱞᱮᱱᱰ",
+          "name:scn": "Nova Zilanna",
+          "name:sco": "New Zealand",
+          "name:shn": "မိူင်းၼိဝ်းၸီႇလႅၼ်ႇ",
+          "name:smn": "Aotearoa",
+          "name:sms": "Aotearoa",
+          "name:stq": "Näi-Seelound",
+          "name:szl": "Nowŏ Zelandyjŏ",
+          "name:tcy": "ನ್ಯೂ ಝಿಲೆಂಡ್",
+          "name:tok": "ma Nusilan",
+          "name:tpi": "Niu Silan",
+          "name:trv": "New Zealand",
+          "name:tum": "New Zealand",
+          "name:tzl": "Noveu Zaiphäts",
+          "name:udm": "Выль Зеландия",
+          "name:vec": "Nova Zełanda",
+          "name:vep": "Uz' Zelandii",
+          "name:vls": "Nieuw-Zêeland",
+          "name:vro": "Vahtsõnõ Meremaa",
+          "name:war": "New Zealand",
+          "name:wuu": "新西兰",
+          "name:xal": "Шинзелендин Орн",
+          "name:xmf": "ახალი ზელანდია",
+          "name:yue": "紐西蘭",
+          "name:zea": "Nieuw-Zeêland",
+          "way_area": "48.7509",
+          "wikidata": "Q664",
+          "ISO3166-1": "NZ",
+          "wikipedia": "en:New Zealand",
+          "population": "5158113",
+          "admin_level": "2",
+          "alt_name:ko": "아오테아로아",
+          "name:nan-HJ": "新熱蘭遮",
+          "name:nan-TL": "Sin Jia̍t-lân-jia",
+          "name:nds-nl": "Ni'j-Zeelaand",
+          "name:simple": "New Zealand",
+          "driving_side": "left",
+          "name:bat-smg": "Naujuojė Zelandėjė",
+          "name:nan-POJ": "Sin Jia̍t-lân-jia",
+          "name:roa-rup": "Naua Zeelanda",
+          "name:zh-Hans": "新西兰",
+          "name:zh-Hant": "紐西蘭",
+          "name:roa-tara": "Nuève Zelanne",
+          "name:be-tarask": "Новая Зэляндыя",
+          "website:tourism": "http://www.newzealand.com",
+          "ISO3166-1:alpha2": "NZ",
+          "ISO3166-1:alpha3": "NZL",
+          "ISO3166-1:numeric": "554"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174,
+              -39
+            ],
+            [
+              175,
+              -39
+            ],
+            [
+              175,
+              -38
+            ],
+            [
+              174.3162716069647,
+              -38
+            ],
+            [
+              174.3166427,
+              -38.0021976
+            ],
+            [
+              174.3182661,
+              -38.0096522
+            ],
+            [
+              174.3213663,
+              -38.0207298
+            ],
+            [
+              174.3238722,
+              -38.0280299
+            ],
+            [
+              174.3267255,
+              -38.0352499
+            ],
+            [
+              174.3316478,
+              -38.0459069
+            ],
+            [
+              174.335351,
+              -38.0528815
+            ],
+            [
+              174.3393854,
+              -38.0597404
+            ],
+            [
+              174.3437454,
+              -38.0664737
+            ],
+            [
+              174.3484248,
+              -38.0730719
+            ],
+            [
+              174.353417,
+              -38.0795253
+            ],
+            [
+              174.3587149,
+              -38.0858249
+            ],
+            [
+              174.364311,
+              -38.0919615
+            ],
+            [
+              174.3701974,
+              -38.0979264
+            ],
+            [
+              174.3763656,
+              -38.103711
+            ],
+            [
+              174.382807,
+              -38.109307
+            ],
+            [
+              174.3895122,
+              -38.1147064
+            ],
+            [
+              174.3964718,
+              -38.1199014
+            ],
+            [
+              174.4036758,
+              -38.1248845
+            ],
+            [
+              174.4111139,
+              -38.1296487
+            ],
+            [
+              174.4187755,
+              -38.134187
+            ],
+            [
+              174.4266495,
+              -38.138493
+            ],
+            [
+              174.4276244,
+              -38.1458676
+            ],
+            [
+              174.4297346,
+              -38.1568633
+            ],
+            [
+              174.4326154,
+              -38.1677494
+            ],
+            [
+              174.43496,
+              -38.1749293
+            ],
+            [
+              174.4376403,
+              -38.1820357
+            ],
+            [
+              174.442282,
+              -38.1925361
+            ],
+            [
+              174.4476568,
+              -38.2028166
+            ],
+            [
+              174.4516392,
+              -38.2095324
+            ],
+            [
+              174.450596,
+              -38.2208402
+            ],
+            [
+              174.4503518,
+              -38.2283969
+            ],
+            [
+              174.450664,
+              -38.2397319
+            ],
+            [
+              174.451324,
+              -38.247273
+            ],
+            [
+              174.4415771,
+              -38.2554453
+            ],
+            [
+              174.4354067,
+              -38.2611266
+            ],
+            [
+              174.4295088,
+              -38.2669852
+            ],
+            [
+              174.4238917,
+              -38.2730132
+            ],
+            [
+              174.4185632,
+              -38.2792022
+            ],
+            [
+              174.4135307,
+              -38.2855434
+            ],
+            [
+              174.4088015,
+              -38.2920283
+            ],
+            [
+              174.404382,
+              -38.2986476
+            ],
+            [
+              174.3983472,
+              -38.3088087
+            ],
+            [
+              174.3947286,
+              -38.3157237
+            ],
+            [
+              174.3914397,
+              -38.3227402
+            ],
+            [
+              174.3884852,
+              -38.3298486
+            ],
+            [
+              174.3858692,
+              -38.3370389
+            ],
+            [
+              174.3835956,
+              -38.344301
+            ],
+            [
+              174.3816675,
+              -38.351625
+            ],
+            [
+              174.3800879,
+              -38.3590005
+            ],
+            [
+              174.3783766,
+              -38.3701379
+            ],
+            [
+              174.3776769,
+              -38.3775972
+            ],
+            [
+              174.3773316,
+              -38.3850719
+            ],
+            [
+              174.3773413,
+              -38.3925515
+            ],
+            [
+              174.3780212,
+              -38.4037573
+            ],
+            [
+              174.3789176,
+              -38.4112036
+            ],
+            [
+              174.3790002,
+              -38.4217983
+            ],
+            [
+              174.379451,
+              -38.4288532
+            ],
+            [
+              174.3807199,
+              -38.439401
+            ],
+            [
+              174.3819595,
+              -38.4463971
+            ],
+            [
+              174.3807414,
+              -38.4529563
+            ],
+            [
+              174.3797995,
+              -38.4595435
+            ],
+            [
+              174.377906,
+              -38.4667575
+            ],
+            [
+              174.3757017,
+              -38.477669
+            ],
+            [
+              174.3742659,
+              -38.4886594
+            ],
+            [
+              174.3737381,
+              -38.4960137
+            ],
+            [
+              174.3735925,
+              -38.5070612
+            ],
+            [
+              174.3742227,
+              -38.5180983
+            ],
+            [
+              174.3756273,
+              -38.5290912
+            ],
+            [
+              174.3769924,
+              -38.5363786
+            ],
+            [
+              174.3767688,
+              -38.5423221
+            ],
+            [
+              174.3767693,
+              -38.5482682
+            ],
+            [
+              174.3758122,
+              -38.5557829
+            ],
+            [
+              174.375055,
+              -38.5670947
+            ],
+            [
+              174.3750034,
+              -38.5746467
+            ],
+            [
+              174.3753147,
+              -38.5821949
+            ],
+            [
+              174.3736833,
+              -38.588799
+            ],
+            [
+              174.3723351,
+              -38.5954422
+            ],
+            [
+              174.3712719,
+              -38.6021173
+            ],
+            [
+              174.3704949,
+              -38.6088166
+            ],
+            [
+              174.3674446,
+              -38.6197942
+            ],
+            [
+              174.3658489,
+              -38.6271798
+            ],
+            [
+              174.3641179,
+              -38.6383329
+            ],
+            [
+              174.3631868,
+              -38.6495445
+            ],
+            [
+              174.3604322,
+              -38.6568054
+            ],
+            [
+              174.3569605,
+              -38.6678367
+            ],
+            [
+              174.3550915,
+              -38.675269
+            ],
+            [
+              174.3535821,
+              -38.6827514
+            ],
+            [
+              174.3524347,
+              -38.6902731
+            ],
+            [
+              174.351651,
+              -38.6978235
+            ],
+            [
+              174.3512323,
+              -38.7053917
+            ],
+            [
+              174.3512893,
+              -38.7167537
+            ],
+            [
+              174.3501039,
+              -38.722773
+            ],
+            [
+              174.3487658,
+              -38.7318481
+            ],
+            [
+              174.3412046,
+              -38.7363511
+            ],
+            [
+              174.3338612,
+              -38.7410705
+            ],
+            [
+              174.3267457,
+              -38.7459998
+            ],
+            [
+              174.3198681,
+              -38.7511324
+            ],
+            [
+              174.3100182,
+              -38.7591968
+            ],
+            [
+              174.3037758,
+              -38.7648061
+            ],
+            [
+              174.2975509,
+              -38.7695834
+            ],
+            [
+              174.2915367,
+              -38.7745236
+            ],
+            [
+              174.2829258,
+              -38.782227
+            ],
+            [
+              174.2735246,
+              -38.7810266
+            ],
+            [
+              174.2640731,
+              -38.7801004
+            ],
+            [
+              174.24983,
+              -38.7792277
+            ],
+            [
+              174.2403097,
+              -38.7789915
+            ],
+            [
+              174.2307848,
+              -38.7790321
+            ],
+            [
+              174.2212683,
+              -38.7793496
+            ],
+            [
+              174.2117734,
+              -38.7799434
+            ],
+            [
+              174.1976001,
+              -38.7813505
+            ],
+            [
+              174.1835485,
+              -38.7833731
+            ],
+            [
+              174.1742699,
+              -38.7850605
+            ],
+            [
+              174.1605176,
+              -38.7880943
+            ],
+            [
+              174.1465637,
+              -38.7901187
+            ],
+            [
+              174.1373495,
+              -38.7918025
+            ],
+            [
+              174.1282207,
+              -38.7937512
+            ],
+            [
+              174.1147147,
+              -38.7971648
+            ],
+            [
+              174.10147,
+              -38.8011578
+            ],
+            [
+              174.0928054,
+              -38.8041358
+            ],
+            [
+              174.0842867,
+              -38.8073619
+            ],
+            [
+              174.0709472,
+              -38.8118652
+            ],
+            [
+              174.062244,
+              -38.8151925
+            ],
+            [
+              174.0495049,
+              -38.8206595
+            ],
+            [
+              174.0412403,
+              -38.824614
+            ],
+            [
+              174.0292151,
+              -38.8309962
+            ],
+            [
+              174.0214629,
+              -38.8355426
+            ],
+            [
+              174.0107165,
+              -38.8399944
+            ],
+            [
+              174.0002513,
+              -38.8448394
+            ],
+            [
+              174,
+              -38.84485584308642
+            ],
+            [
+              174,
+              -39
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

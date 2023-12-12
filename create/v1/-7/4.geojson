@@ -1,0 +1,519 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192779,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Côte d'Ivoire",
+        "local_name": "Côte d’Ivoire",
+        "name_en": "Côte d'Ivoire",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+          "name": "Côte d’Ivoire",
+          "name:ab": "Кот-д’Ивуар",
+          "name:af": "Ivoorkus",
+          "name:am": "ኮት ዲቯር",
+          "name:an": "Costa de Vori",
+          "name:ar": "ساحل العاج",
+          "name:az": "Fil Dişi Sahili",
+          "name:ba": "Кот-д’Ивуар",
+          "name:be": "Кот-д'Івуар",
+          "name:bg": "Кот д'Ивоар",
+          "name:bh": "आइवरी कोस्ट",
+          "name:bi": "Côte d'Ivoire",
+          "name:bm": "Côte d'Ivoire",
+          "name:bn": "কোত দিভোয়ার",
+          "name:bo": "ཀོ་ཊི་ཌི་ཨའི་བོ་རི།",
+          "name:br": "Aod an Olifant",
+          "name:bs": "Obala Slonovače",
+          "name:ca": "Costa d'Ivori",
+          "name:ce": "Кот-д’Ивуар",
+          "name:cs": "Pobřeží slonoviny",
+          "name:cv": "Кот-д'Ивуар",
+          "name:cy": "Côte d'Ivoire",
+          "name:da": "Elfenbenskysten",
+          "name:de": "Elfenbeinküste",
+          "name:dv": "އައިވަރީ ކޯސްޓު",
+          "name:ee": "Côte d'Ivoire",
+          "name:el": "Ακτή Ελεφαντοστού",
+          "name:en": "Côte d'Ivoire",
+          "name:eo": "Ebur-Bordo",
+          "name:es": "Costa de Marfil",
+          "name:et": "Elevandiluurannik",
+          "name:eu": "Boli Kosta",
+          "name:fa": "ساحل عاج",
+          "name:ff": "Kodduwaar",
+          "name:fi": "Norsunluurannikko",
+          "name:fo": "Fílabeinsstrondin",
+          "name:fr": "Côte d’Ivoire",
+          "name:fy": "Ivoarkust",
+          "name:ga": "An Cósta Eabhair",
+          "name:gd": "Costa Ìbhri",
+          "name:gl": "Costa do Marfil",
+          "name:gn": "Marfil Rembe'y",
+          "name:gv": "Yn Clyst Iuaagagh",
+          "name:ha": "Ivory Coast",
+          "name:he": "חוף השנהב",
+          "name:hi": "कोत द'ईवोआर",
+          "name:hr": "Obala Bjelokosti",
+          "name:ht": "Kòt divwa",
+          "name:hu": "Elefántcsontpart",
+          "name:hy": "Կոտ դ'Իվուար",
+          "name:ia": "Costa de Ebore",
+          "name:id": "Pantai Gading",
+          "name:ie": "Costa de Ivor",
+          "name:ig": "Côte d'Ivoire",
+          "name:io": "Ivora Rivo",
+          "name:is": "Fílabeinsströndin",
+          "name:it": "Costa d'Avorio",
+          "name:ja": "コートジボワール",
+          "name:jv": "Panté Gadhing",
+          "name:ka": "კოტ-დ’ივუარი",
+          "name:kg": "Côte d'Ivoire",
+          "name:ki": "Côte d'Ivoire",
+          "name:kk": "Кот-д-Ивуар",
+          "name:kn": "ಕೋತ್ ದ್'ಇವಾರ್",
+          "name:ko": "코트디부아르",
+          "name:ku": "Peravê Diranfîl",
+          "name:kw": "Côte d'Ivoire",
+          "name:ky": "Кот-д'Ивуар",
+          "name:la": "Litus Eburneum",
+          "name:lb": "Elfebeeküst",
+          "name:li": "Ivoorkös",
+          "name:ln": "Kotdivuar",
+          "name:lt": "Dramblio Kaulo Krantas",
+          "name:lv": "Kotdivuāra",
+          "name:mg": "Côte d'Ivoire",
+          "name:mi": "Te Tai Rei",
+          "name:mk": "Брег на Слоновата Коска",
+          "name:ml": "ഐവറി കോസ്റ്റ്",
+          "name:mn": "Кот д'Ивуар",
+          "name:mr": "कोत द'ईवोआर",
+          "name:ms": "Ivory Coast",
+          "name:mt": "Kosta tal-Avorju",
+          "name:my": "အိုင်ဗရီကို့စ်နိုင်ငံ",
+          "name:na": "Aibori Kot",
+          "name:ne": "आइभरी कोस्ट",
+          "name:nl": "Ivoorkust",
+          "name:nn": "Elfenbeinskysten",
+          "name:no": "Elfenbenskysten",
+          "name:nv": "Chį́į́h Yee Adilohii Bideeʼ Tónteel Bibąąh",
+          "name:oc": "Còsta d'Evòri",
+          "name:om": "Kootdivo’aar",
+          "name:or": "ଆଇଭେରି କୋଷ୍ଟ",
+          "name:os": "Кот-д’Ивуар",
+          "name:pa": "ਦੰਦ ਖੰਡ ਤਟ",
+          "name:pi": "कोट ऐवरी (ऐवरी कोस्ट)",
+          "name:pl": "Wybrzeże Kości Słoniowej",
+          "name:ps": "عاج ساحل",
+          "name:pt": "Costa do Marfim",
+          "name:qu": "Marphil Chala",
+          "name:rm": "Costa d'Ivur",
+          "name:ro": "Coasta de Fildeș",
+          "name:ru": "Кот-д’Ивуар",
+          "name:rw": "Kote Divuwari",
+          "name:sa": "कोट ऐवरी",
+          "name:sc": "Costa de Avòriu",
+          "name:sd": "آئيوري ڪوسٽ",
+          "name:se": "Elefántačalánriddu",
+          "name:sg": "Kôdivüära",
+          "name:sh": "Obala Slonovače",
+          "name:si": "අයිවරි කෝස්ට්",
+          "name:sk": "Pobrežie Slonoviny",
+          "name:sl": "Slonokoščena obala",
+          "name:sm": "Côte d'Ivoire",
+          "name:sn": "Côte d'Ivoire",
+          "name:so": "Xeebta Foolmaroodi",
+          "name:sq": "Bregu i Fildishtë",
+          "name:sr": "Обала Слоноваче",
+          "name:ss": "Lugu Lwempondvondlovu",
+          "name:su": "Basisir Gading",
+          "name:sv": "Elfenbenskusten",
+          "name:sw": "Cote d'Ivoire",
+          "name:ta": "கோட் டிவார்",
+          "name:te": "కోటె డి ఐవొరి",
+          "name:tg": "Кот-д'Ивуар",
+          "name:th": "ประเทศโกตดิวัวร์",
+          "name:tk": "Kot-d’Iwuar",
+          "name:tl": "Baybaying Garing",
+          "name:tr": "Fildişi Sahili",
+          "name:ts": "Côte d'Ivoire",
+          "name:tt": "Кот-д’Ивуар",
+          "name:ug": "پىل چىشى قىرغىغى",
+          "name:uk": "Кот-д'Івуар",
+          "name:ur": "کوت داوواغ",
+          "name:uz": "Kot-d‘ivuar",
+          "name:vi": "Bờ Biển Ngà",
+          "name:vo": "Viorajolän",
+          "name:wo": "Kodiwaar",
+          "name:yi": "בארטן פון העלפאנדביין",
+          "name:yo": "Côte d'Ivoire",
+          "name:za": "Côte d'Ivoire",
+          "name:zh": "科特迪瓦 / 象牙海岸",
+          "name:zu": "Ugu Emhlophe",
+          "alt_name": "Côte d'Ivoire",
+          "boundary": "administrative",
+          "currency": "XOF",
+          "name:ace": "Panté Gadéng",
+          "name:ady": "Кот-д-Ивуар",
+          "name:als": "Elfenbeinküste",
+          "name:ang": "Elpendbānrima",
+          "name:arz": "كوت ديفوار",
+          "name:ast": "Costa de Marfil",
+          "name:avk": "Koteivoira",
+          "name:ban": "Pantai Gading",
+          "name:bar": "Helfnboagstodn",
+          "name:bjn": "Pantai Gading",
+          "name:bpy": "কটে ডি'আইভরি",
+          "name:bxr": "Кот д'Ивуар",
+          "name:ceb": "Baybayon sa Marpil",
+          "name:chr": "ᎢᏬᎵ ᎾᎿ ᎠᎹᏳᎶᏗ",
+          "name:ckb": "کۆتدیڤوار",
+          "name:crh": "Filtiş Yalısı",
+          "name:csb": "Ùbrzég Słoniowëch Kłów",
+          "name:diq": "Sahilê Dındanê Fili",
+          "name:dsb": "Pśibrjog Słonoweje kósći",
+          "name:ext": "Costa de Marfil",
+          "name:frp": "Couta d’Ivouèro",
+          "name:gag": "Fildişi Kıyısı",
+          "name:hak": "Côte d'Ivoire",
+          "name:hif": "Côte d'Ivoire",
+          "name:hsb": "Słonowinowy pobrjóh",
+          "name:ilo": "Costa Ivoria",
+          "name:jam": "Aivri Kuos",
+          "name:kaa": "Kot-dİvuar",
+          "name:kab": "Tafsirt n Uẓer",
+          "name:lad": "Kosta de Marfil",
+          "name:lij": "Còsta d'Avòïo",
+          "name:lmo": "Costa d'Avori",
+          "name:mai": "आइभोरी कोस्ट",
+          "name:mrj": "Кот-д’Ивуар",
+          "name:mzn": "عاج ساحل",
+          "name:nah": "Tlanomihuēyātēnco",
+          "name:nan": "Côte d'Ivoire",
+          "name:nds": "Elfenbeenküst",
+          "name:new": "आइभोरी कोस्ट",
+          "name:nov": "Côte d'Ivoire",
+          "name:nrm": "Côte d'Iviéthe",
+          "name:nso": "Côte d'Ivoire",
+          "name:pam": "Côte d'Ivoire",
+          "name:pdc": "Ivory Coast",
+          "name:pms": "Còsta d'Avòri",
+          "name:pnb": "آئیوری کوسٹ",
+          "name:rue": "Берег слоновины",
+          "name:sah": "Кот д'Ивуар",
+          "name:sat": "ᱟᱭᱵᱷᱚᱨᱤ ᱠᱳᱥᱴ",
+          "name:scn": "Côte d'Ivoire",
+          "name:sco": "Côte d'Ivoire",
+          "name:shi": "Tafsirt n Uẓr",
+          "name:shn": "မိူင်းဢၢႆႇဝူဝ်ႇရီႇၶူတ်ႈ",
+          "name:smn": "Elefanttähtiriddo",
+          "name:sms": "Njuʹršščåållanjreddtõk",
+          "name:stq": "Älfenbeenkuste",
+          "name:szl": "Wybrzeże Elefantowych Gnatůw",
+          "name:tok": "ma Kosiwa",
+          "name:trv": "Cote d'ivoirie",
+          "name:tzl": "Costa d'Ivoria",
+          "name:udm": "Кот-д’Ивуар",
+          "name:vec": "Costa d'Avorio",
+          "name:vep": "Kot d'Ivuar",
+          "name:vls": "Ivôorkust",
+          "name:vro": "Elevandiluurand",
+          "name:war": "Côte d'Ivoire",
+          "name:wuu": "科特迪瓦",
+          "name:xal": "Котдивугармудин Орн",
+          "name:yue": "象牙海岸",
+          "name:zea": "Ivoôrkust",
+          "timezone": "Africa/Abidjan",
+          "way_area": "27.2894",
+          "wikidata": "Q1008",
+          "ISO3166-1": "CI",
+          "wikipedia": "fr:Côte d'Ivoire",
+          "name:UN:ar": "كوت ديفوار",
+          "name:UN:en": "Côte d'Ivoire",
+          "name:UN:es": "Côte d'Ivoire",
+          "name:UN:fr": "Côte d’Ivoire (la)",
+          "name:UN:ru": "Кот-д'Ивуар",
+          "name:UN:zh": "科特迪瓦",
+          "admin_level": "2",
+          "alt_name:ar": "كوت ديفوار;جمهورية كوت ديفوار",
+          "alt_name:eo": "Ebura Bordo",
+          "alt_name:ur": "آئیوری کوسٹ",
+          "name:nds-nl": "Ivoorkuste",
+          "name:bat-smg": "Dramblė Kaula Kronts",
+          "name:roa-rup": "Côte d'Ivoire",
+          "name:zh-Hans": "科特迪瓦",
+          "name:zh-Hant": "象牙海岸",
+          "official_name": "République de Côte d’Ivoire",
+          "name:be-tarask": "Кот д’Івуар",
+          "ISO3166-1:alpha2": "CI",
+          "ISO3166-1:alpha3": "CIV",
+          "default_language": "fr",
+          "official_name:ar": "جمهورية ساحل العاج",
+          "official_name:cs": "Republika Pobřeží slonoviny",
+          "official_name:de": "Republik Côte d’Ivoire",
+          "official_name:en": "Republic of Côte d’Ivoire",
+          "official_name:eo": "Ebur-Borda Respubliko",
+          "official_name:es": "República de Costa de Marfil",
+          "official_name:fa": "جمهوری ساحل عاج",
+          "official_name:fr": "République de Côte d’Ivoire",
+          "official_name:gn": "Tavakuairetã Marfil Rembe'y",
+          "official_name:pt": "República de Côte d'Ivoire",
+          "ISO3166-1:numeric": "384",
+          "official_name:ckb": "کۆماری کۆدیڤوار"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7,
+              4.347330532182408
+            ],
+            [
+              -6.9808289,
+              4.3534726
+            ],
+            [
+              -6.9706718,
+              4.3583285
+            ],
+            [
+              -6.9467517,
+              4.367685
+            ],
+            [
+              -6.9363506,
+              4.3729121
+            ],
+            [
+              -6.9147916,
+              4.3862835
+            ],
+            [
+              -6.8983037,
+              4.3995547
+            ],
+            [
+              -6.8865759,
+              4.410451
+            ],
+            [
+              -6.8727699,
+              4.4276458
+            ],
+            [
+              -6.8628847,
+              4.4340975
+            ],
+            [
+              -6.8447174,
+              4.4492254
+            ],
+            [
+              -6.8368616,
+              4.4571824
+            ],
+            [
+              -6.8193745,
+              4.4670618
+            ],
+            [
+              -6.7997901,
+              4.4810103
+            ],
+            [
+              -6.7824811,
+              4.4841809
+            ],
+            [
+              -6.7539243,
+              4.4877066
+            ],
+            [
+              -6.7365472,
+              4.486701
+            ],
+            [
+              -6.7229943,
+              4.4869841
+            ],
+            [
+              -6.7211032,
+              4.4867746
+            ],
+            [
+              -6.6986684,
+              4.4881439
+            ],
+            [
+              -6.6718164,
+              4.4919309
+            ],
+            [
+              -6.6564812,
+              4.4954081
+            ],
+            [
+              -6.6414668,
+              4.5000739
+            ],
+            [
+              -6.6268657,
+              4.5058996
+            ],
+            [
+              -6.6033018,
+              4.5183472
+            ],
+            [
+              -6.5859579,
+              4.5221393
+            ],
+            [
+              -6.570355,
+              4.5270195
+            ],
+            [
+              -6.5550756,
+              4.53321
+            ],
+            [
+              -6.5389636,
+              4.5414025
+            ],
+            [
+              -6.5236584,
+              4.5510103
+            ],
+            [
+              -6.5092847,
+              4.5619551
+            ],
+            [
+              -6.4974681,
+              4.5727677
+            ],
+            [
+              -6.4862187,
+              4.5811704
+            ],
+            [
+              -6.4381028,
+              4.5896277
+            ],
+            [
+              -6.4104406,
+              4.5961225
+            ],
+            [
+              -6.3911632,
+              4.601726
+            ],
+            [
+              -6.3800635,
+              4.6053532
+            ],
+            [
+              -6.3585938,
+              4.614509
+            ],
+            [
+              -6.3419929,
+              4.6234718
+            ],
+            [
+              -6.32832,
+              4.6324687
+            ],
+            [
+              -6.3074053,
+              4.6365833
+            ],
+            [
+              -6.2915417,
+              4.6405305
+            ],
+            [
+              -6.2766336,
+              4.6460742
+            ],
+            [
+              -6.2587357,
+              4.6541502
+            ],
+            [
+              -6.2363335,
+              4.6598607
+            ],
+            [
+              -6.2126291,
+              4.6681226
+            ],
+            [
+              -6.1942894,
+              4.6725402
+            ],
+            [
+              -6.1720447,
+              4.6803688
+            ],
+            [
+              -6.1538813,
+              4.6876765
+            ],
+            [
+              -6.1439829,
+              4.692497
+            ],
+            [
+              -6.1225614,
+              4.6997782
+            ],
+            [
+              -6.1093104,
+              4.7057867
+            ],
+            [
+              -6.0908931,
+              4.7157358
+            ],
+            [
+              -6.0694633,
+              4.7300252
+            ],
+            [
+              -6.020801,
+              4.7505151
+            ],
+            [
+              -6.003826,
+              4.7596618
+            ],
+            [
+              -6,
+              4.761974578925817
+            ],
+            [
+              -6,
+              5
+            ],
+            [
+              -7,
+              5
+            ],
+            [
+              -7,
+              4.347330532182408
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

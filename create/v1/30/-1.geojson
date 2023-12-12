@@ -1,0 +1,793 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -195270,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Tanzania",
+        "local_name": "Tanzania",
+        "name_en": "Tanzania",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+          "name": "Tanzania",
+          "name:af": "Tanzanië",
+          "name:ak": "Tanzania",
+          "name:am": "ታንዛኒያ",
+          "name:an": "Tanzania",
+          "name:ar": "تنزانيا",
+          "name:az": "Tanzaniya",
+          "name:ba": "Танзания",
+          "name:be": "Танзанія",
+          "name:bg": "Танзания",
+          "name:bm": "Tanzania",
+          "name:bn": "তানজানিয়া",
+          "name:bo": "ཏན་ཛ་ནི་ཡ།",
+          "name:br": "Tanzania",
+          "name:bs": "Tanzanija",
+          "name:ca": "Tanzània",
+          "name:ce": "Танзани",
+          "name:cs": "Tanzanie",
+          "name:cv": "Танзани",
+          "name:cy": "Tanzania",
+          "name:da": "Tanzania",
+          "name:de": "Tansania",
+          "name:dv": "ޓެންޒޭނިއާ",
+          "name:ee": "Tanzania",
+          "name:el": "Τανζανία",
+          "name:en": "Tanzania",
+          "name:eo": "Tanzanio",
+          "name:es": "Tanzania",
+          "name:et": "Tansaania",
+          "name:eu": "Tanzania",
+          "name:fa": "تانزانیا",
+          "name:fi": "Tansania",
+          "name:fo": "Tansania",
+          "name:fr": "Tanzanie",
+          "name:fy": "Tanzania",
+          "name:ga": "An Tansáin",
+          "name:gd": "Tansainìa",
+          "name:gl": "Tanzania",
+          "name:gn": "Tãsáña",
+          "name:gu": "ટાન્ઝાનિયા",
+          "name:gv": "Tanzania",
+          "name:he": "טנזניה",
+          "name:hi": "तंज़ानिया",
+          "name:hr": "Tanzanija",
+          "name:ht": "Tanzani",
+          "name:hu": "Tanzánia",
+          "name:hy": "Տանզանիա",
+          "name:ia": "Tanzania",
+          "name:id": "Tanzania",
+          "name:ie": "Tanzania",
+          "name:io": "Tanzania",
+          "name:is": "Tansanía",
+          "name:it": "Tanzania",
+          "name:ja": "タンザニア",
+          "name:jv": "Tanzania",
+          "name:ka": "ტანზანია",
+          "name:kg": "Tanzania",
+          "name:ki": "Tanzania",
+          "name:kk": "Танзания",
+          "name:kl": "Tanzania",
+          "name:kn": "ಟಾಂಜಾನಿಯ",
+          "name:ko": "탄자니아",
+          "name:ku": "Tanzanya",
+          "name:kw": "Tanzania",
+          "name:la": "Tanzania",
+          "name:lb": "Tansania",
+          "name:li": "Tanzania",
+          "name:ln": "Tanzania",
+          "name:lt": "Tanzanija",
+          "name:lv": "Tanzānija",
+          "name:mg": "Tanzania",
+          "name:mi": "Tānahia",
+          "name:mk": "Танзанија",
+          "name:ml": "ടാൻസാനിയ",
+          "name:mn": "Танзани",
+          "name:mr": "टांझानिया",
+          "name:ms": "Tanzania",
+          "name:mt": "Tanżanija",
+          "name:my": "တန်ဇေးနီးယားနိုင်ငံ",
+          "name:ne": "तन्जानिया",
+          "name:nl": "Tanzania",
+          "name:nn": "Tanzania",
+          "name:no": "Tanzania",
+          "name:nv": "Tʼanzanííya",
+          "name:ny": "Tanzania",
+          "name:oc": "Tanzania",
+          "name:om": "Tanzania",
+          "name:or": "ତାଞ୍ଜାନିଆ",
+          "name:os": "Танзани",
+          "name:pa": "ਤਨਜ਼ਾਨੀਆ",
+          "name:pl": "Tanzania",
+          "name:pt": "Tanzânia",
+          "name:qu": "Tansanya",
+          "name:rm": "Tansania",
+          "name:rn": "Tanzaniya",
+          "name:ro": "Tanzania",
+          "name:ru": "Танзания",
+          "name:rw": "Tanzaniya",
+          "name:sa": "टंजानिया",
+          "name:sc": "Tanzània",
+          "name:se": "Tanzania",
+          "name:sg": "Tanzanïi",
+          "name:sh": "Tanzanija",
+          "name:sk": "Tanzánia",
+          "name:sl": "Tanzanija",
+          "name:sn": "Tanzania",
+          "name:so": "Tansaaniya",
+          "name:sq": "Tanzania",
+          "name:sr": "Танзанија",
+          "name:ss": "IThanzaniya",
+          "name:st": "Tanzania",
+          "name:su": "Tanzania",
+          "name:sv": "Tanzania",
+          "name:sw": "Tanzania",
+          "name:ta": "தன்சானியா",
+          "name:te": "టాంజానియా",
+          "name:tg": "Танзания",
+          "name:th": "ประเทศแทนซาเนีย",
+          "name:ti": "ታንዛኒያ",
+          "name:tk": "Tanzaniýa",
+          "name:tl": "Tanzania",
+          "name:tr": "Tanzanya",
+          "name:ts": "Tanzania",
+          "name:tt": "Танзания",
+          "name:tw": "Tanzania",
+          "name:ug": "تانزانىيە",
+          "name:uk": "Танзанія",
+          "name:ur": "تنزانیہ",
+          "name:uz": "Tanzaniya",
+          "name:vi": "Tanzania",
+          "name:vo": "Tansanän",
+          "name:wo": "Tansani",
+          "name:yi": "טאנזאניע",
+          "name:yo": "Tànsáníà",
+          "name:zh": "坦桑尼亚 / 坦尚尼亞",
+          "name:zu": "ITanzania",
+          "boundary": "administrative",
+          "int_name": "Tanzania",
+          "name:ace": "Tanzania",
+          "name:als": "Tansania",
+          "name:ang": "Tansania",
+          "name:arz": "تانزانيا",
+          "name:ast": "República Xunida de Tanzania",
+          "name:bcl": "Tansaniya",
+          "name:bjn": "Tanzania",
+          "name:bpy": "তাঞ্জানিয়া",
+          "name:bxr": "Танзани",
+          "name:ceb": "Tanzania",
+          "name:chy": "Tanzania",
+          "name:ckb": "تانزانیا",
+          "name:crh": "Tanzaniya",
+          "name:diq": "Tanzanya",
+          "name:dsb": "Tansanija",
+          "name:ext": "Tanzánia",
+          "name:frp": "Tanzanie",
+          "name:gag": "Tanzaniya",
+          "name:hif": "Tanzania",
+          "name:hsb": "Tansanija",
+          "name:ilo": "Tanzania",
+          "name:jbo": "tanzanias",
+          "name:kaa": "Tanzaniya",
+          "name:kbd": "Танзаниэ",
+          "name:lez": "Танзания",
+          "name:lij": "Tanzania",
+          "name:lmo": "Tanzania",
+          "name:ltg": "Tanzaneja",
+          "name:min": "Tanzania",
+          "name:mrj": "Танзани",
+          "name:mzn": "تانزانیا",
+          "name:nah": "Tanzania",
+          "name:nan": "Tanzania",
+          "name:nds": "Tansania",
+          "name:nov": "Tanzania",
+          "name:nso": "Tanzania",
+          "name:pam": "Tanzania",
+          "name:pap": "Tanzania",
+          "name:pih": "Tansaania",
+          "name:pms": "Tanzanìa",
+          "name:pnb": "تنزانیہ",
+          "name:rue": "Танзанія",
+          "name:sah": "Танзания",
+          "name:scn": "Tanzania",
+          "name:sco": "Tanzanie",
+          "name:smn": "Tansania",
+          "name:sms": "Tansania",
+          "name:stq": "Tansania",
+          "name:szl": "Tanzańijo",
+          "name:tok": "ma Tansanija",
+          "name:tum": "Tanzania",
+          "name:tzl": "Tanzanía",
+          "name:vec": "Tanzania",
+          "name:vro": "Tansaania",
+          "name:war": "Tanzania",
+          "name:xal": "Танзнмудин Ниицәтә Орн",
+          "name:yue": "坦桑尼亞",
+          "timezone": "Africa/Dar_es_Salaam",
+          "way_area": "80.485",
+          "wikidata": "Q924",
+          "ISO3166-1": "TZ",
+          "wikipedia": "en:Tanzania",
+          "population": "59441988",
+          "admin_level": "2",
+          "name:simple": "Tanzania",
+          "driving_side": "left",
+          "name:bat-smg": "Tanzanėjė",
+          "name:zh-Hans": "坦桑尼亚",
+          "name:zh-Hant": "坦尚尼亞",
+          "name:roa-tara": "Tanzanie",
+          "official_name": "Jamhuri ya Muungano wa Tanzania",
+          "name:be-tarask": "Танзанія",
+          "population:date": "2021-06-01",
+          "ISO3166-1:alpha2": "TZ",
+          "ISO3166-1:alpha3": "TZA",
+          "official_name:be": "Аб'яднаная Рэспубліка Танзанія",
+          "official_name:cs": "Sjednocená tanzanská republika",
+          "official_name:en": "United Republic of Tanzania",
+          "official_name:es": "República Unida de Tanzania",
+          "official_name:et": "Tansaania Ühendvabariik",
+          "official_name:gn": "Tavakuairetã Tãsaña Joaju",
+          "official_name:id": "Persatuan Republik Tanzania",
+          "official_name:ku": "Yekîtiya Komarên Tanzanya",
+          "official_name:lb": "Vereenegt Republik Tansania",
+          "official_name:lt": "Tanzanijos Jungtinė Respublika",
+          "official_name:no": "Den forente republikken Tanzania",
+          "official_name:pt": "República Unida da Tanzânia",
+          "official_name:ru": "Объединённая Республика Танзания",
+          "official_name:sv": "Förenade republiken Tanzania",
+          "official_name:vi": "Cộng hòa Thống nhất Tanzania",
+          "ISO3166-1:numeric": "834"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.745754271207456,
+              -1
+            ],
+            [
+              31,
+              -1
+            ],
+            [
+              31,
+              -0.9999967264489549
+            ],
+            [
+              30.7996359,
+              -0.9999952
+            ],
+            [
+              30.7970492,
+              -0.9979382
+            ],
+            [
+              30.7936664,
+              -0.9962472
+            ],
+            [
+              30.7923745,
+              -0.995835
+            ],
+            [
+              30.7915389,
+              -0.9953435
+            ],
+            [
+              30.7910353,
+              -0.9947581
+            ],
+            [
+              30.7892647,
+              -0.9935418
+            ],
+            [
+              30.786937,
+              -0.9921782
+            ],
+            [
+              30.7854322,
+              -0.9914981
+            ],
+            [
+              30.7837231,
+              -0.99125
+            ],
+            [
+              30.7814615,
+              -0.9900465
+            ],
+            [
+              30.780095,
+              -0.989593
+            ],
+            [
+              30.7784759,
+              -0.9894208
+            ],
+            [
+              30.7769912,
+              -0.9885626
+            ],
+            [
+              30.7750383,
+              -0.986611
+            ],
+            [
+              30.7745048,
+              -0.9863926
+            ],
+            [
+              30.7703318,
+              -0.9860201
+            ],
+            [
+              30.7688675,
+              -0.9855159
+            ],
+            [
+              30.7661784,
+              -0.9857613
+            ],
+            [
+              30.7653298,
+              -0.9855123
+            ],
+            [
+              30.7627818,
+              -0.9861731
+            ],
+            [
+              30.7619877,
+              -0.9868228
+            ],
+            [
+              30.7613791,
+              -0.9876064
+            ],
+            [
+              30.7603475,
+              -0.9882703
+            ],
+            [
+              30.7572554,
+              -0.9888724
+            ],
+            [
+              30.7542969,
+              -0.9918631
+            ],
+            [
+              30.7540094,
+              -0.9919907
+            ],
+            [
+              30.7536165,
+              -0.9917253
+            ],
+            [
+              30.7528041,
+              -0.9919148
+            ],
+            [
+              30.7516299,
+              -0.9931605
+            ],
+            [
+              30.7500292,
+              -0.9943373
+            ],
+            [
+              30.7490446,
+              -0.9955199
+            ],
+            [
+              30.7473281,
+              -0.9970938
+            ],
+            [
+              30.7466329,
+              -0.9987661
+            ],
+            [
+              30.745754271207456,
+              -1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192796,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Uganda",
+        "local_name": "Uganda",
+        "name_en": "Uganda",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+          "name": "Uganda",
+          "name:af": "Uganda",
+          "name:am": "ዩጋንዳ",
+          "name:an": "Uganda",
+          "name:ar": "أوغندا",
+          "name:az": "Uqanda",
+          "name:ba": "Уганда",
+          "name:be": "Уганда",
+          "name:bg": "Уганда",
+          "name:bm": "Uganda",
+          "name:bn": "উগান্ডা",
+          "name:bo": "ཨུ་གན་ད།",
+          "name:br": "Ouganda",
+          "name:bs": "Uganda",
+          "name:ca": "Uganda",
+          "name:ce": "Уганда",
+          "name:cs": "Uganda",
+          "name:cv": "Уганда",
+          "name:cy": "Uganda",
+          "name:da": "Uganda",
+          "name:de": "Uganda",
+          "name:dv": "ޔުގެންޑާ",
+          "name:ee": "Uganda",
+          "name:el": "Ουγκάντα",
+          "name:en": "Uganda",
+          "name:eo": "Ugando",
+          "name:es": "Uganda",
+          "name:et": "Uganda",
+          "name:eu": "Uganda",
+          "name:fa": "اوگاندا",
+          "name:fi": "Uganda",
+          "name:fo": "Uganda",
+          "name:fr": "Ouganda",
+          "name:fy": "Uganda",
+          "name:ga": "Uganda",
+          "name:gd": "Uganda",
+          "name:gl": "Uganda",
+          "name:gn": "Ugánda",
+          "name:gv": "Ooganda",
+          "name:ha": "Uganda",
+          "name:he": "אוגנדה",
+          "name:hi": "युगाण्डा",
+          "name:hr": "Uganda",
+          "name:ht": "Ouganda",
+          "name:hu": "Uganda",
+          "name:hy": "Ուգանդա",
+          "name:ia": "Uganda",
+          "name:id": "Uganda",
+          "name:ie": "Uganda",
+          "name:io": "Uganda",
+          "name:is": "Úganda",
+          "name:it": "Uganda",
+          "name:ja": "ウガンダ",
+          "name:jv": "Uganda",
+          "name:ka": "უგანდა",
+          "name:kg": "Uganda",
+          "name:ki": "Uganda",
+          "name:kk": "Уганда",
+          "name:kl": "Uganda",
+          "name:kn": "ಉಗಾಂಡ",
+          "name:ko": "우간다",
+          "name:ku": "Ûganda",
+          "name:kw": "Ouganda",
+          "name:la": "Uganda",
+          "name:lb": "Uganda",
+          "name:lg": "Yuganda",
+          "name:li": "Oeganda",
+          "name:ln": "Uganda",
+          "name:lt": "Uganda",
+          "name:lv": "Uganda",
+          "name:mi": "Ukānga",
+          "name:mk": "Уганда",
+          "name:ml": "ഉഗാണ്ട",
+          "name:mn": "Уганда",
+          "name:mr": "युगांडा",
+          "name:ms": "Uganda",
+          "name:mt": "Uganda",
+          "name:my": "ယူဂန်းဒါးနိုင်ငံ",
+          "name:nl": "Oeganda",
+          "name:nn": "Uganda",
+          "name:no": "Uganda",
+          "name:nv": "Yogénda",
+          "name:oc": "Oganda",
+          "name:or": "ଉଗାଣ୍ଡା",
+          "name:os": "Угандæ",
+          "name:pa": "ਯੁਗਾਂਡਾ",
+          "name:pl": "Uganda",
+          "name:pt": "Uganda",
+          "name:qu": "Uganda",
+          "name:rm": "Uganda",
+          "name:ro": "Uganda",
+          "name:ru": "Уганда",
+          "name:rw": "Ubugande",
+          "name:sc": "Uganda",
+          "name:se": "Uganda",
+          "name:sg": "Ugandäa",
+          "name:sh": "Uganda",
+          "name:sk": "Uganda",
+          "name:sl": "Uganda",
+          "name:sn": "Uganda",
+          "name:so": "Yugandha",
+          "name:sq": "Uganda",
+          "name:sr": "Уганда",
+          "name:ss": "IBuganda",
+          "name:su": "Uganda",
+          "name:sv": "Uganda",
+          "name:sw": "Uganda",
+          "name:ta": "உகாண்டா",
+          "name:te": "ఉగాండా",
+          "name:tg": "Уганда",
+          "name:th": "ประเทศยูกันดา",
+          "name:tk": "Uganda",
+          "name:tl": "Uganda",
+          "name:tr": "Uganda",
+          "name:ts": "Uganda",
+          "name:tt": "Уганда",
+          "name:ug": "ئۇگاندا",
+          "name:uk": "Уганда",
+          "name:ur": "یوگنڈا",
+          "name:uz": "Uganda",
+          "name:vi": "Uganda",
+          "name:vo": "Lugandayän",
+          "name:wo": "Ugandaa",
+          "name:yi": "אוגאנדע",
+          "name:yo": "Ùgándà",
+          "name:zh": "乌干达 / 烏干達",
+          "name:zu": "IYuganda",
+          "boundary": "administrative",
+          "currency": "UGX",
+          "name:ace": "Uganda",
+          "name:als": "Uganda",
+          "name:ang": "Uganda",
+          "name:arz": "اوجاندا",
+          "name:ast": "Uganda",
+          "name:bcl": "Uganda",
+          "name:bpy": "উগান্ডা",
+          "name:bxr": "Уганда",
+          "name:ceb": "Uganda",
+          "name:ckb": "ئووگەندا",
+          "name:crh": "Uganda",
+          "name:diq": "Uganda",
+          "name:dsb": "Uganda",
+          "name:ext": "Uganda",
+          "name:frp": "Oganda",
+          "name:gag": "Uganda",
+          "name:hif": "Uganda",
+          "name:hsb": "Uganda",
+          "name:ilo": "Uganda",
+          "name:jbo": "ugandas",
+          "name:kaa": "Uganda",
+          "name:lez": "Уганда",
+          "name:lij": "Uganda",
+          "name:lmo": "Uganda",
+          "name:lzh": "烏干達",
+          "name:mhr": "Уганде",
+          "name:mrj": "Уганда",
+          "name:mzn": "اوگاندا",
+          "name:nah": "Uganda",
+          "name:nan": "Uganda",
+          "name:nds": "Uganda",
+          "name:nov": "Uganda",
+          "name:nso": "Uganda",
+          "name:pam": "Uganda",
+          "name:pap": "Uganda",
+          "name:pih": "Yuganda",
+          "name:pms": "Uganda",
+          "name:pnb": "یوگنڈا",
+          "name:rue": "Уґанда",
+          "name:sah": "Уганда",
+          "name:scn": "Uganna",
+          "name:sco": "Uganda",
+          "name:smn": "Uganda",
+          "name:sms": "Uganda",
+          "name:stq": "Uganda",
+          "name:szl": "Uganda",
+          "name:tzl": "Uganda",
+          "name:vec": "Uganda",
+          "name:vro": "Uganda",
+          "name:war": "Uganda",
+          "name:xal": "Угандин Орн",
+          "name:yue": "烏干達",
+          "timezone": "Africa/Kampala",
+          "way_area": "19.6288",
+          "wikidata": "Q1036",
+          "ISO3166-1": "UG",
+          "wikipedia": "en:Uganda",
+          "admin_level": "2",
+          "name:simple": "Uganda",
+          "driving_side": "left",
+          "name:bat-smg": "Uganda",
+          "name:zh-Hans": "乌干达",
+          "name:zh-Hant": "烏干達",
+          "official_name": "Jamhuri ya Uganda",
+          "name:be-tarask": "Уганда",
+          "ISO3166-1:alpha2": "UG",
+          "ISO3166-1:alpha3": "UGA",
+          "official_name:cs": "Ugandská republika",
+          "official_name:de": "Republik Uganda",
+          "official_name:en": "Republic of Uganda",
+          "official_name:gn": "Tavakuairetã Ugánda",
+          "official_name:pt": "República de Uganda",
+          "official_name:sk": "Ugandská republika",
+          "ISO3166-1:numeric": "800"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30,
+              -1
+            ],
+            [
+              30.745754271207456,
+              -1
+            ],
+            [
+              30.7466329,
+              -0.9987661
+            ],
+            [
+              30.7473281,
+              -0.9970938
+            ],
+            [
+              30.7490446,
+              -0.9955199
+            ],
+            [
+              30.7500292,
+              -0.9943373
+            ],
+            [
+              30.7516299,
+              -0.9931605
+            ],
+            [
+              30.7528041,
+              -0.9919148
+            ],
+            [
+              30.7536165,
+              -0.9917253
+            ],
+            [
+              30.7540094,
+              -0.9919907
+            ],
+            [
+              30.7542969,
+              -0.9918631
+            ],
+            [
+              30.7572554,
+              -0.9888724
+            ],
+            [
+              30.7603475,
+              -0.9882703
+            ],
+            [
+              30.7613791,
+              -0.9876064
+            ],
+            [
+              30.7619877,
+              -0.9868228
+            ],
+            [
+              30.7627818,
+              -0.9861731
+            ],
+            [
+              30.7653298,
+              -0.9855123
+            ],
+            [
+              30.7661784,
+              -0.9857613
+            ],
+            [
+              30.7688675,
+              -0.9855159
+            ],
+            [
+              30.7703318,
+              -0.9860201
+            ],
+            [
+              30.7745048,
+              -0.9863926
+            ],
+            [
+              30.7750383,
+              -0.986611
+            ],
+            [
+              30.7769912,
+              -0.9885626
+            ],
+            [
+              30.7784759,
+              -0.9894208
+            ],
+            [
+              30.780095,
+              -0.989593
+            ],
+            [
+              30.7814615,
+              -0.9900465
+            ],
+            [
+              30.7837231,
+              -0.99125
+            ],
+            [
+              30.7854322,
+              -0.9914981
+            ],
+            [
+              30.786937,
+              -0.9921782
+            ],
+            [
+              30.7892647,
+              -0.9935418
+            ],
+            [
+              30.7910353,
+              -0.9947581
+            ],
+            [
+              30.7915389,
+              -0.9953435
+            ],
+            [
+              30.7923745,
+              -0.995835
+            ],
+            [
+              30.7936664,
+              -0.9962472
+            ],
+            [
+              30.7970492,
+              -0.9979382
+            ],
+            [
+              30.7996359,
+              -0.9999952
+            ],
+            [
+              31,
+              -0.9999967264489549
+            ],
+            [
+              31,
+              0
+            ],
+            [
+              30,
+              0
+            ],
+            [
+              30,
+              -1
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

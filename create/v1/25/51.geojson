@@ -1,0 +1,2649 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -59065,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Belarus",
+        "local_name": "Беларусь",
+        "name_en": "Belarus",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+          "name": "Беларусь",
+          "int_ref": "BY",
+          "name:af": "Wit-Rusland",
+          "name:ar": "روسيا البيضاء",
+          "name:az": "Belarus",
+          "name:be": "Беларусь",
+          "name:bg": "Беларус",
+          "name:bi": "Belarus",
+          "name:bn": "বেলারুশ",
+          "name:bo": "བྷེ་ལ་རསུ།",
+          "name:br": "Belarus",
+          "name:bs": "Bjelorusija",
+          "name:ca": "Bielorússia",
+          "name:ce": "Белорусси",
+          "name:co": "Bielorussia",
+          "name:cs": "Bělorusko",
+          "name:cu": "Бѣла Роусь",
+          "name:cv": "Беларуç",
+          "name:cy": "Belarws",
+          "name:da": "Hviderusland",
+          "name:de": "Belarus",
+          "name:dv": "ބެލަރޫސް",
+          "name:dz": "བེ་ལ་རུ་སུ།",
+          "name:ee": "Belarus",
+          "name:el": "Λευκορωσία",
+          "name:en": "Belarus",
+          "name:eo": "Belorusio",
+          "name:es": "Belarús",
+          "name:et": "Valgevene",
+          "name:eu": "Bielorrusia",
+          "name:fa": "بلاروس",
+          "name:ff": "Belaruusiya",
+          "name:fi": "Valko-Venäjä",
+          "name:fo": "Hvítarussland",
+          "name:fr": "Bélarus",
+          "name:fy": "Wyt-Ruslân",
+          "name:ga": "An Bhealarúis",
+          "name:gd": "A' Bhealaruis",
+          "name:gl": "Belarús",
+          "name:gn": "Vielorrusia",
+          "name:gu": "બેલારુસ",
+          "name:gv": "Yn Velaroosh",
+          "name:he": "בלארוס",
+          "name:hi": "बेलारूस",
+          "name:hr": "Bjelorusija",
+          "name:ht": "Byelorisi",
+          "name:hu": "Fehéroroszország",
+          "name:hy": "Բելառուս",
+          "name:ia": "Bielorussia",
+          "name:id": "Belarus",
+          "name:ie": "Bielorussia",
+          "name:io": "Bielorusia",
+          "name:is": "Hvíta-Rússland",
+          "name:it": "Bielorussia",
+          "name:ja": "ベラルーシ",
+          "name:jv": "Bélarus",
+          "name:ka": "ბელარუსი",
+          "name:kg": "Belarusia",
+          "name:kk": "Беларусь",
+          "name:kl": "Hvideruslandi",
+          "name:kn": "ಬೆಲಾರುಸ್",
+          "name:ko": "벨라루스",
+          "name:ku": "Belarûs",
+          "name:kv": "Беларусь",
+          "name:kw": "Belarussi",
+          "name:ky": "Беларусия",
+          "name:la": "Ruthenia Alba",
+          "name:lb": "Wäissrussland",
+          "name:li": "Wit-Rusland",
+          "name:ln": "Bielorusia",
+          "name:lt": "Baltarusija",
+          "name:lv": "Baltkrievija",
+          "name:mi": "Pērara",
+          "name:mk": "Белорусија",
+          "name:ml": "ബെലാറുസ്",
+          "name:mn": "Беларусь",
+          "name:mr": "बेलारूस",
+          "name:ms": "Belarus",
+          "name:mt": "Belarus",
+          "name:my": "ဘီလာရုဇ်နိုင်ငံ",
+          "name:na": "Berarut",
+          "name:ne": "बेलारुस",
+          "name:nl": "Belarus",
+          "name:nn": "Kviterussland",
+          "name:no": "Hviterussland",
+          "name:oc": "Bielorussia",
+          "name:or": "ବେଲାଋଷ",
+          "name:os": "Белорусси",
+          "name:pl": "Białoruś",
+          "name:ps": "بېلاروس",
+          "name:pt": "Bielorrússia",
+          "name:qu": "Bilarus",
+          "name:rm": "Bielorussia",
+          "name:ro": "Belarus",
+          "name:ru": "Беларусь",
+          "name:rw": "Belarusi",
+          "name:sa": "बेलारूस",
+          "name:se": "Vilges-Ruošša",
+          "name:sh": "Belorusija",
+          "name:si": "බෙලාරස්",
+          "name:sk": "Bielorusko",
+          "name:sl": "Belorusija",
+          "name:so": "Belarus",
+          "name:sq": "Bjellorusia",
+          "name:sr": "Белорусија",
+          "name:ss": "IBhelalasi",
+          "name:su": "Bélarus",
+          "name:sv": "Belarus",
+          "name:sw": "Belarus",
+          "name:ta": "பெலருஸ்",
+          "name:te": "బెలారస్",
+          "name:tg": "Беларус",
+          "name:th": "ประเทศเบลารุส",
+          "name:tk": "Belorussiýa",
+          "name:tl": "Biyelorusya",
+          "name:tr": "Beyaz Rusya",
+          "name:ts": "Belarus",
+          "name:tt": "Беларусь",
+          "name:ty": "Belarus",
+          "name:ug": "بېلورۇسسىيە",
+          "name:uk": "Білорусь",
+          "name:ur": "بیلاروس",
+          "name:uz": "Belarus",
+          "name:vi": "Belarus",
+          "name:vo": "Belarusän",
+          "name:wo": "Belaarus",
+          "name:yi": "בעלארוס",
+          "name:yo": "Bẹ̀lárùs",
+          "name:zh": "白俄罗斯",
+          "name:zu": "IBelarusi",
+          "boundary": "administrative",
+          "int_name": "Belarus",
+          "name:ace": "Bèlarusia",
+          "name:ast": "Bielorrusia",
+          "name:bar": "Weißrussland",
+          "name:bcl": "Belarus",
+          "name:bjn": "Bilarusia",
+          "name:bpy": "বেলারুস",
+          "name:bxr": "Беларусь",
+          "name:ceb": "Biyelorusya",
+          "name:chr": "ᏇᎳᎷᏍ",
+          "name:ckb": "بیلاڕووس",
+          "name:crh": "Belarus",
+          "name:csb": "Biôłorëskô",
+          "name:din": "Belaruc",
+          "name:diq": "Belarus",
+          "name:dsb": "Běłoruska",
+          "name:ext": "Bielorrússia",
+          "name:frp": "Bièlorussie",
+          "name:frr": "Witjruslun",
+          "name:gag": "Biyaz Rusiya",
+          "name:hak": "Pha̍k-ngò-lò-sṳ̂",
+          "name:haw": "Belarusa",
+          "name:hif": "Belarus",
+          "name:hsb": "Běłoruska",
+          "name:ilo": "Belarus",
+          "name:jbo": "belrus",
+          "name:kaa": "Belorussiya",
+          "name:kbd": "Урысыху",
+          "name:koi": "Беларусь",
+          "name:krc": "Беларусь",
+          "name:lad": "Bielorusia",
+          "name:lez": "Беларусия",
+          "name:lij": "Bieloruscia",
+          "name:lmo": "Bielurüssia",
+          "name:ltg": "Boltkrīveja",
+          "name:lzh": "白俄羅斯",
+          "name:mdf": "Беларузмастор",
+          "name:mhr": "Белоруссий",
+          "name:nah": "Belarus",
+          "name:nan": "Belarus",
+          "name:nap": "Bielorussia",
+          "name:nds": "Wittrussland",
+          "name:new": "बेलारुस",
+          "name:nov": "Belarus",
+          "name:pam": "Bielorusya",
+          "name:pap": "Belarus",
+          "name:pcd": "Biélorussie",
+          "name:pih": "Belerus",
+          "name:pms": "Bielorussia",
+          "name:pnb": "بیلارس",
+          "name:pnt": "Λευκορουσία",
+          "name:rue": "Білорусія",
+          "name:sah": "Беларусь",
+          "name:scn": "Bielurussia",
+          "name:sco": "Belaroushie",
+          "name:smn": "Vielgis-Ruoššâ",
+          "name:sms": "Belarus",
+          "name:srn": "Belarusikondre",
+          "name:stq": "Wietruslound",
+          "name:szl": "Biołoruś",
+          "name:tok": "ma Pelalusi",
+          "name:tpi": "Belaras",
+          "name:udm": "Беларусь",
+          "name:vec": "Biełorusia",
+          "name:vep": "Vaugedvenäma",
+          "name:vro": "Valgõvinne",
+          "name:war": "Belarus",
+          "name:xal": "Цаһанорсин Орн",
+          "name:xmf": "ბელარუსი",
+          "name:yue": "白俄羅斯",
+          "name:zea": "Wit-Rusland",
+          "timezone": "Europe/Minsk",
+          "way_area": "28.142",
+          "wikidata": "Q184",
+          "ISO3166-1": "BY",
+          "headlight": "recommended",
+          "wikipedia": "be:Беларусь",
+          "population": "9491823",
+          "admin_level": "2",
+          "alt_name:ar": "بيلاروس",
+          "alt_name:eo": "Belorusujo;Belarusio;Belarusujo",
+          "alt_name:vi": "Bạch Nga",
+          "alt_name:zh": "白罗斯/白羅斯",
+          "description": "Дзяржава ва Усходняй Еўропе, на захадзе Усходне-Еўрапейскай раўніны.",
+          "name:nds-nl": "Wit-Ruslaand",
+          "old_name:de": "Weißrussland",
+          "old_name:en": "Byelorussia",
+          "old_name:eo": "Bjelorusio;Bjelorusujo",
+          "old_name:es": "Bielorrusia",
+          "old_name:fr": "Biélorussie",
+          "old_name:ru": "Белоруссия",
+          "old_name:sv": "Vitryssland",
+          "addr:country": "BY",
+          "alt_name:ckb": "کۆماری بیلاڕووس",
+          "name:bat-smg": "Baltarosėjė",
+          "name:roa-rup": "Arusia albã",
+          "name:zh-Hans": "白俄罗斯",
+          "name:zh-Hant": "白俄羅斯",
+          "name:roa-tara": "Russie Vianghe",
+          "official_name": "Рэспубліка Беларусь",
+          "description:be": "Дзяржава ва Усходняй Еўропе, на захадзе Усходне-Еўрапейскай раўніны.",
+          "name:be-tarask": "Беларусь",
+          "population:date": "2018-01-01",
+          "ISO3166-1:alpha2": "BY",
+          "ISO3166-1:alpha3": "BLR",
+          "alt_name:zh-Hans": "白罗斯",
+          "alt_name:zh-Hant": "白羅斯",
+          "default_language": "be",
+          "official_name:ar": "جمهورية روسيا البيضاء",
+          "official_name:be": "Рэспублiка Беларусь",
+          "official_name:cs": "Běloruská republika",
+          "official_name:de": "Republik Belarus",
+          "official_name:en": "Republic of Belarus",
+          "official_name:eo": "Respubliko Belorusio",
+          "official_name:es": "República de Belarús",
+          "official_name:fr": "La République du Bélarus",
+          "official_name:lt": "Baltarusijos respublika",
+          "official_name:nl": "Republiek Belarus",
+          "official_name:pl": "Republika Białorusi",
+          "official_name:pt": "República da Bielorrússia",
+          "official_name:ru": "Республика Беларусь",
+          "official_name:sl": "Republika Belorusija",
+          "official_name:sv": "Republiken Belarus",
+          "official_name:uk": "Республіка Білорусь",
+          "official_name:zh": "白罗斯共和国",
+          "ISO3166-1:numeric": "112",
+          "headlight:conditional": "required @ 25 Aug - 5 Sept",
+          "official_name:zh-Hans": "白罗斯共和国",
+          "official_name:zh-Hant": "白羅斯共和國",
+          "official_name:be-tarask": "Рэспубліка Беларусь"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              51.91599894197112
+            ],
+            [
+              25.02036,
+              51.9188733
+            ],
+            [
+              25.0424711,
+              51.9308695
+            ],
+            [
+              25.0574597,
+              51.9387412
+            ],
+            [
+              25.0677322,
+              51.9409479
+            ],
+            [
+              25.075993,
+              51.9449727
+            ],
+            [
+              25.0800677,
+              51.9472495
+            ],
+            [
+              25.1001815,
+              51.9534968
+            ],
+            [
+              25.1170052,
+              51.9512973
+            ],
+            [
+              25.1416518,
+              51.9534181
+            ],
+            [
+              25.1560428,
+              51.9566171
+            ],
+            [
+              25.1653651,
+              51.9631424
+            ],
+            [
+              25.1802156,
+              51.9654147
+            ],
+            [
+              25.1913842,
+              51.969265
+            ],
+            [
+              25.1967226,
+              51.9687845
+            ],
+            [
+              25.2136208,
+              51.9666154
+            ],
+            [
+              25.2208346,
+              51.9625027
+            ],
+            [
+              25.2266751,
+              51.9607622
+            ],
+            [
+              25.2341315,
+              51.9611876
+            ],
+            [
+              25.2451215,
+              51.9669005
+            ],
+            [
+              25.2583397,
+              51.9688076
+            ],
+            [
+              25.2635815,
+              51.9685318
+            ],
+            [
+              25.2707844,
+              51.9634674
+            ],
+            [
+              25.2745382,
+              51.9622015
+            ],
+            [
+              25.2836525,
+              51.9612826
+            ],
+            [
+              25.2893398,
+              51.9593728
+            ],
+            [
+              25.2909829,
+              51.9555867
+            ],
+            [
+              25.2970479,
+              51.9552668
+            ],
+            [
+              25.3023482,
+              51.9540352
+            ],
+            [
+              25.3092795,
+              51.9490891
+            ],
+            [
+              25.3192737,
+              51.9449691
+            ],
+            [
+              25.3200837,
+              51.9444598
+            ],
+            [
+              25.3207737,
+              51.9408416
+            ],
+            [
+              25.3366763,
+              51.9392289
+            ],
+            [
+              25.3406449,
+              51.9351297
+            ],
+            [
+              25.3434602,
+              51.9327227
+            ],
+            [
+              25.3475217,
+              51.9319887
+            ],
+            [
+              25.3502846,
+              51.9320435
+            ],
+            [
+              25.3562048,
+              51.9339748
+            ],
+            [
+              25.3593892,
+              51.9345784
+            ],
+            [
+              25.3659897,
+              51.9340135
+            ],
+            [
+              25.3703193,
+              51.9300182
+            ],
+            [
+              25.3711383,
+              51.9280155
+            ],
+            [
+              25.3795231,
+              51.9273901
+            ],
+            [
+              25.3804552,
+              51.9266452
+            ],
+            [
+              25.384705,
+              51.9269583
+            ],
+            [
+              25.3967569,
+              51.9266316
+            ],
+            [
+              25.4057413,
+              51.9252537
+            ],
+            [
+              25.409967,
+              51.9217271
+            ],
+            [
+              25.4333238,
+              51.9223413
+            ],
+            [
+              25.4333721,
+              51.9219256
+            ],
+            [
+              25.4478318,
+              51.9218375
+            ],
+            [
+              25.4586508,
+              51.9210587
+            ],
+            [
+              25.4582795,
+              51.9191959
+            ],
+            [
+              25.4595669,
+              51.9191959
+            ],
+            [
+              25.4601115,
+              51.919654
+            ],
+            [
+              25.4612256,
+              51.9198525
+            ],
+            [
+              25.4628596,
+              51.919715
+            ],
+            [
+              25.4642461,
+              51.9191653
+            ],
+            [
+              25.4650878,
+              51.9190432
+            ],
+            [
+              25.4659048,
+              51.9203869
+            ],
+            [
+              25.46895,
+              51.9198372
+            ],
+            [
+              25.4685415,
+              51.9201579
+            ],
+            [
+              25.4696061,
+              51.9200891
+            ],
+            [
+              25.475377,
+              51.9208489
+            ],
+            [
+              25.4860094,
+              51.9225561
+            ],
+            [
+              25.4859604,
+              51.9233088
+            ],
+            [
+              25.4870506,
+              51.9245667
+            ],
+            [
+              25.4869038,
+              51.9258342
+            ],
+            [
+              25.4864069,
+              51.9264132
+            ],
+            [
+              25.4864809,
+              51.9294024
+            ],
+            [
+              25.4868307,
+              51.9298076
+            ],
+            [
+              25.4878889,
+              51.930197
+            ],
+            [
+              25.4917636,
+              51.9296865
+            ],
+            [
+              25.4950463,
+              51.9279803
+            ],
+            [
+              25.4944934,
+              51.9270052
+            ],
+            [
+              25.4955815,
+              51.9274095
+            ],
+            [
+              25.4966665,
+              51.9274168
+            ],
+            [
+              25.4974186,
+              51.9277561
+            ],
+            [
+              25.4991826,
+              51.9276707
+            ],
+            [
+              25.5004338,
+              51.9273432
+            ],
+            [
+              25.5036666,
+              51.9254044
+            ],
+            [
+              25.5051963,
+              51.9234294
+            ],
+            [
+              25.5058101,
+              51.9231864
+            ],
+            [
+              25.5072088,
+              51.9233649
+            ],
+            [
+              25.508814,
+              51.9219391
+            ],
+            [
+              25.5179109,
+              51.9261771
+            ],
+            [
+              25.5199195,
+              51.9289423
+            ],
+            [
+              25.5272637,
+              51.9404609
+            ],
+            [
+              25.5818799,
+              51.9270732
+            ],
+            [
+              25.595957,
+              51.9238496
+            ],
+            [
+              25.6547606,
+              51.919506
+            ],
+            [
+              25.7093274,
+              51.9161683
+            ],
+            [
+              25.7353349,
+              51.9200792
+            ],
+            [
+              25.7429472,
+              51.9209941
+            ],
+            [
+              25.7538043,
+              51.923128
+            ],
+            [
+              25.7584762,
+              51.9238773
+            ],
+            [
+              25.77221,
+              51.9216115
+            ],
+            [
+              25.7709876,
+              51.9241488
+            ],
+            [
+              25.7674828,
+              51.930154
+            ],
+            [
+              25.770472,
+              51.9326784
+            ],
+            [
+              25.7750555,
+              51.9324036
+            ],
+            [
+              25.7654631,
+              51.950066
+            ],
+            [
+              25.7770693,
+              51.9498596
+            ],
+            [
+              25.7773054,
+              51.9491586
+            ],
+            [
+              25.7812944,
+              51.949584
+            ],
+            [
+              25.7814961,
+              51.9455238
+            ],
+            [
+              25.8100826,
+              51.9461784
+            ],
+            [
+              25.8238692,
+              51.9430527
+            ],
+            [
+              25.8244576,
+              51.9370629
+            ],
+            [
+              25.8196395,
+              51.9371645
+            ],
+            [
+              25.8190513,
+              51.9319818
+            ],
+            [
+              25.8190083,
+              51.9299409
+            ],
+            [
+              25.818598,
+              51.9286823
+            ],
+            [
+              25.8222458,
+              51.9275857
+            ],
+            [
+              25.8254818,
+              51.924642
+            ],
+            [
+              25.8262847,
+              51.9246775
+            ],
+            [
+              25.8282655,
+              51.9242747
+            ],
+            [
+              25.8294778,
+              51.9244467
+            ],
+            [
+              25.8300666,
+              51.9245953
+            ],
+            [
+              25.8311571,
+              51.9254971
+            ],
+            [
+              25.8330102,
+              51.9262644
+            ],
+            [
+              25.8335998,
+              51.9262871
+            ],
+            [
+              25.8382165,
+              51.9258112
+            ],
+            [
+              25.8410305,
+              51.9258843
+            ],
+            [
+              25.8447906,
+              51.925399
+            ],
+            [
+              25.8497211,
+              51.9258665
+            ],
+            [
+              25.8540848,
+              51.9257997
+            ],
+            [
+              25.857443,
+              51.9260129
+            ],
+            [
+              25.8641536,
+              51.925443
+            ],
+            [
+              25.8665088,
+              51.9250378
+            ],
+            [
+              25.8681288,
+              51.9243206
+            ],
+            [
+              25.868669,
+              51.9240405
+            ],
+            [
+              25.8698694,
+              51.9227875
+            ],
+            [
+              25.8718801,
+              51.9220683
+            ],
+            [
+              25.8729078,
+              51.9211001
+            ],
+            [
+              25.8732006,
+              51.9210247
+            ],
+            [
+              25.8777713,
+              51.922304
+            ],
+            [
+              25.8797629,
+              51.9224139
+            ],
+            [
+              25.8821672,
+              51.921963
+            ],
+            [
+              25.8838045,
+              51.9210275
+            ],
+            [
+              25.884639,
+              51.9207527
+            ],
+            [
+              25.8875832,
+              51.9205146
+            ],
+            [
+              25.8899062,
+              51.9193776
+            ],
+            [
+              25.8926582,
+              51.9192347
+            ],
+            [
+              25.8945609,
+              51.9194566
+            ],
+            [
+              25.8956851,
+              51.919773
+            ],
+            [
+              25.8988586,
+              51.9196758
+            ],
+            [
+              25.8992163,
+              51.9197433
+            ],
+            [
+              25.8999986,
+              51.9203966
+            ],
+            [
+              25.9015319,
+              51.9202879
+            ],
+            [
+              25.902802,
+              51.9208031
+            ],
+            [
+              25.9032839,
+              51.9211747
+            ],
+            [
+              25.9041366,
+              51.921369
+            ],
+            [
+              25.9076041,
+              51.9208103
+            ],
+            [
+              25.9101363,
+              51.919877
+            ],
+            [
+              25.9142689,
+              51.9188675
+            ],
+            [
+              25.9159637,
+              51.9181315
+            ],
+            [
+              25.9180346,
+              51.9169115
+            ],
+            [
+              25.9203622,
+              51.9160545
+            ],
+            [
+              25.9240427,
+              51.9154915
+            ],
+            [
+              25.9276679,
+              51.9154831
+            ],
+            [
+              25.9291332,
+              51.915694
+            ],
+            [
+              25.9299489,
+              51.9161404
+            ],
+            [
+              25.9312833,
+              51.9164507
+            ],
+            [
+              25.9317678,
+              51.9171792
+            ],
+            [
+              25.9326136,
+              51.9175571
+            ],
+            [
+              25.933199,
+              51.917626
+            ],
+            [
+              25.9337679,
+              51.9174961
+            ],
+            [
+              25.9335872,
+              51.9168005
+            ],
+            [
+              25.9341666,
+              51.9164922
+            ],
+            [
+              25.9352481,
+              51.9160494
+            ],
+            [
+              25.9370363,
+              51.9156952
+            ],
+            [
+              25.9377927,
+              51.9160922
+            ],
+            [
+              25.9379911,
+              51.917151
+            ],
+            [
+              25.9388441,
+              51.9178029
+            ],
+            [
+              25.9401932,
+              51.9181619
+            ],
+            [
+              25.9423926,
+              51.9181701
+            ],
+            [
+              25.9435379,
+              51.9187839
+            ],
+            [
+              25.9436989,
+              51.919123
+            ],
+            [
+              25.9430378,
+              51.9202878
+            ],
+            [
+              25.9433034,
+              51.9207918
+            ],
+            [
+              25.9438911,
+              51.9210199
+            ],
+            [
+              25.9459954,
+              51.9209066
+            ],
+            [
+              25.9478563,
+              51.9210023
+            ],
+            [
+              25.9486683,
+              51.9213278
+            ],
+            [
+              25.9499538,
+              51.9223058
+            ],
+            [
+              25.9505117,
+              51.9221569
+            ],
+            [
+              25.9500339,
+              51.9210187
+            ],
+            [
+              25.9502633,
+              51.9204984
+            ],
+            [
+              25.9533852,
+              51.9192222
+            ],
+            [
+              25.9546101,
+              51.9190966
+            ],
+            [
+              25.9552225,
+              51.9192325
+            ],
+            [
+              25.9556588,
+              51.9195106
+            ],
+            [
+              25.9558366,
+              51.9198415
+            ],
+            [
+              25.9557581,
+              51.9204001
+            ],
+            [
+              25.9554523,
+              51.920602
+            ],
+            [
+              25.954668,
+              51.9206819
+            ],
+            [
+              25.9535813,
+              51.9210594
+            ],
+            [
+              25.9532744,
+              51.9214059
+            ],
+            [
+              25.9532851,
+              51.921664
+            ],
+            [
+              25.9568846,
+              51.9234852
+            ],
+            [
+              25.9575069,
+              51.9234604
+            ],
+            [
+              25.9578288,
+              51.9226003
+            ],
+            [
+              25.9580755,
+              51.9224216
+            ],
+            [
+              25.9586081,
+              51.9224176
+            ],
+            [
+              25.9590545,
+              51.9226764
+            ],
+            [
+              25.9594803,
+              51.9236768
+            ],
+            [
+              25.959827,
+              51.9239037
+            ],
+            [
+              25.9603769,
+              51.9238657
+            ],
+            [
+              25.9618896,
+              51.9233546
+            ],
+            [
+              25.9630537,
+              51.9236705
+            ],
+            [
+              25.9644806,
+              51.9244364
+            ],
+            [
+              25.9654999,
+              51.924754
+            ],
+            [
+              25.9657466,
+              51.9245687
+            ],
+            [
+              25.9658486,
+              51.9239633
+            ],
+            [
+              25.9654194,
+              51.9222628
+            ],
+            [
+              25.9658378,
+              51.9221073
+            ],
+            [
+              25.9664011,
+              51.9221569
+            ],
+            [
+              25.9676324,
+              51.9234644
+            ],
+            [
+              25.967622,
+              51.9243108
+            ],
+            [
+              25.9670824,
+              51.9251642
+            ],
+            [
+              25.9669092,
+              51.9268353
+            ],
+            [
+              25.9670931,
+              51.9271524
+            ],
+            [
+              25.9674713,
+              51.9272433
+            ],
+            [
+              25.9684128,
+              51.9269357
+            ],
+            [
+              25.9695002,
+              51.9268481
+            ],
+            [
+              25.9721464,
+              51.9275427
+            ],
+            [
+              25.9728813,
+              51.9275262
+            ],
+            [
+              25.9731495,
+              51.9272566
+            ],
+            [
+              25.9720284,
+              51.9260971
+            ],
+            [
+              25.9720494,
+              51.9256054
+            ],
+            [
+              25.9723556,
+              51.9253792
+            ],
+            [
+              25.9750539,
+              51.9260375
+            ],
+            [
+              25.9748715,
+              51.9265834
+            ],
+            [
+              25.9750605,
+              51.9269336
+            ],
+            [
+              25.975424,
+              51.9269539
+            ],
+            [
+              25.9762663,
+              51.9262608
+            ],
+            [
+              25.9767947,
+              51.9262443
+            ],
+            [
+              25.9770387,
+              51.9271292
+            ],
+            [
+              25.977942,
+              51.928598
+            ],
+            [
+              25.9783819,
+              51.9289168
+            ],
+            [
+              25.9812142,
+              51.9298276
+            ],
+            [
+              25.981786,
+              51.9297997
+            ],
+            [
+              25.9835163,
+              51.9288791
+            ],
+            [
+              25.9844879,
+              51.9287218
+            ],
+            [
+              25.9849967,
+              51.9288947
+            ],
+            [
+              25.9854411,
+              51.9293765
+            ],
+            [
+              25.9853722,
+              51.9306468
+            ],
+            [
+              25.9859793,
+              51.9310983
+            ],
+            [
+              25.9877859,
+              51.9318508
+            ],
+            [
+              25.9895705,
+              51.9322168
+            ],
+            [
+              25.9947641,
+              51.9319899
+            ],
+            [
+              25.9949987,
+              51.9320704
+            ],
+            [
+              25.9948852,
+              51.9326175
+            ],
+            [
+              25.995369,
+              51.9334187
+            ],
+            [
+              25.9990596,
+              51.9330363
+            ],
+            [
+              25.9999276,
+              51.9301029
+            ],
+            [
+              26,
+              51.93010264043427
+            ],
+            [
+              26,
+              52
+            ],
+            [
+              25,
+              52
+            ],
+            [
+              25,
+              51.91599894197112
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -60199,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Ukraine",
+        "local_name": "Україна",
+        "name_en": "Ukraine",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+          "name": "Україна",
+          "name:ab": "Украина",
+          "name:af": "Oekraïne",
+          "name:am": "ዩክሬን",
+          "name:an": "Ucraína",
+          "name:ar": "أوكرانيا",
+          "name:az": "Ukrayna",
+          "name:ba": "Украина",
+          "name:be": "Украіна",
+          "name:bg": "Украйна",
+          "name:bi": "Ukraine",
+          "name:bn": "ইউক্রেন",
+          "name:bo": "ཨུཀ་རཡི་ནི།",
+          "name:br": "Ukraina",
+          "name:bs": "Ukrajina",
+          "name:ca": "Ucraïna",
+          "name:ce": "Украина",
+          "name:cs": "Ukrajina",
+          "name:cu": "Оукраина",
+          "name:cv": "Украина",
+          "name:cy": "Wcráin",
+          "name:da": "Ukraine",
+          "name:de": "Ukraine",
+          "name:dv": "ޔުކްރެއިން",
+          "name:ee": "Ukraine",
+          "name:el": "Ουκρανία",
+          "name:en": "Ukraine",
+          "name:eo": "Ukrainio",
+          "name:es": "Ucrania",
+          "name:et": "Ukraina",
+          "name:eu": "Ukraina",
+          "name:fa": "اوکراین",
+          "name:fi": "Ukraina",
+          "name:fo": "Ukraina",
+          "name:fr": "Ukraine",
+          "name:fy": "Oekraïne",
+          "name:ga": "An Úcráin",
+          "name:gd": "An Ucràin",
+          "name:gl": "Ucraína",
+          "name:gn": "Ukyaña",
+          "name:gu": "યુક્રેન",
+          "name:gv": "Yn Ookraan",
+          "name:he": "אוקראינה",
+          "name:hi": "युक्रेन",
+          "name:hr": "Ukrajina",
+          "name:ht": "Ikrèn",
+          "name:hu": "Ukrajna",
+          "name:hy": "Ուկրաինա",
+          "name:ia": "Ukraina",
+          "name:id": "Ukraina",
+          "name:ie": "Ucraina",
+          "name:ig": "Yukrain",
+          "name:io": "Ukrainia",
+          "name:is": "Úkraína",
+          "name:it": "Ucraina",
+          "name:ja": "ウクライナ",
+          "name:jv": "Ukraina",
+          "name:ka": "უკრაინა",
+          "name:kg": "Ukrayina",
+          "name:kk": "Украина",
+          "name:kl": "Ukraine",
+          "name:km": "អ៊ុយក្រែន",
+          "name:kn": "ಯುಕ್ರೇನ್",
+          "name:ko": "우크라이나",
+          "name:ku": "Ûkrayna",
+          "name:kv": "Украина",
+          "name:kw": "Ukrayn",
+          "name:ky": "Украина",
+          "name:la": "Ucraina",
+          "name:lb": "Ukrain",
+          "name:li": "Oekraïne",
+          "name:ln": "Ukraine",
+          "name:lt": "Ukraina",
+          "name:lv": "Ukraina",
+          "name:mg": "Okraina",
+          "name:mi": "Ūkareinga",
+          "name:mk": "Украина",
+          "name:ml": "ഉക്രൈൻ",
+          "name:mn": "Украйн",
+          "name:mr": "युक्रेन",
+          "name:ms": "Ukraine",
+          "name:mt": "Ukrajna",
+          "name:my": "ယူကရိန်းနိုင်ငံ",
+          "name:na": "Ukraine",
+          "name:ne": "युक्रेन",
+          "name:nl": "Oekraïne",
+          "name:nn": "Ukraina",
+          "name:no": "Ukraina",
+          "name:nv": "Yóókwein",
+          "name:oc": "Ucraïna",
+          "name:or": "ୟୁକ୍ରେନ",
+          "name:os": "Украинæ",
+          "name:pa": "ਯੂਕ੍ਰੇਨ",
+          "name:pl": "Ukraina",
+          "name:ps": "اوکراین",
+          "name:pt": "Ucrânia",
+          "name:qu": "Ukranya",
+          "name:rm": "Ucraina",
+          "name:ro": "Ucraina",
+          "name:ru": "Украина",
+          "name:rw": "Ikerene",
+          "name:sc": "Ucraina",
+          "name:se": "Ukraina",
+          "name:sh": "Ukrajina",
+          "name:sk": "Ukrajina",
+          "name:sl": "Ukrajina",
+          "name:sm": "Ukraine",
+          "name:sn": "Ukraine",
+          "name:so": "Ukrain",
+          "name:sq": "Ukraina",
+          "name:sr": "Украјина",
+          "name:ss": "IYukhureni",
+          "name:su": "Ukraina",
+          "name:sv": "Ukraina",
+          "name:sw": "Ukraine",
+          "name:ta": "உக்ரைன்",
+          "name:te": "ఉక్రెయిన్",
+          "name:tg": "Украйина",
+          "name:th": "ประเทศยูเครน",
+          "name:tk": "Ukraina",
+          "name:tl": "Ukranya",
+          "name:tr": "Ukrayna",
+          "name:ts": "Ukraine",
+          "name:tt": "Украина",
+          "name:tw": "Ukraine",
+          "name:ug": "ئۇكرائىنا",
+          "name:uk": "Україна",
+          "name:ur": "یوکرین",
+          "name:uz": "Ukraina",
+          "name:vi": "Ukraina",
+          "name:vo": "Lukrayän",
+          "name:wa": "Oucrinne",
+          "name:wo": "Ukreen",
+          "name:yi": "אוקראינע",
+          "name:yo": "Ukréìn",
+          "name:zh": "乌克兰/烏克蘭",
+          "boundary": "administrative",
+          "int_name": "Ukraine",
+          "name:ace": "Ukraina",
+          "name:als": "Ukraine",
+          "name:ang": "Ucrægna",
+          "name:arc": "ܐܘܩܪܐܝܢܐ",
+          "name:arz": "اوكرانيا",
+          "name:ast": "Ucraína",
+          "name:bar": "Ukraine",
+          "name:bcl": "Ukranya",
+          "name:bpy": "ইউক্রেন",
+          "name:bxr": "Украина",
+          "name:cdo": "Ŭ-káik-làng",
+          "name:ceb": "Ukranya",
+          "name:chr": "ᏳᎧᏪᏂ",
+          "name:chy": "Ukraine",
+          "name:ckb": "ئوکراینا",
+          "name:crh": "Ukraina",
+          "name:csb": "Ùkrajina",
+          "name:diq": "Ukrayna",
+          "name:dsb": "Ukraina",
+          "name:ext": "Ucránia",
+          "name:frp": "Ucrayena",
+          "name:frr": "Ukraine",
+          "name:gag": "Ukrayna",
+          "name:gan": "烏克蘭",
+          "name:hak": "Vû-khiet-làn",
+          "name:haw": "ʻUkelena",
+          "name:hif": "Ukraine",
+          "name:hsb": "Ukraina",
+          "name:ilo": "Ukrania",
+          "name:jbo": "vurgu'e",
+          "name:kaa": "Ukraina",
+          "name:kab": "Ukrayin",
+          "name:kbd": "Украинэ",
+          "name:koi": "Украина",
+          "name:krc": "Украина",
+          "name:lad": "Ukraina",
+          "name:lez": "Украина",
+          "name:lij": "Ucrainn-a",
+          "name:lmo": "Ücraina",
+          "name:ltg": "Ukraina",
+          "name:lzh": "烏克蘭",
+          "name:mdf": "Украин",
+          "name:mhr": "Украина",
+          "name:mwl": "Oucránia",
+          "name:myv": "Украина",
+          "name:mzn": "اوکراین",
+          "name:nah": "Ucrania",
+          "name:nan": "Ukrayina",
+          "name:nap": "Ucraina",
+          "name:nds": "Ukraine",
+          "name:new": "युक्रेन",
+          "name:nov": "Ukraina",
+          "name:nrm": "Ukraîne",
+          "name:pam": "Ukranya",
+          "name:pap": "Ukrania",
+          "name:pcd": "Oucrinne",
+          "name:pih": "Yukrayn",
+          "name:pms": "Ucrain-a",
+          "name:pnb": "یوکرین",
+          "name:pnt": "Ουκρανία",
+          "name:rmy": "Ukraina",
+          "name:rue": "Україна",
+          "name:sah": "Украина",
+          "name:scn": "Ucraina",
+          "name:sco": "Ukraine",
+          "name:smn": "Ukraina",
+          "name:sms": "Ukraina",
+          "name:stq": "Ukraine",
+          "name:szl": "Ukrajina",
+          "name:tok": "ma Ukawina",
+          "name:tpi": "Yukren",
+          "name:tum": "Ukraine",
+          "name:tzl": "Ucraína",
+          "name:udm": "Украина",
+          "name:vec": "Ucraina",
+          "name:vep": "Ukrain",
+          "name:vls": "Oekraïne",
+          "name:vro": "Ukraina",
+          "name:war": "Ukranya",
+          "name:xal": "Украинмудин Орн",
+          "name:xmf": "უკრაინა",
+          "name:yue": "烏克蘭",
+          "name:zea": "Oekraïne",
+          "way_area": "78.4038",
+          "wikidata": "Q212",
+          "ISO3166-1": "UA",
+          "wikipedia": "en:uk:Україна",
+          "admin_level": "2",
+          "alt_name:eo": "Ukrainujo",
+          "alt_name:vi": "Uy Kiên",
+          "name:nds-nl": "Oekraïne",
+          "old_name:vi": "Ô Khắc Lan",
+          "name:bat-smg": "Okraėna",
+          "name:cbk-zam": "Ukrania",
+          "name:zh-Hans": "乌克兰",
+          "name:zh-Hant": "烏克蘭",
+          "name:roa-tara": "Ucraine",
+          "official_name": "Україна",
+          "name:be-tarask": "Украіна",
+          "according_to:RU": "no",
+          "according_to:UA": "yes",
+          "ISO3166-1:alpha2": "UA",
+          "ISO3166-1:alpha3": "UKR",
+          "default_language": "uk",
+          "ISO3166-1:numeric": "804"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25,
+              51
+            ],
+            [
+              26,
+              51
+            ],
+            [
+              26,
+              51.93010264043427
+            ],
+            [
+              25.9999276,
+              51.9301029
+            ],
+            [
+              25.9990596,
+              51.9330363
+            ],
+            [
+              25.995369,
+              51.9334187
+            ],
+            [
+              25.9948852,
+              51.9326175
+            ],
+            [
+              25.9949987,
+              51.9320704
+            ],
+            [
+              25.9947641,
+              51.9319899
+            ],
+            [
+              25.9895705,
+              51.9322168
+            ],
+            [
+              25.9877859,
+              51.9318508
+            ],
+            [
+              25.9859793,
+              51.9310983
+            ],
+            [
+              25.9853722,
+              51.9306468
+            ],
+            [
+              25.9854411,
+              51.9293765
+            ],
+            [
+              25.9849967,
+              51.9288947
+            ],
+            [
+              25.9844879,
+              51.9287218
+            ],
+            [
+              25.9835163,
+              51.9288791
+            ],
+            [
+              25.981786,
+              51.9297997
+            ],
+            [
+              25.9812142,
+              51.9298276
+            ],
+            [
+              25.9783819,
+              51.9289168
+            ],
+            [
+              25.977942,
+              51.928598
+            ],
+            [
+              25.9770387,
+              51.9271292
+            ],
+            [
+              25.9767947,
+              51.9262443
+            ],
+            [
+              25.9762663,
+              51.9262608
+            ],
+            [
+              25.975424,
+              51.9269539
+            ],
+            [
+              25.9750605,
+              51.9269336
+            ],
+            [
+              25.9748715,
+              51.9265834
+            ],
+            [
+              25.9750539,
+              51.9260375
+            ],
+            [
+              25.9723556,
+              51.9253792
+            ],
+            [
+              25.9720494,
+              51.9256054
+            ],
+            [
+              25.9720284,
+              51.9260971
+            ],
+            [
+              25.9731495,
+              51.9272566
+            ],
+            [
+              25.9728813,
+              51.9275262
+            ],
+            [
+              25.9721464,
+              51.9275427
+            ],
+            [
+              25.9695002,
+              51.9268481
+            ],
+            [
+              25.9684128,
+              51.9269357
+            ],
+            [
+              25.9674713,
+              51.9272433
+            ],
+            [
+              25.9670931,
+              51.9271524
+            ],
+            [
+              25.9669092,
+              51.9268353
+            ],
+            [
+              25.9670824,
+              51.9251642
+            ],
+            [
+              25.967622,
+              51.9243108
+            ],
+            [
+              25.9676324,
+              51.9234644
+            ],
+            [
+              25.9664011,
+              51.9221569
+            ],
+            [
+              25.9658378,
+              51.9221073
+            ],
+            [
+              25.9654194,
+              51.9222628
+            ],
+            [
+              25.9658486,
+              51.9239633
+            ],
+            [
+              25.9657466,
+              51.9245687
+            ],
+            [
+              25.9654999,
+              51.924754
+            ],
+            [
+              25.9644806,
+              51.9244364
+            ],
+            [
+              25.9630537,
+              51.9236705
+            ],
+            [
+              25.9618896,
+              51.9233546
+            ],
+            [
+              25.9603769,
+              51.9238657
+            ],
+            [
+              25.959827,
+              51.9239037
+            ],
+            [
+              25.9594803,
+              51.9236768
+            ],
+            [
+              25.9590545,
+              51.9226764
+            ],
+            [
+              25.9586081,
+              51.9224176
+            ],
+            [
+              25.9580755,
+              51.9224216
+            ],
+            [
+              25.9578288,
+              51.9226003
+            ],
+            [
+              25.9575069,
+              51.9234604
+            ],
+            [
+              25.9568846,
+              51.9234852
+            ],
+            [
+              25.9532851,
+              51.921664
+            ],
+            [
+              25.9532744,
+              51.9214059
+            ],
+            [
+              25.9535813,
+              51.9210594
+            ],
+            [
+              25.954668,
+              51.9206819
+            ],
+            [
+              25.9554523,
+              51.920602
+            ],
+            [
+              25.9557581,
+              51.9204001
+            ],
+            [
+              25.9558366,
+              51.9198415
+            ],
+            [
+              25.9556588,
+              51.9195106
+            ],
+            [
+              25.9552225,
+              51.9192325
+            ],
+            [
+              25.9546101,
+              51.9190966
+            ],
+            [
+              25.9533852,
+              51.9192222
+            ],
+            [
+              25.9502633,
+              51.9204984
+            ],
+            [
+              25.9500339,
+              51.9210187
+            ],
+            [
+              25.9505117,
+              51.9221569
+            ],
+            [
+              25.9499538,
+              51.9223058
+            ],
+            [
+              25.9486683,
+              51.9213278
+            ],
+            [
+              25.9478563,
+              51.9210023
+            ],
+            [
+              25.9459954,
+              51.9209066
+            ],
+            [
+              25.9438911,
+              51.9210199
+            ],
+            [
+              25.9433034,
+              51.9207918
+            ],
+            [
+              25.9430378,
+              51.9202878
+            ],
+            [
+              25.9436989,
+              51.919123
+            ],
+            [
+              25.9435379,
+              51.9187839
+            ],
+            [
+              25.9423926,
+              51.9181701
+            ],
+            [
+              25.9401932,
+              51.9181619
+            ],
+            [
+              25.9388441,
+              51.9178029
+            ],
+            [
+              25.9379911,
+              51.917151
+            ],
+            [
+              25.9377927,
+              51.9160922
+            ],
+            [
+              25.9370363,
+              51.9156952
+            ],
+            [
+              25.9352481,
+              51.9160494
+            ],
+            [
+              25.9341666,
+              51.9164922
+            ],
+            [
+              25.9335872,
+              51.9168005
+            ],
+            [
+              25.9337679,
+              51.9174961
+            ],
+            [
+              25.933199,
+              51.917626
+            ],
+            [
+              25.9326136,
+              51.9175571
+            ],
+            [
+              25.9317678,
+              51.9171792
+            ],
+            [
+              25.9312833,
+              51.9164507
+            ],
+            [
+              25.9299489,
+              51.9161404
+            ],
+            [
+              25.9291332,
+              51.915694
+            ],
+            [
+              25.9276679,
+              51.9154831
+            ],
+            [
+              25.9240427,
+              51.9154915
+            ],
+            [
+              25.9203622,
+              51.9160545
+            ],
+            [
+              25.9180346,
+              51.9169115
+            ],
+            [
+              25.9159637,
+              51.9181315
+            ],
+            [
+              25.9142689,
+              51.9188675
+            ],
+            [
+              25.9101363,
+              51.919877
+            ],
+            [
+              25.9076041,
+              51.9208103
+            ],
+            [
+              25.9041366,
+              51.921369
+            ],
+            [
+              25.9032839,
+              51.9211747
+            ],
+            [
+              25.902802,
+              51.9208031
+            ],
+            [
+              25.9015319,
+              51.9202879
+            ],
+            [
+              25.8999986,
+              51.9203966
+            ],
+            [
+              25.8992163,
+              51.9197433
+            ],
+            [
+              25.8988586,
+              51.9196758
+            ],
+            [
+              25.8956851,
+              51.919773
+            ],
+            [
+              25.8945609,
+              51.9194566
+            ],
+            [
+              25.8926582,
+              51.9192347
+            ],
+            [
+              25.8899062,
+              51.9193776
+            ],
+            [
+              25.8875832,
+              51.9205146
+            ],
+            [
+              25.884639,
+              51.9207527
+            ],
+            [
+              25.8838045,
+              51.9210275
+            ],
+            [
+              25.8821672,
+              51.921963
+            ],
+            [
+              25.8797629,
+              51.9224139
+            ],
+            [
+              25.8777713,
+              51.922304
+            ],
+            [
+              25.8732006,
+              51.9210247
+            ],
+            [
+              25.8729078,
+              51.9211001
+            ],
+            [
+              25.8718801,
+              51.9220683
+            ],
+            [
+              25.8698694,
+              51.9227875
+            ],
+            [
+              25.868669,
+              51.9240405
+            ],
+            [
+              25.8681288,
+              51.9243206
+            ],
+            [
+              25.8665088,
+              51.9250378
+            ],
+            [
+              25.8641536,
+              51.925443
+            ],
+            [
+              25.857443,
+              51.9260129
+            ],
+            [
+              25.8540848,
+              51.9257997
+            ],
+            [
+              25.8497211,
+              51.9258665
+            ],
+            [
+              25.8447906,
+              51.925399
+            ],
+            [
+              25.8410305,
+              51.9258843
+            ],
+            [
+              25.8382165,
+              51.9258112
+            ],
+            [
+              25.8335998,
+              51.9262871
+            ],
+            [
+              25.8330102,
+              51.9262644
+            ],
+            [
+              25.8311571,
+              51.9254971
+            ],
+            [
+              25.8300666,
+              51.9245953
+            ],
+            [
+              25.8294778,
+              51.9244467
+            ],
+            [
+              25.8282655,
+              51.9242747
+            ],
+            [
+              25.8262847,
+              51.9246775
+            ],
+            [
+              25.8254818,
+              51.924642
+            ],
+            [
+              25.8222458,
+              51.9275857
+            ],
+            [
+              25.818598,
+              51.9286823
+            ],
+            [
+              25.8190083,
+              51.9299409
+            ],
+            [
+              25.8190513,
+              51.9319818
+            ],
+            [
+              25.8196395,
+              51.9371645
+            ],
+            [
+              25.8244576,
+              51.9370629
+            ],
+            [
+              25.8238692,
+              51.9430527
+            ],
+            [
+              25.8100826,
+              51.9461784
+            ],
+            [
+              25.7814961,
+              51.9455238
+            ],
+            [
+              25.7812944,
+              51.949584
+            ],
+            [
+              25.7773054,
+              51.9491586
+            ],
+            [
+              25.7770693,
+              51.9498596
+            ],
+            [
+              25.7654631,
+              51.950066
+            ],
+            [
+              25.7750555,
+              51.9324036
+            ],
+            [
+              25.770472,
+              51.9326784
+            ],
+            [
+              25.7674828,
+              51.930154
+            ],
+            [
+              25.7709876,
+              51.9241488
+            ],
+            [
+              25.77221,
+              51.9216115
+            ],
+            [
+              25.7584762,
+              51.9238773
+            ],
+            [
+              25.7538043,
+              51.923128
+            ],
+            [
+              25.7429472,
+              51.9209941
+            ],
+            [
+              25.7353349,
+              51.9200792
+            ],
+            [
+              25.7093274,
+              51.9161683
+            ],
+            [
+              25.6547606,
+              51.919506
+            ],
+            [
+              25.595957,
+              51.9238496
+            ],
+            [
+              25.5818799,
+              51.9270732
+            ],
+            [
+              25.5272637,
+              51.9404609
+            ],
+            [
+              25.5199195,
+              51.9289423
+            ],
+            [
+              25.5179109,
+              51.9261771
+            ],
+            [
+              25.508814,
+              51.9219391
+            ],
+            [
+              25.5072088,
+              51.9233649
+            ],
+            [
+              25.5058101,
+              51.9231864
+            ],
+            [
+              25.5051963,
+              51.9234294
+            ],
+            [
+              25.5036666,
+              51.9254044
+            ],
+            [
+              25.5004338,
+              51.9273432
+            ],
+            [
+              25.4991826,
+              51.9276707
+            ],
+            [
+              25.4974186,
+              51.9277561
+            ],
+            [
+              25.4966665,
+              51.9274168
+            ],
+            [
+              25.4955815,
+              51.9274095
+            ],
+            [
+              25.4944934,
+              51.9270052
+            ],
+            [
+              25.4950463,
+              51.9279803
+            ],
+            [
+              25.4917636,
+              51.9296865
+            ],
+            [
+              25.4878889,
+              51.930197
+            ],
+            [
+              25.4868307,
+              51.9298076
+            ],
+            [
+              25.4864809,
+              51.9294024
+            ],
+            [
+              25.4864069,
+              51.9264132
+            ],
+            [
+              25.4869038,
+              51.9258342
+            ],
+            [
+              25.4870506,
+              51.9245667
+            ],
+            [
+              25.4859604,
+              51.9233088
+            ],
+            [
+              25.4860094,
+              51.9225561
+            ],
+            [
+              25.475377,
+              51.9208489
+            ],
+            [
+              25.4696061,
+              51.9200891
+            ],
+            [
+              25.4685415,
+              51.9201579
+            ],
+            [
+              25.46895,
+              51.9198372
+            ],
+            [
+              25.4659048,
+              51.9203869
+            ],
+            [
+              25.4650878,
+              51.9190432
+            ],
+            [
+              25.4642461,
+              51.9191653
+            ],
+            [
+              25.4628596,
+              51.919715
+            ],
+            [
+              25.4612256,
+              51.9198525
+            ],
+            [
+              25.4601115,
+              51.919654
+            ],
+            [
+              25.4595669,
+              51.9191959
+            ],
+            [
+              25.4582795,
+              51.9191959
+            ],
+            [
+              25.4586508,
+              51.9210587
+            ],
+            [
+              25.4478318,
+              51.9218375
+            ],
+            [
+              25.4333721,
+              51.9219256
+            ],
+            [
+              25.4333238,
+              51.9223413
+            ],
+            [
+              25.409967,
+              51.9217271
+            ],
+            [
+              25.4057413,
+              51.9252537
+            ],
+            [
+              25.3967569,
+              51.9266316
+            ],
+            [
+              25.384705,
+              51.9269583
+            ],
+            [
+              25.3804552,
+              51.9266452
+            ],
+            [
+              25.3795231,
+              51.9273901
+            ],
+            [
+              25.3711383,
+              51.9280155
+            ],
+            [
+              25.3703193,
+              51.9300182
+            ],
+            [
+              25.3659897,
+              51.9340135
+            ],
+            [
+              25.3593892,
+              51.9345784
+            ],
+            [
+              25.3562048,
+              51.9339748
+            ],
+            [
+              25.3502846,
+              51.9320435
+            ],
+            [
+              25.3475217,
+              51.9319887
+            ],
+            [
+              25.3434602,
+              51.9327227
+            ],
+            [
+              25.3406449,
+              51.9351297
+            ],
+            [
+              25.3366763,
+              51.9392289
+            ],
+            [
+              25.3207737,
+              51.9408416
+            ],
+            [
+              25.3200837,
+              51.9444598
+            ],
+            [
+              25.3192737,
+              51.9449691
+            ],
+            [
+              25.3092795,
+              51.9490891
+            ],
+            [
+              25.3023482,
+              51.9540352
+            ],
+            [
+              25.2970479,
+              51.9552668
+            ],
+            [
+              25.2909829,
+              51.9555867
+            ],
+            [
+              25.2893398,
+              51.9593728
+            ],
+            [
+              25.2836525,
+              51.9612826
+            ],
+            [
+              25.2745382,
+              51.9622015
+            ],
+            [
+              25.2707844,
+              51.9634674
+            ],
+            [
+              25.2635815,
+              51.9685318
+            ],
+            [
+              25.2583397,
+              51.9688076
+            ],
+            [
+              25.2451215,
+              51.9669005
+            ],
+            [
+              25.2341315,
+              51.9611876
+            ],
+            [
+              25.2266751,
+              51.9607622
+            ],
+            [
+              25.2208346,
+              51.9625027
+            ],
+            [
+              25.2136208,
+              51.9666154
+            ],
+            [
+              25.1967226,
+              51.9687845
+            ],
+            [
+              25.1913842,
+              51.969265
+            ],
+            [
+              25.1802156,
+              51.9654147
+            ],
+            [
+              25.1653651,
+              51.9631424
+            ],
+            [
+              25.1560428,
+              51.9566171
+            ],
+            [
+              25.1416518,
+              51.9534181
+            ],
+            [
+              25.1170052,
+              51.9512973
+            ],
+            [
+              25.1001815,
+              51.9534968
+            ],
+            [
+              25.0800677,
+              51.9472495
+            ],
+            [
+              25.075993,
+              51.9449727
+            ],
+            [
+              25.0677322,
+              51.9409479
+            ],
+            [
+              25.0574597,
+              51.9387412
+            ],
+            [
+              25.0424711,
+              51.9308695
+            ],
+            [
+              25.02036,
+              51.9188733
+            ],
+            [
+              25,
+              51.91599894197112
+            ],
+            [
+              25,
+              51
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

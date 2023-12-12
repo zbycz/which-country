@@ -1,0 +1,576 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -307787,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cyprus",
+        "local_name": "Κύπρος - Kıbrıs",
+        "name_en": "Cyprus",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+          "name": "Κύπρος - Kıbrıs",
+          "name:af": "Siprus",
+          "name:am": "ቆጵሮስ",
+          "name:an": "Chipre",
+          "name:ar": "قبرص",
+          "name:az": "Kipr",
+          "name:be": "Кіпр",
+          "name:bg": "Кипър",
+          "name:bi": "Cyprus",
+          "name:bn": "সাইপ্রাস",
+          "name:bo": "སེ་པི་རི་སི།",
+          "name:br": "Kiprenez",
+          "name:bs": "Kipar",
+          "name:ca": "Xipre",
+          "name:ce": "Кипр",
+          "name:co": "Cipru",
+          "name:cs": "Kypr",
+          "name:cu": "Кѷпръ",
+          "name:cv": "Кипр",
+          "name:cy": "Cyprus",
+          "name:da": "Cypern",
+          "name:de": "Zypern",
+          "name:ee": "Cyprus",
+          "name:el": "Κύπρος",
+          "name:en": "Cyprus",
+          "name:eo": "Kipro",
+          "name:es": "Chipre",
+          "name:et": "Küpros",
+          "name:eu": "Zipre",
+          "name:fa": "قبرس",
+          "name:fi": "Kypros",
+          "name:fo": "Kýpros",
+          "name:fr": "Chypre",
+          "name:fy": "Syprus",
+          "name:ga": "An Chipir",
+          "name:gd": "Cìopras",
+          "name:gl": "Chipre",
+          "name:gn": "Chipre",
+          "name:gu": "સાયપ્રસ",
+          "name:gv": "Yn Cheeprey",
+          "name:he": "קפריסין",
+          "name:hi": "साइप्रस",
+          "name:hr": "Cipar",
+          "name:ht": "Chip",
+          "name:hu": "Ciprus",
+          "name:hy": "Կիպրոս",
+          "name:ia": "Cypro",
+          "name:id": "Siprus",
+          "name:ie": "Cypria",
+          "name:io": "Chipro",
+          "name:is": "Kýpur",
+          "name:it": "Cipro",
+          "name:ja": "キプロス",
+          "name:jv": "Siprus",
+          "name:ka": "კვიპროსი",
+          "name:kg": "Kipros",
+          "name:kk": "Кипр",
+          "name:kl": "Cyperni",
+          "name:kn": "ಕಿಪ್ರೊಸ್",
+          "name:ko": "키프로스",
+          "name:ku": "Kîpros",
+          "name:kv": "Кипр",
+          "name:kw": "Kobros",
+          "name:la": "Cyprus",
+          "name:lb": "Zypern",
+          "name:li": "Cyprus",
+          "name:lt": "Kipras",
+          "name:lv": "Kipra",
+          "name:mg": "Kipra",
+          "name:mi": "Haipara",
+          "name:mk": "Кипар",
+          "name:ml": "സൈപ്രസ്",
+          "name:mn": "Кипр",
+          "name:mr": "सायप्रस",
+          "name:ms": "Cyprus",
+          "name:mt": "Ċipru",
+          "name:my": "ဆိုက်ပရပ်စ်နိုင်ငံ",
+          "name:na": "Taiprus",
+          "name:nb": "Kypros",
+          "name:ne": "साइप्रस",
+          "name:nl": "Cyprus",
+          "name:nn": "Kypros",
+          "name:no": "Kypros",
+          "name:nv": "Béésh Łichíiʼii Bikéyah",
+          "name:oc": "Chipre",
+          "name:or": "ସାଇପ୍ରସ",
+          "name:os": "Кипр",
+          "name:pa": "ਸਾਇਪ੍ਰਸ",
+          "name:pl": "Cypr",
+          "name:pt": "Chipre",
+          "name:qu": "Kipru",
+          "name:rm": "Cipra",
+          "name:ro": "Cipru",
+          "name:ru": "Кипр",
+          "name:rw": "Shipure",
+          "name:sc": "Tzipru",
+          "name:se": "Kypros",
+          "name:sh": "Cipar",
+          "name:si": "සයිප්‍රස්",
+          "name:sk": "Cyprus",
+          "name:sl": "Ciper",
+          "name:sm": "Cyprus",
+          "name:so": "Qabrus",
+          "name:sq": "Qiproja",
+          "name:sr": "Кипар",
+          "name:ss": "ISayiphro",
+          "name:su": "Siprus",
+          "name:sv": "Cypern",
+          "name:sw": "Kupro",
+          "name:ta": "சைப்பிரஸ்",
+          "name:te": "సైప్రస్",
+          "name:tg": "Кипр",
+          "name:th": "ประเทศไซปรัส",
+          "name:tk": "Kipr",
+          "name:tl": "Tsipre",
+          "name:tr": "Kıbrıs",
+          "name:tt": "Кипр",
+          "name:ug": "سىپرۇس",
+          "name:uk": "Кіпр",
+          "name:ur": "قبرص",
+          "name:uz": "Qibris",
+          "name:vi": "Síp",
+          "name:vo": "Sipreän",
+          "name:wo": "Ciipër",
+          "name:yi": "קיפראס",
+          "name:yo": "Kíprù",
+          "name:zh": "赛普勒斯/塞浦路斯/塞浦路斯",
+          "boundary": "administrative",
+          "name:ace": "Siprus",
+          "name:ang": "Cipros",
+          "name:arc": "ܩܘܦܪܘܣ",
+          "name:arz": "قبرص",
+          "name:ast": "Xipre",
+          "name:bar": "Zypern",
+          "name:bcl": "Siprus",
+          "name:bpy": "সাইপ্রাস",
+          "name:bxr": "Кипр",
+          "name:ceb": "Tsipre",
+          "name:ckb": "قوبرس",
+          "name:crh": "Qıbrız",
+          "name:csb": "Cyper",
+          "name:diq": "Qıbrısi",
+          "name:dsb": "Cypern",
+          "name:ext": "Chipri",
+          "name:frp": "Ch·ipre",
+          "name:frr": "Zypern",
+          "name:fur": "Cipri",
+          "name:gsw": "Zypern",
+          "name:hak": "Set-phû-lu-sṳ̂",
+          "name:haw": "Kupelo",
+          "name:hif": "Cyprus",
+          "name:hsb": "Cypernska",
+          "name:ilo": "Cyprus",
+          "name:kaa": "Kipr",
+          "name:krc": "Кипр",
+          "name:lad": "Kipre",
+          "name:lez": "Кипр",
+          "name:lij": "Çipro",
+          "name:lmo": "Cipru",
+          "name:ltg": "Kipra",
+          "name:mdf": "Кипра",
+          "name:mhr": "Кипр",
+          "name:nah": "Chipre",
+          "name:nan": "Ku-pí-lō͘",
+          "name:nap": "Cipro",
+          "name:nds": "Zypern",
+          "name:new": "साइप्रस",
+          "name:nov": "Kiprus",
+          "name:nrm": "Chypre",
+          "name:pag": "Kiprô",
+          "name:pam": "Sipre",
+          "name:pih": "Siipris",
+          "name:pms": "Cipro",
+          "name:pnb": "قبرص",
+          "name:pnt": "Κύπρος",
+          "name:rue": "Ціпрус",
+          "name:sah": "Кипр",
+          "name:scn": "Cipru",
+          "name:sco": "Cyprus",
+          "name:smn": "Kypros",
+          "name:sms": "Kypros",
+          "name:srn": "Sipruskondre",
+          "name:stq": "Zypern",
+          "name:szl": "Cypr",
+          "name:tet": "Xipre",
+          "name:tpi": "Saipras",
+          "name:tzl": "Cüpris",
+          "name:udm": "Кипр",
+          "name:vec": "Sipro",
+          "name:vep": "Kipr",
+          "name:vls": "Cyprus",
+          "name:vro": "Küprüs",
+          "name:war": "Tsipre",
+          "name:wuu": "塞浦路斯",
+          "name:xal": "Кипр",
+          "name:xmf": "კვიპროსი",
+          "name:yue": "塞浦路斯",
+          "name:zea": "Cyprus",
+          "timezone": "Europe/Nicosia",
+          "way_area": "2.26543",
+          "wikidata": "Q229",
+          "ISO3166-1": "CY",
+          "wikipedia": "en:Cyprus",
+          "admin_level": "2",
+          "border_type": "nation",
+          "description": "This is the full country, de jure, as recognized by the United Nations",
+          "name:nds-nl": "Cyprus",
+          "driving_side": "left",
+          "name:zh-Hans": "塞浦路斯",
+          "name:zh-Hant": "赛普勒斯",
+          "official_name": "Κυπριακή Δημοκρατία - Kıbrıs Cumhuriyeti",
+          "ISO3166-1:alpha2": "CY",
+          "ISO3166-1:alpha3": "CYP",
+          "official_name:ar": "جمهورية قبرص",
+          "official_name:az": "Kipr Respublikası",
+          "official_name:br": "Republik Kiprenez",
+          "official_name:cs": "Kyperská republika",
+          "official_name:cv": "Кипр Республики",
+          "official_name:de": "Republik Zypern",
+          "official_name:el": "Κυπριακή Δημοκρατία",
+          "official_name:en": "Republic of Cyprus",
+          "official_name:eo": "Respubliko Kipro",
+          "official_name:fi": "Kyproksen tasavalta",
+          "official_name:fr": "République de Chypre",
+          "official_name:hu": "Ciprusi Köztársaság",
+          "official_name:mg": "Repoblikan'i Kipra",
+          "official_name:nb": "Republikken Kypros",
+          "official_name:nn": "Republikken Kypros",
+          "official_name:no": "Republikken Kypros",
+          "official_name:ru": "Республика Кипр",
+          "official_name:so": "Jasiirada Qabrus",
+          "official_name:tk": "Kipr Respublikasy",
+          "official_name:tr": "Kıbrıs Cumhuriyeti",
+          "official_name:tt": "Кипр Республикасы",
+          "official_name:uz": "Qibris Respublikasi",
+          "official_name:vi": "Cộng hòa Síp",
+          "ISO3166-1:numeric": "196",
+          "official_name:ast": "República de Xipre",
+          "official_name:bar": "Republik Zypern",
+          "official_name:crh": "Qıbrız Cumhuriyeti",
+          "official_name:diq": "Cumhuriyetê Qıbrısi",
+          "official_name:gsw": "Republik Zypern",
+          "official_name:lad": "Repuvlika Kipriyota",
+          "official_name:nds": "Republiek Zypern",
+          "official_name:xal": "Кипрудин Орн"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              35
+            ],
+            [
+              34.329224224675905,
+              35
+            ],
+            [
+              34.3258653,
+              35.0121945
+            ],
+            [
+              34.3152776,
+              35.0437044
+            ],
+            [
+              34.3116186,
+              35.0535785
+            ],
+            [
+              34.3060106,
+              35.0660573
+            ],
+            [
+              34.2910109,
+              35.0940135
+            ],
+            [
+              34.2875224,
+              35.1001736
+            ],
+            [
+              34.2799737,
+              35.1119422
+            ],
+            [
+              34.2742149,
+              35.1198269
+            ],
+            [
+              34.2305182,
+              35.1766451
+            ],
+            [
+              34.2411338,
+              35.1847775
+            ],
+            [
+              34.2522748,
+              35.194438
+            ],
+            [
+              34.2626251,
+              35.204675
+            ],
+            [
+              34.27214,
+              35.215445
+            ],
+            [
+              34.2807788,
+              35.2267019
+            ],
+            [
+              34.2881837,
+              35.2378745
+            ],
+            [
+              34.4483829,
+              35.3250481
+            ],
+            [
+              34.4609357,
+              35.3323306
+            ],
+            [
+              34.5548391,
+              35.3915507
+            ],
+            [
+              34.7020984,
+              35.4744681
+            ],
+            [
+              34.7107085,
+              35.4795299
+            ],
+            [
+              34.723384,
+              35.4878644
+            ],
+            [
+              34.7353685,
+              35.496858
+            ],
+            [
+              34.7466108,
+              35.5064722
+            ],
+            [
+              34.7588032,
+              35.517909
+            ],
+            [
+              34.7667921,
+              35.5258175
+            ],
+            [
+              34.7764111,
+              35.5365469
+            ],
+            [
+              34.7851536,
+              35.547767
+            ],
+            [
+              34.7929818,
+              35.5594298
+            ],
+            [
+              34.8297536,
+              35.6205004
+            ],
+            [
+              34.8352711,
+              35.6303095
+            ],
+            [
+              34.8411831,
+              35.6427048
+            ],
+            [
+              34.8460909,
+              35.655389
+            ],
+            [
+              34.8499733,
+              35.6683078
+            ],
+            [
+              34.8528129,
+              35.6814061
+            ],
+            [
+              34.8545973,
+              35.6946277
+            ],
+            [
+              34.8553182,
+              35.7079163
+            ],
+            [
+              34.8549721,
+              35.7212147
+            ],
+            [
+              34.8535598,
+              35.7344662
+            ],
+            [
+              34.8510871,
+              35.7476138
+            ],
+            [
+              34.8475638,
+              35.7606013
+            ],
+            [
+              34.8430047,
+              35.773373
+            ],
+            [
+              34.8374288,
+              35.785874
+            ],
+            [
+              34.8308596,
+              35.7980506
+            ],
+            [
+              34.8233249,
+              35.8098507
+            ],
+            [
+              34.8148566,
+              35.8212234
+            ],
+            [
+              34.8054907,
+              35.83212
+            ],
+            [
+              34.7952672,
+              35.8424935
+            ],
+            [
+              34.7842297,
+              35.8522992
+            ],
+            [
+              34.7724255,
+              35.8614952
+            ],
+            [
+              34.7599052,
+              35.8700417
+            ],
+            [
+              34.7467224,
+              35.8779019
+            ],
+            [
+              34.7329337,
+              35.885042
+            ],
+            [
+              34.7185984,
+              35.8914312
+            ],
+            [
+              34.7037781,
+              35.8970419
+            ],
+            [
+              34.6885369,
+              35.9018501
+            ],
+            [
+              34.67294,
+              35.905835
+            ],
+            [
+              34.6570549,
+              35.9089793
+            ],
+            [
+              34.6409502,
+              35.9112695
+            ],
+            [
+              34.624695,
+              35.9126959
+            ],
+            [
+              34.6083597,
+              35.913252
+            ],
+            [
+              34.5920147,
+              35.9129357
+            ],
+            [
+              34.5757305,
+              35.9117483
+            ],
+            [
+              34.5595775,
+              35.9096948
+            ],
+            [
+              34.5436251,
+              35.9067842
+            ],
+            [
+              34.5279422,
+              35.9030289
+            ],
+            [
+              34.5133874,
+              35.8987045
+            ],
+            [
+              34.3372559,
+              35.8410927
+            ],
+            [
+              34.0763676,
+              35.7472477
+            ],
+            [
+              34.0679975,
+              35.7440686
+            ],
+            [
+              34.0535821,
+              35.7378398
+            ],
+            [
+              34.0396994,
+              35.730854
+            ],
+            [
+              34.0264094,
+              35.7231413
+            ],
+            [
+              34,
+              35.706356330707855
+            ],
+            [
+              34,
+              35
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

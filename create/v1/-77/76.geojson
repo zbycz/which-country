@@ -1,0 +1,642 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1428125,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Canada",
+        "local_name": "Canada",
+        "name_en": "Canada",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+          "name": "Canada",
+          "name:ab": "Канада",
+          "name:af": "Kanada",
+          "name:am": "ካናዳ",
+          "name:an": "Canadá",
+          "name:ar": "كندا",
+          "name:as": "কানাডা",
+          "name:av": "Канада",
+          "name:ay": "Kanada",
+          "name:az": "Kanada",
+          "name:ba": "Канада",
+          "name:be": "Канада",
+          "name:bg": "Канада",
+          "name:bi": "Kanada",
+          "name:bm": "Kanada",
+          "name:bn": "কানাডা",
+          "name:bo": "ཁ་ན་ཌ།",
+          "name:br": "Kanada",
+          "name:bs": "Kanada",
+          "name:ca": "Canadà",
+          "name:ce": "Канада",
+          "name:co": "Canadà",
+          "name:cr": "ᑳᓇᑖ",
+          "name:cs": "Kanada",
+          "name:cu": "Канада",
+          "name:cv": "Канада",
+          "name:cy": "Canada",
+          "name:da": "Canada",
+          "name:de": "Kanada",
+          "name:dv": "ކެނެޑާ",
+          "name:dz": "ཀེ་ན་ཌ་",
+          "name:ee": "Canada",
+          "name:el": "Καναδάς",
+          "name:en": "Canada",
+          "name:eo": "Kanado",
+          "name:es": "Canadá",
+          "name:et": "Kanada",
+          "name:eu": "Kanada",
+          "name:fa": "کانادا",
+          "name:fi": "Kanada",
+          "name:fo": "Kanada",
+          "name:fr": "Canada",
+          "name:fy": "Kanada",
+          "name:ga": "Ceanada",
+          "name:gd": "Canada",
+          "name:gl": "Canadá",
+          "name:gn": "Kanatã",
+          "name:gu": "કેનેડા",
+          "name:gv": "Yn Chanadey",
+          "name:ha": "Kanada",
+          "name:he": "קנדה",
+          "name:hi": "कनाडा",
+          "name:hr": "Kanada",
+          "name:ht": "Kanada",
+          "name:hu": "Kanada",
+          "name:hy": "Կանադա",
+          "name:ia": "Canada",
+          "name:id": "Kanada",
+          "name:ie": "Canada",
+          "name:ig": "Kánada",
+          "name:ik": "Kanada",
+          "name:io": "Kanada",
+          "name:is": "Kanada",
+          "name:it": "Canada",
+          "name:iu": "ᑲᓇᑕ",
+          "name:ja": "カナダ",
+          "name:jv": "Kanada",
+          "name:ka": "კანადა",
+          "name:ki": "Canada",
+          "name:kk": "Канада",
+          "name:kl": "Canada",
+          "name:km": "កាណាដា",
+          "name:kn": "ಕೆನಡಾ",
+          "name:ko": "캐나다",
+          "name:ku": "Kanada",
+          "name:kv": "Канада",
+          "name:kw": "Kanada",
+          "name:ky": "Канада",
+          "name:la": "Canada",
+          "name:lb": "Kanada",
+          "name:li": "Canada",
+          "name:ln": "Kanadá",
+          "name:lt": "Kanada",
+          "name:lv": "Kanāda",
+          "name:mg": "Kanada",
+          "name:mi": "Kānata",
+          "name:mk": "Канада",
+          "name:ml": "കാനഡ",
+          "name:mn": "Канад",
+          "name:mr": "कॅनडा",
+          "name:ms": "Kanada",
+          "name:mt": "Kanada",
+          "name:my": "ကနေဒါနိုင်ငံ",
+          "name:na": "Kanada",
+          "name:ne": "क्यानाडा",
+          "name:nl": "Canada",
+          "name:nn": "Canada",
+          "name:no": "Canada",
+          "name:nv": "Deeteel Bikéyah",
+          "name:oc": "Canadà",
+          "name:om": "Canada",
+          "name:or": "କାନାଡ଼ା",
+          "name:os": "Канадæ",
+          "name:pa": "ਕੈਨੇਡਾ",
+          "name:pl": "Kanada",
+          "name:ps": "کاناډا",
+          "name:pt": "Canadá",
+          "name:qu": "Kanada",
+          "name:rm": "Canada",
+          "name:rn": "Kanada",
+          "name:ro": "Canada",
+          "name:ru": "Канада",
+          "name:rw": "Kanada",
+          "name:sa": "केनडा",
+          "name:sc": "Canada",
+          "name:se": "Kanáda",
+          "name:sg": "Kanadäa",
+          "name:sh": "Kanada",
+          "name:sk": "Kanada",
+          "name:sl": "Kanada",
+          "name:sn": "Canada",
+          "name:so": "Kanada",
+          "name:sq": "Kanadaja",
+          "name:sr": "Канада",
+          "name:ss": "IKhanada",
+          "name:su": "Kanada",
+          "name:sv": "Kanada",
+          "name:sw": "Kanada",
+          "name:ta": "கனடா",
+          "name:te": "కెనడా",
+          "name:tg": "Канада",
+          "name:th": "ประเทศแคนาดา",
+          "name:tk": "Kanada",
+          "name:tl": "Kanada",
+          "name:tr": "Kanada",
+          "name:ts": "Canada",
+          "name:tt": "Канада",
+          "name:tw": "Kanada",
+          "name:ty": "Tanata",
+          "name:ug": "كانادا",
+          "name:uk": "Канада",
+          "name:ur": "کینیڈا",
+          "name:uz": "Kanada",
+          "name:vi": "Canada",
+          "name:vo": "Kanadän",
+          "name:wa": "Canada",
+          "name:wo": "Kanadaa",
+          "name:yi": "קאנאדע",
+          "name:yo": "Kánádà",
+          "name:zh": "加拿大",
+          "name:zu": "IKhanada",
+          "boundary": "administrative",
+          "int_name": "Canada",
+          "name:ace": "Kanada",
+          "name:als": "Kanada",
+          "name:ang": "Canada",
+          "name:arc": "ܩܢܕܐ",
+          "name:arz": "كندا",
+          "name:ast": "Canadá",
+          "name:bar": "Kanada",
+          "name:bcl": "Kanada",
+          "name:bpy": "কানাডা",
+          "name:bxr": "Канада",
+          "name:cdo": "Gă-nā-dâi",
+          "name:ceb": "Canada",
+          "name:chr": "ᎨᎾᏓ",
+          "name:chy": "Canada",
+          "name:ckb": "کەنەدا",
+          "name:crh": "Kanada",
+          "name:csb": "Kanada",
+          "name:diq": "Kanada",
+          "name:dsb": "Kanada",
+          "name:ext": "Canadá",
+          "name:frp": "Canada",
+          "name:frr": "Kanada",
+          "name:fur": "Canade",
+          "name:gag": "Kanada",
+          "name:gan": "加拿大",
+          "name:hak": "Kâ-nâ-thai",
+          "name:haw": "Kanakā",
+          "name:hif": "Canada",
+          "name:hsb": "Kanada",
+          "name:ilo": "Kánada",
+          "name:jbo": "kadnygu'e",
+          "name:kab": "Kanada",
+          "name:kbd": "Канадэ",
+          "name:krc": "Канада",
+          "name:lad": "Kanada",
+          "name:lez": "Канада",
+          "name:lij": "Canada",
+          "name:lmo": "Canada",
+          "name:ltg": "Kanada",
+          "name:lzh": "加拿大",
+          "name:mdf": "Канада",
+          "name:mhr": "Канаде",
+          "name:mrj": "Канада",
+          "name:mzn": "کانادا",
+          "name:nah": "Canada",
+          "name:nan": "Canada",
+          "name:nap": "Canadà",
+          "name:nds": "Kanada",
+          "name:new": "क्यानाडा",
+          "name:nov": "Kanada",
+          "name:nrm": "Cannada",
+          "name:pag": "Canada",
+          "name:pam": "Canada",
+          "name:pap": "Canada",
+          "name:pcd": "Canada",
+          "name:pdc": "Kanadaa",
+          "name:pih": "Kaneda",
+          "name:pms": "Canadà",
+          "name:pnb": "کینیڈا",
+          "name:rmy": "Kanada",
+          "name:rue": "Канада",
+          "name:sah": "Канаада",
+          "name:scn": "Canadà",
+          "name:sco": "Canadae",
+          "name:smn": "Kanada",
+          "name:sms": "Kanada",
+          "name:srn": "Kanadakondre",
+          "name:stq": "Kanada",
+          "name:szl": "Kanada",
+          "name:tet": "Kanadá",
+          "name:tpi": "Kanada",
+          "name:tzl": "Canadà",
+          "name:vec": "Canada",
+          "name:vep": "Kanad",
+          "name:vls": "Canada",
+          "name:vro": "Kanada",
+          "name:war": "Kanada",
+          "name:wuu": "加拿大",
+          "name:xal": "Канадин Орн",
+          "name:xmf": "კანადა",
+          "name:yue": "加拿大",
+          "name:zea": "Canada",
+          "way_area": "2290.34",
+          "wikidata": "Q16",
+          "ISO3166-1": "CA",
+          "wikipedia": "en:Canada",
+          "admin_level": "2",
+          "alt_name:vi": "Ca-na-đa",
+          "border_type": "national",
+          "name:nds-nl": "Kannede",
+          "old_name:vi": "Gia Nã Đại",
+          "capital_city": "Ottawa",
+          "name:bat-smg": "Kanada",
+          "name:iu-Latn": "kanata",
+          "name:roa-rup": "Canada",
+          "name:roa-tara": "Canada",
+          "official_name": "Canada",
+          "name:be-tarask": "Канада",
+          "name:zh_pinyin": "Jiānádà",
+          "ISO3166-1:alpha2": "CA",
+          "ISO3166-1:alpha3": "CAN",
+          "default_language": "en",
+          "official_name:en": "Canada",
+          "official_name:fr": "Canada",
+          "ISO3166-1:numeric": "124",
+          "country_code_fips": "CA"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77,
+              76.59163929581297
+            ],
+            [
+              -76.9946567,
+              76.5944539
+            ],
+            [
+              -76.9835372,
+              76.6009067
+            ],
+            [
+              -76.9733858,
+              76.607445
+            ],
+            [
+              -76.9642158,
+              76.6140614
+            ],
+            [
+              -76.9560403,
+              76.6207472
+            ],
+            [
+              -76.9523289,
+              76.6241139
+            ],
+            [
+              -76.94887,
+              76.627495
+            ],
+            [
+              -76.9427153,
+              76.6342967
+            ],
+            [
+              -76.9400217,
+              76.6377147
+            ],
+            [
+              -76.9375853,
+              76.6411433
+            ],
+            [
+              -76.9354069,
+              76.6445814
+            ],
+            [
+              -76.9334875,
+              76.6480275
+            ],
+            [
+              -76.9318278,
+              76.6514808
+            ],
+            [
+              -76.9304283,
+              76.6549403
+            ],
+            [
+              -76.9292903,
+              76.6584047
+            ],
+            [
+              -76.9284136,
+              76.6618733
+            ],
+            [
+              -76.9277989,
+              76.665345
+            ],
+            [
+              -76.9274469,
+              76.6688186
+            ],
+            [
+              -76.9273575,
+              76.6722931
+            ],
+            [
+              -76.9275311,
+              76.6757675
+            ],
+            [
+              -76.9279678,
+              76.6792406
+            ],
+            [
+              -76.9286678,
+              76.6827114
+            ],
+            [
+              -76.9294225,
+              76.6855033
+            ],
+            [
+              -76.9253297,
+              76.6897722
+            ],
+            [
+              -76.9223661,
+              76.6931792
+            ],
+            [
+              -76.91966,
+              76.6965972
+            ],
+            [
+              -76.9172119,
+              76.7000258
+            ],
+            [
+              -76.9150231,
+              76.7034636
+            ],
+            [
+              -76.9130942,
+              76.7069097
+            ],
+            [
+              -76.9114264,
+              76.7103631
+            ],
+            [
+              -76.91002,
+              76.7138225
+            ],
+            [
+              -76.9088756,
+              76.7172869
+            ],
+            [
+              -76.9079942,
+              76.7207556
+            ],
+            [
+              -76.9073758,
+              76.7242272
+            ],
+            [
+              -76.9070214,
+              76.7277008
+            ],
+            [
+              -76.9069306,
+              76.7311753
+            ],
+            [
+              -76.9071039,
+              76.7346497
+            ],
+            [
+              -76.9075414,
+              76.7381228
+            ],
+            [
+              -76.9082433,
+              76.7415933
+            ],
+            [
+              -76.9097869,
+              76.7467783
+            ],
+            [
+              -76.9026575,
+              76.7529894
+            ],
+            [
+              -76.8959261,
+              76.7597647
+            ],
+            [
+              -76.8929458,
+              76.7631717
+            ],
+            [
+              -76.8902244,
+              76.7665897
+            ],
+            [
+              -76.8877625,
+              76.7700181
+            ],
+            [
+              -76.8855608,
+              76.7734558
+            ],
+            [
+              -76.8836208,
+              76.7769019
+            ],
+            [
+              -76.8819431,
+              76.7803553
+            ],
+            [
+              -76.8805283,
+              76.7838147
+            ],
+            [
+              -76.8795494,
+              76.786705
+            ],
+            [
+              -76.8752111,
+              76.7925156
+            ],
+            [
+              -76.8730056,
+              76.7959533
+            ],
+            [
+              -76.8710619,
+              76.7993994
+            ],
+            [
+              -76.8693808,
+              76.8028528
+            ],
+            [
+              -76.8679631,
+              76.8063119
+            ],
+            [
+              -76.8668094,
+              76.8097767
+            ],
+            [
+              -76.8659203,
+              76.813245
+            ],
+            [
+              -76.8652961,
+              76.8167167
+            ],
+            [
+              -76.8649375,
+              76.8201903
+            ],
+            [
+              -76.8648444,
+              76.8236647
+            ],
+            [
+              -76.8650172,
+              76.8271389
+            ],
+            [
+              -76.8654564,
+              76.8306119
+            ],
+            [
+              -76.8661614,
+              76.8340828
+            ],
+            [
+              -76.8671328,
+              76.8375503
+            ],
+            [
+              -76.8683703,
+              76.8410133
+            ],
+            [
+              -76.8698736,
+              76.8444708
+            ],
+            [
+              -76.8716428,
+              76.8479219
+            ],
+            [
+              -76.8736769,
+              76.8513653
+            ],
+            [
+              -76.8759761,
+              76.8548003
+            ],
+            [
+              -76.8785397,
+              76.8582256
+            ],
+            [
+              -76.8813672,
+              76.86164
+            ],
+            [
+              -76.8844578,
+              76.8650425
+            ],
+            [
+              -76.8878108,
+              76.8684325
+            ],
+            [
+              -76.8953006,
+              76.8751694
+            ],
+            [
+              -76.9038289,
+              76.8818428
+            ],
+            [
+              -76.9084797,
+              76.8851531
+            ],
+            [
+              -76.9185486,
+              76.8917153
+            ],
+            [
+              -76.9239639,
+              76.8949656
+            ],
+            [
+              -76.9355486,
+              76.9013983
+            ],
+            [
+              -76.9417147,
+              76.9045794
+            ],
+            [
+              -76.9547864,
+              76.910865
+            ],
+            [
+              -76.9730233,
+              76.9187883
+            ],
+            [
+              -76.9773472,
+              76.9241328
+            ],
+            [
+              -76.9804511,
+              76.9275356
+            ],
+            [
+              -76.9874492,
+              76.9343014
+            ],
+            [
+              -76.995495,
+              76.9410078
+            ],
+            [
+              -77,
+              76.94429507533708
+            ],
+            [
+              -77,
+              76.59163929581297
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

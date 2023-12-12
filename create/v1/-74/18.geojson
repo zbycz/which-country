@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -307829,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Haiti",
+        "local_name": "Ayiti",
+        "name_en": "Haiti",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+          "name": "Ayiti",
+          "name:af": "Haïti",
+          "name:am": "ሃይቲ",
+          "name:an": "Haití",
+          "name:ar": "هايتي",
+          "name:ay": "Ayti",
+          "name:az": "Haiti Respublikası",
+          "name:be": "Гаіці",
+          "name:bg": "Хаити",
+          "name:bm": "Ayiti",
+          "name:bn": "হাইতি",
+          "name:bo": "ཧའི་ཏི།",
+          "name:br": "Republik Haiti",
+          "name:bs": "Haiti",
+          "name:ca": "Haití",
+          "name:ce": "Гаити Пачхьалкх",
+          "name:co": "Haiti",
+          "name:cs": "Haiti",
+          "name:cv": "Гаити",
+          "name:cy": "Haiti",
+          "name:da": "Haiti",
+          "name:de": "Haiti",
+          "name:dv": "ހެއިޓީ",
+          "name:ee": "Haiti",
+          "name:el": "Αϊτή",
+          "name:en": "Haiti",
+          "name:eo": "Haitio",
+          "name:es": "Haití",
+          "name:et": "Haiti",
+          "name:eu": "Haiti",
+          "name:fa": "هائیتی",
+          "name:fi": "Haiti",
+          "name:fo": "Haiti",
+          "name:fr": "Haïti",
+          "name:fy": "Haïty",
+          "name:ga": "Háítí",
+          "name:gd": "Haiti",
+          "name:gl": "Haití - Haïti",
+          "name:gn": "Haiti",
+          "name:gu": "હૈતી",
+          "name:gv": "Haiti",
+          "name:he": "האיטי",
+          "name:hi": "हैती",
+          "name:hr": "Haiti",
+          "name:ht": "Ayiti",
+          "name:hu": "Haiti",
+          "name:hy": "Հաիթի",
+          "name:ia": "Haiti",
+          "name:id": "Haiti",
+          "name:io": "Haiti",
+          "name:is": "Haítí",
+          "name:it": "Haiti",
+          "name:ja": "ハイチ",
+          "name:jv": "Haiti",
+          "name:ka": "ჰაიტი",
+          "name:kg": "Ayiti",
+          "name:ki": "Haiti",
+          "name:kk": "Гаити",
+          "name:ko": "아이티",
+          "name:ku": "Haîtî",
+          "name:kw": "Hayti",
+          "name:la": "Haitia",
+          "name:lb": "Haiti",
+          "name:li": "Haïti",
+          "name:ln": "Ayiti",
+          "name:lt": "Haitis",
+          "name:lv": "Haiti",
+          "name:mg": "Haiti",
+          "name:mk": "Хаити",
+          "name:ml": "ഹെയ്റ്റി",
+          "name:mn": "Гайти",
+          "name:mr": "हैती",
+          "name:ms": "Haiti",
+          "name:mt": "Ħaiti",
+          "name:my": "ဟေတီနိုင်ငံ",
+          "name:na": "Aiti",
+          "name:ne": "हाइटी",
+          "name:nl": "Haïti",
+          "name:nn": "Haiti",
+          "name:no": "Haiti",
+          "name:nv": "Héítii",
+          "name:oc": "Haití (estat)",
+          "name:or": "ହିଟି",
+          "name:os": "Гаити",
+          "name:pa": "ਹੈਤੀ",
+          "name:pl": "Haiti",
+          "name:ps": "هایتي",
+          "name:pt": "Haiti",
+          "name:qu": "Ayti (mama llaqta)",
+          "name:ro": "Haiti",
+          "name:ru": "Гаити",
+          "name:rw": "Hayiti",
+          "name:se": "Haiti",
+          "name:sh": "Haiti",
+          "name:si": "හෙයිටි",
+          "name:sk": "Haiti",
+          "name:sl": "Haiti",
+          "name:so": "Haiti",
+          "name:sq": "Haitia",
+          "name:sr": "Хаити",
+          "name:ss": "IHayithi",
+          "name:su": "Haiti",
+          "name:sv": "Haiti",
+          "name:sw": "Haiti",
+          "name:ta": "எயிட்டி",
+          "name:th": "ประเทศเฮติ",
+          "name:tl": "Hayti",
+          "name:tr": "Haiti",
+          "name:tt": "Гаити",
+          "name:ug": "ھايتى",
+          "name:uk": "Гаїті",
+          "name:ur": "ہیٹی",
+          "name:uz": "Gaiti",
+          "name:vi": "Haiti",
+          "name:vo": "Haitiyän",
+          "name:wa": "Ayiti",
+          "name:wo": "Ayiti",
+          "name:yi": "האיטי",
+          "name:yo": "Hàítì",
+          "name:zh": "海地",
+          "boundary": "administrative",
+          "name:als": "Haiti",
+          "name:arz": "هاييتى",
+          "name:ast": "Haití",
+          "name:azb": "هائیتی",
+          "name:bcl": "Haiti",
+          "name:bjn": "Haiti",
+          "name:bpy": "হাইতি",
+          "name:bxr": "Һаити Улас",
+          "name:ceb": "Haiti",
+          "name:ckb": "هایتی",
+          "name:crh": "Haiti",
+          "name:diq": "Haiti",
+          "name:dsb": "Haiti",
+          "name:ext": "Aití",
+          "name:frp": "Hayiti",
+          "name:frr": "Haiti",
+          "name:gag": "Haiti",
+          "name:grc": "Ἁϊτή",
+          "name:hak": "Hói-thi",
+          "name:haw": "Heiti",
+          "name:hif": "Haiti",
+          "name:hsb": "Haiti",
+          "name:ilo": "Haiti",
+          "name:jbo": "aitas",
+          "name:lad": "Ayti",
+          "name:lij": "Haiti",
+          "name:lmo": "Haiti",
+          "name:lzh": "海地",
+          "name:mhr": "Гаити",
+          "name:mrj": "Гаити",
+          "name:nah": "Haiti",
+          "name:nan": "Haiti",
+          "name:nds": "Haiti",
+          "name:new": "हेइटी",
+          "name:nov": "Haiti",
+          "name:pam": "Haiti",
+          "name:pap": "Haiti",
+          "name:pih": "Haiti",
+          "name:pms": "Haiti",
+          "name:pnb": "ہیٹی",
+          "name:sah": "Хаити",
+          "name:scn": "Aiti",
+          "name:sco": "Haiti",
+          "name:smn": "Haiti",
+          "name:sms": "Haiti",
+          "name:szl": "Hajiti",
+          "name:tok": "ma Awisi",
+          "name:tzl": "Haïtì",
+          "name:vec": "Haiti",
+          "name:vro": "Haiti",
+          "name:war": "Haiti",
+          "name:yue": "海地",
+          "timezone": "America/Port-au-Prince",
+          "way_area": "4.72135",
+          "wikidata": "Q790",
+          "ISO3166-1": "HT",
+          "wikipedia": "ht:Ayiti",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:nds-nl": "Haïti",
+          "name:bat-smg": "Haitės",
+          "name:zh-Hans": "海地",
+          "name:zh-Hant": "海地",
+          "official_name": "République d'Haïti",
+          "name:be-tarask": "Гаіці",
+          "ISO3166-1:alpha2": "HT",
+          "ISO3166-1:alpha3": "HTI",
+          "official_name:cs": "Republika Haiti",
+          "official_name:de": "Republik Haiti",
+          "official_name:en": "Republic of Haiti",
+          "official_name:eo": "Haitia Respubliko",
+          "official_name:es": "República de Haití",
+          "official_name:fr": "République d'Haïti",
+          "official_name:gn": "Tavakuairetã Haiti",
+          "official_name:ht": "Repiblik Ayiti",
+          "official_name:pl": "Republika Haiti",
+          "official_name:pt": "República do Haiti",
+          "official_name:sk": "Haitská republika",
+          "official_name:sr": "Република Хаити",
+          "official_name:zh": "海地共和国 / 海地共和國",
+          "ISO3166-1:numeric": "332",
+          "official_name:ast": "República d'Haití",
+          "official_name:grc": "Πολιτεία τῆς Ἁϊτῆς",
+          "official_name:zh-Hans": "海地共和国",
+          "official_name:zh-Hant": "海地共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74,
+              18
+            ],
+            [
+              -73.37345213392153,
+              18
+            ],
+            [
+              -73.371921,
+              18.0042521
+            ],
+            [
+              -73.3682304,
+              18.0163018
+            ],
+            [
+              -73.3562882,
+              18.0165499
+            ],
+            [
+              -73.3436552,
+              18.0174448
+            ],
+            [
+              -73.3311013,
+              18.0190659
+            ],
+            [
+              -73.3198728,
+              18.0211626
+            ],
+            [
+              -73.3090958,
+              18.0186997
+            ],
+            [
+              -73.3000903,
+              18.0170852
+            ],
+            [
+              -73.2864656,
+              18.015371
+            ],
+            [
+              -73.2759574,
+              18.0146585
+            ],
+            [
+              -73.269097,
+              18.0134407
+            ],
+            [
+              -73.2600268,
+              18.0122031
+            ],
+            [
+              -73.2463374,
+              18.0110585
+            ],
+            [
+              -73.2342359,
+              18.010755
+            ],
+            [
+              -73.2230297,
+              18.009634
+            ],
+            [
+              -73.2158489,
+              18.0092387
+            ],
+            [
+              -73.2061444,
+              18.0059396
+            ],
+            [
+              -73.1973764,
+              18.0033977
+            ],
+            [
+              -73.18455856604668,
+              18
+            ],
+            [
+              -73,
+              18
+            ],
+            [
+              -73,
+              19
+            ],
+            [
+              -73.49826374787796,
+              19
+            ],
+            [
+              -73.5011353,
+              18.992067
+            ],
+            [
+              -73.5026114,
+              18.9879151
+            ],
+            [
+              -73.5052759,
+              18.9795245
+            ],
+            [
+              -73.5075529,
+              18.9710312
+            ],
+            [
+              -73.5085447,
+              18.9667511
+            ],
+            [
+              -73.5102327,
+              18.9581343
+            ],
+            [
+              -73.5115239,
+              18.9494557
+            ],
+            [
+              -73.5124159,
+              18.9407316
+            ],
+            [
+              -73.5127117,
+              18.9363578
+            ],
+            [
+              -73.5130245,
+              18.9254655
+            ],
+            [
+              -73.5126842,
+              18.9144539
+            ],
+            [
+              -73.5112307,
+              18.8971029
+            ],
+            [
+              -73.5100018,
+              18.8863641
+            ],
+            [
+              -73.5082748,
+              18.876203
+            ],
+            [
+              -73.5063696,
+              18.8676274
+            ],
+            [
+              -73.5052701,
+              18.8633713
+            ],
+            [
+              -73.5027801,
+              18.8549326
+            ],
+            [
+              -73.4991604,
+              18.8445916
+            ],
+            [
+              -73.4947536,
+              18.8340626
+            ],
+            [
+              -73.4879742,
+              18.820105
+            ],
+            [
+              -73.4817578,
+              18.8087974
+            ],
+            [
+              -73.4754995,
+              18.7989119
+            ],
+            [
+              -73.4688048,
+              18.7895836
+            ],
+            [
+              -73.4640406,
+              18.7835701
+            ],
+            [
+              -73.4586854,
+              18.7772581
+            ],
+            [
+              -73.4510061,
+              18.7690393
+            ],
+            [
+              -73.4445651,
+              18.7627792
+            ],
+            [
+              -73.4363502,
+              18.7555697
+            ],
+            [
+              -73.4297107,
+              18.750237
+            ],
+            [
+              -73.4249362,
+              18.7466314
+            ],
+            [
+              -73.4182804,
+              18.741922
+            ],
+            [
+              -73.4016207,
+              18.7225908
+            ],
+            [
+              -73.4148668,
+              18.7254522
+            ],
+            [
+              -73.4237132,
+              18.7336673
+            ],
+            [
+              -73.4306656,
+              18.7394949
+            ],
+            [
+              -73.4414587,
+              18.7475552
+            ],
+            [
+              -73.4516743,
+              18.7543216
+            ],
+            [
+              -73.4626987,
+              18.7608396
+            ],
+            [
+              -73.472789,
+              18.7660372
+            ],
+            [
+              -73.4810839,
+              18.7698321
+            ],
+            [
+              -73.4938329,
+              18.7748686
+            ],
+            [
+              -73.5029508,
+              18.7779142
+            ],
+            [
+              -73.51472,
+              18.7812175
+            ],
+            [
+              -73.526135,
+              18.7839586
+            ],
+            [
+              -73.5366623,
+              18.7860037
+            ],
+            [
+              -73.5480248,
+              18.7875988
+            ],
+            [
+              -73.5571773,
+              18.7884588
+            ],
+            [
+              -73.5663606,
+              18.7889376
+            ],
+            [
+              -73.5776624,
+              18.7890582
+            ],
+            [
+              -73.5876697,
+              18.7957008
+            ],
+            [
+              -73.5974888,
+              18.8014665
+            ],
+            [
+              -73.6049333,
+              18.8053547
+            ],
+            [
+              -73.6151296,
+              18.8101269
+            ],
+            [
+              -73.6235556,
+              18.8136829
+            ],
+            [
+              -73.6306217,
+              18.8164344
+            ],
+            [
+              -73.6417484,
+              18.8204824
+            ],
+            [
+              -73.6525641,
+              18.8239085
+            ],
+            [
+              -73.6606314,
+              18.8273696
+            ],
+            [
+              -73.6713462,
+              18.8314188
+            ],
+            [
+              -73.6778554,
+              18.8335501
+            ],
+            [
+              -73.6866637,
+              18.8360975
+            ],
+            [
+              -73.7000744,
+              18.8392258
+            ],
+            [
+              -73.7068618,
+              18.8404882
+            ],
+            [
+              -73.7159818,
+              18.8418038
+            ],
+            [
+              -73.7377497,
+              18.8443945
+            ],
+            [
+              -73.7469289,
+              18.845064
+            ],
+            [
+              -73.7591364,
+              18.845375
+            ],
+            [
+              -73.7706392,
+              18.845064
+            ],
+            [
+              -73.7843943,
+              18.8439168
+            ],
+            [
+              -73.795768,
+              18.8423209
+            ],
+            [
+              -73.8055821,
+              18.8404326
+            ],
+            [
+              -73.8211063,
+              18.8367408
+            ],
+            [
+              -73.8286248,
+              18.8347496
+            ],
+            [
+              -73.8385253,
+              18.8317044
+            ],
+            [
+              -73.8474233,
+              18.828522
+            ],
+            [
+              -73.8600578,
+              18.8232214
+            ],
+            [
+              -73.8682663,
+              18.8192549
+            ],
+            [
+              -73.8742783,
+              18.8160833
+            ],
+            [
+              -73.88642,
+              18.8091488
+            ],
+            [
+              -73.894125,
+              18.8043541
+            ],
+            [
+              -73.9040773,
+              18.7974325
+            ],
+            [
+              -73.907848,
+              18.7952104
+            ],
+            [
+              -73.916868,
+              18.7972372
+            ],
+            [
+              -73.9236537,
+              18.7984995
+            ],
+            [
+              -73.9359585,
+              18.8001988
+            ],
+            [
+              -73.9573014,
+              18.801973
+            ],
+            [
+              -73.9774604,
+              18.8030529
+            ],
+            [
+              -73.9854398,
+              18.8096385
+            ],
+            [
+              -73.9963863,
+              18.8176492
+            ],
+            [
+              -74,
+              18.820006589852248
+            ],
+            [
+              -74,
+              18
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1311341,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Spain",
+        "local_name": "España",
+        "name_en": "Spain",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg",
+          "name": "España",
+          "name:af": "Spanje",
+          "name:am": "እስፓንያ",
+          "name:an": "Espanya",
+          "name:ar": "إسبانيا",
+          "name:ay": "Ispaña",
+          "name:az": "İspaniya",
+          "name:ba": "Испания",
+          "name:be": "Іспанія",
+          "name:bg": "Испания",
+          "name:bi": "Spain",
+          "name:bn": "স্পেন",
+          "name:bo": "ཞི་པན་ཡ།",
+          "name:br": "Spagn",
+          "name:bs": "Španija",
+          "name:ca": "Espanya",
+          "name:ce": "Испани",
+          "name:ch": "España",
+          "name:co": "Spagna",
+          "name:cs": "Španělsko",
+          "name:cu": "Їспанїꙗ",
+          "name:cv": "Испани",
+          "name:cy": "Sbaen",
+          "name:da": "Spanien",
+          "name:de": "Spanien",
+          "name:dv": "އިސްޕެއިން",
+          "name:dz": "སིཔཱེན་",
+          "name:ee": "Spain",
+          "name:el": "Ισπανία",
+          "name:en": "Spain",
+          "name:eo": "Hispanio",
+          "name:es": "España",
+          "name:et": "Hispaania",
+          "name:eu": "Espainia",
+          "name:fa": "اسپانیا",
+          "name:fi": "Espanja",
+          "name:fo": "Spania",
+          "name:fr": "Espagne",
+          "name:fy": "Spanje",
+          "name:ga": "An Spáinn",
+          "name:gd": "An Spàinn",
+          "name:gl": "España",
+          "name:gn": "España",
+          "name:gu": "સ્પેન",
+          "name:gv": "Yn Spaainey",
+          "name:he": "ספרד",
+          "name:hi": "स्पेन",
+          "name:hr": "Španjolska",
+          "name:ht": "Espay",
+          "name:hu": "Spanyolország",
+          "name:hy": "Իսպանիա",
+          "name:ia": "Espania",
+          "name:id": "Spanyol",
+          "name:ie": "Hispania",
+          "name:ig": "Spain",
+          "name:ik": "Spaña",
+          "name:io": "Hispania",
+          "name:is": "Spánn",
+          "name:it": "Spagna",
+          "name:iu": "ᓯᐸᐃᓐ",
+          "name:ja": "スペイン",
+          "name:jv": "Spanyol",
+          "name:ka": "ესპანეთი",
+          "name:kg": "Espania",
+          "name:kk": "Испания",
+          "name:kl": "Spania",
+          "name:km": "អេស្ប៉ាញ",
+          "name:kn": "ಸ್ಪೇನ್",
+          "name:ko": "스페인",
+          "name:ku": "Spanya",
+          "name:kv": "Испания",
+          "name:kw": "Spayn",
+          "name:ky": "Испания",
+          "name:la": "Hispania",
+          "name:lb": "Spuenien",
+          "name:li": "Spanje",
+          "name:ln": "Espania",
+          "name:lt": "Ispanija",
+          "name:lv": "Spānija",
+          "name:mg": "Espaina",
+          "name:mi": "Peina",
+          "name:mk": "Шпанија",
+          "name:ml": "സ്പെയിൻ",
+          "name:mn": "Испани",
+          "name:mr": "स्पेन",
+          "name:ms": "Sepanyol",
+          "name:mt": "Spanja",
+          "name:my": "စပိန်နိုင်ငံ",
+          "name:na": "Pain",
+          "name:ne": "स्पेन",
+          "name:nl": "Spanje",
+          "name:nn": "Spania",
+          "name:no": "Spania",
+          "name:nv": "Dibé Diníí Bikéyah",
+          "name:oc": "Espanha",
+          "name:or": "ସ୍ପେନ",
+          "name:os": "Испани",
+          "name:pa": "ਸਪੇਨ",
+          "name:pl": "Hiszpania",
+          "name:ps": "اسپانیا",
+          "name:pt": "Espanha",
+          "name:qu": "Ispaña",
+          "name:rm": "Spagna",
+          "name:rn": "Esipanye",
+          "name:ro": "Spania",
+          "name:ru": "Испания",
+          "name:rw": "Esipanye",
+          "name:sa": "स्पेन्",
+          "name:sc": "Ispagna",
+          "name:se": "Espánnja",
+          "name:sh": "Španija",
+          "name:sk": "Španielsko",
+          "name:sl": "Španija",
+          "name:sm": "Spania",
+          "name:so": "Isbania",
+          "name:sq": "Spanja",
+          "name:sr": "Шпанија",
+          "name:ss": "Sipeyini",
+          "name:st": "Spain",
+          "name:su": "Spanyol",
+          "name:sv": "Spanien",
+          "name:sw": "Hispania",
+          "name:ta": "எசுப்பானியா",
+          "name:te": "స్పెయిన్",
+          "name:tg": "Испониё",
+          "name:th": "ประเทศสเปน",
+          "name:tk": "Ispaniýa",
+          "name:tl": "Espanya",
+          "name:to": "Sepeni",
+          "name:tr": "İspanya",
+          "name:ts": "Spaniya",
+          "name:tt": "Испания",
+          "name:ty": "Paniora",
+          "name:ug": "ئىسپانىيە",
+          "name:uk": "Іспанія",
+          "name:ur": "ہسپانیہ",
+          "name:uz": "Ispaniya",
+          "name:vi": "Tây Ban Nha",
+          "name:vo": "Spanyän",
+          "name:wa": "Espagne",
+          "name:wo": "Ispaañ",
+          "name:yi": "שפאניע",
+          "name:yo": "Spéìn",
+          "name:za": "Sihbanhyaz",
+          "name:zh": "西班牙",
+          "name:zu": "ISpeyini",
+          "boundary": "administrative",
+          "currency": "EUR",
+          "int_name": "Spain",
+          "name:ace": "Seupanyo",
+          "name:als": "Spanien",
+          "name:ang": "Spēonland",
+          "name:arc": "ܐܣܦܢܝܐ",
+          "name:arz": "اسبانيا",
+          "name:ast": "España",
+          "name:bar": "Spanien",
+          "name:bcl": "Espanya",
+          "name:bpy": "স্পেন",
+          "name:bug": "Spanyol",
+          "name:bxr": "Испани",
+          "name:cdo": "Să̤-băng-ngà",
+          "name:ceb": "Espanya",
+          "name:chr": "ᏍᏆᏂᏱ",
+          "name:chy": "Spain",
+          "name:ckb": "ئیسپانیا",
+          "name:crh": "İspaniya",
+          "name:csb": "Szpańskô",
+          "name:diq": "İspanya",
+          "name:dsb": "Špańska",
+          "name:eml": "Spaggna",
+          "name:ext": "España",
+          "name:frp": "Èspagne",
+          "name:frr": "Spaanien",
+          "name:fur": "Spagne",
+          "name:gag": "İspaniya",
+          "name:gan": "西班牙",
+          "name:glk": "ائسپانيا",
+          "name:hak": "Sî-pân-ngà",
+          "name:haw": "Sepania",
+          "name:hif": "Spain",
+          "name:hsb": "Španiska",
+          "name:ilo": "España",
+          "name:jbo": "sangu'e",
+          "name:kaa": "İspaniya",
+          "name:kab": "Spenyul",
+          "name:kbd": "Эспаниэ",
+          "name:koi": "Эспання",
+          "name:krc": "Испания",
+          "name:lad": "Espanya",
+          "name:lez": "Испания",
+          "name:lij": "Spagna",
+          "name:lmo": "Spagna",
+          "name:ltg": "Spaneja",
+          "name:lzh": "西班牙",
+          "name:mdf": "Испания",
+          "name:mhr": "Испаний",
+          "name:min": "Spanyol",
+          "name:mwl": "Spanha",
+          "name:mzn": "ایسپانیا",
+          "name:nah": "Caxtillān",
+          "name:nan": "Se-pan-gâ",
+          "name:nap": "Spagna",
+          "name:nds": "Spanien",
+          "name:new": "स्पेन",
+          "name:nov": "Spania",
+          "name:nrm": "Espangne",
+          "name:pag": "Espanya",
+          "name:pam": "Espanya",
+          "name:pap": "Spaña",
+          "name:pcd": "Espanne",
+          "name:pdc": "Schpaani",
+          "name:pih": "Spain",
+          "name:pms": "Spagna",
+          "name:pnb": "سپین",
+          "name:pnt": "Ισπανία",
+          "name:rmy": "Spaniya",
+          "name:rue": "Іспанія",
+          "name:sah": "Испания",
+          "name:scn": "Spagna",
+          "name:sco": "Spain",
+          "name:smn": "Espanja",
+          "name:sms": "Espanja",
+          "name:srn": "Spanyorokondre",
+          "name:stq": "Spanien",
+          "name:szl": "Szpanijŏ",
+          "name:tet": "España",
+          "name:tok": "ma Epanja",
+          "name:tpi": "Spen",
+          "name:tzl": "Espain",
+          "name:udm": "Испания",
+          "name:vec": "Spagna",
+          "name:vep": "Ispanii",
+          "name:vls": "Spanje",
+          "name:vro": "Hispaania",
+          "name:war": "Espanya",
+          "name:wuu": "西班牙",
+          "name:xal": "Эспанмудин Нутг",
+          "name:xmf": "ესპანეთი",
+          "name:yue": "西班牙",
+          "name:zea": "Spanje",
+          "way_area": "65.939",
+          "wikidata": "Q29",
+          "ISO3166-1": "ES",
+          "wikipedia": "es:España",
+          "admin_level": "2",
+          "alt_name:eo": "Hispanujo",
+          "alt_name:gl": "Espanha",
+          "name:nds-nl": "Spanje",
+          "name:bat-smg": "Ispanėjė",
+          "name:cbk-zam": "España",
+          "name:zh-Hans": "西班牙",
+          "name:zh-Hant": "西班牙",
+          "name:roa-tara": "Spagne",
+          "official_name": "Reino de España",
+          "name:be-tarask": "Гішпанія",
+          "ISO3166-1:alpha2": "ES",
+          "ISO3166-1:alpha3": "ESP",
+          "official_name:ar": "مملكة إسبانيا",
+          "official_name:be": "Каралеўства Іспанія",
+          "official_name:cs": "Španělské království",
+          "official_name:el": "Βασίλειο της Ισπανίας",
+          "official_name:eo": "Reĝlando Hispanio",
+          "official_name:fa": "پادشاهی اسپانیا",
+          "official_name:gl": "Reino de España",
+          "official_name:pt": "Reino de Espanha",
+          "official_name:ur": "مملکت ہسپانیہ",
+          "official_name:zh": "西班牙王国",
+          "ISO3166-1:numeric": "724",
+          "official_name:zh-Hans": "西班牙王国",
+          "official_name:zh-Hant": "西班牙王國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.3012954,
+              35.172261
+            ],
+            [
+              -4.3010045,
+              35.1720369
+            ],
+            [
+              -4.2999892,
+              35.1718931
+            ],
+            [
+              -4.2996492,
+              35.1715906
+            ],
+            [
+              -4.2994605,
+              35.1716663
+            ],
+            [
+              -4.2983553,
+              35.1712585
+            ],
+            [
+              -4.2979598,
+              35.1709669
+            ],
+            [
+              -4.2971768,
+              35.1711975
+            ],
+            [
+              -4.2972537,
+              35.1714925
+            ],
+            [
+              -4.2965532,
+              35.171603
+            ],
+            [
+              -4.2964561,
+              35.1718768
+            ],
+            [
+              -4.2977057,
+              35.1718971
+            ],
+            [
+              -4.2978658,
+              35.171809
+            ],
+            [
+              -4.2976695,
+              35.1715718
+            ],
+            [
+              -4.2982279,
+              35.1715917
+            ],
+            [
+              -4.2983541,
+              35.1717693
+            ],
+            [
+              -4.2982019,
+              35.1721014
+            ],
+            [
+              -4.2983835,
+              35.1723028
+            ],
+            [
+              -4.2992728,
+              35.172414
+            ],
+            [
+              -4.2998362,
+              35.1728073
+            ],
+            [
+              -4.2996835,
+              35.1728511
+            ],
+            [
+              -4.2998622,
+              35.1730439
+            ],
+            [
+              -4.3006092,
+              35.1732266
+            ],
+            [
+              -4.3012021,
+              35.1731372
+            ],
+            [
+              -4.3012664,
+              35.1729763
+            ],
+            [
+              -4.3008726,
+              35.1726317
+            ],
+            [
+              -4.3012061,
+              35.1724894
+            ],
+            [
+              -4.3012954,
+              35.172261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -3630439,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Morocco",
+        "local_name": "Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
+        "name_en": "Morocco",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+          "name": "Maroc ⵍⵎⵖⵔⵉⴱ المغرب",
+          "name:ar": "المغرب",
+          "name:az": "Mərakeş",
+          "name:ba": "Марокко",
+          "name:be": "Марока",
+          "name:bg": "Мароко",
+          "name:bm": "Maroko",
+          "name:bn": "মরোক্কো",
+          "name:bo": "མོ་རོ་ཁོ།",
+          "name:br": "Maroko",
+          "name:bs": "Maroko",
+          "name:ca": "Marroc",
+          "name:ce": "Марокко",
+          "name:cs": "Maroko",
+          "name:cv": "Марокко",
+          "name:cy": "Moroco",
+          "name:da": "Marokko",
+          "name:de": "Marokko",
+          "name:dv": "މައުރިބު",
+          "name:el": "Μαρόκο",
+          "name:en": "Morocco",
+          "name:eo": "Maroko",
+          "name:es": "Marruecos",
+          "name:et": "Maroko",
+          "name:eu": "Maroko",
+          "name:fa": "مراکش",
+          "name:fi": "Marokko",
+          "name:fo": "Marokko",
+          "name:fr": "Maroc",
+          "name:fy": "Marokko",
+          "name:ga": "Maracó",
+          "name:gd": "Maroco",
+          "name:gl": "Marrocos",
+          "name:gn": "Marruéko",
+          "name:gv": "Yn Varoc",
+          "name:he": "מרוקו",
+          "name:hi": "मोरक्को",
+          "name:hr": "Maroko",
+          "name:ht": "Mawòk",
+          "name:hu": "Marokkó",
+          "name:hy": "Մարոկկո",
+          "name:ia": "Marocco",
+          "name:id": "Maroko",
+          "name:ie": "Morocco",
+          "name:io": "Maroko",
+          "name:is": "Marokkó",
+          "name:it": "Marocco",
+          "name:ja": "モロッコ",
+          "name:jv": "Maroko",
+          "name:ka": "მაროკო",
+          "name:kg": "Maroko",
+          "name:kk": "Мағрибия",
+          "name:kn": "ಮೊರಾಕೊ",
+          "name:ko": "모로코",
+          "name:ku": "Maroko",
+          "name:kw": "Marokk",
+          "name:ky": "Марокко",
+          "name:la": "Marocum",
+          "name:lb": "Marokko",
+          "name:li": "Marokko",
+          "name:ln": "Marɔkɛ",
+          "name:lt": "Marokas",
+          "name:lv": "Maroka",
+          "name:mg": "Marôka",
+          "name:mi": "Marako",
+          "name:mk": "Мароко",
+          "name:ml": "മൊറോക്കൊ",
+          "name:mn": "Марокко",
+          "name:mr": "मोरोक्को",
+          "name:ms": "Maghribi",
+          "name:mt": "Marokk",
+          "name:my": "မော်ရိုကိုနိုင်ငံ",
+          "name:nl": "Marokko",
+          "name:nn": "Marokko",
+          "name:no": "Marokko",
+          "name:nv": "Moroko",
+          "name:oc": "Marròc",
+          "name:or": "ମୋରୋକୋ",
+          "name:os": "Марокко",
+          "name:pa": "ਮੋਰਾਕੋ",
+          "name:pl": "Maroko",
+          "name:ps": "مراکش",
+          "name:pt": "Marrocos",
+          "name:qu": "Maruku",
+          "name:ro": "Maroc",
+          "name:ru": "Марокко",
+          "name:rw": "Maroke",
+          "name:sa": "मोराको",
+          "name:sc": "Marocco",
+          "name:se": "Marokko",
+          "name:sg": "Marôko",
+          "name:sh": "Maroko",
+          "name:sk": "Maroko",
+          "name:sl": "Maroko",
+          "name:sn": "Morocco",
+          "name:so": "Marooko",
+          "name:sq": "Maroku",
+          "name:sr": "Мароко",
+          "name:ss": "IMorokho",
+          "name:su": "Maroko",
+          "name:sv": "Marocko",
+          "name:sw": "Moroko",
+          "name:ta": "மொரோக்கோ",
+          "name:te": "మొరాకో",
+          "name:tg": "Марокаш",
+          "name:th": "ประเทศโมร็อกโก",
+          "name:ti": "ሞሮኮ",
+          "name:tk": "Marokko",
+          "name:tl": "Maruekos",
+          "name:tr": "Fas",
+          "name:ts": "Morocco",
+          "name:tt": "Марокко",
+          "name:ug": "ماراكەش",
+          "name:uk": "Марокко",
+          "name:ur": "مراکش",
+          "name:uz": "Marokash",
+          "name:vi": "Maroc",
+          "name:vo": "Marokän",
+          "name:wa": "Marok",
+          "name:wo": "Marok",
+          "name:yi": "מאראקא",
+          "name:yo": "Mòrókò",
+          "name:zh": "摩洛哥",
+          "name:zu": "IMorokho",
+          "boundary": "administrative",
+          "name:ast": "Marruecos",
+          "name:bcl": "Moroko",
+          "name:ber": "ⵍⵎⵖⵔⵉⴱ",
+          "name:bjn": "Maroko",
+          "name:bpy": "মরক্কো",
+          "name:bxr": "Марокко",
+          "name:ceb": "Maruwekos",
+          "name:ckb": "مەغریب",
+          "name:crh": "Mağrip",
+          "name:diq": "Marok",
+          "name:dsb": "Marokko",
+          "name:ext": "Marruecus",
+          "name:frp": "Maroc",
+          "name:gag": "Marokko",
+          "name:hif": "Morocco",
+          "name:hsb": "Marokko",
+          "name:ilo": "Morocco",
+          "name:jbo": "morgu'e",
+          "name:kab": "Merruk",
+          "name:lad": "Marroko",
+          "name:lij": "Maròcco",
+          "name:lmo": "Maroch",
+          "name:lzh": "摩洛哥",
+          "name:min": "Maroko",
+          "name:mrj": "Марокко",
+          "name:mwl": "Marrocos",
+          "name:mzn": "مراکش",
+          "name:nah": "Marruecos",
+          "name:nan": "Morocco",
+          "name:nds": "Marokko",
+          "name:new": "मोरक्को",
+          "name:nov": "Moroko",
+          "name:nso": "Morocco",
+          "name:pam": "Morocco",
+          "name:pap": "Morocco",
+          "name:pms": "Maròch",
+          "name:pnb": "مراکش",
+          "name:sah": "Марокко",
+          "name:scn": "Maroccu",
+          "name:sco": "Morocco",
+          "name:smn": "Marokko",
+          "name:sms": "Marokko",
+          "name:stq": "Marokko",
+          "name:szl": "Maroko",
+          "name:tok": "ma Malipe",
+          "name:tzl": "Maroc",
+          "name:vec": "Maroco",
+          "name:vep": "Marok",
+          "name:vro": "Maroko",
+          "name:war": "Morocco",
+          "name:xal": "Морокин Нутг",
+          "name:yue": "摩洛哥",
+          "name:zea": "Marokko",
+          "name:zgh": "ⵍⵎⵖⵔⵉⴱ",
+          "old_name": "مراكش",
+          "way_area": "61.8833",
+          "wikidata": "Q1028",
+          "ISO3166-1": "MA",
+          "wikipedia": "ar:المغرب",
+          "population": "33848242",
+          "admin_level": "2",
+          "name:simple": "Morocco",
+          "old_name:ar": "مراكش",
+          "name:bat-smg": "Maruoks",
+          "name:zh-Hans": "摩洛哥",
+          "name:zh-Hant": "摩洛哥",
+          "official_name": "ⵍⵎⵖⵔⵉⴱ المغرب",
+          "name:be-tarask": "Марока",
+          "population:date": "2014",
+          "ISO3166-1:alpha2": "MA",
+          "ISO3166-1:alpha3": "MAR",
+          "default_language": "ar",
+          "official_name:ar": "المغرب",
+          "official_name:cs": "Marocké království",
+          "official_name:en": "Morocco",
+          "official_name:fr": "Maroc",
+          "official_name:gn": "Mburuvi Marruéko",
+          "official_name:pt": "Marrocos",
+          "ISO3166-1:numeric": "504",
+          "official_name:ber": "ⵍⵎⵖⵔⵉⴱ"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5,
+              35
+            ],
+            [
+              -4,
+              35
+            ],
+            [
+              -4,
+              35.44507752689028
+            ],
+            [
+              -4.2980355,
+              35.3911436
+            ],
+            [
+              -4.5827485,
+              35.4146506
+            ],
+            [
+              -4.8432205,
+              35.5527326
+            ],
+            [
+              -5,
+              35.72879893121288
+            ],
+            [
+              -5,
+              35
+            ]
+          ],
+          [
+            [
+              -4.3012954,
+              35.172261
+            ],
+            [
+              -4.3012061,
+              35.1724894
+            ],
+            [
+              -4.3008726,
+              35.1726317
+            ],
+            [
+              -4.3012664,
+              35.1729763
+            ],
+            [
+              -4.3012021,
+              35.1731372
+            ],
+            [
+              -4.3006092,
+              35.1732266
+            ],
+            [
+              -4.2998622,
+              35.1730439
+            ],
+            [
+              -4.2996835,
+              35.1728511
+            ],
+            [
+              -4.2998362,
+              35.1728073
+            ],
+            [
+              -4.2992728,
+              35.172414
+            ],
+            [
+              -4.2983835,
+              35.1723028
+            ],
+            [
+              -4.2982019,
+              35.1721014
+            ],
+            [
+              -4.2983541,
+              35.1717693
+            ],
+            [
+              -4.2982279,
+              35.1715917
+            ],
+            [
+              -4.2976695,
+              35.1715718
+            ],
+            [
+              -4.2978658,
+              35.171809
+            ],
+            [
+              -4.2977057,
+              35.1718971
+            ],
+            [
+              -4.2964561,
+              35.1718768
+            ],
+            [
+              -4.2965532,
+              35.171603
+            ],
+            [
+              -4.2972537,
+              35.1714925
+            ],
+            [
+              -4.2971768,
+              35.1711975
+            ],
+            [
+              -4.2979598,
+              35.1709669
+            ],
+            [
+              -4.2983553,
+              35.1712585
+            ],
+            [
+              -4.2994605,
+              35.1716663
+            ],
+            [
+              -4.2996492,
+              35.1715906
+            ],
+            [
+              -4.2999892,
+              35.1718931
+            ],
+            [
+              -4.3010045,
+              35.1720369
+            ],
+            [
+              -4.3012954,
+              35.172261
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -305138,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Oman",
+        "local_name": "عمان",
+        "name_en": "Oman",
+        "all_tags": {
+          "ref": "OM",
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+          "name": "عمان",
+          "name:af": "Oman",
+          "name:am": "ኦማን",
+          "name:an": "Omán",
+          "name:ar": "عمان",
+          "name:az": "Oman",
+          "name:ba": "Оман",
+          "name:be": "Аман",
+          "name:bg": "Оман",
+          "name:bn": "ওমান",
+          "name:bo": "ཨོ་མན།",
+          "name:br": "Oman",
+          "name:bs": "Oman",
+          "name:ca": "Oman",
+          "name:ce": "Оман",
+          "name:cs": "Omán",
+          "name:cv": "Оман",
+          "name:cy": "Oman",
+          "name:da": "Oman",
+          "name:de": "Oman",
+          "name:dv": "ޢުމާން",
+          "name:el": "Ομάν",
+          "name:en": "Oman",
+          "name:eo": "Omano",
+          "name:es": "Omán",
+          "name:et": "Omaan",
+          "name:eu": "Oman",
+          "name:fa": "عمان",
+          "name:fi": "Oman",
+          "name:fr": "Oman",
+          "name:fy": "Oman",
+          "name:ga": "Óman",
+          "name:gd": "Omàn",
+          "name:gl": "Omán",
+          "name:gn": "Omã",
+          "name:gu": "ઓમાન",
+          "name:gv": "Yn Omaan",
+          "name:he": "עומאן",
+          "name:hi": "ओमान",
+          "name:hr": "Oman",
+          "name:ht": "Omàn",
+          "name:hu": "Omán",
+          "name:hy": "Օման",
+          "name:ia": "Oman",
+          "name:id": "Oman",
+          "name:ie": "Oman",
+          "name:io": "Oman",
+          "name:is": "Óman",
+          "name:it": "Oman",
+          "name:ja": "オマーン",
+          "name:jv": "Oman",
+          "name:ka": "ომანი",
+          "name:kk": "Оман",
+          "name:kl": "Oman",
+          "name:kn": "ಒಮಾನ್",
+          "name:ko": "오만",
+          "name:ku": "Oman",
+          "name:kv": "Оман",
+          "name:kw": "Oman",
+          "name:la": "Omania",
+          "name:lb": "Oman",
+          "name:li": "Omaan",
+          "name:ln": "Oman",
+          "name:lt": "Omanas",
+          "name:lv": "Omāna",
+          "name:mi": "Omāna",
+          "name:mk": "Оман",
+          "name:ml": "ഒമാൻ",
+          "name:mn": "Оман",
+          "name:mr": "ओमान",
+          "name:ms": "Oman",
+          "name:my": "အိုမန်နိုင်ငံ",
+          "name:na": "Oman",
+          "name:nl": "Oman",
+          "name:nn": "Oman",
+          "name:no": "Oman",
+          "name:nv": "Omą́ą́",
+          "name:oc": "Oman",
+          "name:or": "ଓମାନ",
+          "name:os": "Оман",
+          "name:pa": "ਓਮਾਨ",
+          "name:pl": "Oman",
+          "name:ps": "عمان",
+          "name:pt": "Omã",
+          "name:qu": "Uman",
+          "name:ro": "Oman",
+          "name:ru": "Оман",
+          "name:rw": "Omani",
+          "name:sa": "ओमान",
+          "name:se": "Oman",
+          "name:sh": "Oman",
+          "name:si": "ඕමානය",
+          "name:sk": "Omán",
+          "name:sl": "Oman",
+          "name:so": "Cumaan",
+          "name:sq": "Omani",
+          "name:sr": "Оман",
+          "name:ss": "IMani",
+          "name:su": "Oman",
+          "name:sv": "Oman",
+          "name:sw": "Omani",
+          "name:ta": "ஓமான்",
+          "name:te": "ఒమన్",
+          "name:tg": "Оман",
+          "name:th": "ประเทศโอมาน",
+          "name:tk": "Oman",
+          "name:tl": "Oman",
+          "name:tr": "Umman",
+          "name:tt": "Оман",
+          "name:ug": "ئومان",
+          "name:uk": "Оман",
+          "name:ur": "سلطنت عمان",
+          "name:uz": "Oman",
+          "name:vi": "Oman",
+          "name:vo": "Lomän",
+          "name:wo": "Omaan",
+          "name:yi": "אמאן",
+          "name:yo": "Oman",
+          "name:zh": "阿曼",
+          "boundary": "administrative",
+          "name:ace": "Oman",
+          "name:als": "Oman",
+          "name:ang": "Oman",
+          "name:arc": "ܥܘܡܐܢ",
+          "name:arz": "سلطنة عمان",
+          "name:ast": "Omán",
+          "name:bar": "Oman",
+          "name:bcl": "Oman",
+          "name:bpy": "ওমান",
+          "name:bug": "Oman",
+          "name:bxr": "Оман",
+          "name:ceb": "Oman",
+          "name:ckb": "عومان",
+          "name:crh": "Oman",
+          "name:csb": "Òman",
+          "name:diq": "Uman",
+          "name:dsb": "Oman",
+          "name:ext": "Omán",
+          "name:frp": "Oman",
+          "name:gag": "Oman",
+          "name:hak": "Â-man",
+          "name:hif": "Oman",
+          "name:hsb": "Oman",
+          "name:ilo": "Oman",
+          "name:jbo": "oman",
+          "name:kbd": "Оман",
+          "name:lez": "Оман",
+          "name:lij": "Òman",
+          "name:lmo": "Oman",
+          "name:nah": "Omān",
+          "name:nan": "Oman",
+          "name:nds": "Oman",
+          "name:new": "ओमान",
+          "name:nov": "Oman",
+          "name:pam": "Oman",
+          "name:pih": "Omaan",
+          "name:pms": "Oman",
+          "name:pnb": "عمان",
+          "name:sah": "Оман",
+          "name:scn": "Uman",
+          "name:sco": "Oman",
+          "name:smn": "Oman",
+          "name:sms": "Omaan",
+          "name:szl": "Ōman",
+          "name:tzl": "Oman",
+          "name:udm": "Оман",
+          "name:vro": "Omaan",
+          "name:war": "Oman",
+          "name:wuu": "阿曼",
+          "name:xal": "Оманин Нутг",
+          "name:yue": "阿曼",
+          "name:zea": "Omaan",
+          "timezone": "Asia/Muscat",
+          "way_area": "31.3118",
+          "wikidata": "Q842",
+          "ISO3166-1": "OM",
+          "wikipedia": "ar:سلطنة عمان",
+          "state_code": "OM",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:bat-smg": "Omans",
+          "name:zh-Hans": "阿曼",
+          "name:zh-Hant": "阿曼",
+          "official_name": "سلطنة عمان",
+          "name:be-tarask": "Аман",
+          "ISO3166-1:alpha2": "OM",
+          "ISO3166-1:alpha3": "OMN",
+          "default_language": "ar",
+          "official_name:ar": "سلطنة عمان",
+          "official_name:cs": "Sultanát Omán",
+          "official_name:eo": "Omana Sultanlando",
+          "official_name:pl": "Sułtanat Omanu",
+          "ISO3166-1:numeric": "512",
+          "official_name:ckb": "سەڵتەنەتی عومان"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              56,
+              17.2796408534017
+            ],
+            [
+              56.0168921,
+              17.2783797
+            ],
+            [
+              56.026372,
+              17.2795473
+            ],
+            [
+              56.0565812,
+              17.2806256
+            ],
+            [
+              56.0766772,
+              17.28273
+            ],
+            [
+              56.113865,
+              17.2914573
+            ],
+            [
+              56.1261362,
+              17.2964156
+            ],
+            [
+              56.249498,
+              17.2997844
+            ],
+            [
+              56.2782242,
+              17.2913367
+            ],
+            [
+              56.3136218,
+              17.2871278
+            ],
+            [
+              56.3500253,
+              17.2888543
+            ],
+            [
+              56.3698899,
+              17.2926089
+            ],
+            [
+              56.386921,
+              17.2942745
+            ],
+            [
+              56.4267184,
+              17.3061373
+            ],
+            [
+              56.441296,
+              17.3077
+            ],
+            [
+              56.4750286,
+              17.3169823
+            ],
+            [
+              56.5066754,
+              17.3315465
+            ],
+            [
+              56.5353474,
+              17.3509837
+            ],
+            [
+              56.5602383,
+              17.3747481
+            ],
+            [
+              56.5806474,
+              17.4021723
+            ],
+            [
+              56.5959989,
+              17.4324855
+            ],
+            [
+              56.6058587,
+              17.4648353
+            ],
+            [
+              56.6099464,
+              17.498312
+            ],
+            [
+              56.6081438,
+              17.5319731
+            ],
+            [
+              56.5616388,
+              17.858983
+            ],
+            [
+              56.575868,
+              17.8717501
+            ],
+            [
+              56.592512,
+              17.8899386
+            ],
+            [
+              56.6035072,
+              17.904627
+            ],
+            [
+              56.6122404,
+              17.9186157
+            ],
+            [
+              56.6365511,
+              17.9342455
+            ],
+            [
+              56.6499334,
+              17.9447379
+            ],
+            [
+              56.6566823,
+              17.9520282
+            ],
+            [
+              56.6725615,
+              17.9623884
+            ],
+            [
+              56.6924962,
+              17.9775171
+            ],
+            [
+              56.7125595508667,
+              18
+            ],
+            [
+              56,
+              18
+            ],
+            [
+              56,
+              17.2796408534017
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2456 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -304716,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "India",
+        "local_name": "India",
+        "name_en": "India",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+          "name": "India",
+          "name:am": "ህንድ",
+          "name:ar": "الهند",
+          "name:az": "Hindistan",
+          "name:ba": "Һиндостан",
+          "name:be": "Індыя",
+          "name:bg": "Индия",
+          "name:bh": "भारत",
+          "name:bi": "India",
+          "name:bn": "ভারত",
+          "name:bo": "རྒྱ་གར།",
+          "name:br": "India",
+          "name:bs": "Indija",
+          "name:ca": "Índia",
+          "name:ce": "ХӀинди",
+          "name:co": "India",
+          "name:cs": "Indie",
+          "name:cv": "Инди",
+          "name:cy": "India",
+          "name:da": "Indien",
+          "name:de": "Indien",
+          "name:dv": "އިންޑިޔާ",
+          "name:dz": "རྒྱ་གར",
+          "name:ee": "India",
+          "name:el": "Ινδία",
+          "name:en": "India",
+          "name:eo": "Barato",
+          "name:es": "India",
+          "name:et": "India",
+          "name:eu": "India",
+          "name:fa": "هند",
+          "name:fi": "Intia",
+          "name:fo": "India",
+          "name:fr": "Inde",
+          "name:fy": "Yndia",
+          "name:ga": "An India",
+          "name:gd": "Na h-Innseachan",
+          "name:gn": "India",
+          "name:gr": "Ἰνδία",
+          "name:gu": "ભારત",
+          "name:gv": "Yn Injey",
+          "name:ha": "Indiya",
+          "name:he": "הודו",
+          "name:hi": "भारत",
+          "name:hr": "Indija",
+          "name:ht": "End",
+          "name:hu": "India",
+          "name:hy": "Հնդկաստան",
+          "name:ia": "India",
+          "name:id": "India",
+          "name:ie": "India",
+          "name:ig": "Ndia",
+          "name:io": "India",
+          "name:is": "Indland",
+          "name:it": "India",
+          "name:iu": "ᐃᓐᑎᐊ",
+          "name:ja": "インド",
+          "name:jv": "India",
+          "name:ka": "ინდოეთი",
+          "name:kg": "India",
+          "name:kk": "Үндістан",
+          "name:kl": "India",
+          "name:km": "ឥណ្ឌា",
+          "name:kn": "ಭಾರತ",
+          "name:ko": "인도",
+          "name:ks": "ہِندوستان",
+          "name:ku": "Hindistan",
+          "name:kv": "Индия",
+          "name:kw": "Eynda",
+          "name:ky": "Индия",
+          "name:la": "India",
+          "name:lb": "Indien",
+          "name:li": "India",
+          "name:ln": "India",
+          "name:lt": "Indija",
+          "name:lv": "Indija",
+          "name:mg": "India",
+          "name:mi": "Īnia",
+          "name:mk": "Индија",
+          "name:ml": "ഇന്ത്യ",
+          "name:mn": "Энэтхэг",
+          "name:mo": "Индия",
+          "name:mr": "भारत",
+          "name:ms": "India",
+          "name:mt": "Indja",
+          "name:my": "အိန္ဒိယနိုင်ငံ",
+          "name:na": "Indjiya",
+          "name:ne": "भारत",
+          "name:nl": "India",
+          "name:nn": "India",
+          "name:no": "India",
+          "name:nv": "Tó Wónaanídę́ę́ʼ Bitsįʼ Yishtłizhii Bikéyah",
+          "name:oc": "Índia",
+          "name:or": "ଭାରତ",
+          "name:os": "Инди",
+          "name:pa": "ਭਾਰਤ",
+          "name:pi": "भारत",
+          "name:pl": "Indie",
+          "name:ps": "هند",
+          "name:pt": "Índia",
+          "name:qu": "Indya",
+          "name:rm": "India",
+          "name:rn": "Ubuhindi",
+          "name:ro": "India",
+          "name:ru": "Индия",
+          "name:rw": "Ubuhinde",
+          "name:sa": "भारतम्",
+          "name:sc": "Ìndia",
+          "name:sd": "ڀارت",
+          "name:se": "India",
+          "name:sh": "Indija",
+          "name:si": "භාරත ජනරජය",
+          "name:sk": "India",
+          "name:sl": "Indija",
+          "name:sm": "Igitia",
+          "name:so": "Hindiya",
+          "name:sq": "India",
+          "name:sr": "Индија",
+          "name:ss": "INdiya",
+          "name:su": "India",
+          "name:sv": "Indien",
+          "name:sw": "Uhindi",
+          "name:ta": "இந்தியா",
+          "name:te": "భారత దేశం",
+          "name:tg": "Ҳиндустон",
+          "name:th": "ประเทศอินเดีย",
+          "name:tk": "Hindistan",
+          "name:tl": "Indiya",
+          "name:to": "ʻInitia",
+          "name:tr": "Hindistan",
+          "name:ts": "India",
+          "name:tt": "Һиндстан",
+          "name:ty": "’Inītia",
+          "name:ug": "ھىندىستان",
+          "name:uk": "Індія",
+          "name:ur": "ہندوستان",
+          "name:uz": "Hindiston",
+          "name:vi": "Ấn Độ",
+          "name:vo": "Lindän",
+          "name:wa": "Inde",
+          "name:wo": "End",
+          "name:yi": "אינדיע",
+          "name:yo": "Índíà",
+          "name:za": "Yindu",
+          "name:zh": "印度",
+          "name:zu": "INdiya",
+          "alt_name": "Hindustan",
+          "boundary": "administrative",
+          "name:arc": "ܗܢܕܘ",
+          "name:azb": "هیندوستان",
+          "name:bar": "Indien",
+          "name:bcl": "Indya",
+          "name:bjn": "India",
+          "name:bpy": "ভারত",
+          "name:bug": "India",
+          "name:bxr": "Энэдхэг",
+          "name:cdo": "Éng-dô",
+          "name:ceb": "Indya",
+          "name:chr": "ᎢᏅᏗᎾ",
+          "name:ckb": "ھیندستان",
+          "name:crh": "İndistan",
+          "name:csb": "Indie",
+          "name:din": "Indiɛn",
+          "name:diq": "Hindıstan",
+          "name:dsb": "Indiska",
+          "name:ext": "La Índia",
+          "name:frp": "Ende",
+          "name:frr": "Indien",
+          "name:fur": "Indie",
+          "name:gag": "İndiya",
+          "name:gan": "印度",
+          "name:glk": "هند",
+          "name:grc": "Ἰνδία",
+          "name:hak": "Yin-thu",
+          "name:haw": "‘Īnia",
+          "name:hif": "India",
+          "name:hsb": "Indiska",
+          "name:ilo": "India",
+          "name:jbo": ".indias.",
+          "name:kbd": "Индиэ",
+          "name:kmr": "حندستان",
+          "name:krc": "Индия",
+          "name:lbe": "Гьиндусттан",
+          "name:lez": "Индия",
+          "name:lij": "India",
+          "name:lmo": "India",
+          "name:lrc": "هند",
+          "name:ltg": "Iņdeja",
+          "name:lzh": "印度",
+          "name:mdf": "Индие",
+          "name:mwl": "Índia",
+          "name:mzn": "هند",
+          "name:nah": "India",
+          "name:nan": "Ìn-tō͘",
+          "name:nap": "Innia",
+          "name:nds": "Indien",
+          "name:new": "भारत",
+          "name:nov": "India",
+          "name:nrm": "Înde",
+          "name:pam": "India",
+          "name:pap": "India",
+          "name:pcd": "Inde",
+          "name:pih": "Endya",
+          "name:pms": "India",
+          "name:pnb": "بھارت",
+          "name:rmy": "Bharat",
+          "name:rue": "Індія",
+          "name:sah": "Индия",
+          "name:sat": "ᱵᱷᱟᱨᱚᱛ",
+          "name:scn": "Innia",
+          "name:sco": "Indie",
+          "name:smn": "India",
+          "name:sms": "Intia",
+          "name:srn": "Indiakondre",
+          "name:stq": "Indien",
+          "name:syc": "ܗܢܕܘ",
+          "name:szl": "Indyjŏ",
+          "name:tet": "Índia",
+          "name:tpi": "India",
+          "name:udm": "Индия",
+          "name:vec": "India",
+          "name:vro": "India",
+          "name:war": "Indya",
+          "name:wuu": "印度",
+          "name:xal": "Индия",
+          "name:xmf": "ინდოეთი",
+          "name:yue": "印度",
+          "name:zea": "India",
+          "timezone": "Asia/Kolkata",
+          "way_area": "304.146",
+          "wikidata": "Q668",
+          "ISO3166-1": "IN",
+          "wikipedia": "en:India",
+          "population": "1407563842",
+          "admin_level": "2",
+          "alt_name:eo": "Hindujo;Hindio",
+          "alt_name:ks": "بًارت",
+          "alt_name:ur": "بھارت;انڈیا",
+          "alt_name:vi": "Thiên Trúc;Quyên Độc",
+          "border_type": "nation",
+          "name:nds-nl": "India",
+          "driving_side": "left",
+          "name:az-Arab": "هیندوستان",
+          "name:bat-smg": "Indėjė",
+          "name:cbk-zam": "India",
+          "name:ku-Arab": "حندستان",
+          "name:map-bms": "India",
+          "name:roa-rup": "India",
+          "name:zh-Hans": "印度",
+          "name:zh-Hant": "印度",
+          "wikipedia:ks": "ہِندوستان",
+          "wikipedia:pa": "ਭਾਰਤ",
+          "wikipedia:ur": "بھارت",
+          "name:kab-Arab": "لهند",
+          "name:roa-tara": "Indie",
+          "name:be-tarask": "Індыя",
+          "population:date": "2021",
+          "ISO3166-1:alpha2": "IN",
+          "ISO3166-1:alpha3": "IND",
+          "official_name:ar": "جمهورية الهند",
+          "official_name:cs": "Indická republika",
+          "official_name:de": "Republik Indien",
+          "official_name:en": "Republic of India",
+          "official_name:eo": "Barata Respubliko",
+          "official_name:es": "República de la India",
+          "official_name:fa": "جمهوری هندوستان",
+          "official_name:fr": "République d'Inde",
+          "official_name:ks": "جۆمہوٗرِیہَ ہِندوستان",
+          "official_name:pa": "ਭਾਰਤ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Indii",
+          "official_name:ps": "د هند جمهوريت",
+          "official_name:ru": "Республика Индия",
+          "official_name:ur": "جمہوریہ ہندوستان",
+          "official_name:vi": "Cộng hoà Ấn Độ",
+          "ISO3166-1:numeric": "356",
+          "official_name:azb": "هیندوستان جومهوریتی",
+          "official_name:pnb": "بھارت گنراج",
+          "official_name:az-Arab": "هیندوستان جومهوریتی"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84,
+              26
+            ],
+            [
+              85,
+              26
+            ],
+            [
+              85,
+              26.898097716690405
+            ],
+            [
+              84.9984751,
+              26.8993237
+            ],
+            [
+              84.9948815,
+              26.9018543
+            ],
+            [
+              84.9928306,
+              26.9030526
+            ],
+            [
+              84.9929543,
+              26.9054413
+            ],
+            [
+              84.9930958,
+              26.905666
+            ],
+            [
+              84.9940638,
+              26.9057409
+            ],
+            [
+              84.9946782,
+              26.9063203
+            ],
+            [
+              84.9957964,
+              26.906707
+            ],
+            [
+              84.996609,
+              26.9065175
+            ],
+            [
+              84.9974341,
+              26.9052075
+            ],
+            [
+              84.9993262,
+              26.9045268
+            ],
+            [
+              85,
+              26.90440344106688
+            ],
+            [
+              85,
+              26.911820406156597
+            ],
+            [
+              84.9999173,
+              26.9119232
+            ],
+            [
+              84.9969199,
+              26.912646
+            ],
+            [
+              84.9913098,
+              26.9134321
+            ],
+            [
+              84.9888955,
+              26.9134678
+            ],
+            [
+              84.9839131,
+              26.9143233
+            ],
+            [
+              84.978745,
+              26.9149985
+            ],
+            [
+              84.9727911,
+              26.9154692
+            ],
+            [
+              84.9701084,
+              26.9158473
+            ],
+            [
+              84.9691569,
+              26.9164442
+            ],
+            [
+              84.9687193,
+              26.9167894
+            ],
+            [
+              84.9692321,
+              26.9170352
+            ],
+            [
+              84.9695932,
+              26.9181429
+            ],
+            [
+              84.9701243,
+              26.9190648
+            ],
+            [
+              84.9706669,
+              26.9210312
+            ],
+            [
+              84.9716582,
+              26.9225044
+            ],
+            [
+              84.9699326,
+              26.9246104
+            ],
+            [
+              84.9716827,
+              26.9271092
+            ],
+            [
+              84.9714502,
+              26.9278076
+            ],
+            [
+              84.970361,
+              26.9288878
+            ],
+            [
+              84.9711565,
+              26.9293025
+            ],
+            [
+              84.9721935,
+              26.9292443
+            ],
+            [
+              84.972634,
+              26.9295171
+            ],
+            [
+              84.9725484,
+              26.9298008
+            ],
+            [
+              84.9732093,
+              26.9304064
+            ],
+            [
+              84.9734785,
+              26.9310666
+            ],
+            [
+              84.974476,
+              26.9317867
+            ],
+            [
+              84.976122,
+              26.9318031
+            ],
+            [
+              84.9766361,
+              26.9314266
+            ],
+            [
+              84.9772835,
+              26.9320712
+            ],
+            [
+              84.9772947,
+              26.9339454
+            ],
+            [
+              84.9783593,
+              26.9346541
+            ],
+            [
+              84.9786416,
+              26.9365545
+            ],
+            [
+              84.9772632,
+              26.9369694
+            ],
+            [
+              84.9771982,
+              26.9373096
+            ],
+            [
+              84.9750655,
+              26.9387823
+            ],
+            [
+              84.9749896,
+              26.9391394
+            ],
+            [
+              84.9754344,
+              26.9397706
+            ],
+            [
+              84.975906,
+              26.9399519
+            ],
+            [
+              84.9778445,
+              26.9398478
+            ],
+            [
+              84.9784027,
+              26.9401139
+            ],
+            [
+              84.9780788,
+              26.9407873
+            ],
+            [
+              84.9686349,
+              26.9534723
+            ],
+            [
+              84.9678328,
+              26.9549211
+            ],
+            [
+              84.9669558,
+              26.9559736
+            ],
+            [
+              84.9660751,
+              26.9564033
+            ],
+            [
+              84.9658889,
+              26.9567181
+            ],
+            [
+              84.9661958,
+              26.9571407
+            ],
+            [
+              84.9662632,
+              26.958273
+            ],
+            [
+              84.9658278,
+              26.9583728
+            ],
+            [
+              84.9654327,
+              26.9580515
+            ],
+            [
+              84.9644945,
+              26.9581011
+            ],
+            [
+              84.963055,
+              26.9590129
+            ],
+            [
+              84.963006,
+              26.9599142
+            ],
+            [
+              84.9624956,
+              26.9605153
+            ],
+            [
+              84.9602316,
+              26.9609588
+            ],
+            [
+              84.9596291,
+              26.960998
+            ],
+            [
+              84.9588228,
+              26.9608098
+            ],
+            [
+              84.9573218,
+              26.9609115
+            ],
+            [
+              84.9566542,
+              26.9607896
+            ],
+            [
+              84.9561276,
+              26.9600726
+            ],
+            [
+              84.9557917,
+              26.9599136
+            ],
+            [
+              84.9549292,
+              26.9598545
+            ],
+            [
+              84.9534666,
+              26.9600731
+            ],
+            [
+              84.9507105,
+              26.9613145
+            ],
+            [
+              84.9498103,
+              26.9614399
+            ],
+            [
+              84.9428567,
+              26.9642764
+            ],
+            [
+              84.9379512,
+              26.9660174
+            ],
+            [
+              84.9371991,
+              26.9665065
+            ],
+            [
+              84.9358213,
+              26.9668421
+            ],
+            [
+              84.9335285,
+              26.9678247
+            ],
+            [
+              84.9306966,
+              26.9682381
+            ],
+            [
+              84.9292986,
+              26.9687682
+            ],
+            [
+              84.9286816,
+              26.9686343
+            ],
+            [
+              84.9275126,
+              26.9678746
+            ],
+            [
+              84.9258241,
+              26.9679619
+            ],
+            [
+              84.9252599,
+              26.9682296
+            ],
+            [
+              84.9245333,
+              26.9682007
+            ],
+            [
+              84.9239975,
+              26.9676291
+            ],
+            [
+              84.9236525,
+              26.9676146
+            ],
+            [
+              84.922114,
+              26.9680922
+            ],
+            [
+              84.9202468,
+              26.9682767
+            ],
+            [
+              84.9174176,
+              26.9690906
+            ],
+            [
+              84.9164475,
+              26.969087
+            ],
+            [
+              84.9153774,
+              26.9688408
+            ],
+            [
+              84.9140846,
+              26.9689404
+            ],
+            [
+              84.9135564,
+              26.9688372
+            ],
+            [
+              84.912351,
+              26.9684415
+            ],
+            [
+              84.9117834,
+              26.9679657
+            ],
+            [
+              84.9115081,
+              26.9679207
+            ],
+            [
+              84.9093193,
+              26.9680884
+            ],
+            [
+              84.903996,
+              26.9697704
+            ],
+            [
+              84.9016317,
+              26.9703158
+            ],
+            [
+              84.9006264,
+              26.9697881
+            ],
+            [
+              84.8990003,
+              26.9701175
+            ],
+            [
+              84.8970456,
+              26.972029
+            ],
+            [
+              84.8970681,
+              26.9729205
+            ],
+            [
+              84.8966185,
+              26.9731458
+            ],
+            [
+              84.8939211,
+              26.9728754
+            ],
+            [
+              84.8934156,
+              26.9726539
+            ],
+            [
+              84.8923471,
+              26.97258
+            ],
+            [
+              84.8915638,
+              26.9722148
+            ],
+            [
+              84.8915076,
+              26.971143
+            ],
+            [
+              84.8919796,
+              26.9705621
+            ],
+            [
+              84.8919684,
+              26.9696505
+            ],
+            [
+              84.8905073,
+              26.9710328
+            ],
+            [
+              84.8899903,
+              26.971754
+            ],
+            [
+              84.8892261,
+              26.9739076
+            ],
+            [
+              84.888257,
+              26.9775305
+            ],
+            [
+              84.8865717,
+              26.9777193
+            ],
+            [
+              84.8850552,
+              26.978528
+            ],
+            [
+              84.8774217,
+              26.9800229
+            ],
+            [
+              84.8772618,
+              26.9805285
+            ],
+            [
+              84.8751256,
+              26.9807864
+            ],
+            [
+              84.8691755,
+              26.9828651
+            ],
+            [
+              84.8690307,
+              26.9830515
+            ],
+            [
+              84.8689985,
+              26.9838068
+            ],
+            [
+              84.8688286,
+              26.9839854
+            ],
+            [
+              84.8678919,
+              26.9840205
+            ],
+            [
+              84.8675803,
+              26.9834271
+            ],
+            [
+              84.8663673,
+              26.9835546
+            ],
+            [
+              84.8661352,
+              26.9839416
+            ],
+            [
+              84.8642962,
+              26.9845963
+            ],
+            [
+              84.864251,
+              26.9848866
+            ],
+            [
+              84.8618511,
+              26.9873562
+            ],
+            [
+              84.8610326,
+              26.9876809
+            ],
+            [
+              84.8593559,
+              26.9875681
+            ],
+            [
+              84.8588294,
+              26.9883303
+            ],
+            [
+              84.8587583,
+              26.9890307
+            ],
+            [
+              84.8583349,
+              26.9895203
+            ],
+            [
+              84.8579408,
+              26.9896051
+            ],
+            [
+              84.8575998,
+              26.9894098
+            ],
+            [
+              84.8571247,
+              26.9887499
+            ],
+            [
+              84.8577301,
+              26.988151
+            ],
+            [
+              84.8579701,
+              26.9876675
+            ],
+            [
+              84.8580623,
+              26.9871501
+            ],
+            [
+              84.8579224,
+              26.9867813
+            ],
+            [
+              84.8575097,
+              26.9865733
+            ],
+            [
+              84.8562429,
+              26.9853774
+            ],
+            [
+              84.8554074,
+              26.985516
+            ],
+            [
+              84.8550625,
+              26.9860249
+            ],
+            [
+              84.8553325,
+              26.9887012
+            ],
+            [
+              84.8555574,
+              26.9890412
+            ],
+            [
+              84.8562008,
+              26.989414
+            ],
+            [
+              84.8571916,
+              26.9897778
+            ],
+            [
+              84.8575956,
+              26.9902878
+            ],
+            [
+              84.8574051,
+              26.9905165
+            ],
+            [
+              84.8556319,
+              26.9911578
+            ],
+            [
+              84.8552471,
+              26.9915212
+            ],
+            [
+              84.8546555,
+              26.992903
+            ],
+            [
+              84.854644,
+              26.9934251
+            ],
+            [
+              84.8547359,
+              26.9937169
+            ],
+            [
+              84.8551494,
+              26.9937937
+            ],
+            [
+              84.8562867,
+              26.9928928
+            ],
+            [
+              84.8564992,
+              26.9920995
+            ],
+            [
+              84.8570654,
+              26.9916701
+            ],
+            [
+              84.8572281,
+              26.9928666
+            ],
+            [
+              84.8578656,
+              26.9943148
+            ],
+            [
+              84.8578038,
+              26.9947987
+            ],
+            [
+              84.8572568,
+              26.9949647
+            ],
+            [
+              84.8570949,
+              26.9956636
+            ],
+            [
+              84.857275,
+              26.9958738
+            ],
+            [
+              84.8580252,
+              26.9956302
+            ],
+            [
+              84.8579742,
+              26.9961029
+            ],
+            [
+              84.8577632,
+              26.9963817
+            ],
+            [
+              84.8572851,
+              26.996513
+            ],
+            [
+              84.8558878,
+              26.9960154
+            ],
+            [
+              84.8556192,
+              26.9960013
+            ],
+            [
+              84.8553929,
+              26.9963089
+            ],
+            [
+              84.8557135,
+              26.9966632
+            ],
+            [
+              84.8573884,
+              26.997261
+            ],
+            [
+              84.8574611,
+              26.9976457
+            ],
+            [
+              84.8571856,
+              26.9985405
+            ],
+            [
+              84.8561146,
+              26.9987372
+            ],
+            [
+              84.8556836,
+              26.9986291
+            ],
+            [
+              84.8548886,
+              26.9980001
+            ],
+            [
+              84.8545224,
+              26.9982548
+            ],
+            [
+              84.8539173,
+              26.9991375
+            ],
+            [
+              84.853434,
+              26.9992119
+            ],
+            [
+              84.8530648,
+              26.9991448
+            ],
+            [
+              84.8528123,
+              26.9988703
+            ],
+            [
+              84.8532989,
+              26.9980507
+            ],
+            [
+              84.8530288,
+              26.9977836
+            ],
+            [
+              84.8525282,
+              26.9979324
+            ],
+            [
+              84.8520142,
+              26.99861
+            ],
+            [
+              84.8518035,
+              26.9986615
+            ],
+            [
+              84.851288,
+              26.9985226
+            ],
+            [
+              84.850714,
+              26.9979989
+            ],
+            [
+              84.8504242,
+              26.997904
+            ],
+            [
+              84.8501956,
+              26.9980886
+            ],
+            [
+              84.85084847103582,
+              27
+            ],
+            [
+              84.79557715121803,
+              27
+            ],
+            [
+              84.7954744,
+              26.9998915
+            ],
+            [
+              84.795355,
+              26.9993296
+            ],
+            [
+              84.7946172,
+              26.9992559
+            ],
+            [
+              84.794357,
+              26.9982849
+            ],
+            [
+              84.7944825,
+              26.9979767
+            ],
+            [
+              84.7943893,
+              26.9974172
+            ],
+            [
+              84.7938429,
+              26.9959979
+            ],
+            [
+              84.7932429,
+              26.9958807
+            ],
+            [
+              84.7927653,
+              26.9961452
+            ],
+            [
+              84.7922357,
+              26.9967699
+            ],
+            [
+              84.7905796,
+              26.9971818
+            ],
+            [
+              84.7905306,
+              26.9977301
+            ],
+            [
+              84.7911826,
+              26.9986247
+            ],
+            [
+              84.7911496,
+              26.9990733
+            ],
+            [
+              84.7915804,
+              26.9993858
+            ],
+            [
+              84.7912102,
+              26.9996732
+            ],
+            [
+              84.7906842,
+              26.9996983
+            ],
+            [
+              84.7903404,
+              26.9992532
+            ],
+            [
+              84.789774,
+              26.9991632
+            ],
+            [
+              84.7896454,
+              26.9990241
+            ],
+            [
+              84.7894495,
+              26.9973847
+            ],
+            [
+              84.7884362,
+              26.9970274
+            ],
+            [
+              84.7882832,
+              26.9971283
+            ],
+            [
+              84.788375,
+              26.9986067
+            ],
+            [
+              84.7882709,
+              26.9987786
+            ],
+            [
+              84.7873058,
+              26.9989763
+            ],
+            [
+              84.7865438,
+              26.9984131
+            ],
+            [
+              84.7861763,
+              26.9986239
+            ],
+            [
+              84.78660983837231,
+              27
+            ],
+            [
+              84,
+              27
+            ],
+            [
+              84,
+              26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -184633,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Nepal",
+        "local_name": "नेपाल",
+        "name_en": "Nepal",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+          "name": "नेपाल",
+          "name:af": "Nepal",
+          "name:am": "ኔፓል",
+          "name:an": "Nepal",
+          "name:ar": "نيبال",
+          "name:as": "নেপাল",
+          "name:az": "Nepal",
+          "name:ba": "Непал",
+          "name:be": "Непал",
+          "name:bg": "Непал",
+          "name:bh": "नेपाल",
+          "name:bn": "নেপাল",
+          "name:bo": "བལ་ཡུལ།",
+          "name:br": "Nepal",
+          "name:bs": "Nepal",
+          "name:ca": "Nepal",
+          "name:ce": "Непал",
+          "name:cs": "Nepál",
+          "name:cv": "Непал",
+          "name:cy": "Nepal",
+          "name:da": "Nepal",
+          "name:de": "Nepal",
+          "name:dv": "ނޭޕާލް",
+          "name:dz": "བལ་ཡུལ་",
+          "name:el": "Νεπάλ",
+          "name:en": "Nepal",
+          "name:eo": "Nepalo",
+          "name:es": "Nepal",
+          "name:et": "Nepal",
+          "name:eu": "Nepal",
+          "name:fa": "نپال",
+          "name:fi": "Nepal",
+          "name:fo": "Nepal",
+          "name:fr": "Népal",
+          "name:fy": "Nepal",
+          "name:ga": "Neipeal",
+          "name:gd": "Neapàl",
+          "name:gl": "Nepal",
+          "name:gn": "Nepal",
+          "name:gu": "નેપાળ",
+          "name:gv": "Nepaal",
+          "name:he": "נפאל",
+          "name:hi": "नेपाल",
+          "name:hr": "Nepal",
+          "name:ht": "Nepal",
+          "name:hu": "Nepál",
+          "name:hy": "Նեպալ",
+          "name:ia": "Nepal",
+          "name:id": "Nepal",
+          "name:ie": "Nepal",
+          "name:io": "Nepal",
+          "name:is": "Nepal",
+          "name:it": "Nepal",
+          "name:ja": "ネパール",
+          "name:jv": "Nepal",
+          "name:ka": "ნეპალი",
+          "name:kk": "Непал",
+          "name:kl": "Nepal",
+          "name:km": "នេប៉ាល់",
+          "name:kn": "ನೇಪಾಳ",
+          "name:ko": "네팔",
+          "name:ku": "Nepal",
+          "name:kv": "Непал",
+          "name:kw": "Nepal",
+          "name:ky": "Непал",
+          "name:la": "Nepalia",
+          "name:lb": "Nepal",
+          "name:lg": "Nepal",
+          "name:li": "Nepal",
+          "name:ln": "Nepáli",
+          "name:lt": "Nepalas",
+          "name:lv": "Nepāla",
+          "name:mg": "Nepal",
+          "name:mi": "Nepōra",
+          "name:mk": "Непал",
+          "name:ml": "നേപ്പാൾ",
+          "name:mn": "Балба",
+          "name:mr": "नेपाळ",
+          "name:ms": "Nepal",
+          "name:my": "နီပေါနိုင်ငံ",
+          "name:na": "Nepar",
+          "name:ne": "नेपाल",
+          "name:nl": "Nepal",
+          "name:nn": "Nepal",
+          "name:no": "Nepal",
+          "name:nv": "Dziłgaiitsoh Honeezkʼazii Bikéyah",
+          "name:oc": "Nepal",
+          "name:or": "ନେପାଳ",
+          "name:os": "Непал",
+          "name:pa": "ਨੇਪਾਲ",
+          "name:pi": "नेपाल",
+          "name:pl": "Nepal",
+          "name:ps": "نيپال",
+          "name:pt": "Nepal",
+          "name:qu": "Nipal",
+          "name:ro": "Nepal",
+          "name:ru": "Непал",
+          "name:rw": "Nepali",
+          "name:sa": "नेपालदेशः",
+          "name:sd": "نيپال",
+          "name:se": "Nepal",
+          "name:sh": "Nepal",
+          "name:si": "නේපාලය",
+          "name:sk": "Nepál",
+          "name:sl": "Nepal",
+          "name:so": "Nebal",
+          "name:sq": "Nepali",
+          "name:sr": "Непал",
+          "name:ss": "INephali",
+          "name:su": "Nepal",
+          "name:sv": "Nepal",
+          "name:sw": "Nepal",
+          "name:ta": "நேபாளம்",
+          "name:te": "నేపాల్",
+          "name:tg": "Непал",
+          "name:th": "ประเทศเนปาล",
+          "name:tk": "Nepal",
+          "name:tl": "Nepal",
+          "name:tr": "Nepal",
+          "name:tt": "Непал",
+          "name:tw": "Nepal",
+          "name:ug": "نېپال",
+          "name:uk": "Непал",
+          "name:ur": "نیپال",
+          "name:uz": "Nepal",
+          "name:vi": "Nepal",
+          "name:vo": "Nepalän",
+          "name:wo": "Nepaal",
+          "name:yi": "נעפאל",
+          "name:yo": "Nepal",
+          "name:zh": "尼泊尔 / 尼泊爾",
+          "boundary": "administrative",
+          "name:ace": "Nepal",
+          "name:als": "Nepal",
+          "name:arz": "نيبال",
+          "name:ast": "Nepal",
+          "name:bar": "Nepal",
+          "name:bcl": "Nepal",
+          "name:bjn": "Nepal",
+          "name:bpy": "নেপাল",
+          "name:bxr": "Балба",
+          "name:ceb": "Nepal",
+          "name:ckb": "نیپال",
+          "name:crh": "Nepal",
+          "name:csb": "Nepal",
+          "name:din": "Nïpal",
+          "name:diq": "Nepal",
+          "name:ext": "Nepal",
+          "name:frp": "Nèpal",
+          "name:gag": "Nepal",
+          "name:hak": "Nì-pok",
+          "name:haw": "Nepala",
+          "name:hif": "Nepal",
+          "name:hsb": "Nepal",
+          "name:ilo": "Nepal",
+          "name:jbo": "nepal",
+          "name:krc": "Непал",
+          "name:lez": "Непал",
+          "name:lij": "Nepal",
+          "name:lmo": "Nepal",
+          "name:mzn": "نپال",
+          "name:nah": "Nepal",
+          "name:nan": "Nepal",
+          "name:nds": "Nepal",
+          "name:new": "नेपाः",
+          "name:nov": "Nepal",
+          "name:pam": "Nepal",
+          "name:pap": "Nepal",
+          "name:pih": "Nepal",
+          "name:pms": "Nepal",
+          "name:pnb": "نیپال",
+          "name:sah": "Непал",
+          "name:scn": "Nepal",
+          "name:sco": "Nepal",
+          "name:smn": "Nepal",
+          "name:sms": "Nepal",
+          "name:szl": "Nepal",
+          "name:tzl": "Nepal",
+          "name:udm": "Непал",
+          "name:vec": "Nèpal",
+          "name:vro": "Nepal",
+          "name:war": "Nepal",
+          "name:wuu": "尼泊尔",
+          "name:xal": "Балвудин Улсин Ниицәтә Орн",
+          "name:yue": "尼泊爾",
+          "name:zea": "Nepal",
+          "timezone": "Asia/Kathmandu",
+          "way_area": "13.61",
+          "wikidata": "Q837",
+          "ISO3166-1": "NP",
+          "wikipedia": "en:Nepal",
+          "admin_level": "2",
+          "driving_side": "left",
+          "name:bat-smg": "Nepals",
+          "name:zh-Hans": "尼泊尔",
+          "name:zh-Hant": "尼泊爾",
+          "name:be-tarask": "Нэпал",
+          "ISO3166-1:alpha2": "NP",
+          "ISO3166-1:alpha3": "NPL",
+          "default_language": "ne",
+          "official_name:ar": "جمهورية نيبال الديمقراطية الاتحادية",
+          "official_name:cs": "Nepálská federativní demokratická republika",
+          "official_name:de": "Demokratische Bundesrepublik Nepal",
+          "official_name:en": "Federal Democratic Republic of Nepal",
+          "official_name:eo": "Federacia Demokratia Respubliko Nepalo",
+          "official_name:es": "República Federal Democrática de Nepal",
+          "official_name:fa": "جمهوری فدرال دموکراتیک نپال",
+          "official_name:fr": "République démocratique fédérale du Népal",
+          "official_name:gn": "Nepal Tavakuairetã Ñembyatypyre Jekopytyjojáva",
+          "official_name:pl": "Federalna Demokratyczna Republika Nepalu",
+          "official_name:pt": "República Democrática Federal do Nepal",
+          "official_name:ru": "Федеративная Демократическая Республика Непал",
+          "official_name:ur": "وفاقی جمہوری جمہوریہ نیپال",
+          "ISO3166-1:numeric": "524",
+          "official_name:ckb": "کۆماری دیموکراتیی فیدراڵیی نیپال"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                84.7861763,
+                26.9986239
+              ],
+              [
+                84.7865438,
+                26.9984131
+              ],
+              [
+                84.7873058,
+                26.9989763
+              ],
+              [
+                84.7882709,
+                26.9987786
+              ],
+              [
+                84.788375,
+                26.9986067
+              ],
+              [
+                84.7882832,
+                26.9971283
+              ],
+              [
+                84.7884362,
+                26.9970274
+              ],
+              [
+                84.7894495,
+                26.9973847
+              ],
+              [
+                84.7896454,
+                26.9990241
+              ],
+              [
+                84.789774,
+                26.9991632
+              ],
+              [
+                84.7903404,
+                26.9992532
+              ],
+              [
+                84.7906842,
+                26.9996983
+              ],
+              [
+                84.7912102,
+                26.9996732
+              ],
+              [
+                84.7915804,
+                26.9993858
+              ],
+              [
+                84.7911496,
+                26.9990733
+              ],
+              [
+                84.7911826,
+                26.9986247
+              ],
+              [
+                84.7905306,
+                26.9977301
+              ],
+              [
+                84.7905796,
+                26.9971818
+              ],
+              [
+                84.7922357,
+                26.9967699
+              ],
+              [
+                84.7927653,
+                26.9961452
+              ],
+              [
+                84.7932429,
+                26.9958807
+              ],
+              [
+                84.7938429,
+                26.9959979
+              ],
+              [
+                84.7943893,
+                26.9974172
+              ],
+              [
+                84.7944825,
+                26.9979767
+              ],
+              [
+                84.794357,
+                26.9982849
+              ],
+              [
+                84.7946172,
+                26.9992559
+              ],
+              [
+                84.795355,
+                26.9993296
+              ],
+              [
+                84.7954744,
+                26.9998915
+              ],
+              [
+                84.79557715121803,
+                27
+              ],
+              [
+                84.78660983837231,
+                27
+              ],
+              [
+                84.7861763,
+                26.9986239
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                84.8501956,
+                26.9980886
+              ],
+              [
+                84.8504242,
+                26.997904
+              ],
+              [
+                84.850714,
+                26.9979989
+              ],
+              [
+                84.851288,
+                26.9985226
+              ],
+              [
+                84.8518035,
+                26.9986615
+              ],
+              [
+                84.8520142,
+                26.99861
+              ],
+              [
+                84.8525282,
+                26.9979324
+              ],
+              [
+                84.8530288,
+                26.9977836
+              ],
+              [
+                84.8532989,
+                26.9980507
+              ],
+              [
+                84.8528123,
+                26.9988703
+              ],
+              [
+                84.8530648,
+                26.9991448
+              ],
+              [
+                84.853434,
+                26.9992119
+              ],
+              [
+                84.8539173,
+                26.9991375
+              ],
+              [
+                84.8545224,
+                26.9982548
+              ],
+              [
+                84.8548886,
+                26.9980001
+              ],
+              [
+                84.8556836,
+                26.9986291
+              ],
+              [
+                84.8561146,
+                26.9987372
+              ],
+              [
+                84.8571856,
+                26.9985405
+              ],
+              [
+                84.8574611,
+                26.9976457
+              ],
+              [
+                84.8573884,
+                26.997261
+              ],
+              [
+                84.8557135,
+                26.9966632
+              ],
+              [
+                84.8553929,
+                26.9963089
+              ],
+              [
+                84.8556192,
+                26.9960013
+              ],
+              [
+                84.8558878,
+                26.9960154
+              ],
+              [
+                84.8572851,
+                26.996513
+              ],
+              [
+                84.8577632,
+                26.9963817
+              ],
+              [
+                84.8579742,
+                26.9961029
+              ],
+              [
+                84.8580252,
+                26.9956302
+              ],
+              [
+                84.857275,
+                26.9958738
+              ],
+              [
+                84.8570949,
+                26.9956636
+              ],
+              [
+                84.8572568,
+                26.9949647
+              ],
+              [
+                84.8578038,
+                26.9947987
+              ],
+              [
+                84.8578656,
+                26.9943148
+              ],
+              [
+                84.8572281,
+                26.9928666
+              ],
+              [
+                84.8570654,
+                26.9916701
+              ],
+              [
+                84.8564992,
+                26.9920995
+              ],
+              [
+                84.8562867,
+                26.9928928
+              ],
+              [
+                84.8551494,
+                26.9937937
+              ],
+              [
+                84.8547359,
+                26.9937169
+              ],
+              [
+                84.854644,
+                26.9934251
+              ],
+              [
+                84.8546555,
+                26.992903
+              ],
+              [
+                84.8552471,
+                26.9915212
+              ],
+              [
+                84.8556319,
+                26.9911578
+              ],
+              [
+                84.8574051,
+                26.9905165
+              ],
+              [
+                84.8575956,
+                26.9902878
+              ],
+              [
+                84.8571916,
+                26.9897778
+              ],
+              [
+                84.8562008,
+                26.989414
+              ],
+              [
+                84.8555574,
+                26.9890412
+              ],
+              [
+                84.8553325,
+                26.9887012
+              ],
+              [
+                84.8550625,
+                26.9860249
+              ],
+              [
+                84.8554074,
+                26.985516
+              ],
+              [
+                84.8562429,
+                26.9853774
+              ],
+              [
+                84.8575097,
+                26.9865733
+              ],
+              [
+                84.8579224,
+                26.9867813
+              ],
+              [
+                84.8580623,
+                26.9871501
+              ],
+              [
+                84.8579701,
+                26.9876675
+              ],
+              [
+                84.8577301,
+                26.988151
+              ],
+              [
+                84.8571247,
+                26.9887499
+              ],
+              [
+                84.8575998,
+                26.9894098
+              ],
+              [
+                84.8579408,
+                26.9896051
+              ],
+              [
+                84.8583349,
+                26.9895203
+              ],
+              [
+                84.8587583,
+                26.9890307
+              ],
+              [
+                84.8588294,
+                26.9883303
+              ],
+              [
+                84.8593559,
+                26.9875681
+              ],
+              [
+                84.8610326,
+                26.9876809
+              ],
+              [
+                84.8618511,
+                26.9873562
+              ],
+              [
+                84.864251,
+                26.9848866
+              ],
+              [
+                84.8642962,
+                26.9845963
+              ],
+              [
+                84.8661352,
+                26.9839416
+              ],
+              [
+                84.8663673,
+                26.9835546
+              ],
+              [
+                84.8675803,
+                26.9834271
+              ],
+              [
+                84.8678919,
+                26.9840205
+              ],
+              [
+                84.8688286,
+                26.9839854
+              ],
+              [
+                84.8689985,
+                26.9838068
+              ],
+              [
+                84.8690307,
+                26.9830515
+              ],
+              [
+                84.8691755,
+                26.9828651
+              ],
+              [
+                84.8751256,
+                26.9807864
+              ],
+              [
+                84.8772618,
+                26.9805285
+              ],
+              [
+                84.8774217,
+                26.9800229
+              ],
+              [
+                84.8850552,
+                26.978528
+              ],
+              [
+                84.8865717,
+                26.9777193
+              ],
+              [
+                84.888257,
+                26.9775305
+              ],
+              [
+                84.8892261,
+                26.9739076
+              ],
+              [
+                84.8899903,
+                26.971754
+              ],
+              [
+                84.8905073,
+                26.9710328
+              ],
+              [
+                84.8919684,
+                26.9696505
+              ],
+              [
+                84.8919796,
+                26.9705621
+              ],
+              [
+                84.8915076,
+                26.971143
+              ],
+              [
+                84.8915638,
+                26.9722148
+              ],
+              [
+                84.8923471,
+                26.97258
+              ],
+              [
+                84.8934156,
+                26.9726539
+              ],
+              [
+                84.8939211,
+                26.9728754
+              ],
+              [
+                84.8966185,
+                26.9731458
+              ],
+              [
+                84.8970681,
+                26.9729205
+              ],
+              [
+                84.8970456,
+                26.972029
+              ],
+              [
+                84.8990003,
+                26.9701175
+              ],
+              [
+                84.9006264,
+                26.9697881
+              ],
+              [
+                84.9016317,
+                26.9703158
+              ],
+              [
+                84.903996,
+                26.9697704
+              ],
+              [
+                84.9093193,
+                26.9680884
+              ],
+              [
+                84.9115081,
+                26.9679207
+              ],
+              [
+                84.9117834,
+                26.9679657
+              ],
+              [
+                84.912351,
+                26.9684415
+              ],
+              [
+                84.9135564,
+                26.9688372
+              ],
+              [
+                84.9140846,
+                26.9689404
+              ],
+              [
+                84.9153774,
+                26.9688408
+              ],
+              [
+                84.9164475,
+                26.969087
+              ],
+              [
+                84.9174176,
+                26.9690906
+              ],
+              [
+                84.9202468,
+                26.9682767
+              ],
+              [
+                84.922114,
+                26.9680922
+              ],
+              [
+                84.9236525,
+                26.9676146
+              ],
+              [
+                84.9239975,
+                26.9676291
+              ],
+              [
+                84.9245333,
+                26.9682007
+              ],
+              [
+                84.9252599,
+                26.9682296
+              ],
+              [
+                84.9258241,
+                26.9679619
+              ],
+              [
+                84.9275126,
+                26.9678746
+              ],
+              [
+                84.9286816,
+                26.9686343
+              ],
+              [
+                84.9292986,
+                26.9687682
+              ],
+              [
+                84.9306966,
+                26.9682381
+              ],
+              [
+                84.9335285,
+                26.9678247
+              ],
+              [
+                84.9358213,
+                26.9668421
+              ],
+              [
+                84.9371991,
+                26.9665065
+              ],
+              [
+                84.9379512,
+                26.9660174
+              ],
+              [
+                84.9428567,
+                26.9642764
+              ],
+              [
+                84.9498103,
+                26.9614399
+              ],
+              [
+                84.9507105,
+                26.9613145
+              ],
+              [
+                84.9534666,
+                26.9600731
+              ],
+              [
+                84.9549292,
+                26.9598545
+              ],
+              [
+                84.9557917,
+                26.9599136
+              ],
+              [
+                84.9561276,
+                26.9600726
+              ],
+              [
+                84.9566542,
+                26.9607896
+              ],
+              [
+                84.9573218,
+                26.9609115
+              ],
+              [
+                84.9588228,
+                26.9608098
+              ],
+              [
+                84.9596291,
+                26.960998
+              ],
+              [
+                84.9602316,
+                26.9609588
+              ],
+              [
+                84.9624956,
+                26.9605153
+              ],
+              [
+                84.963006,
+                26.9599142
+              ],
+              [
+                84.963055,
+                26.9590129
+              ],
+              [
+                84.9644945,
+                26.9581011
+              ],
+              [
+                84.9654327,
+                26.9580515
+              ],
+              [
+                84.9658278,
+                26.9583728
+              ],
+              [
+                84.9662632,
+                26.958273
+              ],
+              [
+                84.9661958,
+                26.9571407
+              ],
+              [
+                84.9658889,
+                26.9567181
+              ],
+              [
+                84.9660751,
+                26.9564033
+              ],
+              [
+                84.9669558,
+                26.9559736
+              ],
+              [
+                84.9678328,
+                26.9549211
+              ],
+              [
+                84.9686349,
+                26.9534723
+              ],
+              [
+                84.9780788,
+                26.9407873
+              ],
+              [
+                84.9784027,
+                26.9401139
+              ],
+              [
+                84.9778445,
+                26.9398478
+              ],
+              [
+                84.975906,
+                26.9399519
+              ],
+              [
+                84.9754344,
+                26.9397706
+              ],
+              [
+                84.9749896,
+                26.9391394
+              ],
+              [
+                84.9750655,
+                26.9387823
+              ],
+              [
+                84.9771982,
+                26.9373096
+              ],
+              [
+                84.9772632,
+                26.9369694
+              ],
+              [
+                84.9786416,
+                26.9365545
+              ],
+              [
+                84.9783593,
+                26.9346541
+              ],
+              [
+                84.9772947,
+                26.9339454
+              ],
+              [
+                84.9772835,
+                26.9320712
+              ],
+              [
+                84.9766361,
+                26.9314266
+              ],
+              [
+                84.976122,
+                26.9318031
+              ],
+              [
+                84.974476,
+                26.9317867
+              ],
+              [
+                84.9734785,
+                26.9310666
+              ],
+              [
+                84.9732093,
+                26.9304064
+              ],
+              [
+                84.9725484,
+                26.9298008
+              ],
+              [
+                84.972634,
+                26.9295171
+              ],
+              [
+                84.9721935,
+                26.9292443
+              ],
+              [
+                84.9711565,
+                26.9293025
+              ],
+              [
+                84.970361,
+                26.9288878
+              ],
+              [
+                84.9714502,
+                26.9278076
+              ],
+              [
+                84.9716827,
+                26.9271092
+              ],
+              [
+                84.9699326,
+                26.9246104
+              ],
+              [
+                84.9716582,
+                26.9225044
+              ],
+              [
+                84.9706669,
+                26.9210312
+              ],
+              [
+                84.9701243,
+                26.9190648
+              ],
+              [
+                84.9695932,
+                26.9181429
+              ],
+              [
+                84.9692321,
+                26.9170352
+              ],
+              [
+                84.9687193,
+                26.9167894
+              ],
+              [
+                84.9691569,
+                26.9164442
+              ],
+              [
+                84.9701084,
+                26.9158473
+              ],
+              [
+                84.9727911,
+                26.9154692
+              ],
+              [
+                84.978745,
+                26.9149985
+              ],
+              [
+                84.9839131,
+                26.9143233
+              ],
+              [
+                84.9888955,
+                26.9134678
+              ],
+              [
+                84.9913098,
+                26.9134321
+              ],
+              [
+                84.9969199,
+                26.912646
+              ],
+              [
+                84.9999173,
+                26.9119232
+              ],
+              [
+                85,
+                26.911820406156597
+              ],
+              [
+                85,
+                27
+              ],
+              [
+                84.85084847103582,
+                27
+              ],
+              [
+                84.8501956,
+                26.9980886
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                84.9928306,
+                26.9030526
+              ],
+              [
+                84.9948815,
+                26.9018543
+              ],
+              [
+                84.9984751,
+                26.8993237
+              ],
+              [
+                85,
+                26.898097716690405
+              ],
+              [
+                85,
+                26.90440344106688
+              ],
+              [
+                84.9993262,
+                26.9045268
+              ],
+              [
+                84.9974341,
+                26.9052075
+              ],
+              [
+                84.996609,
+                26.9065175
+              ],
+              [
+                84.9957964,
+                26.906707
+              ],
+              [
+                84.9946782,
+                26.9063203
+              ],
+              [
+                84.9940638,
+                26.9057409
+              ],
+              [
+                84.9930958,
+                26.905666
+              ],
+              [
+                84.9929543,
+                26.9054413
+              ],
+              [
+                84.9928306,
+                26.9030526
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

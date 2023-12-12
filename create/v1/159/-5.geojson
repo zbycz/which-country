@@ -1,0 +1,1182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -307866,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Papua New Guinea",
+        "local_name": "Papua Niugini",
+        "name_en": "Papua New Guinea",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+          "name": "Papua Niugini",
+          "name:af": "Papoea-Nieu-Guinee",
+          "name:am": "ፓፑዋ ኒው ጊኒ",
+          "name:an": "Papua y Nueva Guinea",
+          "name:ar": "بابوا غينيا الجديدة",
+          "name:az": "Papua-Yeni Qvineya",
+          "name:ba": "Папуа — Яңы Гвинея",
+          "name:be": "Папуа — Новая Гвінея",
+          "name:bg": "Папуа Нова Гвинея",
+          "name:bi": "Papua New Guinea",
+          "name:bn": "পাপুয়া নিউ গিনি",
+          "name:bo": "པ་པུ་འ་ནིའུ་གི་ནེ།",
+          "name:br": "Papoua Ginea-Nevez",
+          "name:bs": "Papua Nova Gvineja",
+          "name:ca": "Papua Nova Guinea",
+          "name:ce": "Папуа — Керла Гвине",
+          "name:cs": "Papua Nová Guinea",
+          "name:cu": "Папоуа · Нова Гвинєꙗ",
+          "name:cy": "Papua Guinea Newydd",
+          "name:da": "Papua Ny Guinea",
+          "name:de": "Papua-Neuguinea",
+          "name:dv": "ޕަޕުއާ ނިއު ގިނީ",
+          "name:el": "Παπούα Νέα Γουινέα",
+          "name:en": "Papua New Guinea",
+          "name:eo": "Papuo-Nov-Gvineo",
+          "name:es": "Papua-Nueva Guinea",
+          "name:et": "Paapua Uus-Guinea",
+          "name:eu": "Papua Ginea Berria",
+          "name:fa": "پاپوآ گینه نو",
+          "name:fi": "Papua-Uusi-Guinea",
+          "name:fo": "Papua Nýguinea",
+          "name:fr": "Papouasie-Nouvelle-Guinée",
+          "name:fy": "Papoea Nij-Guineä",
+          "name:ga": "Nua-Ghuine Phapua",
+          "name:gd": "Gini Nuadh Phaputhach",
+          "name:gl": "Papúa Nova Guinea",
+          "name:gn": "Papúa Ginéa Pyahu",
+          "name:gv": "Papooey Guinea Noa",
+          "name:he": "פפואה גינאה החדשה",
+          "name:hi": "पापुआ न्यू गिनी",
+          "name:hr": "Papua Nova Gvineja",
+          "name:ht": "Papwazi-Nouvèl-Gine",
+          "name:hu": "Pápua Új-Guinea",
+          "name:hy": "Պապուա Նոր Գվինեա",
+          "name:ia": "Papua Nove Guinea",
+          "name:id": "Papua Nugini",
+          "name:io": "Papua-Nova-Guinea",
+          "name:is": "Papúa Nýja-Gínea",
+          "name:it": "Papua Nuova Guinea",
+          "name:ja": "パプアニューギニア",
+          "name:jv": "Papua Nugini",
+          "name:ka": "პაპუა-ახალი გვინეა",
+          "name:kk": "Папуа Жаңа Гвинея",
+          "name:kn": "ಪಾಪುಅ ನ್ಯೂ ಗಿನಿ",
+          "name:ko": "파푸아 뉴기니",
+          "name:ku": "Papua Gîneya Nû",
+          "name:ky": "Папуа-Жаӊы-Гвинея.",
+          "name:la": "Papua Nova Guinea",
+          "name:lb": "Papua-Neiguinea",
+          "name:li": "Papoea-Nui-Guinea",
+          "name:lt": "Papua Naujoji Gvinėja",
+          "name:lv": "Papua-Jaungvineja",
+          "name:mi": "Papua Nūkini",
+          "name:mk": "Папуа Нова Гвинеја",
+          "name:ml": "പാപുവ ന്യൂ ഗിനിയ",
+          "name:mr": "पापुआ न्यू गिनी",
+          "name:ms": "Papua New Guinea",
+          "name:mt": "Papwa Gwinea l-Ġdida",
+          "name:my": "ပါပူအာနယူးဂီနီနိုင်ငံ",
+          "name:na": "Papua New Guinea",
+          "name:nl": "Papoea-Nieuw-Guinea",
+          "name:nn": "Papua Ny-Guinea",
+          "name:no": "Papua Ny-Guinea",
+          "name:nv": "Páápowa Bigíní Ániidí",
+          "name:oc": "Papoa-Nòva Guinèa",
+          "name:os": "Папуæ — Ног Гвиней",
+          "name:pa": "ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ",
+          "name:pl": "Papua-Nowa Gwinea",
+          "name:pt": "Papua-Nova Guiné",
+          "name:qu": "Papwa Ñukini",
+          "name:ro": "Papua Noua Guinee",
+          "name:ru": "Папуа — Новая Гвинея",
+          "name:rw": "Papuwa Nuveli Gineya",
+          "name:sa": "पपुवा न्यू गिनी",
+          "name:se": "Papua-Ođđa-Guinea",
+          "name:sg": "Papû Finî Ginëe",
+          "name:sh": "Papua Nova Gvineja",
+          "name:sk": "Papua-Nová Guinea",
+          "name:sl": "Papua Nova Gvineja",
+          "name:sm": "Papua",
+          "name:sq": "Papua Guinea e Re",
+          "name:sr": "Папуа Нова Гвинеја",
+          "name:su": "Papua Nugini",
+          "name:sv": "Papua Nya Guinea",
+          "name:sw": "Papua Guinea Mpya",
+          "name:ta": "பப்புவா நியூ கினி",
+          "name:th": "ประเทศปาปัวนิวกินี",
+          "name:tl": "Papua Bagong Ginea",
+          "name:tr": "Papua Yeni Gine",
+          "name:tt": "Папуа — Яңа Гвинея",
+          "name:ug": "پاپۇئا يېڭى گۋىنېيە",
+          "name:uk": "Папуа Нова Ґвінея",
+          "name:ur": "پاپوا نیو گنی",
+          "name:uz": "Papua Yangi Gvineya",
+          "name:vi": "Papua New Guinea",
+          "name:vo": "Papuveän Nula-Gineyän",
+          "name:wo": "Papuwaasi-Gine-Gu-Bees",
+          "name:yo": "Papua Guinea Titun",
+          "name:zh": "巴布亚新几内亚 / 巴布亞紐幾內亞 / 巴布亞新畿內亞",
+          "boundary": "administrative",
+          "int_name": "Papua New Guinea",
+          "name:ace": "Papua New Guinea",
+          "name:als": "Papua-Neuguinea",
+          "name:arz": "بابوا نيو جينيا",
+          "name:ast": "Papúa Nueva Guinea",
+          "name:bar": "Papua-Neuguinea",
+          "name:bcl": "Papua Bagong Guineya",
+          "name:bpy": "পাপুয়া নিউগিনি",
+          "name:bxr": "Папуа-Шэнэ Гвинея",
+          "name:ceb": "Papua New Guinea",
+          "name:ckb": "پاپوا گینێی نوێ",
+          "name:crh": "Papua Yañı Gvineya",
+          "name:diq": "Papua Gineya Newiye",
+          "name:dsb": "Papua-Neuguinea",
+          "name:ext": "Papua Nueva Guinea",
+          "name:frp": "Papoasie-Novèla-Guinê",
+          "name:hak": "Pâ-pu-â Néu-kí-nui-â",
+          "name:hif": "Papua New Guinea",
+          "name:hsb": "Papuwa-Nowa Gineja",
+          "name:ilo": "Papua Baro a Guinea",
+          "name:lij": "Papua Neuva Guinea",
+          "name:lmo": "Papua Növa Guinea",
+          "name:mrj": "Папуа — У Гвиней",
+          "name:nah": "Papua Yancuīc Guinea",
+          "name:nan": "Papua Sin Guinea",
+          "name:nds": "Papua-Niegguinea",
+          "name:pam": "Papua New Guinea",
+          "name:pih": "Papua Nyuu Gini",
+          "name:pms": "Papua Neuva Guinea",
+          "name:pnb": "پاپوانیوگنی",
+          "name:sah": "Папуа Саҥа Гуинея",
+          "name:sco": "Papua New Guinea",
+          "name:smn": "Papua-Uđđâ-Guinea",
+          "name:sms": "Papua-Ođđ-Guinea",
+          "name:szl": "Papua-Nowŏ Gwinyjŏ",
+          "name:tpi": "Papua Niugini",
+          "name:vec": "Papua Nova Guinea",
+          "name:vro": "Paapua Vahtsõnõ Ginea",
+          "name:war": "Papúa Nueva Guinea",
+          "name:xal": "Папуһасин болн Шин Гвинемудин Орн",
+          "name:yue": "巴布亞新畿內亞",
+          "way_area": "97.9129",
+          "wikidata": "Q691",
+          "ISO3166-1": "PG",
+          "wikipedia": "en:Papua New Guinea",
+          "admin_level": "2",
+          "alt_name:vi": "Papua Tân Guinea;Pa-pua Niu Ghi-nê",
+          "border_type": "nation",
+          "name:simple": "Papua New Guinea",
+          "driving_side": "left",
+          "name:bat-smg": "Papua Naujuojė Gvėniejė",
+          "name:zh-Hans": "巴布亚新几内亚",
+          "name:zh-Hant": "巴布亞紐幾內亞 / 巴布亞新畿內亞",
+          "name:be-tarask": "Папуа-Новая Гвінэя",
+          "name:zh-Hant-tw": "巴布亞紐幾內亞",
+          "ISO3166-1:alpha2": "PG",
+          "ISO3166-1:alpha3": "PNG",
+          "official_name:cs": "Nezávislý stát Papua Nová Guinea",
+          "official_name:de": "Unabhängiger Staat Papua-Neuguinea",
+          "official_name:en": "Independent State of Papua New Guinea",
+          "official_name:es": "Estado Independiente de Papúa Nueva Guinea",
+          "official_name:gn": "Tetã Hekosãsóva Papúa Ginéa Pyahu",
+          "official_name:pt": "Estado Independente da Papua-Nova Guiné",
+          "official_name:ru": "Независимое Государство Папуа — Новая Гвинея",
+          "official_name:uk": "Незалежна Держава Папуа Нова Ґвінея",
+          "ISO3166-1:numeric": "598"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              159.1123339,
+              -4.5638869
+            ],
+            [
+              159.112645,
+              -4.5774889
+            ],
+            [
+              159.1135231,
+              -4.588575
+            ],
+            [
+              159.1151911,
+              -4.6012239
+            ],
+            [
+              159.1170739,
+              -4.6115319
+            ],
+            [
+              159.1196119,
+              -4.6223411
+            ],
+            [
+              159.1216131,
+              -4.6295339
+            ],
+            [
+              159.1238869,
+              -4.6367231
+            ],
+            [
+              159.1277981,
+              -4.6473331
+            ],
+            [
+              159.1322969,
+              -4.657705
+            ],
+            [
+              159.1373719,
+              -4.6678069
+            ],
+            [
+              159.1436431,
+              -4.67874
+            ],
+            [
+              159.1473339,
+              -4.6845339
+            ],
+            [
+              159.1515389,
+              -4.6906661
+            ],
+            [
+              159.1582639,
+              -4.6995611
+            ],
+            [
+              159.1654711,
+              -4.7080681
+            ],
+            [
+              159.1731369,
+              -4.71616
+            ],
+            [
+              159.1784919,
+              -4.7213111
+            ],
+            [
+              159.1840339,
+              -4.7262611
+            ],
+            [
+              159.1926789,
+              -4.73329
+            ],
+            [
+              159.2017011,
+              -4.7398269
+            ],
+            [
+              159.2119531,
+              -4.7464731
+            ],
+            [
+              159.2178011,
+              -4.7498961
+            ],
+            [
+              159.22376,
+              -4.7531189
+            ],
+            [
+              159.23532,
+              -4.7588181
+            ],
+            [
+              159.2464731,
+              -4.76373
+            ],
+            [
+              159.2581119,
+              -4.7683411
+            ],
+            [
+              159.2903,
+              -4.7795281
+            ],
+            [
+              159.3021481,
+              -4.782925
+            ],
+            [
+              159.312975,
+              -4.7862761
+            ],
+            [
+              159.32029,
+              -4.7881669
+            ],
+            [
+              159.3276711,
+              -4.7897789
+            ],
+            [
+              159.3387881,
+              -4.7916869
+            ],
+            [
+              159.3495181,
+              -4.7930069
+            ],
+            [
+              159.3601211,
+              -4.7937561
+            ],
+            [
+              159.3687511,
+              -4.7939831
+            ],
+            [
+              159.3790169,
+              -4.7975619
+            ],
+            [
+              159.3859631,
+              -4.7996339
+            ],
+            [
+              159.3929789,
+              -4.8014531
+            ],
+            [
+              159.4000561,
+              -4.8030169
+            ],
+            [
+              159.4106569,
+              -4.805025
+            ],
+            [
+              159.4177431,
+              -4.8060939
+            ],
+            [
+              159.4248619,
+              -4.8069089
+            ],
+            [
+              159.4328911,
+              -4.8075119
+            ],
+            [
+              159.4770611,
+              -4.8051461
+            ],
+            [
+              159.4855561,
+              -4.803565
+            ],
+            [
+              159.496015,
+              -4.8011011
+            ],
+            [
+              159.5063289,
+              -4.7980781
+            ],
+            [
+              159.516465,
+              -4.794505
+            ],
+            [
+              159.5263961,
+              -4.7903919
+            ],
+            [
+              159.5368531,
+              -4.785435
+            ],
+            [
+              159.5447169,
+              -4.7813719
+            ],
+            [
+              159.5541531,
+              -4.77623
+            ],
+            [
+              159.5600139,
+              -4.7736361
+            ],
+            [
+              159.5681819,
+              -4.7697539
+            ],
+            [
+              159.5779181,
+              -4.76462
+            ],
+            [
+              159.5872881,
+              -4.7590489
+            ],
+            [
+              159.5963081,
+              -4.7530239
+            ],
+            [
+              159.6062169,
+              -4.7456561
+            ],
+            [
+              159.61357,
+              -4.73968
+            ],
+            [
+              159.6184389,
+              -4.7354339
+            ],
+            [
+              159.6319011,
+              -4.7230969
+            ],
+            [
+              159.6398289,
+              -4.7149731
+            ],
+            [
+              159.6472869,
+              -4.7064131
+            ],
+            [
+              159.6541661,
+              -4.697595
+            ],
+            [
+              159.660545,
+              -4.6884061
+            ],
+            [
+              159.6664039,
+              -4.6788739
+            ],
+            [
+              159.671725,
+              -4.66903
+            ],
+            [
+              159.67649,
+              -4.6589031
+            ],
+            [
+              159.6806861,
+              -4.6485269
+            ],
+            [
+              159.6842989,
+              -4.6379311
+            ],
+            [
+              159.6872561,
+              -4.6275169
+            ],
+            [
+              159.68965,
+              -4.6169569
+            ],
+            [
+              159.6914739,
+              -4.6062839
+            ],
+            [
+              159.6927219,
+              -4.5955269
+            ],
+            [
+              159.69339,
+              -4.5847189
+            ],
+            [
+              159.693425,
+              -4.5709239
+            ],
+            [
+              159.6931231,
+              -4.5643539
+            ],
+            [
+              159.6926061,
+              -4.5577969
+            ],
+            [
+              159.6918461,
+              -4.550955
+            ],
+            [
+              159.69081,
+              -4.5438389
+            ],
+            [
+              159.6887831,
+              -4.5332439
+            ],
+            [
+              159.6865719,
+              -4.5241369
+            ],
+            [
+              159.6841969,
+              -4.5157681
+            ],
+            [
+              159.6811811,
+              -4.50665
+            ],
+            [
+              159.6777111,
+              -4.4975611
+            ],
+            [
+              159.6744681,
+              -4.48444
+            ],
+            [
+              159.6720139,
+              -4.4758839
+            ],
+            [
+              159.66888,
+              -4.4664639
+            ],
+            [
+              159.665325,
+              -4.4572369
+            ],
+            [
+              159.6600819,
+              -4.4452239
+            ],
+            [
+              159.6538761,
+              -4.4329089
+            ],
+            [
+              159.6506139,
+              -4.42713
+            ],
+            [
+              159.6460819,
+              -4.4197511
+            ],
+            [
+              159.64286,
+              -4.4139961
+            ],
+            [
+              159.6376781,
+              -4.40557
+            ],
+            [
+              159.6300469,
+              -4.3945389
+            ],
+            [
+              159.6213681,
+              -4.3834439
+            ],
+            [
+              159.6145411,
+              -4.3754839
+            ],
+            [
+              159.6073669,
+              -4.3678319
+            ],
+            [
+              159.6024411,
+              -4.36286
+            ],
+            [
+              159.5976711,
+              -4.3583431
+            ],
+            [
+              159.5831489,
+              -4.3457111
+            ],
+            [
+              159.5777539,
+              -4.3413
+            ],
+            [
+              159.5652919,
+              -4.331985
+            ],
+            [
+              159.557815,
+              -4.3225789
+            ],
+            [
+              159.5532381,
+              -4.3173311
+            ],
+            [
+              159.5484831,
+              -4.3122461
+            ],
+            [
+              159.5404839,
+              -4.30434
+            ],
+            [
+              159.5303681,
+              -4.2954181
+            ],
+            [
+              159.5205039,
+              -4.2875819
+            ],
+            [
+              159.50641,
+              -4.27733
+            ],
+            [
+              159.4971239,
+              -4.2713119
+            ],
+            [
+              159.4907561,
+              -4.26759
+            ],
+            [
+              159.484255,
+              -4.264105
+            ],
+            [
+              159.4776311,
+              -4.2608631
+            ],
+            [
+              159.4708931,
+              -4.2578681
+            ],
+            [
+              159.46405,
+              -4.2551239
+            ],
+            [
+              159.45711,
+              -4.2526339
+            ],
+            [
+              159.4467281,
+              -4.2493931
+            ],
+            [
+              159.4397781,
+              -4.2474611
+            ],
+            [
+              159.4289481,
+              -4.2449189
+            ],
+            [
+              159.4216569,
+              -4.2435619
+            ],
+            [
+              159.4072739,
+              -4.2414931
+            ],
+            [
+              159.3964889,
+              -4.240585
+            ],
+            [
+              159.3859161,
+              -4.2402381
+            ],
+            [
+              159.3772781,
+              -4.2387939
+            ],
+            [
+              159.3700461,
+              -4.2378669
+            ],
+            [
+              159.362785,
+              -4.2372061
+            ],
+            [
+              159.355505,
+              -4.23681
+            ],
+            [
+              159.348215,
+              -4.2366811
+            ],
+            [
+              159.3408119,
+              -4.2367939
+            ],
+            [
+              159.3297269,
+              -4.23748
+            ],
+            [
+              159.3224861,
+              -4.2382489
+            ],
+            [
+              159.3153969,
+              -4.2392461
+            ],
+            [
+              159.3048419,
+              -4.2412181
+            ],
+            [
+              159.2982961,
+              -4.2427311
+            ],
+            [
+              159.2922261,
+              -4.244335
+            ],
+            [
+              159.2862081,
+              -4.2461281
+            ],
+            [
+              159.2792781,
+              -4.2484289
+            ],
+            [
+              159.26905,
+              -4.2523511
+            ],
+            [
+              159.25576,
+              -4.2583711
+            ],
+            [
+              159.2460869,
+              -4.2634611
+            ],
+            [
+              159.2397981,
+              -4.2671461
+            ],
+            [
+              159.2336469,
+              -4.2710581
+            ],
+            [
+              159.2276411,
+              -4.2751919
+            ],
+            [
+              159.2225689,
+              -4.2789131
+            ],
+            [
+              159.2130569,
+              -4.2865361
+            ],
+            [
+              159.2033189,
+              -4.2953111
+            ],
+            [
+              159.1987369,
+              -4.29982
+            ],
+            [
+              159.1943,
+              -4.304475
+            ],
+            [
+              159.1875911,
+              -4.3120739
+            ],
+            [
+              159.1832261,
+              -4.3174481
+            ],
+            [
+              159.1789,
+              -4.3231081
+            ],
+            [
+              159.1727931,
+              -4.3318769
+            ],
+            [
+              159.1671589,
+              -4.3409611
+            ],
+            [
+              159.1619439,
+              -4.3504289
+            ],
+            [
+              159.1579239,
+              -4.3585319
+            ],
+            [
+              159.15329,
+              -4.3687339
+            ],
+            [
+              159.1505189,
+              -4.3756719
+            ],
+            [
+              159.1468481,
+              -4.3862619
+            ],
+            [
+              159.14359,
+              -4.3969511
+            ],
+            [
+              159.1409281,
+              -4.407805
+            ],
+            [
+              159.1389911,
+              -4.4178419
+            ],
+            [
+              159.138105,
+              -4.4233131
+            ],
+            [
+              159.1364161,
+              -4.4298119
+            ],
+            [
+              159.134945,
+              -4.436365
+            ],
+            [
+              159.1336919,
+              -4.4429639
+            ],
+            [
+              159.1325931,
+              -4.4500811
+            ],
+            [
+              159.1294761,
+              -4.4605611
+            ],
+            [
+              159.1269319,
+              -4.471195
+            ],
+            [
+              159.1249611,
+              -4.4813261
+            ],
+            [
+              159.1239281,
+              -4.4879219
+            ],
+            [
+              159.1224219,
+              -4.4943711
+            ],
+            [
+              159.1211269,
+              -4.5008669
+            ],
+            [
+              159.1195881,
+              -4.5106811
+            ],
+            [
+              159.11723,
+              -4.52077
+            ],
+            [
+              159.1159489,
+              -4.5271239
+            ],
+            [
+              159.1144539,
+              -4.53617
+            ],
+            [
+              159.1132489,
+              -4.5462289
+            ],
+            [
+              159.1126969,
+              -4.5532819
+            ],
+            [
+              159.1123339,
+              -4.5638869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1857436,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Solomon Islands",
+        "local_name": "Solomon Islands",
+        "name_en": "Solomon Islands",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+          "name": "Solomon Islands",
+          "name:af": "Solomoneilande",
+          "name:am": "ሰለሞን ደሴቶች",
+          "name:an": "Islas Salomón",
+          "name:ar": "جزر سليمان",
+          "name:az": "Solomon adaları",
+          "name:be": "Саламонавы Астравы",
+          "name:bg": "Соломонови острови",
+          "name:bn": "সলোমন দ্বীপপুঞ্জ",
+          "name:bo": "སོ་ལོ་མོན་གླིང་ཕྲན་ཚོ་ཁག",
+          "name:br": "Inizi Solomon",
+          "name:bs": "Solomonska Ostrva",
+          "name:ca": "Salomó",
+          "name:ce": "Соломонан гӀайреш",
+          "name:cs": "Šalomounovy ostrovy",
+          "name:cv": "Соломон Утравĕсем",
+          "name:cy": "Ynysoedd Solomon",
+          "name:da": "Salomonøerne",
+          "name:de": "Salomonen",
+          "name:dv": "ސޮލޮމޮން ޖަޒީރާ",
+          "name:el": "Νήσοι Σολομώντα",
+          "name:en": "Solomon Islands",
+          "name:eo": "Salomonoj",
+          "name:es": "Islas Salomón",
+          "name:et": "Saalomoni Saared",
+          "name:eu": "Salomon Uharteak",
+          "name:fa": "جزایر سلیمان",
+          "name:fi": "Salomonsaaret",
+          "name:fo": "Sálomonoyggjarnar",
+          "name:fr": "Salomon",
+          "name:fy": "Salomonseilannen",
+          "name:ga": "Oileáin Sholamón",
+          "name:gd": "Na h-Eileanan Sholaimh",
+          "name:gl": "Illas Salomón",
+          "name:gn": "Ypa'ũnguéra Salomõ",
+          "name:gv": "Ny h-Ellanyn Holomon",
+          "name:he": "איי שלמה",
+          "name:hi": "सोलोमन द्वीपसमूह",
+          "name:hr": "Solomonski Otoci",
+          "name:ht": "Salomon",
+          "name:hu": "Salamon-szigetek",
+          "name:hy": "Սողոմոնյան Կղզիներ",
+          "name:id": "Kepulauan Solomon",
+          "name:io": "Salomon Insuli",
+          "name:is": "Salómonseyjar",
+          "name:it": "Isole Salomone",
+          "name:ja": "ソロモン諸島",
+          "name:jv": "Kapuloan Solomon",
+          "name:ka": "სოლომონის კუნძულები",
+          "name:kk": "Соломон Аралдары",
+          "name:kn": "ಸಾಲೊಮನ್ ದ್ವೀಪಗಳು",
+          "name:ko": "솔로몬 제도",
+          "name:ku": "Giravên Salomon",
+          "name:kw": "Ynysow Salamon",
+          "name:la": "Insulae Salomonis",
+          "name:lb": "Salomonen",
+          "name:li": "Salomonseilen",
+          "name:lt": "Saliamono Salos",
+          "name:lv": "Zālamana Salas",
+          "name:mk": "Соломонски Острови",
+          "name:ml": "സോളമൻ ദ്വീപുകൾ",
+          "name:mr": "सॉलोमन द्वीपसमूह",
+          "name:ms": "Kepulauan Solomon",
+          "name:mt": "Gżejjer Solomon",
+          "name:my": "ဆော်လမွန်အိုင်းလန်းနိုင်ငံ",
+          "name:ne": "सोलोमन द्धीप",
+          "name:nl": "Salomonseilanden",
+          "name:nn": "Salomonøyane",
+          "name:no": "Salomonøyene",
+          "name:nv": "Sólomon Tó Bináhaazyínígíí",
+          "name:oc": "Illas Salamon",
+          "name:or": "ସୋଲୋମନ ଆୟରଲ୍ୟାଣ୍ଡ",
+          "name:os": "Соломоны сакъадæхтæ",
+          "name:pa": "ਸੋਲੋਮਨ ਟਾਪੂ",
+          "name:pl": "Wyspy Salomona",
+          "name:pt": "Ilhas Salomão",
+          "name:qu": "Salumun wat'akuna",
+          "name:ro": "Insulele Solomon",
+          "name:ru": "Соломоновы Острова",
+          "name:rw": "Ibirwa bya Solomoni",
+          "name:sa": "सोलोमन-द्वीप",
+          "name:se": "Salomonsullot",
+          "name:sh": "Solomonski Otoci",
+          "name:si": "සොලමන් දුපත්",
+          "name:sk": "Šalamúnove ostrovy",
+          "name:sl": "Salomonovi otoki",
+          "name:sm": "Solomon Islands",
+          "name:so": "Jasiiradaha Solomon",
+          "name:sq": "Ishujt Solomon",
+          "name:sr": "Соломонска Острва",
+          "name:su": "Kapuloan Solomon",
+          "name:sv": "Salomonöarna",
+          "name:sw": "Visiwa vya Solomon",
+          "name:ta": "சொலமன் தீவுகள்",
+          "name:te": "సోలమన్ దీవులు",
+          "name:tg": "Ҷазираҳои Соломон",
+          "name:th": "หมู่เกาะโซโลมอน",
+          "name:tl": "Kapuluang Solomon",
+          "name:tr": "Solomon Adaları",
+          "name:ug": "سولومون تاقىم ئاراللىرى",
+          "name:uk": "Соломонові Острови",
+          "name:ur": "جزائر سلیمان",
+          "name:uz": "Solomon Orollari",
+          "name:vi": "Quần đảo Solomon",
+          "name:vo": "Solomonuäns",
+          "name:wo": "Duni Solomon",
+          "name:yo": "Àwọn Erékùsù Sólómọ́nì",
+          "name:zh": "所罗门群岛 / 索羅門群島",
+          "boundary": "administrative",
+          "name:ace": "Pulo-pulo Solomon",
+          "name:als": "Salomonen",
+          "name:arz": "جزر سولومون",
+          "name:ast": "Islles Salomón",
+          "name:bcl": "Islas Solomon",
+          "name:bpy": "সলোমন দ্বীপমালা",
+          "name:bxr": "Соломон аралууд",
+          "name:ceb": "Kapupud-ang Solomon",
+          "name:ckb": "دوورگەکانی سلێمان",
+          "name:crh": "Solomon Adaları",
+          "name:diq": "Adeyê Solomoni",
+          "name:dsb": "Salomony",
+          "name:ext": "Islas Salomón",
+          "name:frp": "Iles Salomon",
+          "name:hif": "Solomon Islands",
+          "name:hsb": "Salomony",
+          "name:ilo": "Is-isla ti Solomon",
+          "name:ksh": "Salomone",
+          "name:lij": "Isoe Salomon",
+          "name:lmo": "Isul Salomon",
+          "name:nah": "Salomón Tlālhuāctli",
+          "name:nan": "Só͘-lô-bûn Kûn-tó",
+          "name:nds": "Salomonen",
+          "name:pam": "Solomon Islands",
+          "name:pih": "Solamon Ailen",
+          "name:pms": "Ìsole Salomon",
+          "name:pnb": "سولومن آئلینڈ",
+          "name:sah": "Соломон арыылара",
+          "name:scn": "Ìsuli Salamuni",
+          "name:sco": "Solomon Islands",
+          "name:smn": "Salomonsuolluuh",
+          "name:sms": "Salomoon-suõllu",
+          "name:szl": "Wyspy ôd Salōmōna",
+          "name:tpi": "Solomon Ailans",
+          "name:vro": "Saalomoni saarõq",
+          "name:war": "Kapuropod-an Solomon",
+          "name:xal": "Соломонин Арлс",
+          "name:yue": "所羅門群島",
+          "timezone": "Pacific/Guadalcanal",
+          "way_area": "19.9969",
+          "wikidata": "Q685",
+          "ISO3166-1": "SB",
+          "wikipedia": "en:Solomon Islands",
+          "admin_level": "2",
+          "alt_name:mk": "Соломони",
+          "border_type": "nation",
+          "name:simple": "Solomon Islands",
+          "driving_side": "left",
+          "name:bat-smg": "Saliamuona Salas",
+          "name:zh-Hans": "所罗门群岛",
+          "name:zh-Hant": "索羅門群島",
+          "name:be-tarask": "Саламонавы астравы",
+          "ISO3166-1:alpha2": "SB",
+          "ISO3166-1:alpha3": "SLB",
+          "default_language": "en",
+          "ISO3166-1:numeric": "090"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              159.0561190607331,
+              -5
+            ],
+            [
+              159.62596171051356,
+              -5
+            ],
+            [
+              159.5321001,
+              -4.8984168
+            ],
+            [
+              159.5062371,
+              -4.8748905
+            ],
+            [
+              159.4766979,
+              -4.8562213
+            ],
+            [
+              159.4443783,
+              -4.8429755
+            ],
+            [
+              159.3567814,
+              -4.8161693
+            ],
+            [
+              159.3342406,
+              -4.8127915
+            ],
+            [
+              159.261499,
+              -4.8166886
+            ],
+            [
+              159.2530709,
+              -4.818895
+            ],
+            [
+              159.2324598,
+              -4.8262674
+            ],
+            [
+              159.1772392,
+              -4.853397
+            ],
+            [
+              159.143098,
+              -4.8750209
+            ],
+            [
+              159.1139678,
+              -4.9030684
+            ],
+            [
+              159.0910309,
+              -4.936402
+            ],
+            [
+              159.0561190607331,
+              -5
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

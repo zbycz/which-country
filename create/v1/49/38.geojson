@@ -1,0 +1,1379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -364110,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Azerbaijan",
+        "local_name": "Azərbaycan",
+        "name_en": "Azerbaijan",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+          "name": "Azərbaycan",
+          "int_ref": "AZ",
+          "name:ab": "Азербаиџьан",
+          "name:af": "Azerbeidjan",
+          "name:ak": "Azerbaijan",
+          "name:am": "አዘርባይጃን",
+          "name:an": "Azerbaichán",
+          "name:ar": "أذربيجان",
+          "name:as": "আজেৰবাইজান",
+          "name:av": "Азарбижан",
+          "name:az": "Azərbaycan",
+          "name:ba": "Әзербайжан",
+          "name:be": "Азербайджа́н",
+          "name:bg": "Азербайджан",
+          "name:bh": "अज़रबैजान",
+          "name:bi": "Azerbaijan",
+          "name:bm": "Azɛrbayjaŋ",
+          "name:bn": "আজারবাইজান",
+          "name:bo": "ཨ་ཛར་བཡི་ཇན།",
+          "name:br": "Azerbaidjan",
+          "name:bs": "Azerbejdžan",
+          "name:ca": "Azerbaidjan",
+          "name:ce": "Азербайджа́н",
+          "name:co": "Azerbaighjan",
+          "name:cs": "Ázerbájdžán",
+          "name:cu": "Аꙁѣрбаича́нъ",
+          "name:cv": "Азербайджан",
+          "name:cy": "Aserbaijan",
+          "name:da": "Aserbajdsjan",
+          "name:de": "Aserbaidschan",
+          "name:dv": "އަޒަރުބައިޖާން",
+          "name:dz": "ཨཛར་བཡེ་ཇན།",
+          "name:ee": "Azerbaijan",
+          "name:el": "Αζερμπαϊτζάν",
+          "name:en": "Azerbaijan",
+          "name:eo": "Azerbajĝano",
+          "name:es": "Azerbaiyán",
+          "name:et": "Aserbaidžaan",
+          "name:eu": "Azerbaijan",
+          "name:fa": "آذربایجان",
+          "name:ff": "Aserbayjan",
+          "name:fi": "Azerbaidžan",
+          "name:fo": "Aserbadsjan",
+          "name:fr": "Azerbaïdjan",
+          "name:fy": "Azerbeidzjan",
+          "name:ga": "an Asarbaiseáin",
+          "name:gd": "Asarbaideàn",
+          "name:gl": "Acerbaixán",
+          "name:gn": "Aservaijã",
+          "name:gu": "અઝેરબીજાન",
+          "name:gv": "yn Asserbajaan",
+          "name:ha": "Azerbaijan",
+          "name:he": "אָזַרְבַּיְיגָ'ן",
+          "name:hi": "अज़रबैजान",
+          "name:hr": "Azerbajdžan",
+          "name:ht": "Azerbaydjan",
+          "name:hu": "Azerbajdzsán",
+          "name:hy": "Ադրբեջան",
+          "name:ia": "Azerbaidzhan",
+          "name:id": "Azerbaijan",
+          "name:ie": "Azerbaidjan",
+          "name:io": "Azerbaijan",
+          "name:is": "Aserbaísjan",
+          "name:it": "Azerbaigian",
+          "name:ja": "アゼルバイジャン",
+          "name:jv": "Azerbaijan",
+          "name:ka": "აზერბაიჯანი",
+          "name:kg": "Azerbaidjan",
+          "name:ki": "Azerbaijan",
+          "name:kk": "Әзірбайжан",
+          "name:kl": "Aserbajdsjan",
+          "name:km": "អាស៊ែបៃហ្សង់",
+          "name:kn": "ಅಜೆರ್ಬೈಜಾನ್",
+          "name:ko": "아제르바이잔",
+          "name:ks": "آزَرباجان",
+          "name:ku": "Azerbaycan",
+          "name:kv": "Азербайджа́н",
+          "name:kw": "Azerbayjan",
+          "name:ky": "Азербайжан",
+          "name:la": "Atropatene",
+          "name:lb": "Aserbaidschan",
+          "name:lg": "Azerebayijaani",
+          "name:li": "Azerbaidzjan",
+          "name:ln": "Azɛrbayzáni",
+          "name:lo": "ປະເທດອາແຊກບາຍຊັງ",
+          "name:lt": "Azerbaidžanas",
+          "name:lv": "Azerbaidžāna",
+          "name:mg": "Azerbaijana",
+          "name:mi": "Atepaihānia",
+          "name:mk": "Азербејџан",
+          "name:ml": "അസർബെയ്ജാൻ",
+          "name:mn": "Азербайжан",
+          "name:mo": "Азербаиӂан",
+          "name:mr": "अझरबैजान",
+          "name:ms": "Azerbaijan",
+          "name:mt": "Ażerbajġan",
+          "name:my": "အဇာဘိုင်ဂျန်နိုင်ငံ",
+          "name:na": "Aderbaidjan",
+          "name:ne": "अजरबैजान",
+          "name:nl": "Azerbeidzjan",
+          "name:nn": "Aserbajdsjan",
+          "name:no": "Aserbajdsjan",
+          "name:nv": "Azééwii Bikéyah",
+          "name:ny": "Azerbaijan",
+          "name:oc": "Azerbaitjan",
+          "name:om": "Azarbaajan",
+          "name:or": "ଆଜରବାଇଜାନ",
+          "name:os": "Азербайджан",
+          "name:pa": "ਅਜ਼ਰਬਾਈਜਾਨ",
+          "name:pi": "अजर्बैजान",
+          "name:pl": "Azerbejdżan",
+          "name:ps": "آزربایجان",
+          "name:pt": "Azerbaijão",
+          "name:qu": "Asarsuyu",
+          "name:rm": "Aserbeidschan",
+          "name:ro": "Azerbaidjan",
+          "name:ru": "Азербайджан",
+          "name:rw": "Azeribayijani",
+          "name:sa": "अजर्बैजान",
+          "name:sc": "Azerbaigián",
+          "name:se": "Azerbaižan",
+          "name:sg": "Zerebaidyäan",
+          "name:sh": "Azerbejdžan",
+          "name:si": "අසර්බයිජානය",
+          "name:sk": "Azerbajdžan",
+          "name:sl": "Azerbajdžan",
+          "name:sm": "Azerbaijin",
+          "name:sn": "Azerbaijan",
+          "name:so": "Aserbiijaan",
+          "name:sq": "Azerbajxhani",
+          "name:sr": "Азербејџан",
+          "name:ss": "iZebajani",
+          "name:su": "Azerbaijan",
+          "name:sv": "Azerbajdzjan",
+          "name:sw": "Azerbaijan",
+          "name:ta": "அசர்பைஜான்",
+          "name:te": "అజర్‌బైజాన్",
+          "name:tg": "Озарбойҷон",
+          "name:th": "อาเซอร์ไบจาน",
+          "name:ti": "አዘርባጃን",
+          "name:tk": "Azerbaýjan",
+          "name:tl": "Aserbayan",
+          "name:to": "ʻAsapaisani",
+          "name:tr": "Azerbaycan",
+          "name:ts": "Azerbaijan",
+          "name:tt": "Азәрбайҗан",
+          "name:tw": "Azerbaijan",
+          "name:ty": "Atepaihānia",
+          "name:ug": "ئەزەربەيجان",
+          "name:uk": "Азербайджа́н",
+          "name:ur": "آذربائیجان",
+          "name:uz": "Ozarbayjon",
+          "name:vi": "Azerbaijan",
+          "name:vo": "Lasärbäcän",
+          "name:wo": "Aserbayjaan",
+          "name:yi": "אַזערבײַדזשאַן",
+          "name:yo": "Azerbaijan",
+          "name:za": "Ahsehbaiqgyangh",
+          "name:zh": "阿塞拜疆 / 亞塞拜然",
+          "name:zu": "Azerbaijan",
+          "boundary": "administrative",
+          "name:ace": "Azèrbaijan",
+          "name:ady": "Азербайджан",
+          "name:als": "Aserbaidschan",
+          "name:ang": "Azerbaijan",
+          "name:arc": "ܐܙܪܒܝܓܐܢ",
+          "name:arz": "اذيربايجان",
+          "name:ast": "Azerbaixán",
+          "name:azb": "آذربایجان",
+          "name:bar": "Aserbaidschan",
+          "name:bcl": "Aserbayhan",
+          "name:bpy": "আজারবাইজান",
+          "name:bxr": "Азербайджан",
+          "name:cdo": "Azerbaijan",
+          "name:ceb": "Aserbaiyan",
+          "name:chr": "ᎠᏎᏆᏣᏂ",
+          "name:ckb": "ئازەربایجان",
+          "name:crh": "Azerbaycan",
+          "name:csb": "Azerbejdżan",
+          "name:diq": "Azerbaycan",
+          "name:dsb": "Azerbajdžan",
+          "name:dty": "अज़रबैजान",
+          "name:ext": "Azerbaiyán",
+          "name:frp": "Azèrbayidj·an",
+          "name:frr": "Aserbaidschan",
+          "name:fur": "Azerbaigian",
+          "name:gag": "Azerbaycan",
+          "name:glk": "آذربایجؤن",
+          "name:gom": "अझरबैजान",
+          "name:grc": "Ἀτροπατηνή",
+          "name:hak": "Â-set-pai-kiông",
+          "name:haw": "ʻAkepaikana",
+          "name:hif": "Azerbaijan",
+          "name:hsb": "Azerbajdźan",
+          "name:ilo": "Azerbaijan",
+          "name:jam": "Azabaijan",
+          "name:jbo": "azerbaidjan",
+          "name:kaa": "A'zerbayjan",
+          "name:kab": "Azerbijan",
+          "name:kbd": "Азэрбиджан",
+          "name:kbp": "Azɛrbayɩjanɩ",
+          "name:krc": "Азербайджан",
+          "name:ksh": "Asserbaidschahn",
+          "name:lad": "Azerbaidjan",
+          "name:lbe": "Азирбижан",
+          "name:lez": "Азербайжан",
+          "name:lij": "Azerbaijan",
+          "name:lmo": "Azerbaigian",
+          "name:lrc": "آزربایجان",
+          "name:ltg": "Azerbaidžans",
+          "name:lzh": "阿塞拜疆",
+          "name:mai": "अजरबैजान",
+          "name:mdf": "Азербайджан",
+          "name:mhr": "Азербайджан",
+          "name:min": "Azerbaijan",
+          "name:mrj": "Азербайджан",
+          "name:mwl": "Azerbaijon",
+          "name:myv": "Азербайджан",
+          "name:mzn": "آذربایجون",
+          "name:nah": "Azerbaiyan",
+          "name:nan": "Azerbaijan",
+          "name:nap": "Azerbaijan",
+          "name:nds": "Aserbaidschan",
+          "name:new": "अजरबैजान",
+          "name:nov": "Aserbaijan",
+          "name:olo": "Azerbaidžuanu",
+          "name:pag": "Azerbaijan",
+          "name:pam": "Azerbaijan",
+          "name:pap": "Azerbaijan",
+          "name:pcd": "Azerbaïdjan",
+          "name:pdc": "Aserbaidschan",
+          "name:pih": "Eserbeyjan",
+          "name:pms": "Aserbaigian",
+          "name:pnb": "آذربائیجان",
+          "name:pnt": "Αζερμπαϊτζάν",
+          "name:rue": "Азербайджан",
+          "name:sah": "Азербайдьан",
+          "name:scn": "Azzirbaiggian",
+          "name:sco": "Azerbaijan",
+          "name:smn": "Azerbaidžan",
+          "name:sms": "Azerbaidžaan",
+          "name:srn": "Azerbaijanikondre",
+          "name:stq": "Aserbaidschan",
+          "name:syc": "ܐܙܪܒܝܓܐܢ",
+          "name:szl": "Azerbejdżōn",
+          "name:tet": "Azerbaijaun",
+          "name:tpi": "Azerbaijan",
+          "name:tum": "Azerbaijan",
+          "name:tyv": "Азербайджан",
+          "name:tzl": "Adarbaixhan",
+          "name:udm": "Азербайджан",
+          "name:vec": "Azerbaigian",
+          "name:vep": "Azerbaidžan",
+          "name:vls": "Azerbeidzjan",
+          "name:vro": "Asõrbaidžaan",
+          "name:war": "Aserbaiyan",
+          "name:wuu": "阿塞拜疆",
+          "name:xal": "Азермудин Орн",
+          "name:xmf": "აზერბაიჯანი",
+          "name:yue": "阿塞拜疆",
+          "name:zea": "Aâzerbeidzjan",
+          "timezone": "Asia/Baku",
+          "way_area": "11.0607",
+          "wikidata": "Q227",
+          "ISO3166-1": "AZ",
+          "land_area": "administrative",
+          "wikipedia": "az:Azərbaycan",
+          "admin_level": "2",
+          "alt_name:af": "Azerbaidjan;Aserbeidjan",
+          "alt_name:bg": "Азърбайджан",
+          "alt_name:gd": "Asarbajan",
+          "alt_name:gn": "Aseyvaijã",
+          "alt_name:la": "Azerbaigiania",
+          "alt_name:qu": "Asirwayan",
+          "alt_name:sg": "Azerbaidyäan",
+          "alt_name:sh": "Azerbajdžan",
+          "name:az-cyr": "Азәрбајҹан",
+          "name:nds-nl": "Azerbeidzjan",
+          "alt_name:azb": "آذربایجان جۆمهۇریّتی",
+          "alt_name:mwl": "Azerbaidjon",
+          "alt_name:war": "Azerbaijan",
+          "name:bat-smg": "Azėrbaidžians",
+          "name:cbk-zam": "Azerbaiyán",
+          "name:roa-rup": "Azerbaigian",
+          "name:zh-Hans": "阿塞拜疆",
+          "name:zh-Hant": "亞塞拜然",
+          "official_name": "Azərbaycan Respublikası",
+          "name:be-tarask": "Азэрбайджа́н",
+          "name:zh_pinyin": "Āsàibàijiāng",
+          "ISO3166-1:alpha2": "AZ",
+          "ISO3166-1:alpha3": "AZE",
+          "default_language": "az",
+          "official_name:ab": "Азербаиџьан Аҳәынҭқарра",
+          "official_name:af": "Republiek van Azerbeidjan",
+          "official_name:am": "አዘርባይጃን ሪፐብሊክ",
+          "official_name:an": "Republica Azerbaichán",
+          "official_name:ar": "جمهورية أذربيجان",
+          "official_name:as": "প্ৰজাতন্ত্ৰী আজেৰবাইজান",
+          "official_name:av": "Азарбижаналъул ДжумхIурият",
+          "official_name:az": "Azərbaycan Respublikası",
+          "official_name:ba": "Әзербайжан Республикаһы",
+          "official_name:be": "Азербайджа́нская Рэспу́бліка",
+          "official_name:bg": "Република Азербайджан",
+          "official_name:bn": "প্রজাতন্ত্রী আজারবাইজান",
+          "official_name:br": "Republik Azerbaidjan",
+          "official_name:bs": "Republika Azerbejdžan",
+          "official_name:ca": "República de l'Azerbaidjan",
+          "official_name:ce": "Азербайджа́нийн Респу́блика",
+          "official_name:co": "Republica di Azerbaighjan",
+          "official_name:cs": "Ázerbájdžánská republika",
+          "official_name:cu": "Аꙁѣрбаича́нъ Димократі́ѩ",
+          "official_name:cy": "Gweriniaeth Aserbaijan",
+          "official_name:da": "Republikken Aserbajdsjan",
+          "official_name:de": "Republik Aserbaidschan",
+          "official_name:el": "Δημοκρατία του Αζερμπαϊτζάν",
+          "official_name:en": "Republic of Azerbaijan",
+          "official_name:eo": "Azerbajĝana Respubliko",
+          "official_name:es": "República de Azerbaiyán",
+          "official_name:et": "Aserbaidžaani Vabariik",
+          "official_name:eu": "Azerbaijango Errepublika",
+          "official_name:fa": "جمهوری آذربایجان",
+          "official_name:ff": "Republik bu Aserbayjan",
+          "official_name:fi": "Azerbaidžanin tasavalta",
+          "official_name:fr": "République d'Azerbaïdjan",
+          "official_name:fy": "Republyk Azerbeidzjan",
+          "official_name:ga": "Poblacht na hAsarbaiseáine",
+          "official_name:gl": "República de Acerbaixán",
+          "official_name:gn": "Tetã Aservaijã",
+          "official_name:gu": "અઝેરબીજાન ગણરાજ્ય",
+          "official_name:gv": "Pobblaght ny h-Asserbajaan",
+          "official_name:ha": "Jamhuriyar Azerbaijan",
+          "official_name:he": "הָרֶפּוּבְּלִיקָה שֶׁל אָזַרְבַּיְיגָ'ן",
+          "official_name:hi": "अज़रबैजान गणराज्य",
+          "official_name:hr": "Republika Azerbajdžan",
+          "official_name:hu": "Azerbajdzsáni Köztársaság",
+          "official_name:hy": "Ադրբեջանական Հանրապետություն",
+          "official_name:id": "Republik Azerbaijan",
+          "official_name:io": "Republiko di Azerbaijan",
+          "official_name:is": "Lýðveldið Aserbaísjan",
+          "official_name:it": "Repubblica dell'Azerbaigian",
+          "official_name:ja": "アゼルバイジャン共和国",
+          "official_name:ka": "აზერბაიჯანის რესპუბლიკა",
+          "official_name:kk": "Әзірбайжан Республикасы",
+          "official_name:km": "សាធារណៈរដ្ឋ អាស៊ែបៃហ្សង់",
+          "official_name:kn": "ಅಜೆರ್ಬೈಜಾನ್ ಗಣರಾಜ್ಯ",
+          "official_name:ko": "아제르바이잔 공화국",
+          "official_name:ku": "Komara Azerbaycanê",
+          "official_name:kv": "Азербайджа́н Республика",
+          "official_name:ky": "Азербайжан Республикасы",
+          "official_name:la": "Res publica Atropatenae",
+          "official_name:lb": "Republik Aserbaidschan",
+          "official_name:li": "Rippubliek Azerbeidzjan",
+          "official_name:lt": "Azerbaidžano Respublika",
+          "official_name:lv": "Azerbaidžānas Republika",
+          "official_name:mk": "Република Азејбејџан",
+          "official_name:ml": "റിപ്പബ്ലിക് ഓഫ് അസർബെയ്ജാൻ",
+          "official_name:mn": "Бүгд Найрамдах Азербайжан Улс",
+          "official_name:mr": "अझरबैजानचे प्रजासत्ताक",
+          "official_name:ms": "Republik Azerbaijan",
+          "official_name:mt": "Repubblika tal-Ażerbajġan",
+          "official_name:my": "အဇာဘိုင်ဂျန် သမ္မတနိုင်ငံ",
+          "official_name:ne": "गणतन्त्र अजरबैजान",
+          "official_name:nl": "Republiek Azerbeidzjan",
+          "official_name:nn": "Republikken Aserbajdsjan",
+          "official_name:no": "Republikken Aserbajdsjan",
+          "official_name:ny": "Republic Azerbaijan",
+          "official_name:oc": "Republica d'Azerbaitjan",
+          "official_name:os": "Азербайджаны Республикæ",
+          "official_name:pa": "ਅਜ਼ਰਬਾਈਜਾਨ ਦਾ ਗਣਤੰਤਰ",
+          "official_name:pl": "Republika Azerbejdżanu",
+          "official_name:ps": "اذربايجان جمهوريت",
+          "official_name:pt": "República do Azerbaijão",
+          "official_name:qu": "Asarsuyu Ripuwlika",
+          "official_name:rm": "Republica Aserbeidschan",
+          "official_name:ro": "Republica Azerbaidjan",
+          "official_name:ru": "Азербайджанская Республика",
+          "official_name:rw": "Repubulika y’u Azeribayijani",
+          "official_name:sc": "Repùbrica de s'Azerbaigián",
+          "official_name:se": "Aserbaižana dásseváldi",
+          "official_name:sh": "Republika Azerbajdžan",
+          "official_name:sk": "Azerbajdžanská republika",
+          "official_name:sl": "Republika Azerbajdžan",
+          "official_name:sm": "Lepulika o Azerbaijin",
+          "official_name:sq": "Republika e Azerbajxhanit",
+          "official_name:sr": "Азербејџанска Република",
+          "official_name:su": "Républik Azerbaijan",
+          "official_name:sv": "Republiken Azerbajdzjan",
+          "official_name:sw": "Jamhuri ya Azerbaijan",
+          "official_name:ta": "ஆசர்பைசான் குடியரசு",
+          "official_name:te": "రిపబ్లిక్ ఆఫ్ అజర్‌బైజాన్",
+          "official_name:tg": "Azərbaycan Jumhuriyati",
+          "official_name:th": "สาธารณรัฐอาเซอร์ไบจาน",
+          "official_name:tk": "Azerbaýjan Respublikasy",
+          "official_name:tl": "Republika ng Azerbaijan",
+          "official_name:tr": "Azerbaycan Cumhuriyeti",
+          "official_name:tt": "Азәрбайҗан Республикасы",
+          "official_name:ug": "ئازەربەيجان جۇمھۇرىيىتى",
+          "official_name:uk": "Азербайджа́нська Респу́бліка",
+          "official_name:ur": "جمہوریہ آذربائیجان",
+          "official_name:uz": "Ozarbayjon Respublikasi",
+          "official_name:vi": "Cộng hoà Azerbaijan",
+          "official_name:wo": "Republik bu Aserbayjaan",
+          "official_name:yi": "רעפובליק פון אזערביידזשאן",
+          "official_name:za": "Ahsehbaiqgyangh Gunghogzgoz",
+          "official_name:zh": "阿塞拜疆共和国 / 亞塞拜然共和國",
+          "ISO3166-1:numeric": "031",
+          "official_name:ady": "Азербайджан Республик",
+          "official_name:als": "Republik Aserbaidschan",
+          "official_name:arc": "ܩܘܛܢܝܘܬܐ ܕܐܙܪܒܝܓܐܢ",
+          "official_name:arz": "جمهورية أذيربايجان",
+          "official_name:ast": "República d'Azerbaixán",
+          "official_name:azb": "آذربایجان رِسپوبلیکاسی",
+          "official_name:bar": "Republik Aserbaidschan",
+          "official_name:bpy": "প্রজাতন্ত্রি আজারবাইজান",
+          "official_name:bxr": "Бүгэдэ Найрамдаха Азербайджан Улас",
+          "official_name:ceb": "Republika Azerbaijan",
+          "official_name:chr": "ᏍᎦᏚᎩ ᎠᏏᎵᏆᏌᏂ",
+          "official_name:ckb": "کۆماری ئازەربایجان",
+          "official_name:crh": "Azerbaycan Cumhuriyeti",
+          "official_name:diq": "Cumhuriyetê Azerbaycani",
+          "official_name:dsb": "Republika Azerbajdžana",
+          "official_name:dty": "गणतन्त्र अजरबैजान",
+          "official_name:ext": "Repúbrica de Azerbaiyán",
+          "official_name:frr": "Republiik Aserbaidschan",
+          "official_name:gag": "Azerbaycan Respublikası",
+          "official_name:glk": "آذربایجؤن جومهوری",
+          "official_name:grc": "Πολιτεία τῆς Ἀτροπατηνῆς",
+          "official_name:hak": "Azerbaijan Khiung-fò-koet",
+          "official_name:hif": "Republic of Azerbaijan",
+          "official_name:hsb": "Azerbajdźanska republika",
+          "official_name:ilo": "Republika ti Azerbaijan",
+          "official_name:jam": "Ripoblik a Azabaijan",
+          "official_name:kbd": "Азэрбиджан Республикэ",
+          "official_name:krc": "Азербайджан Республика",
+          "official_name:lad": "Repuvlika de Azerbaidjan",
+          "official_name:lbe": "Азирбижаннал Республика",
+          "official_name:lez": "Азәрбајҹан Республикасы",
+          "official_name:lij": "Repubbrica d'Azerbaijan",
+          "official_name:lmo": "Republega de l'Azerbaigian",
+          "official_name:lrc": "کۈمرأ ڤولات آزربایجان",
+          "official_name:lzh": "阿塞拜疆共和國",
+          "official_name:mai": "अजरबैजान गणराज्य",
+          "official_name:mdf": "Азербайджанонь республиксь",
+          "official_name:mwl": "República de l Azerbaijon",
+          "official_name:myv": "Азербайджан Республикась",
+          "official_name:mzn": "آذربایجون ِجمهوری",
+          "official_name:nah": "Tlācatlahtohcāyōtl Azerbaiyan",
+          "official_name:nan": "Azerbaijan Kiōng-hô-kok",
+          "official_name:nap": "Repubbreca ell'Azerbaijian",
+          "official_name:nds": "Republiek Aserbaidschan",
+          "official_name:new": "गणतन्त्र अजरबैजान",
+          "official_name:olo": "Azerbaidžuanan tazavaldu",
+          "official_name:pam": "Republika ning Azerbaijan",
+          "official_name:pcd": "République d'Azerbaïdjan",
+          "official_name:pnb": "آذربائیجان لوکراج",
+          "official_name:rue": "Азербайджаньска републіка",
+          "official_name:sah": "Азербайдьан Республиката",
+          "official_name:sco": "Republic o Azerbaijan",
+          "official_name:stq": "Republik Aserbaidschan",
+          "official_name:szl": "Republika Azerbejdżōnu",
+          "official_name:tet": "Repúblika Azerbaijaun",
+          "official_name:vec": "Republica de Azerbaigian",
+          "official_name:vep": "Azerbaidžanan Tazovaldkund",
+          "official_name:vls": "Republiek Azerbeidzjan",
+          "official_name:vro": "Asõrbaidžaani Vabariik",
+          "official_name:war": "Republika han Aserbaiyan",
+          "official_name:xmf": "აზერბაიჯანიშ რესპუბლიკა",
+          "official_name:yue": "阿塞拜疆共和國",
+          "official_name:nds-nl": "Reppubliek Azerbeidzjan",
+          "official_name:bat-smg": "Azėrbaidžiano rėspublika",
+          "official_name:roa-rup": "Republica Azerbaigian",
+          "official_name:zh-Hans": "阿塞拜疆共和国",
+          "official_name:zh-Hant": "亞塞拜然共和國",
+          "official_name:be-tarask": "Рэспу́бліка Азэрбайджа́н"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49,
+              38.446311098524035
+            ],
+            [
+              49.1371132,
+              38.4515806
+            ],
+            [
+              49.1368076,
+              38.4591877
+            ],
+            [
+              49.1364593,
+              38.4635496
+            ],
+            [
+              49.1351358,
+              38.4738594
+            ],
+            [
+              49.1345892,
+              38.4820324
+            ],
+            [
+              49.1335297,
+              38.490733
+            ],
+            [
+              49.1325581,
+              38.4964244
+            ],
+            [
+              49.1334745,
+              38.503691
+            ],
+            [
+              49.1341116,
+              38.5124171
+            ],
+            [
+              49.1342868,
+              38.5191101
+            ],
+            [
+              49.1341578,
+              38.5255262
+            ],
+            [
+              49.133582,
+              38.5342548
+            ],
+            [
+              49.1325218,
+              38.5429554
+            ],
+            [
+              49.1317893,
+              38.5474006
+            ],
+            [
+              49.1310314,
+              38.5581927
+            ],
+            [
+              49.1298527,
+              38.5671327
+            ],
+            [
+              49.1297493,
+              38.573419
+            ],
+            [
+              49.1284485,
+              38.6089141
+            ],
+            [
+              49.1305559,
+              38.6372267
+            ],
+            [
+              49.1308459,
+              38.6459264
+            ],
+            [
+              49.1307515,
+              38.6514719
+            ],
+            [
+              49.1299691,
+              38.6628248
+            ],
+            [
+              49.1282831,
+              38.6746711
+            ],
+            [
+              49.1283649,
+              38.6833391
+            ],
+            [
+              49.1278058,
+              38.6945281
+            ],
+            [
+              49.1268412,
+              38.7032258
+            ],
+            [
+              49.1239837,
+              38.7230622
+            ],
+            [
+              49.125366,
+              38.7332595
+            ],
+            [
+              49.125917,
+              38.7409026
+            ],
+            [
+              49.136986,
+              38.7417562
+            ],
+            [
+              49.1508285,
+              38.7433471
+            ],
+            [
+              49.1730393,
+              38.746421
+            ],
+            [
+              49.1894439,
+              38.749259
+            ],
+            [
+              49.2001948,
+              38.7516067
+            ],
+            [
+              49.2134968,
+              38.7550579
+            ],
+            [
+              49.2233054,
+              38.7580339
+            ],
+            [
+              49.234929,
+              38.762034
+            ],
+            [
+              49.2530352,
+              38.7692152
+            ],
+            [
+              49.2626018,
+              38.7733191
+            ],
+            [
+              49.2719928,
+              38.7777899
+            ],
+            [
+              49.2781733,
+              38.780958
+            ],
+            [
+              49.2872354,
+              38.7859514
+            ],
+            [
+              49.2984083,
+              38.7926979
+            ],
+            [
+              49.3076723,
+              38.7988571
+            ],
+            [
+              49.3158389,
+              38.8048194
+            ],
+            [
+              49.3197961,
+              38.8079035
+            ],
+            [
+              49.3270127,
+              38.8138993
+            ],
+            [
+              49.3387034,
+              38.8137865
+            ],
+            [
+              49.3554424,
+              38.8143567
+            ],
+            [
+              49.3720985,
+              38.8157798
+            ],
+            [
+              49.3804067,
+              38.816802
+            ],
+            [
+              49.3886009,
+              38.8180498
+            ],
+            [
+              49.398147,
+              38.8197771
+            ],
+            [
+              49.4048769,
+              38.821169
+            ],
+            [
+              49.4155734,
+              38.8236873
+            ],
+            [
+              49.4208652,
+              38.8250883
+            ],
+            [
+              49.4364899,
+              38.8298269
+            ],
+            [
+              49.4516873,
+              38.8353527
+            ],
+            [
+              49.4663927,
+              38.8416422
+            ],
+            [
+              49.4758918,
+              38.8462464
+            ],
+            [
+              49.4851264,
+              38.8511695
+            ],
+            [
+              49.489639,
+              38.8537478
+            ],
+            [
+              49.498444,
+              38.8591317
+            ],
+            [
+              49.5027323,
+              38.8619347
+            ],
+            [
+              49.5110702,
+              38.8677564
+            ],
+            [
+              49.5190767,
+              38.8738563
+            ],
+            [
+              49.5267366,
+              38.8802229
+            ],
+            [
+              49.5323459,
+              38.8852406
+            ],
+            [
+              49.5375448,
+              38.8902464
+            ],
+            [
+              49.5442758,
+              38.8972259
+            ],
+            [
+              49.547494,
+              38.9007999
+            ],
+            [
+              49.5536284,
+              38.908108
+            ],
+            [
+              49.5580507,
+              38.9138221
+            ],
+            [
+              49.5646484,
+              38.9233155
+            ],
+            [
+              49.5695129,
+              38.931186
+            ],
+            [
+              49.5717795,
+              38.9351815
+            ],
+            [
+              49.5770271,
+              38.945451
+            ],
+            [
+              49.5797171,
+              38.9515204
+            ],
+            [
+              49.5829951,
+              38.9598769
+            ],
+            [
+              49.5844586,
+              38.964095
+            ],
+            [
+              49.5870306,
+              38.9726009
+            ],
+            [
+              49.5886931,
+              38.9791681
+            ],
+            [
+              49.5899927,
+              38.9855036
+            ],
+            [
+              49.5907391,
+              38.9898346
+            ],
+            [
+              49.5918681,
+              38.9985297
+            ],
+            [
+              49.5919763002487,
+              39
+            ],
+            [
+              49,
+              39
+            ],
+            [
+              49,
+              38.446311098524035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -304938,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Iran",
+        "local_name": "ایران",
+        "name_en": "Iran",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+          "name": "ایران",
+          "sqkm": "1628762",
+          "name:af": "Iran",
+          "name:am": "ፋርስ",
+          "name:an": "Irán",
+          "name:ar": "إیران",
+          "name:az": "İran",
+          "name:ba": "Иран",
+          "name:be": "Іран",
+          "name:bg": "Иран",
+          "name:bn": "ইরান",
+          "name:bo": "ཡི་ལང་།",
+          "name:br": "Iran",
+          "name:bs": "Iran",
+          "name:ca": "Iran",
+          "name:ce": "Иран",
+          "name:co": "Iranu",
+          "name:cs": "Írán",
+          "name:cy": "Iran",
+          "name:da": "Iran",
+          "name:de": "Iran",
+          "name:dv": "އީރާން",
+          "name:dz": "ཨི་རཱན་",
+          "name:el": "Ιράν",
+          "name:en": "Iran",
+          "name:eo": "Irano",
+          "name:es": "Irán",
+          "name:et": "Iraan",
+          "name:eu": "Iran",
+          "name:fa": "ایران",
+          "name:fi": "Iran",
+          "name:fo": "Iran",
+          "name:fr": "Iran",
+          "name:fy": "Iran",
+          "name:ga": "An Iaráin",
+          "name:gd": "Ioràn",
+          "name:gl": "Irán - ایران",
+          "name:gn": "Irán",
+          "name:gu": "ઈરાન",
+          "name:gv": "Yn Eeraan",
+          "name:ha": "Iran",
+          "name:he": "איראן",
+          "name:hi": "ईरान",
+          "name:hr": "Iran",
+          "name:ht": "Iran",
+          "name:hu": "Irán",
+          "name:hy": "Իրան",
+          "name:ia": "Iran",
+          "name:id": "Iran",
+          "name:ie": "Iran",
+          "name:io": "Iran",
+          "name:is": "Íran",
+          "name:it": "Iran",
+          "name:ja": "イラン",
+          "name:jv": "Iran",
+          "name:ka": "ირანი",
+          "name:kk": "Иран",
+          "name:kl": "Iran",
+          "name:km": "អ៊ីរ៉ង់",
+          "name:kn": "ಇರಾನ್",
+          "name:ko": "이란",
+          "name:ks": "ایٖران",
+          "name:ku": "Îran",
+          "name:kv": "Иран",
+          "name:kw": "Iran",
+          "name:ky": "Иран",
+          "name:la": "Irania",
+          "name:lb": "Iran",
+          "name:li": "Iran",
+          "name:ln": "Iran",
+          "name:lt": "Iranas",
+          "name:lv": "Irāna",
+          "name:mg": "Iran",
+          "name:mi": "Irāna",
+          "name:mk": "Иран",
+          "name:ml": "ഇറാൻ",
+          "name:mn": "Иран",
+          "name:mr": "इराण",
+          "name:ms": "Iran",
+          "name:mt": "Iran",
+          "name:my": "အီရန်နိုင်ငံ",
+          "name:na": "Iran",
+          "name:ne": "इरान",
+          "name:nl": "Iran",
+          "name:nn": "Iran",
+          "name:no": "Iran",
+          "name:nv": "Iiwą́ą́",
+          "name:oc": "Iran",
+          "name:or": "ଇରାନ",
+          "name:os": "Иран",
+          "name:pa": "ਇਰਾਨ",
+          "name:pl": "Iran",
+          "name:ps": "ایران",
+          "name:pt": "Irão",
+          "name:qu": "Iran",
+          "name:rm": "Iran",
+          "name:ro": "Iran",
+          "name:ru": "Иран",
+          "name:rw": "Irani",
+          "name:sa": "ईरान",
+          "name:sc": "Iran",
+          "name:se": "Iran",
+          "name:sh": "Iran",
+          "name:si": "ඉරානය",
+          "name:sk": "Irán",
+          "name:sl": "Iran",
+          "name:so": "Iiraan",
+          "name:sq": "Irani",
+          "name:sr": "Иран",
+          "name:ss": "I-Irani",
+          "name:su": "Iran",
+          "name:sv": "Iran",
+          "name:sw": "Uajemi",
+          "name:ta": "ஈரான்",
+          "name:te": "ఇరాన్",
+          "name:tg": "Эрон",
+          "name:th": "ประเทศอิหร่าน",
+          "name:tk": "Eýran",
+          "name:tl": "Iran",
+          "name:tr": "İran",
+          "name:tt": "Иран",
+          "name:tw": "Iran",
+          "name:ug": "ئىران",
+          "name:uk": "Іран",
+          "name:ur": "ایران",
+          "name:uz": "Eron",
+          "name:vi": "Iran",
+          "name:vo": "Lirän",
+          "name:wa": "Iran",
+          "name:wo": "Iraan",
+          "name:yi": "איראן",
+          "name:yo": "Ìránì",
+          "name:za": "Iran",
+          "name:zh": "伊朗",
+          "name:zu": "I-Irani",
+          "boundary": "administrative",
+          "int_name": "Iran",
+          "name:ace": "Iran",
+          "name:als": "Iran",
+          "name:ang": "Persealand",
+          "name:arc": "ܐܝܪܐܢ",
+          "name:arz": "ایران",
+          "name:ast": "Irán",
+          "name:azb": "ایران",
+          "name:bar": "Iran",
+          "name:bcl": "Iran",
+          "name:bpy": "ইরান",
+          "name:bug": "Iran",
+          "name:bxr": "Иран",
+          "name:cdo": "Ĭ-lāng",
+          "name:ceb": "Iran",
+          "name:ckb": "ئێران",
+          "name:crh": "İran",
+          "name:csb": "Iran",
+          "name:diq": "İran",
+          "name:dsb": "Iran",
+          "name:ext": "Irán",
+          "name:frp": "Éran",
+          "name:gag": "İran",
+          "name:gan": "伊朗",
+          "name:grc": "Περσίς",
+          "name:hak": "Yî-lóng",
+          "name:haw": "‘Ilana",
+          "name:hif": "Iran",
+          "name:hsb": "Iran",
+          "name:ilo": "Iran",
+          "name:jbo": "iran",
+          "name:kaa": "İran",
+          "name:kab": "Iran",
+          "name:kbd": "Къажэр",
+          "name:lad": "Iran",
+          "name:lbe": "Иран",
+          "name:lez": "Иран",
+          "name:lij": "Iran",
+          "name:lmo": "Iran",
+          "name:lzh": "伊朗",
+          "name:mdf": "Иран",
+          "name:mhr": "Иран",
+          "name:mzn": "ایران",
+          "name:nah": "Iran",
+          "name:nan": "Iran",
+          "name:nap": "Iran",
+          "name:nds": "Iran",
+          "name:new": "इरान",
+          "name:nov": "Iran",
+          "name:pam": "Iran",
+          "name:pap": "Iran",
+          "name:pcd": "Iran",
+          "name:pdc": "Iraen",
+          "name:pih": "Eraan",
+          "name:pms": "Iran",
+          "name:pnb": "ایران",
+          "name:rue": "Іран",
+          "name:sah": "Ираан",
+          "name:scn": "Iran",
+          "name:sco": "Iran",
+          "name:smn": "Iran",
+          "name:sms": "Iraan",
+          "name:stq": "Iran",
+          "name:syc": "ܐܝܪܐܢ",
+          "name:szl": "Iran",
+          "name:tok": "ma Ilan",
+          "name:udm": "Иран",
+          "name:vec": "Iran",
+          "name:vep": "Iran",
+          "name:vro": "Iraan",
+          "name:war": "Iran",
+          "name:wuu": "伊朗",
+          "name:xmf": "ირანი",
+          "name:yue": "伊朗",
+          "name:zea": "Iran",
+          "timezone": "Asia/Tehran",
+          "way_area": "163.814",
+          "wikidata": "Q794",
+          "ISO3166-1": "IR",
+          "wikipedia": "fa:ایران",
+          "name:pt-BR": "Irã",
+          "population": "79926270",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:nds-nl": "Iran",
+          "name:simple": "Iran",
+          "old_name:ar": "فارس",
+          "old_name:cs": "Persie",
+          "old_name:de": "Persien",
+          "old_name:en": "Persia",
+          "old_name:es": "Persia",
+          "old_name:fr": "Perse",
+          "old_name:pa": "ਪਾਰਸ",
+          "old_name:ur": "پارس‎",
+          "name:bat-smg": "Irans",
+          "name:roa-rup": "Iran",
+          "name:zh-Hans": "伊朗",
+          "name:zh-Hant": "伊朗",
+          "old_name:grc": "Περσίς",
+          "name:roa-tara": "Iran",
+          "official_name": "جمهوری اسلامی ایران",
+          "name:be-tarask": "Іран",
+          "population:date": "2016",
+          "ISO3166-1:alpha2": "IR",
+          "ISO3166-1:alpha3": "IRN",
+          "default_language": "fa",
+          "official_name:ar": "الجمهورية الإسلامية الإيرانية",
+          "official_name:cs": "Íránská islámská republika",
+          "official_name:cv": "Ислам Республики Иран",
+          "official_name:de": "Islamische Republik Iran",
+          "official_name:en": "Islamic Republic of Iran",
+          "official_name:es": "República Islámica de Irán",
+          "official_name:fr": "République islamique d'Iran",
+          "official_name:pa": "ਈਰਾਨ ਦਾ ਇਸਲਾਮੀ ਗਣਤੰਤਰ",
+          "official_name:ru": "Исламская Республика Иран",
+          "official_name:sr": "Исламска Република Иран",
+          "official_name:ur": "اسلامی جمہوریۂ ایران",
+          "ISO3166-1:numeric": "364",
+          "official_name:azb": "ایران ایسلام جۇمهۇریَّتی",
+          "official_name:xal": "Сарта Иранмудин Орн"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49,
+              38
+            ],
+            [
+              49.187689667265786,
+              38
+            ],
+            [
+              49.1873878,
+              38.001569
+            ],
+            [
+              49.1863838,
+              38.0058673
+            ],
+            [
+              49.1852614,
+              38.0101472
+            ],
+            [
+              49.1826635,
+              38.0186438
+            ],
+            [
+              49.179599,
+              38.0270425
+            ],
+            [
+              49.1778935,
+              38.0312002
+            ],
+            [
+              49.1738759,
+              38.0399022
+            ],
+            [
+              49.1736875,
+              38.0499575
+            ],
+            [
+              49.1729945,
+              38.0586818
+            ],
+            [
+              49.1724675,
+              38.0630329
+            ],
+            [
+              49.1710539,
+              38.0717027
+            ],
+            [
+              49.1701679,
+              38.0760173
+            ],
+            [
+              49.1684198,
+              38.0831395
+            ],
+            [
+              49.1691466,
+              38.0940087
+            ],
+            [
+              49.1692136,
+              38.1047106
+            ],
+            [
+              49.1689691,
+              38.1132474
+            ],
+            [
+              49.1682205,
+              38.1224438
+            ],
+            [
+              49.169254,
+              38.1311547
+            ],
+            [
+              49.1695708,
+              38.1355185
+            ],
+            [
+              49.1698424,
+              38.1442573
+            ],
+            [
+              49.1696119,
+              38.1533915
+            ],
+            [
+              49.1691423,
+              38.1600143
+            ],
+            [
+              49.1683953,
+              38.1666212
+            ],
+            [
+              49.1673715,
+              38.1732049
+            ],
+            [
+              49.1660719,
+              38.1797583
+            ],
+            [
+              49.1631617,
+              38.192027
+            ],
+            [
+              49.1610831,
+              38.1998436
+            ],
+            [
+              49.1586109,
+              38.2075886
+            ],
+            [
+              49.1557489,
+              38.2152496
+            ],
+            [
+              49.1525015,
+              38.2228144
+            ],
+            [
+              49.1494215,
+              38.2291878
+            ],
+            [
+              49.1481125,
+              38.2328703
+            ],
+            [
+              49.1479049,
+              38.2412376
+            ],
+            [
+              49.147618,
+              38.2456026
+            ],
+            [
+              49.1466821,
+              38.2543127
+            ],
+            [
+              49.1460335,
+              38.2586535
+            ],
+            [
+              49.1443767,
+              38.2672966
+            ],
+            [
+              49.1416752,
+              38.2778699
+            ],
+            [
+              49.1400543,
+              38.2831097
+            ],
+            [
+              49.1362729,
+              38.2937527
+            ],
+            [
+              49.1362888,
+              38.300729
+            ],
+            [
+              49.1361226,
+              38.3050979
+            ],
+            [
+              49.1354274,
+              38.3138218
+            ],
+            [
+              49.1348987,
+              38.3181728
+            ],
+            [
+              49.1334804,
+              38.3268423
+            ],
+            [
+              49.1325914,
+              38.3311566
+            ],
+            [
+              49.1299329,
+              38.3418272
+            ],
+            [
+              49.1293658,
+              38.3461921
+            ],
+            [
+              49.1282407,
+              38.3522462
+            ],
+            [
+              49.1282037,
+              38.356904
+            ],
+            [
+              49.1289766,
+              38.3645358
+            ],
+            [
+              49.133361,
+              38.3838859
+            ],
+            [
+              49.1348407,
+              38.392549
+            ],
+            [
+              49.1358392,
+              38.4012547
+            ],
+            [
+              49.1374324,
+              38.4325381
+            ],
+            [
+              49.1374657,
+              38.4412768
+            ],
+            [
+              49.1368682,
+              38.4515723
+            ],
+            [
+              49,
+              38.44631161443043
+            ],
+            [
+              49,
+              38
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

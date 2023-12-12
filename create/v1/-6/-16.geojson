@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1964272,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "local_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "name_en": "Saint Helena, Ascension and Tristan da Cunha",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Saint_Helena.svg",
+          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "name:ar": "سانت هيلينا، أسينسيون وتريستان دا كونها",
+          "name:cs": "Svatá Helena, Ascension a Tristan da Cunha",
+          "name:de": "St. Helena, Ascension und Tristan da Cunha",
+          "name:el": "Αγία Ελένη, Ασενσιόν και Τριστάν ντα Κούνια",
+          "name:en": "Saint Helena, Ascension and Tristan da Cunha",
+          "name:eo": "Sankta Heleno, Ascension kaj Tristan da Cunha",
+          "name:es": "Santa Elena, Ascensión y Tristán de Acuña",
+          "name:eu": "Santa Helena, Ascension eta Tristan da Cunha",
+          "name:fa": "سنت هلنا، اسنشن و تریستان دا کونا",
+          "name:fr": "Sainte-Hélène, Ascension et Tristan da Cunha",
+          "name:hr": "Sveta Helena",
+          "name:hu": "Szent Ilona, Ascension és Tristan da Cunha",
+          "name:it": "Sant'Elena, Ascensione e Tristan da Cunha",
+          "name:lt": "Šventoji Elena, Dangun Žengimo ir Tristanas da Kunja",
+          "name:mk": "Света Елена, Успение и Тристан да Куња",
+          "name:nl": "Sint-Helena, Ascension en Tristan da Cunha",
+          "name:pl": "Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
+          "name:pt": "Santa Helena, Ascensão e Tristão da Cunha",
+          "name:ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+          "name:sk": "Svätá Helena, Ascension a Tristan da Cunha",
+          "name:sl": "Sveta Helena, Ascension in Tristan da Cunha",
+          "name:sr": "Света Хелена, Асенсион, и Тристан да Куња",
+          "name:tr": "Saint Helena, Ascension ve Tristan da Cunha",
+          "name:uk": "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья",
+          "name:vi": "Saint Helena, Ascension và Tristan da Cunha",
+          "name:zh": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+          "boundary": "administrative",
+          "old_name": "Saint Helena and Dependencies",
+          "timezone": "Atlantic/St_Helena",
+          "way_area": "1.18595",
+          "wikidata": "Q192184",
+          "ISO3166-1": "SH",
+          "wikipedia": "en:Saint Helena, Ascension and Tristan da Cunha",
+          "admin_level": "2",
+          "old_name:eo": "Sankta Heleno kaj Dependaĵoj",
+          "old_name:vi": "Saint Helena và những lãnh thổ phụ thuộc",
+          "ISO3166-1:alpha2": "SH",
+          "ISO3166-1:alpha3": "SHN",
+          "default_language": "en",
+          "ISO3166-1:numeric": "654"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.9973424,
+              -15.999
+            ],
+            [
+              -5.997301258333334,
+              -16
+            ],
+            [
+              -5.424417675,
+              -16
+            ],
+            [
+              -5.4240737,
+              -15.997
+            ],
+            [
+              -5.4234548,
+              -15.985
+            ],
+            [
+              -5.4235859,
+              -15.973
+            ],
+            [
+              -5.4242688,
+              -15.963
+            ],
+            [
+              -5.424689,
+              -15.959
+            ],
+            [
+              -5.4261117,
+              -15.949
+            ],
+            [
+              -5.4265156,
+              -15.939
+            ],
+            [
+              -5.4269565,
+              -15.933
+            ],
+            [
+              -5.4281129,
+              -15.923
+            ],
+            [
+              -5.4290627,
+              -15.917
+            ],
+            [
+              -5.4315509,
+              -15.905
+            ],
+            [
+              -5.4348492,
+              -15.893
+            ],
+            [
+              -5.4368145,
+              -15.887
+            ],
+            [
+              -5.4389986,
+              -15.881
+            ],
+            [
+              -5.4422521,
+              -15.873
+            ],
+            [
+              -5.4449377,
+              -15.867
+            ],
+            [
+              -5.4499676,
+              -15.857
+            ],
+            [
+              -5.4551283,
+              -15.848
+            ],
+            [
+              -5.4615552,
+              -15.838
+            ],
+            [
+              -5.4644451,
+              -15.832
+            ],
+            [
+              -5.4681417,
+              -15.825
+            ],
+            [
+              -5.4722087,
+              -15.818
+            ],
+            [
+              -5.4760091,
+              -15.812
+            ],
+            [
+              -5.4807463,
+              -15.805
+            ],
+            [
+              -5.4865369,
+              -15.797
+            ],
+            [
+              -5.4903128,
+              -15.792
+            ],
+            [
+              -5.4943425,
+              -15.787
+            ],
+            [
+              -5.4986455,
+              -15.782
+            ],
+            [
+              -5.5032448,
+              -15.777
+            ],
+            [
+              -5.5112907,
+              -15.769
+            ],
+            [
+              -5.5191266,
+              -15.762
+            ],
+            [
+              -5.5239904,
+              -15.758
+            ],
+            [
+              -5.5305255,
+              -15.753
+            ],
+            [
+              -5.5391477,
+              -15.747
+            ],
+            [
+              -5.5488142,
+              -15.741
+            ],
+            [
+              -5.5559858,
+              -15.737
+            ],
+            [
+              -5.5618388,
+              -15.734
+            ],
+            [
+              -5.5681872,
+              -15.731
+            ],
+            [
+              -5.580208,
+              -15.726
+            ],
+            [
+              -5.5940434,
+              -15.721
+            ],
+            [
+              -5.6003711,
+              -15.719
+            ],
+            [
+              -5.6075056,
+              -15.717
+            ],
+            [
+              -5.6206338,
+              -15.714
+            ],
+            [
+              -5.6326415,
+              -15.712
+            ],
+            [
+              -5.6411558,
+              -15.711
+            ],
+            [
+              -5.6469295,
+              -15.71
+            ],
+            [
+              -5.6560827,
+              -15.708
+            ],
+            [
+              -5.66809,
+              -15.706
+            ],
+            [
+              -5.6766041,
+              -15.705
+            ],
+            [
+              -5.6949004,
+              -15.704
+            ],
+            [
+              -5.7050218,
+              -15.704
+            ],
+            [
+              -5.7233182,
+              -15.705
+            ],
+            [
+              -5.7318322,
+              -15.706
+            ],
+            [
+              -5.7438395,
+              -15.708
+            ],
+            [
+              -5.7569674,
+              -15.711
+            ],
+            [
+              -5.7641016,
+              -15.713
+            ],
+            [
+              -5.7704292,
+              -15.715
+            ],
+            [
+              -5.7814181,
+              -15.719
+            ],
+            [
+              -5.7953478,
+              -15.725
+            ],
+            [
+              -5.8053714,
+              -15.73
+            ],
+            [
+              -5.8142377,
+              -15.735
+            ],
+            [
+              -5.8206772,
+              -15.739
+            ],
+            [
+              -5.8294569,
+              -15.745
+            ],
+            [
+              -5.8373657,
+              -15.751
+            ],
+            [
+              -5.8446631,
+              -15.757
+            ],
+            [
+              -5.8524988,
+              -15.764
+            ],
+            [
+              -5.8576316,
+              -15.769
+            ],
+            [
+              -5.8651437,
+              -15.777
+            ],
+            [
+              -5.8789044,
+              -15.786
+            ],
+            [
+              -5.8844512,
+              -15.79
+            ],
+            [
+              -5.8909679,
+              -15.795
+            ],
+            [
+              -5.8970974,
+              -15.8
+            ],
+            [
+              -5.9016744,
+              -15.804
+            ],
+            [
+              -5.9100686,
+              -15.812
+            ],
+            [
+              -5.918466,
+              -15.821
+            ],
+            [
+              -5.9227135,
+              -15.826
+            ],
+            [
+              -5.9266918,
+              -15.831
+            ],
+            [
+              -5.9325429,
+              -15.839
+            ],
+            [
+              -5.9359026,
+              -15.844
+            ],
+            [
+              -5.9396538,
+              -15.85
+            ],
+            [
+              -5.9468895,
+              -15.86
+            ],
+            [
+              -5.9539082,
+              -15.871
+            ],
+            [
+              -5.9584034,
+              -15.879
+            ],
+            [
+              -5.9646001,
+              -15.888
+            ],
+            [
+              -5.970119,
+              -15.897
+            ],
+            [
+              -5.9744938,
+              -15.905
+            ],
+            [
+              -5.9793136,
+              -15.915
+            ],
+            [
+              -5.9835278,
+              -15.925
+            ],
+            [
+              -5.9871698,
+              -15.935
+            ],
+            [
+              -5.9902094,
+              -15.945
+            ],
+            [
+              -5.9926914,
+              -15.955
+            ],
+            [
+              -5.9946552,
+              -15.965
+            ],
+            [
+              -5.9960779,
+              -15.975
+            ],
+            [
+              -5.9970864,
+              -15.987
+            ],
+            [
+              -5.9973424,
+              -15.999
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

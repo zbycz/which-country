@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -52939,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Faroe Islands",
+        "local_name": "Føroyar",
+        "name_en": "Faroe Islands",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
+          "name": "Føroyar",
+          "name:af": "Faroëreilande",
+          "name:am": "ፋሮ ደሴቶች",
+          "name:an": "Islas Feroe",
+          "name:ar": "جزر فارو",
+          "name:az": "Farer adaları",
+          "name:be": "Фарэрскія астравы",
+          "name:bg": "Ферьорски острови",
+          "name:bi": "Faroe aelan",
+          "name:br": "Faero",
+          "name:bs": "Farska ostrva",
+          "name:ca": "Illes Fèroe",
+          "name:ce": "Фарерийн гІайренаш",
+          "name:cs": "Faerské ostrovy",
+          "name:cy": "Føroyar",
+          "name:da": "Færøerne",
+          "name:de": "Färöer",
+          "name:dv": "ފަރޮއޭ ޖަޒީރާ",
+          "name:ee": "Faroe Islands",
+          "name:el": "Νήσοι Φερόες",
+          "name:en": "Faroe Islands",
+          "name:eo": "Ferooj",
+          "name:es": "Islas Feroe",
+          "name:et": "Fääri saared",
+          "name:eu": "Faroeak",
+          "name:fa": "جزایر فارو",
+          "name:fi": "Färsaaret",
+          "name:fo": "Føroyar",
+          "name:fr": "Îles Féroé",
+          "name:fy": "Faeröer",
+          "name:ga": "Oileáin Fharó",
+          "name:gd": "Na h-Eileanan Fàro",
+          "name:gl": "Illas Feroe",
+          "name:gu": "ફરો દ્વિપસમૂહ",
+          "name:gv": "Ellanyn ny Geyrragh",
+          "name:he": "איי פארו",
+          "name:hi": "फ़रो द्वीपसमूह",
+          "name:hr": "Ferojski Otoci",
+          "name:hu": "Feröer szigetek",
+          "name:hy": "Ֆարերյան կղզիներ",
+          "name:ia": "Insulas Feroe",
+          "name:id": "Kepulauan Faroe",
+          "name:io": "Faero",
+          "name:is": "Færeyjar",
+          "name:it": "Faroe",
+          "name:ja": "フェロー諸島",
+          "name:jv": "Kapuloan Faroe",
+          "name:ka": "ფარერის კუნძულები",
+          "name:kk": "Фарер аралдары",
+          "name:kl": "Savalimmiut",
+          "name:ko": "페로 제도",
+          "name:ku": "Giravên Feroe",
+          "name:kv": "Фарер діяс",
+          "name:kw": "Ynysow Faroe",
+          "name:la": "Faeroae insulae",
+          "name:li": "Faeröer",
+          "name:lt": "Farerai",
+          "name:lv": "Fēru Salas",
+          "name:mi": "Moutere Faroe",
+          "name:mk": "Фарски Острови",
+          "name:mn": "Фарерын арлууд",
+          "name:mr": "फेरो द्वीपसमूह",
+          "name:ms": "Kepulauan Faroe",
+          "name:mt": "Gżejjer Faroe",
+          "name:ne": "फरोइ टापु",
+          "name:nl": "Faeröer",
+          "name:nn": "Færøyane",
+          "name:no": "Færøyene",
+          "name:oc": "Illas Feròe",
+          "name:os": "Фареры сакъадæхтæ",
+          "name:pl": "Wyspy Owcze",
+          "name:pt": "Ilhas Feroe",
+          "name:qu": "Pharuy",
+          "name:rm": "Inslas Feroe",
+          "name:ro": "Insulele Feroe",
+          "name:ru": "Фарерские острова",
+          "name:rw": "Ibirwa bya Farowe",
+          "name:se": "Fearsullot",
+          "name:sh": "Farski Otoci",
+          "name:si": "ෆාරෝ දිවයින්",
+          "name:sk": "Faerské ostrovy",
+          "name:sl": "Ferski otoki",
+          "name:so": "Jasiiradaha Feroe",
+          "name:sq": "Ishujt Faroe",
+          "name:sr": "Фарска Острва",
+          "name:su": "Kapuloan Faroe",
+          "name:sv": "Färöarna",
+          "name:sw": "Visiwa vya Faroe",
+          "name:ta": "பரோயே தீவுகள்",
+          "name:tg": "Ҷазираҳои Фаро",
+          "name:th": "หมู่เกาะแฟโร",
+          "name:tl": "Kapuluang Peroe",
+          "name:tr": "Faroe Adaları",
+          "name:tt": "Фарер утраулары",
+          "name:uk": "Фарерські острови",
+          "name:ur": "جزائرفارو",
+          "name:vi": "Quần đảo Faroe",
+          "name:wo": "Duni Faarow",
+          "name:yo": "Àwọn Erékùṣù Fàróè",
+          "name:zh": "法罗群岛 / 法羅群島",
+          "boundary": "administrative",
+          "int_name": "Faroe Islands",
+          "name:ace": "Pulo-pulo Faroe",
+          "name:als": "Färöer",
+          "name:ang": "Faroisca Īega",
+          "name:arz": "جزر فارو",
+          "name:ast": "Islles Feroe",
+          "name:bar": "Färöer",
+          "name:bpy": "ফারো দ্বীপমালা",
+          "name:bxr": "Фарерын арлууд",
+          "name:ckb": "دوڕگەکانی فارۆ",
+          "name:dsb": "Färöje",
+          "name:ext": "Islas Feroes",
+          "name:frp": "Iles Fèroè",
+          "name:frr": "Färöer",
+          "name:gag": "Farer Adaları",
+          "name:hsb": "Fereje",
+          "name:kaa": "Farer atawları",
+          "name:krc": "Фарер айрымканла",
+          "name:lij": "Isoe Farœ",
+          "name:lmo": "Faroe",
+          "name:nan": "Mî-iûⁿ Kûn-tó",
+          "name:nds": "Färöer",
+          "name:nov": "Faro Isles",
+          "name:pam": "Faroe Islands",
+          "name:pih": "Faaro Ailen",
+          "name:pms": "Faròe",
+          "name:rmy": "Dvipa Faroe",
+          "name:scn": "Ìsuli Fær Øer",
+          "name:sco": "Faroe Islands",
+          "name:stq": "Färöer",
+          "name:tok": "ma Powija",
+          "name:tum": "Vilumba vya Faroe",
+          "name:tzl": "Föröjar",
+          "name:vec": "Ixołe Fær Øer",
+          "name:vep": "Fareran Sared",
+          "name:war": "Kapuropud-an Feroe",
+          "name:wuu": "法罗群岛",
+          "name:xal": "Форойсин Арлс",
+          "name:xmf": "ფარერიშ კოკეფი",
+          "name:yue": "法羅群島",
+          "timezone": "Atlantic/Faroe",
+          "way_area": "2.21692",
+          "wikidata": "Q4628",
+          "ISO3166-1": "FO",
+          "wikipedia": "en:Faroe Islands",
+          "admin_level": "2",
+          "name:nds-nl": "Faeröer",
+          "name:zh-Hans": "法罗群岛",
+          "name:zh-Hant": "法羅群島",
+          "official_name": "Føroyar",
+          "name:be-tarask": "Фарэрскія астравы",
+          "ISO3166-1:alpha2": "FO",
+          "ISO3166-1:alpha3": "FRO",
+          "default_language": "fo",
+          "ISO3166-1:numeric": "234"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7,
+              61.213517533777285
+            ],
+            [
+              -6.9991674,
+              61.2129974
+            ],
+            [
+              -6.9905258,
+              61.207878
+            ],
+            [
+              -6.981264,
+              61.2027877
+            ],
+            [
+              -6.9688679,
+              61.1964604
+            ],
+            [
+              -6.9624601,
+              61.1933957
+            ],
+            [
+              -6.9492404,
+              61.1874712
+            ],
+            [
+              -6.9393237,
+              61.1833339
+            ],
+            [
+              -6.9284478,
+              61.1791177
+            ],
+            [
+              -6.9139825,
+              61.1739194
+            ],
+            [
+              -6.8990659,
+              61.169029
+            ],
+            [
+              -6.8914472,
+              61.1667023
+            ],
+            [
+              -6.880125,
+              61.1634316
+            ],
+            [
+              -6.8679927,
+              61.1602084
+            ],
+            [
+              -6.8518946,
+              61.1562947
+            ],
+            [
+              -6.8437183,
+              61.1544653
+            ],
+            [
+              -6.8271304,
+              61.1510656
+            ],
+            [
+              -6.8147177,
+              61.1487714
+            ],
+            [
+              -6.8017188,
+              61.1466256
+            ],
+            [
+              -6.7844709,
+              61.1441134
+            ],
+            [
+              -6.7582197,
+              61.1410284
+            ],
+            [
+              -6.7450693,
+              61.1397948
+            ],
+            [
+              -6.7316113,
+              61.1387748
+            ],
+            [
+              -6.7137293,
+              61.1377391
+            ],
+            [
+              -6.6957716,
+              61.1370791
+            ],
+            [
+              -6.6732694,
+              61.1367723
+            ],
+            [
+              -6.6597639,
+              61.1368904
+            ],
+            [
+              -6.6417811,
+              61.137362
+            ],
+            [
+              -6.6149276,
+              61.1387748
+            ],
+            [
+              -6.6014696,
+              61.1397948
+            ],
+            [
+              -6.5795236,
+              61.1419649
+            ],
+            [
+              -6.553416,
+              61.1453243
+            ],
+            [
+              -6.5318212,
+              61.1487714
+            ],
+            [
+              -6.5194085,
+              61.1510656
+            ],
+            [
+              -6.5028206,
+              61.1544653
+            ],
+            [
+              -6.4946443,
+              61.1562947
+            ],
+            [
+              -6.4785462,
+              61.1602084
+            ],
+            [
+              -6.4664139,
+              61.1634316
+            ],
+            [
+              -6.4550917,
+              61.1667023
+            ],
+            [
+              -6.447473,
+              61.169029
+            ],
+            [
+              -6.4325564,
+              61.1739194
+            ],
+            [
+              -6.4252656,
+              61.1764806
+            ],
+            [
+              -6.4110361,
+              61.1818293
+            ],
+            [
+              -6.3972985,
+              61.1874712
+            ],
+            [
+              -6.3906223,
+              61.1903988
+            ],
+            [
+              -6.377671,
+              61.1964604
+            ],
+            [
+              -6.3714021,
+              61.1995916
+            ],
+            [
+              -6.356013,
+              61.207878
+            ],
+            [
+              -6.3477732,
+              61.2127507
+            ],
+            [
+              -6.3368663,
+              61.2196892
+            ],
+            [
+              -6.3265925,
+              61.2268497
+            ],
+            [
+              -6.3216994,
+              61.2305091
+            ],
+            [
+              -6.314363,
+              61.2363231
+            ],
+            [
+              -6.3080228,
+              61.2417825
+            ],
+            [
+              -6.2997627,
+              61.2495266
+            ],
+            [
+              -6.2958961,
+              61.2534617
+            ],
+            [
+              -6.2922077,
+              61.2574365
+            ],
+            [
+              -6.2872964,
+              61.2632044
+            ],
+            [
+              -6.28096,
+              61.2713644
+            ],
+            [
+              -6.2774141,
+              61.276425
+            ],
+            [
+              -6.2751149,
+              61.2800204
+            ],
+            [
+              -6.2709393,
+              61.2872704
+            ],
+            [
+              -6.2665027,
+              61.2964291
+            ],
+            [
+              -6.0593084,
+              61.7766161
+            ],
+            [
+              -6,
+              61.913919786949776
+            ],
+            [
+              -6,
+              62
+            ],
+            [
+              -7,
+              62
+            ],
+            [
+              -7,
+              61.213517533777285
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

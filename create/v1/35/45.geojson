@@ -1,0 +1,1328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -60189,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Russia",
+        "local_name": "Россия",
+        "name_en": "Russia",
+        "all_tags": {
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+          "name": "Россия",
+          "int_ref": "RU",
+          "name:ab": "Урыстәыла",
+          "name:af": "Rusland",
+          "name:ak": "Russia",
+          "name:am": "ሩሲያ",
+          "name:an": "Rusia",
+          "name:ar": "روسيا",
+          "name:as": "ৰুশিযা",
+          "name:av": "Россиялъул Федерация",
+          "name:ay": "Rusiya",
+          "name:az": "Rusiya",
+          "name:ba": "Рәсәй",
+          "name:be": "Расія",
+          "name:bg": "Русия",
+          "name:bi": "Rusia",
+          "name:bm": "Risila",
+          "name:bn": "রাশিয়া",
+          "name:bo": "ཨུ་རུ་སུ།",
+          "name:br": "Rusia",
+          "name:bs": "Rusija",
+          "name:ca": "Rússia",
+          "name:ce": "Росси",
+          "name:ch": "Russia",
+          "name:co": "Russia",
+          "name:cs": "Rusko",
+          "name:cu": "Рѡсїꙗ",
+          "name:cv": "Раççей Патшалăхĕ",
+          "name:cy": "Rwsia",
+          "name:da": "Rusland",
+          "name:de": "Russland",
+          "name:dv": "ރޫސީވިލާތް",
+          "name:dz": "ར་ཤི་ཡཱན་ཕེ་ཌི་རེ་ཤཱན",
+          "name:ee": "Russia",
+          "name:el": "Ρωσία",
+          "name:en": "Russia",
+          "name:eo": "Rusio",
+          "name:es": "Rusia",
+          "name:et": "Venemaa",
+          "name:eu": "Errusia",
+          "name:fa": "روسیه",
+          "name:ff": "Roosiya",
+          "name:fi": "Venäjä",
+          "name:fo": "Russland",
+          "name:fr": "Russie",
+          "name:fy": "Ruslân",
+          "name:ga": "An Rúis",
+          "name:gd": "An Ruis",
+          "name:gl": "Rusia",
+          "name:gn": "Rrúsia",
+          "name:gu": "રશિયા",
+          "name:gv": "Yn Roosh",
+          "name:ha": "Rasha",
+          "name:he": "רוסיה",
+          "name:hi": "रूस",
+          "name:hr": "Ruska Federacija",
+          "name:ht": "Risi",
+          "name:hu": "Oroszország",
+          "name:hy": "Ռուսաստան",
+          "name:ia": "Russia",
+          "name:id": "Rusia",
+          "name:ie": "Russia",
+          "name:ig": "Mpaghara Russia",
+          "name:ik": "Russia",
+          "name:io": "Rusia",
+          "name:is": "Rússland",
+          "name:it": "Russia",
+          "name:iu": "ᐅᓛᓴ",
+          "name:ja": "ロシア",
+          "name:jv": "Rusia",
+          "name:ka": "რუსეთი",
+          "name:kg": "Rusia",
+          "name:ki": "Russia",
+          "name:kk": "Ресей",
+          "name:kl": "Ruslandi",
+          "name:km": "រុស្ស៊ី",
+          "name:kn": "ರಷ್ಯಾ",
+          "name:ko": "러시아",
+          "name:ks": "روٗس",
+          "name:ku": "Rûsya",
+          "name:kv": "Рочму",
+          "name:kw": "Russi",
+          "name:ky": "Орусия",
+          "name:la": "Russia",
+          "name:lb": "Russland",
+          "name:lg": "Rwasha",
+          "name:li": "Rusland",
+          "name:ln": "Rusí",
+          "name:lo": "ລັດເຊັຽ",
+          "name:lt": "Rusija",
+          "name:lv": "Krievija",
+          "name:mg": "Rosia",
+          "name:mi": "Ruhia",
+          "name:mk": "Русија",
+          "name:ml": "റഷ്യ",
+          "name:mn": "Оросын Холбооны Улс",
+          "name:mo": "Русия",
+          "name:mr": "रशिया",
+          "name:ms": "Rusia",
+          "name:mt": "Russja",
+          "name:my": "ရုရှားနိုင်ငံ",
+          "name:na": "Ratsiya",
+          "name:ne": "रुस",
+          "name:nl": "Rusland",
+          "name:nn": "Russland",
+          "name:no": "Russland",
+          "name:nv": "Biʼééʼ Łichííʼí Bikéyah",
+          "name:ny": "Russia",
+          "name:oc": "Russia",
+          "name:om": "Raashiyaa",
+          "name:or": "ଋଷିଆ",
+          "name:os": "Уæрæсе",
+          "name:pa": "ਰੂਸ",
+          "name:pl": "Rosja",
+          "name:ps": "روسیه",
+          "name:pt": "Rússia",
+          "name:qu": "Rusiya",
+          "name:rm": "Russia",
+          "name:rn": "Uburusiya",
+          "name:ro": "Rusia",
+          "name:ru": "Россия",
+          "name:rw": "Uburusiya",
+          "name:sc": "Rùssia",
+          "name:sd": "روس",
+          "name:se": "Ruošša",
+          "name:sg": "Rusïi",
+          "name:sh": "Rusija",
+          "name:si": "රුසියාව",
+          "name:sk": "Rusko",
+          "name:sl": "Rusija",
+          "name:sm": "Lusia",
+          "name:sn": "Russia",
+          "name:so": "Ruushka",
+          "name:sq": "Rusia",
+          "name:sr": "Русија",
+          "name:ss": "IRashiya",
+          "name:st": "Russia",
+          "name:su": "Rusia",
+          "name:sv": "Ryssland",
+          "name:sw": "Shirikisho la Urusi",
+          "name:ta": "உருசியா",
+          "name:te": "రష్యా",
+          "name:tg": "Русия",
+          "name:th": "ประเทศรัสเซีย",
+          "name:ti": "ራሻ",
+          "name:tk": "Russiýa",
+          "name:tl": "Pederasyong Ruso",
+          "name:to": "Lūsia",
+          "name:tr": "Rusya Federasyonu",
+          "name:ts": "Russia",
+          "name:tt": "Русия",
+          "name:tw": "Russia",
+          "name:ty": "Rūtia",
+          "name:ug": "روسىيە",
+          "name:uk": "Росія",
+          "name:ur": "روس",
+          "name:uz": "Rossiya Federatsiyasi",
+          "name:ve": "Rashia",
+          "name:vi": "Liên bang Nga",
+          "name:vo": "Rusän",
+          "name:wa": "Federåcion d' Rûsseye",
+          "name:wo": "Federaasioŋ bu Riisi",
+          "name:xh": "IRashiya",
+          "name:yi": "רוסלאנד",
+          "name:yo": "Rọ́síà",
+          "name:za": "Ezlozswh Lienzbangh",
+          "name:zh": "俄罗斯",
+          "name:zu": "IRashiya",
+          "boundary": "administrative",
+          "currency": "RUB",
+          "int_name": "Russia",
+          "name:ace": "Rusia",
+          "name:als": "Russland",
+          "name:ang": "Russland",
+          "name:arc": "ܪܘܣܝܐ",
+          "name:arz": "روسيا",
+          "name:ast": "Rusia",
+          "name:bar": "Russland",
+          "name:bcl": "Rusya",
+          "name:bjn": "Rusia",
+          "name:bpy": "রাশিয়া",
+          "name:bug": "Russia",
+          "name:bxr": "Ородой Холбооной Улас",
+          "name:cdo": "Ngò̤-lò̤-sṳ̆",
+          "name:ceb": "Rusya",
+          "name:chr": "ᏲᏂᏱ",
+          "name:chy": "Russia",
+          "name:ckb": "ڕووسیا",
+          "name:crh": "Rusiye",
+          "name:csb": "Ruskô",
+          "name:diq": "Rusya",
+          "name:dsb": "Rusojska",
+          "name:eml": "Rossia",
+          "name:ext": "Russia",
+          "name:frp": "Russie",
+          "name:frr": "Ruslönj",
+          "name:fur": "Russie",
+          "name:gag": "Rusiya",
+          "name:gan": "俄羅斯",
+          "name:hak": "Ngò-lò-sṳ̂",
+          "name:haw": "Rūsia",
+          "name:hif": "Russia",
+          "name:hsb": "Ruska federacija",
+          "name:ilo": "Rusia",
+          "name:jbo": "rukygu'e",
+          "name:kaa": "Rossiya",
+          "name:kab": "Rrus",
+          "name:kbd": "Урысей",
+          "name:koi": "Рочму",
+          "name:krc": "Россия Федерация",
+          "name:lad": "Rusia",
+          "name:lbe": "Аьрасат",
+          "name:lez": "Урусат",
+          "name:lij": "Ruscia",
+          "name:lmo": "Rüssia",
+          "name:ltg": "Krīveja",
+          "name:lzh": "俄羅斯",
+          "name:mdf": "Рузмастор",
+          "name:mhr": "Россий",
+          "name:min": "Rusia",
+          "name:mrj": "Россий",
+          "name:mwl": "Rússia",
+          "name:myv": "Россия Мастор",
+          "name:mzn": "ئوروسیا",
+          "name:nah": "Rusia",
+          "name:nan": "Lō͘-se-a",
+          "name:nap": "Russia",
+          "name:nds": "Russ'sche Föderatschoon",
+          "name:new": "रुस",
+          "name:nov": "Rusia",
+          "name:nrm": "Russie",
+          "name:nso": "Russia",
+          "name:pag": "Rusia",
+          "name:pam": "Rusia",
+          "name:pap": "Rusia",
+          "name:pcd": "Russie",
+          "name:pdc": "Russland",
+          "name:pfl": "Russlond",
+          "name:pih": "Rusha",
+          "name:pms": "Russia",
+          "name:pnb": "روس",
+          "name:pnt": "Ρουσία",
+          "name:rmy": "Rusiya",
+          "name:rue": "Росія",
+          "name:sah": "Арассыыйа",
+          "name:scn": "Russia",
+          "name:sco": "Roushie",
+          "name:smn": "Ruoššâ",
+          "name:sms": "Ruõššjânnam",
+          "name:srn": "Rusland",
+          "name:stq": "Ruslound",
+          "name:szl": "Rusyjŏ",
+          "name:tet": "Rúsia",
+          "name:tok": "ma Losi",
+          "name:tpi": "Rasia",
+          "name:tum": "Russia",
+          "name:tzl": "Rußía",
+          "name:udm": "Россия",
+          "name:vec": "Rusia",
+          "name:vep": "Venäma",
+          "name:vls": "Rusland",
+          "name:vro": "Vinnemaa",
+          "name:war": "Rusya",
+          "name:wuu": "俄罗斯",
+          "name:xal": "Орсн Орн Нутг",
+          "name:xmf": "რუსეთი",
+          "name:yue": "俄羅斯",
+          "name:zea": "Rusland",
+          "old_name": "Московия;Русское Царство;Российская Империя;Российская Советская Федеративная Социалистическая Республика",
+          "way_area": "3241.56",
+          "wikidata": "Q159",
+          "ISO3166-1": "RU",
+          "wikipedia": "ru:Россия",
+          "name:UN:ar": "الاتحاد الروسي",
+          "name:UN:en": "Russian Federation (the)",
+          "name:UN:es": "Federación de Rusia (la)",
+          "name:UN:fr": "Fédération de Russie (la)",
+          "name:UN:ru": "Российская Федерация",
+          "name:UN:zh": "俄罗斯联邦",
+          "population": "146447424",
+          "short_name": "РФ",
+          "admin_level": "2",
+          "alt_name:eo": "Rusujo;Ruslando",
+          "border_type": "nation",
+          "name:nds-nl": "Ruslaand",
+          "name:bat-smg": "Rosėjė",
+          "name:cbk-zam": "Rusia",
+          "name:map-bms": "Rusia",
+          "name:roa-rup": "Arusia",
+          "name:zh-Hans": "俄罗斯",
+          "name:zh-Hant": "俄羅斯",
+          "name:roa-tara": "Russie",
+          "official_name": "Российская Федерация",
+          "short_name:ru": "РФ",
+          "name:be-tarask": "Расея",
+          "old_short_name": "РСФСР",
+          "according_to:RU": "yes",
+          "according_to:UA": "no",
+          "population:date": "2023-01-01",
+          "ISO3166-1:alpha2": "RU",
+          "ISO3166-1:alpha3": "RUS",
+          "default_language": "ru",
+          "official_name:ar": "الاتحاد الروسي",
+          "official_name:be": "Расійская Федэрацыя",
+          "official_name:cs": "Ruská federace",
+          "official_name:de": "Russische Föderation",
+          "official_name:en": "Russian Federation",
+          "official_name:eo": "Rusa Federacio",
+          "official_name:es": "Federación Rusa",
+          "official_name:et": "Venemaa Föderatsioon",
+          "official_name:fi": "Venäjän Federaatio",
+          "official_name:fr": "Fédération de Russie",
+          "official_name:nl": "Russische Federatie",
+          "official_name:pl": "Federacja Rosyjska",
+          "official_name:pt": "Federação Russa",
+          "official_name:ru": "Российская Федерация",
+          "official_name:sk": "Ruská federácia",
+          "official_name:sl": "Ruska federacija",
+          "official_name:sv": "Ryska Federationen",
+          "official_name:uk": "Російська Федерація",
+          "official_name:yi": "רוסישע פֿעדעראַציע",
+          "official_name:zh": "俄罗斯联邦",
+          "ISO3166-1:numeric": "643",
+          "official_name:ast": "Federación Rusa",
+          "old_short_name:en": "RSFSR",
+          "old_short_name:ru": "РСФСР",
+          "official_name:zh-Hans": "俄罗斯联邦",
+          "official_name:zh-Hant": "俄羅斯聯邦"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              45
+            ],
+            [
+              36,
+              45
+            ],
+            [
+              36,
+              45.620359981765844
+            ],
+            [
+              35.9945796,
+              45.6194685
+            ],
+            [
+              35.9817734,
+              45.6167329
+            ],
+            [
+              35.9687264,
+              45.6223836
+            ],
+            [
+              35.9534794,
+              45.6280572
+            ],
+            [
+              35.9377344,
+              45.6330209
+            ],
+            [
+              35.9215589,
+              45.6372534
+            ],
+            [
+              35.9050221,
+              45.640737
+            ],
+            [
+              35.8881949,
+              45.6434567
+            ],
+            [
+              35.8711492,
+              45.6454011
+            ],
+            [
+              35.8539582,
+              45.6465619
+            ],
+            [
+              35.8366954,
+              45.6469342
+            ],
+            [
+              35.8194347,
+              45.6465164
+            ],
+            [
+              35.8022501,
+              45.6453103
+            ],
+            [
+              35.785215,
+              45.643321
+            ],
+            [
+              35.7684026,
+              45.6405569
+            ],
+            [
+              35.7518847,
+              45.6370298
+            ],
+            [
+              35.7357321,
+              45.6327546
+            ],
+            [
+              35.7200141,
+              45.6277494
+            ],
+            [
+              35.7047977,
+              45.6220356
+            ],
+            [
+              35.6901483,
+              45.6156372
+            ],
+            [
+              35.6761286,
+              45.6085816
+            ],
+            [
+              35.6627986,
+              45.6008987
+            ],
+            [
+              35.6502154,
+              45.5926212
+            ],
+            [
+              35.6384328,
+              45.5837842
+            ],
+            [
+              35.6275014,
+              45.5744253
+            ],
+            [
+              35.6174678,
+              45.5645842
+            ],
+            [
+              35.6083752,
+              45.5543032
+            ],
+            [
+              35.6002625,
+              45.5436256
+            ],
+            [
+              35.5931643,
+              45.5325973
+            ],
+            [
+              35.587111,
+              45.5212652
+            ],
+            [
+              35.5821287,
+              45.5096776
+            ],
+            [
+              35.5782385,
+              45.497884
+            ],
+            [
+              35.5764936,
+              45.4903874
+            ],
+            [
+              35.5747509,
+              45.4895333
+            ],
+            [
+              35.5698047,
+              45.4950858
+            ],
+            [
+              35.5597183,
+              45.5049123
+            ],
+            [
+              35.5487365,
+              45.5142538
+            ],
+            [
+              35.5369064,
+              45.5230707
+            ],
+            [
+              35.5242787,
+              45.5313252
+            ],
+            [
+              35.5109074,
+              45.5389823
+            ],
+            [
+              35.4968497,
+              45.5460096
+            ],
+            [
+              35.4821659,
+              45.5523771
+            ],
+            [
+              35.4669189,
+              45.5580578
+            ],
+            [
+              35.459695,
+              45.5603381
+            ],
+            [
+              35.4555162,
+              45.5730522
+            ],
+            [
+              35.4504716,
+              45.5846135
+            ],
+            [
+              35.4443574,
+              45.5959169
+            ],
+            [
+              35.4371998,
+              45.606914
+            ],
+            [
+              35.4290297,
+              45.6175579
+            ],
+            [
+              35.4198817,
+              45.6278035
+            ],
+            [
+              35.4097953,
+              45.6376068
+            ],
+            [
+              35.3988135,
+              45.6469263
+            ],
+            [
+              35.3869834,
+              45.6557223
+            ],
+            [
+              35.3743556,
+              45.6639573
+            ],
+            [
+              35.3609843,
+              45.6715964
+            ],
+            [
+              35.3469267,
+              45.678607
+            ],
+            [
+              35.3373014,
+              45.6827713
+            ],
+            [
+              35.3348885,
+              45.6899391
+            ],
+            [
+              35.3298438,
+              45.7014764
+            ],
+            [
+              35.3237297,
+              45.7127561
+            ],
+            [
+              35.3165721,
+              45.7237303
+            ],
+            [
+              35.3084019,
+              45.7343521
+            ],
+            [
+              35.299254,
+              45.7445762
+            ],
+            [
+              35.2891676,
+              45.7543592
+            ],
+            [
+              35.2781858,
+              45.7636592
+            ],
+            [
+              35.2663557,
+              45.7724368
+            ],
+            [
+              35.253728,
+              45.7806547
+            ],
+            [
+              35.2403566,
+              45.7882778
+            ],
+            [
+              35.2334204,
+              45.7917299
+            ],
+            [
+              35,
+              45.764861024140686
+            ],
+            [
+              35,
+              45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -60199,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Ukraine",
+        "local_name": "Україна",
+        "name_en": "Ukraine",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+          "name": "Україна",
+          "name:ab": "Украина",
+          "name:af": "Oekraïne",
+          "name:am": "ዩክሬን",
+          "name:an": "Ucraína",
+          "name:ar": "أوكرانيا",
+          "name:az": "Ukrayna",
+          "name:ba": "Украина",
+          "name:be": "Украіна",
+          "name:bg": "Украйна",
+          "name:bi": "Ukraine",
+          "name:bn": "ইউক্রেন",
+          "name:bo": "ཨུཀ་རཡི་ནི།",
+          "name:br": "Ukraina",
+          "name:bs": "Ukrajina",
+          "name:ca": "Ucraïna",
+          "name:ce": "Украина",
+          "name:cs": "Ukrajina",
+          "name:cu": "Оукраина",
+          "name:cv": "Украина",
+          "name:cy": "Wcráin",
+          "name:da": "Ukraine",
+          "name:de": "Ukraine",
+          "name:dv": "ޔުކްރެއިން",
+          "name:ee": "Ukraine",
+          "name:el": "Ουκρανία",
+          "name:en": "Ukraine",
+          "name:eo": "Ukrainio",
+          "name:es": "Ucrania",
+          "name:et": "Ukraina",
+          "name:eu": "Ukraina",
+          "name:fa": "اوکراین",
+          "name:fi": "Ukraina",
+          "name:fo": "Ukraina",
+          "name:fr": "Ukraine",
+          "name:fy": "Oekraïne",
+          "name:ga": "An Úcráin",
+          "name:gd": "An Ucràin",
+          "name:gl": "Ucraína",
+          "name:gn": "Ukyaña",
+          "name:gu": "યુક્રેન",
+          "name:gv": "Yn Ookraan",
+          "name:he": "אוקראינה",
+          "name:hi": "युक्रेन",
+          "name:hr": "Ukrajina",
+          "name:ht": "Ikrèn",
+          "name:hu": "Ukrajna",
+          "name:hy": "Ուկրաինա",
+          "name:ia": "Ukraina",
+          "name:id": "Ukraina",
+          "name:ie": "Ucraina",
+          "name:ig": "Yukrain",
+          "name:io": "Ukrainia",
+          "name:is": "Úkraína",
+          "name:it": "Ucraina",
+          "name:ja": "ウクライナ",
+          "name:jv": "Ukraina",
+          "name:ka": "უკრაინა",
+          "name:kg": "Ukrayina",
+          "name:kk": "Украина",
+          "name:kl": "Ukraine",
+          "name:km": "អ៊ុយក្រែន",
+          "name:kn": "ಯುಕ್ರೇನ್",
+          "name:ko": "우크라이나",
+          "name:ku": "Ûkrayna",
+          "name:kv": "Украина",
+          "name:kw": "Ukrayn",
+          "name:ky": "Украина",
+          "name:la": "Ucraina",
+          "name:lb": "Ukrain",
+          "name:li": "Oekraïne",
+          "name:ln": "Ukraine",
+          "name:lt": "Ukraina",
+          "name:lv": "Ukraina",
+          "name:mg": "Okraina",
+          "name:mi": "Ūkareinga",
+          "name:mk": "Украина",
+          "name:ml": "ഉക്രൈൻ",
+          "name:mn": "Украйн",
+          "name:mr": "युक्रेन",
+          "name:ms": "Ukraine",
+          "name:mt": "Ukrajna",
+          "name:my": "ယူကရိန်းနိုင်ငံ",
+          "name:na": "Ukraine",
+          "name:ne": "युक्रेन",
+          "name:nl": "Oekraïne",
+          "name:nn": "Ukraina",
+          "name:no": "Ukraina",
+          "name:nv": "Yóókwein",
+          "name:oc": "Ucraïna",
+          "name:or": "ୟୁକ୍ରେନ",
+          "name:os": "Украинæ",
+          "name:pa": "ਯੂਕ੍ਰੇਨ",
+          "name:pl": "Ukraina",
+          "name:ps": "اوکراین",
+          "name:pt": "Ucrânia",
+          "name:qu": "Ukranya",
+          "name:rm": "Ucraina",
+          "name:ro": "Ucraina",
+          "name:ru": "Украина",
+          "name:rw": "Ikerene",
+          "name:sc": "Ucraina",
+          "name:se": "Ukraina",
+          "name:sh": "Ukrajina",
+          "name:sk": "Ukrajina",
+          "name:sl": "Ukrajina",
+          "name:sm": "Ukraine",
+          "name:sn": "Ukraine",
+          "name:so": "Ukrain",
+          "name:sq": "Ukraina",
+          "name:sr": "Украјина",
+          "name:ss": "IYukhureni",
+          "name:su": "Ukraina",
+          "name:sv": "Ukraina",
+          "name:sw": "Ukraine",
+          "name:ta": "உக்ரைன்",
+          "name:te": "ఉక్రెయిన్",
+          "name:tg": "Украйина",
+          "name:th": "ประเทศยูเครน",
+          "name:tk": "Ukraina",
+          "name:tl": "Ukranya",
+          "name:tr": "Ukrayna",
+          "name:ts": "Ukraine",
+          "name:tt": "Украина",
+          "name:tw": "Ukraine",
+          "name:ug": "ئۇكرائىنا",
+          "name:uk": "Україна",
+          "name:ur": "یوکرین",
+          "name:uz": "Ukraina",
+          "name:vi": "Ukraina",
+          "name:vo": "Lukrayän",
+          "name:wa": "Oucrinne",
+          "name:wo": "Ukreen",
+          "name:yi": "אוקראינע",
+          "name:yo": "Ukréìn",
+          "name:zh": "乌克兰/烏克蘭",
+          "boundary": "administrative",
+          "int_name": "Ukraine",
+          "name:ace": "Ukraina",
+          "name:als": "Ukraine",
+          "name:ang": "Ucrægna",
+          "name:arc": "ܐܘܩܪܐܝܢܐ",
+          "name:arz": "اوكرانيا",
+          "name:ast": "Ucraína",
+          "name:bar": "Ukraine",
+          "name:bcl": "Ukranya",
+          "name:bpy": "ইউক্রেন",
+          "name:bxr": "Украина",
+          "name:cdo": "Ŭ-káik-làng",
+          "name:ceb": "Ukranya",
+          "name:chr": "ᏳᎧᏪᏂ",
+          "name:chy": "Ukraine",
+          "name:ckb": "ئوکراینا",
+          "name:crh": "Ukraina",
+          "name:csb": "Ùkrajina",
+          "name:diq": "Ukrayna",
+          "name:dsb": "Ukraina",
+          "name:ext": "Ucránia",
+          "name:frp": "Ucrayena",
+          "name:frr": "Ukraine",
+          "name:gag": "Ukrayna",
+          "name:gan": "烏克蘭",
+          "name:hak": "Vû-khiet-làn",
+          "name:haw": "ʻUkelena",
+          "name:hif": "Ukraine",
+          "name:hsb": "Ukraina",
+          "name:ilo": "Ukrania",
+          "name:jbo": "vurgu'e",
+          "name:kaa": "Ukraina",
+          "name:kab": "Ukrayin",
+          "name:kbd": "Украинэ",
+          "name:koi": "Украина",
+          "name:krc": "Украина",
+          "name:lad": "Ukraina",
+          "name:lez": "Украина",
+          "name:lij": "Ucrainn-a",
+          "name:lmo": "Ücraina",
+          "name:ltg": "Ukraina",
+          "name:lzh": "烏克蘭",
+          "name:mdf": "Украин",
+          "name:mhr": "Украина",
+          "name:mwl": "Oucránia",
+          "name:myv": "Украина",
+          "name:mzn": "اوکراین",
+          "name:nah": "Ucrania",
+          "name:nan": "Ukrayina",
+          "name:nap": "Ucraina",
+          "name:nds": "Ukraine",
+          "name:new": "युक्रेन",
+          "name:nov": "Ukraina",
+          "name:nrm": "Ukraîne",
+          "name:pam": "Ukranya",
+          "name:pap": "Ukrania",
+          "name:pcd": "Oucrinne",
+          "name:pih": "Yukrayn",
+          "name:pms": "Ucrain-a",
+          "name:pnb": "یوکرین",
+          "name:pnt": "Ουκρανία",
+          "name:rmy": "Ukraina",
+          "name:rue": "Україна",
+          "name:sah": "Украина",
+          "name:scn": "Ucraina",
+          "name:sco": "Ukraine",
+          "name:smn": "Ukraina",
+          "name:sms": "Ukraina",
+          "name:stq": "Ukraine",
+          "name:szl": "Ukrajina",
+          "name:tok": "ma Ukawina",
+          "name:tpi": "Yukren",
+          "name:tum": "Ukraine",
+          "name:tzl": "Ucraína",
+          "name:udm": "Украина",
+          "name:vec": "Ucraina",
+          "name:vep": "Ukrain",
+          "name:vls": "Oekraïne",
+          "name:vro": "Ukraina",
+          "name:war": "Ukranya",
+          "name:xal": "Украинмудин Орн",
+          "name:xmf": "უკრაინა",
+          "name:yue": "烏克蘭",
+          "name:zea": "Oekraïne",
+          "way_area": "78.4038",
+          "wikidata": "Q212",
+          "ISO3166-1": "UA",
+          "wikipedia": "en:uk:Україна",
+          "admin_level": "2",
+          "alt_name:eo": "Ukrainujo",
+          "alt_name:vi": "Uy Kiên",
+          "name:nds-nl": "Oekraïne",
+          "old_name:vi": "Ô Khắc Lan",
+          "name:bat-smg": "Okraėna",
+          "name:cbk-zam": "Ukrania",
+          "name:zh-Hans": "乌克兰",
+          "name:zh-Hant": "烏克蘭",
+          "name:roa-tara": "Ucraine",
+          "official_name": "Україна",
+          "name:be-tarask": "Украіна",
+          "according_to:RU": "no",
+          "according_to:UA": "yes",
+          "ISO3166-1:alpha2": "UA",
+          "ISO3166-1:alpha3": "UKR",
+          "default_language": "uk",
+          "ISO3166-1:numeric": "804"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35,
+              45
+            ],
+            [
+              36,
+              45
+            ],
+            [
+              36,
+              45.620359981765844
+            ],
+            [
+              35.9945796,
+              45.6194685
+            ],
+            [
+              35.9817734,
+              45.6167329
+            ],
+            [
+              35.9687264,
+              45.6223836
+            ],
+            [
+              35.9534794,
+              45.6280572
+            ],
+            [
+              35.9377344,
+              45.6330209
+            ],
+            [
+              35.9215589,
+              45.6372534
+            ],
+            [
+              35.9050221,
+              45.640737
+            ],
+            [
+              35.8881949,
+              45.6434567
+            ],
+            [
+              35.8711492,
+              45.6454011
+            ],
+            [
+              35.8539582,
+              45.6465619
+            ],
+            [
+              35.8366954,
+              45.6469342
+            ],
+            [
+              35.8194347,
+              45.6465164
+            ],
+            [
+              35.8022501,
+              45.6453103
+            ],
+            [
+              35.785215,
+              45.643321
+            ],
+            [
+              35.7684026,
+              45.6405569
+            ],
+            [
+              35.7518847,
+              45.6370298
+            ],
+            [
+              35.7357321,
+              45.6327546
+            ],
+            [
+              35.7200141,
+              45.6277494
+            ],
+            [
+              35.7047977,
+              45.6220356
+            ],
+            [
+              35.6901483,
+              45.6156372
+            ],
+            [
+              35.6761286,
+              45.6085816
+            ],
+            [
+              35.6627986,
+              45.6008987
+            ],
+            [
+              35.6502154,
+              45.5926212
+            ],
+            [
+              35.6384328,
+              45.5837842
+            ],
+            [
+              35.6275014,
+              45.5744253
+            ],
+            [
+              35.6174678,
+              45.5645842
+            ],
+            [
+              35.6083752,
+              45.5543032
+            ],
+            [
+              35.6002625,
+              45.5436256
+            ],
+            [
+              35.5931643,
+              45.5325973
+            ],
+            [
+              35.587111,
+              45.5212652
+            ],
+            [
+              35.5821287,
+              45.5096776
+            ],
+            [
+              35.5782385,
+              45.497884
+            ],
+            [
+              35.5764936,
+              45.4903874
+            ],
+            [
+              35.5747509,
+              45.4895333
+            ],
+            [
+              35.5698047,
+              45.4950858
+            ],
+            [
+              35.5597183,
+              45.5049123
+            ],
+            [
+              35.5487365,
+              45.5142538
+            ],
+            [
+              35.5369064,
+              45.5230707
+            ],
+            [
+              35.5242787,
+              45.5313252
+            ],
+            [
+              35.5109074,
+              45.5389823
+            ],
+            [
+              35.4968497,
+              45.5460096
+            ],
+            [
+              35.4821659,
+              45.5523771
+            ],
+            [
+              35.4669189,
+              45.5580578
+            ],
+            [
+              35.459695,
+              45.5603381
+            ],
+            [
+              35.4555162,
+              45.5730522
+            ],
+            [
+              35.4504716,
+              45.5846135
+            ],
+            [
+              35.4443574,
+              45.5959169
+            ],
+            [
+              35.4371998,
+              45.606914
+            ],
+            [
+              35.4290297,
+              45.6175579
+            ],
+            [
+              35.4198817,
+              45.6278035
+            ],
+            [
+              35.4097953,
+              45.6376068
+            ],
+            [
+              35.3988135,
+              45.6469263
+            ],
+            [
+              35.3869834,
+              45.6557223
+            ],
+            [
+              35.3743556,
+              45.6639573
+            ],
+            [
+              35.3609843,
+              45.6715964
+            ],
+            [
+              35.3469267,
+              45.678607
+            ],
+            [
+              35.3373014,
+              45.6827713
+            ],
+            [
+              35.3348885,
+              45.6899391
+            ],
+            [
+              35.3298438,
+              45.7014764
+            ],
+            [
+              35.3237297,
+              45.7127561
+            ],
+            [
+              35.3165721,
+              45.7237303
+            ],
+            [
+              35.3084019,
+              45.7343521
+            ],
+            [
+              35.299254,
+              45.7445762
+            ],
+            [
+              35.2891676,
+              45.7543592
+            ],
+            [
+              35.2781858,
+              45.7636592
+            ],
+            [
+              35.2663557,
+              45.7724368
+            ],
+            [
+              35.253728,
+              45.7806547
+            ],
+            [
+              35.2403566,
+              45.7882778
+            ],
+            [
+              35.2334204,
+              45.7917299
+            ],
+            [
+              35.2331226,
+              45.7937975
+            ],
+            [
+              35.2302771,
+              45.8056738
+            ],
+            [
+              35.2263236,
+              45.8173925
+            ],
+            [
+              35.2212789,
+              45.8289034
+            ],
+            [
+              35.2151647,
+              45.8401574
+            ],
+            [
+              35.2080072,
+              45.8511065
+            ],
+            [
+              35.199837,
+              45.8617041
+            ],
+            [
+              35.1906891,
+              45.8719049
+            ],
+            [
+              35.1806026,
+              45.8816654
+            ],
+            [
+              35.1739108,
+              45.8873198
+            ],
+            [
+              35.1711794,
+              45.8954038
+            ],
+            [
+              35.1661348,
+              45.9068986
+            ],
+            [
+              35.1600206,
+              45.9181369
+            ],
+            [
+              35.1528631,
+              45.9290706
+            ],
+            [
+              35.1509695,
+              45.9315235
+            ],
+            [
+              35.158154,
+              45.9316965
+            ],
+            [
+              35.1753385,
+              45.9328965
+            ],
+            [
+              35.1923736,
+              45.9348755
+            ],
+            [
+              35.209186,
+              45.937625
+            ],
+            [
+              35.2257039,
+              45.9411332
+            ],
+            [
+              35.2418565,
+              45.9453848
+            ],
+            [
+              35.2575746,
+              45.9503615
+            ],
+            [
+              35.2727909,
+              45.9560418
+            ],
+            [
+              35.2874403,
+              45.9624012
+            ],
+            [
+              35.30146,
+              45.9694121
+            ],
+            [
+              35.31479,
+              45.9770444
+            ],
+            [
+              35.3273733,
+              45.9852651
+            ],
+            [
+              35.3391558,
+              45.9940387
+            ],
+            [
+              35.34617135167246,
+              46
+            ],
+            [
+              35,
+              46
+            ],
+            [
+              35,
+              45
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

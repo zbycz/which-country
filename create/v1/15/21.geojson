@@ -1,0 +1,938 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192786,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Niger",
+        "local_name": "Niger",
+        "name_en": "Niger",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+          "name": "Niger",
+          "name:af": "Niger",
+          "name:am": "ኒጄር",
+          "name:an": "Nícher",
+          "name:ar": "النيجر",
+          "name:az": "Niger",
+          "name:ba": "Нигер",
+          "name:be": "Нігер",
+          "name:bg": "Нигер",
+          "name:bm": "Nijer",
+          "name:bn": "নাইজার",
+          "name:bo": "ནི་ཇར།",
+          "name:br": "Niger",
+          "name:bs": "Niger",
+          "name:ca": "Níger",
+          "name:ce": "Нигер",
+          "name:cs": "Niger",
+          "name:cy": "Niger",
+          "name:da": "Niger",
+          "name:de": "Niger",
+          "name:dv": "ނީޖަރު",
+          "name:ee": "Niger",
+          "name:el": "Νίγηρας",
+          "name:en": "Niger",
+          "name:eo": "Niĝero",
+          "name:es": "Níger",
+          "name:et": "Niger",
+          "name:eu": "Niger",
+          "name:fa": "نیجر",
+          "name:fi": "Niger",
+          "name:fo": "Niger",
+          "name:fr": "Niger",
+          "name:fy": "Niger",
+          "name:ga": "An Nígir",
+          "name:gd": "Nìgeir",
+          "name:gl": "Níxer",
+          "name:gn": "Níher",
+          "name:gu": "નાઈજર",
+          "name:gv": "Yn Neegeyr",
+          "name:ha": "Nijar",
+          "name:he": "ניז'ר",
+          "name:hi": "नाइजर",
+          "name:hr": "Niger",
+          "name:ht": "Nijè",
+          "name:hu": "Niger",
+          "name:hy": "Նիգեր",
+          "name:ia": "Niger",
+          "name:id": "Niger",
+          "name:ie": "Niger",
+          "name:ig": "Niger",
+          "name:io": "Nijer",
+          "name:is": "Níger",
+          "name:it": "Niger",
+          "name:ja": "ニジェール",
+          "name:jv": "Niger",
+          "name:ka": "ნიგერი",
+          "name:kg": "Nijer",
+          "name:kk": "Нигер",
+          "name:ko": "니제르",
+          "name:ku": "Nîjer",
+          "name:kw": "Pow Nijer",
+          "name:la": "Nigritania",
+          "name:lb": "Niger",
+          "name:li": "Niger",
+          "name:ln": "Nizer",
+          "name:lt": "Nigeris",
+          "name:lv": "Nigēra",
+          "name:mi": "Ngāika",
+          "name:mk": "Нигер",
+          "name:ml": "നീഷർ",
+          "name:mn": "Нигер",
+          "name:mr": "नायजर",
+          "name:ms": "Niger",
+          "name:mt": "Niġer",
+          "name:my": "နိုင်ဂျာနိုင်ငံ",
+          "name:nl": "Niger",
+          "name:nn": "Niger",
+          "name:no": "Niger",
+          "name:oc": "Nigèr",
+          "name:or": "ନାଇଜର",
+          "name:os": "Нигер",
+          "name:pa": "ਨਾਈਜਰ",
+          "name:pl": "Niger",
+          "name:ps": "نایجېر",
+          "name:pt": "Níger",
+          "name:qu": "Niqir",
+          "name:ro": "Niger",
+          "name:ru": "Нигер",
+          "name:rw": "Nigeri",
+          "name:sa": "नीजे",
+          "name:sc": "Nixèr",
+          "name:se": "Niger",
+          "name:sg": "Nizëre",
+          "name:sh": "Niger",
+          "name:si": "නයිජර්",
+          "name:sk": "Niger",
+          "name:sl": "Niger",
+          "name:sn": "Niger",
+          "name:so": "Nayjar",
+          "name:sq": "Nigeri",
+          "name:sr": "Нигер",
+          "name:ss": "INayijari",
+          "name:su": "Niger",
+          "name:sv": "Niger",
+          "name:sw": "Niger",
+          "name:ta": "நைஜர்",
+          "name:te": "నైజర్",
+          "name:tg": "Ниҷер",
+          "name:th": "ประเทศไนเจอร์",
+          "name:ti": "ናይጀር",
+          "name:tk": "Niger",
+          "name:tl": "Niyer",
+          "name:tr": "Nijer",
+          "name:ts": "Niger",
+          "name:ug": "نىگېر",
+          "name:uk": "Нігер",
+          "name:ur": "نائجر",
+          "name:uz": "Niger",
+          "name:vi": "Niger",
+          "name:vo": "Nigerän",
+          "name:wo": "Niseer",
+          "name:yi": "ניזשער",
+          "name:yo": "Nìjẹ̀r",
+          "name:zh": "尼日尔 / 尼日",
+          "name:zu": "INayighe",
+          "boundary": "administrative",
+          "name:ace": "Niger",
+          "name:als": "Niger",
+          "name:arc": "ܢܝܓܪ",
+          "name:arz": "نيجر",
+          "name:ast": "Níxer",
+          "name:bcl": "Niger",
+          "name:bjn": "Niger",
+          "name:bpy": "নাইজের",
+          "name:bxr": "Нигер",
+          "name:ceb": "Niger",
+          "name:ckb": "نیجەر",
+          "name:crh": "Niger",
+          "name:din": "Nijer",
+          "name:diq": "Nicer",
+          "name:dsb": "Niger",
+          "name:ext": "Nigi",
+          "name:frp": "Nig·èr",
+          "name:gag": "Niger",
+          "name:hif": "Niger",
+          "name:hsb": "Niger",
+          "name:ilo": "Niger",
+          "name:jbo": "gugdenu'e",
+          "name:kab": "Nnijer",
+          "name:lij": "Niger",
+          "name:lmo": "Niger",
+          "name:mrj": "Нигер",
+          "name:nah": "Niger",
+          "name:nan": "Niger",
+          "name:nds": "Niger",
+          "name:nov": "Niger",
+          "name:nso": "Niger",
+          "name:pam": "Niger",
+          "name:pih": "Niijir",
+          "name:pms": "Nìger",
+          "name:pnb": "نائجر",
+          "name:rue": "Ніґер",
+          "name:sah": "Нигер",
+          "name:scn": "Niger",
+          "name:sco": "Niger",
+          "name:smn": "Niger",
+          "name:sms": "Niger",
+          "name:stq": "Niger",
+          "name:szl": "Ńiger",
+          "name:tzl": "Niger",
+          "name:vec": "Niger",
+          "name:vro": "Niger",
+          "name:war": "Niger",
+          "name:xal": "Нигермудин Орн",
+          "name:yue": "尼日爾",
+          "timezone": "Africa/Niamey",
+          "way_area": "100.534",
+          "wikidata": "Q1032",
+          "ISO3166-1": "NE",
+          "wikipedia": "fr:Niger",
+          "admin_level": "2",
+          "alt_name:eo": "Niĝerlando",
+          "name:bat-smg": "Nigeris",
+          "name:zh-Hans": "尼日尔",
+          "name:zh-Hant": "尼日",
+          "name:be-tarask": "Нігер",
+          "ISO3166-1:alpha2": "NE",
+          "ISO3166-1:alpha3": "NER",
+          "default_language": "fr",
+          "official_name:ar": "جمهورية النيجر",
+          "official_name:cs": "Nigerská republika",
+          "official_name:de": "Republik Niger",
+          "official_name:en": "Republic of Niger",
+          "official_name:es": "República del Níger",
+          "official_name:fr": "République du Niger",
+          "official_name:gn": "Tavakuairetã Níger",
+          "official_name:pt": "República do Níger",
+          "official_name:ru": "Республика Нигер",
+          "ISO3166-1:numeric": "562",
+          "official_name:din": "Paankɔc ke Nijer",
+          "official_name:nds": "Republiek Niger"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15,
+              21
+            ],
+            [
+              15.595662242592079,
+              21
+            ],
+            [
+              15.5925,
+              21.004444
+            ],
+            [
+              15.583056,
+              21.018611
+            ],
+            [
+              15.5625,
+              21.046944
+            ],
+            [
+              15.553056,
+              21.061389
+            ],
+            [
+              15.542778,
+              21.075556
+            ],
+            [
+              15.533333,
+              21.089722
+            ],
+            [
+              15.512778,
+              21.118333
+            ],
+            [
+              15.503333,
+              21.1325
+            ],
+            [
+              15.493056,
+              21.146667
+            ],
+            [
+              15.483611,
+              21.160833
+            ],
+            [
+              15.463056,
+              21.189167
+            ],
+            [
+              15.453611,
+              21.203611
+            ],
+            [
+              15.443333,
+              21.217778
+            ],
+            [
+              15.433889,
+              21.231944
+            ],
+            [
+              15.413333,
+              21.260556
+            ],
+            [
+              15.403889,
+              21.274722
+            ],
+            [
+              15.393611,
+              21.288889
+            ],
+            [
+              15.384167,
+              21.303056
+            ],
+            [
+              15.363611,
+              21.331389
+            ],
+            [
+              15.354167,
+              21.345833
+            ],
+            [
+              15.343889,
+              21.36
+            ],
+            [
+              15.334444,
+              21.374167
+            ],
+            [
+              15.313889,
+              21.4025
+            ],
+            [
+              15.304167,
+              21.416944
+            ],
+            [
+              15.293889,
+              21.431111
+            ],
+            [
+              15.284444,
+              21.445278
+            ],
+            [
+              15.259444,
+              21.460833
+            ],
+            [
+              15.216667,
+              21.487778
+            ],
+            [
+              15.2025,
+              21.495833
+            ],
+            [
+              15.202222,
+              21.504167
+            ],
+            [
+              15.201389,
+              21.517778
+            ],
+            [
+              15.201389,
+              21.545278
+            ],
+            [
+              15.200833,
+              21.559167
+            ],
+            [
+              15.200833,
+              21.600278
+            ],
+            [
+              15.2,
+              21.614167
+            ],
+            [
+              15.200278,
+              21.627778
+            ],
+            [
+              15.200278,
+              21.641389
+            ],
+            [
+              15.199444,
+              21.655278
+            ],
+            [
+              15.199444,
+              21.682778
+            ],
+            [
+              15.198889,
+              21.696389
+            ],
+            [
+              15.198889,
+              21.723889
+            ],
+            [
+              15.198056,
+              21.737778
+            ],
+            [
+              15.198056,
+              21.765278
+            ],
+            [
+              15.1975,
+              21.778889
+            ],
+            [
+              15.1975,
+              21.82
+            ],
+            [
+              15.196667,
+              21.833889
+            ],
+            [
+              15.196667,
+              21.861389
+            ],
+            [
+              15.196111,
+              21.875278
+            ],
+            [
+              15.196111,
+              21.9025
+            ],
+            [
+              15.195278,
+              21.916389
+            ],
+            [
+              15.195278,
+              21.93
+            ],
+            [
+              15.195556,
+              21.943889
+            ],
+            [
+              15.194722,
+              21.9575
+            ],
+            [
+              15.194722,
+              21.998889
+            ],
+            [
+              15.194473306968996,
+              22
+            ],
+            [
+              15,
+              22
+            ],
+            [
+              15,
+              21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2361304,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Chad",
+        "local_name": "Tchad تشاد",
+        "name_en": "Chad",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+          "name": "Tchad تشاد",
+          "name:af": "Tsjad",
+          "name:am": "ቻድ",
+          "name:an": "Chad",
+          "name:ar": "تشاد",
+          "name:az": "Çad",
+          "name:ba": "Чад",
+          "name:be": "Чад",
+          "name:bg": "Чад",
+          "name:bm": "Cad",
+          "name:bn": "চাদ",
+          "name:bo": "ཆཱ་ཌ།",
+          "name:br": "Tchad",
+          "name:bs": "Čad",
+          "name:ca": "Txad",
+          "name:ce": "Чад",
+          "name:cs": "Čad",
+          "name:cv": "Чад",
+          "name:cy": "Tchad",
+          "name:da": "Tchad",
+          "name:de": "Tschad",
+          "name:dv": "ޝާދު",
+          "name:ee": "Chad",
+          "name:el": "Τσαντ",
+          "name:en": "Chad",
+          "name:eo": "Ĉado",
+          "name:es": "Chad",
+          "name:et": "Tšaad",
+          "name:eu": "Txad",
+          "name:fa": "چاد",
+          "name:fi": "Tšad",
+          "name:fo": "Kjad",
+          "name:fr": "Tchad",
+          "name:fy": "Tsjaad",
+          "name:ga": "Sead",
+          "name:gd": "An t-Siad",
+          "name:gl": "Chad - Tchad",
+          "name:gn": "Cháde",
+          "name:gu": "ચૅડ",
+          "name:gv": "Shad",
+          "name:ha": "Cadi",
+          "name:he": "צ'אד",
+          "name:hi": "चाड",
+          "name:hr": "Čad",
+          "name:ht": "Tchad",
+          "name:hu": "Csád",
+          "name:hy": "Չադ",
+          "name:ia": "Tchad",
+          "name:id": "Chad",
+          "name:ie": "Chad",
+          "name:ig": "Chad",
+          "name:io": "Chad",
+          "name:is": "Tsjad",
+          "name:it": "Ciad",
+          "name:ja": "チャド",
+          "name:jv": "Chad",
+          "name:ka": "ჩადი",
+          "name:kg": "Tasadi",
+          "name:kk": "Чад",
+          "name:ko": "차드",
+          "name:ku": "Çad",
+          "name:kw": "Chad",
+          "name:la": "Tzadia",
+          "name:lb": "Tschad",
+          "name:li": "Tsjaad",
+          "name:ln": "Tshadi",
+          "name:lt": "Čadas",
+          "name:lv": "Čada",
+          "name:mi": "Kāta",
+          "name:mk": "Чад",
+          "name:ml": "ഛാഡ്",
+          "name:mr": "चाड",
+          "name:ms": "Chad",
+          "name:mt": "Ċad",
+          "name:my": "ချဒ်သမ္မတနိုင်ငံ",
+          "name:na": "Tsiad",
+          "name:nl": "Tsjaad",
+          "name:nn": "Tsjad",
+          "name:no": "Tsjad",
+          "name:oc": "Chad",
+          "name:or": "ଚାଡ",
+          "name:os": "Чад",
+          "name:pa": "ਚਾਡ",
+          "name:pl": "Czad",
+          "name:ps": "چاډ",
+          "name:pt": "Chade",
+          "name:qu": "Chad",
+          "name:rm": "Tschad",
+          "name:ro": "Ciad",
+          "name:ru": "Чад",
+          "name:rw": "Cade",
+          "name:sa": "चाड",
+          "name:sc": "Chad",
+          "name:se": "Chad",
+          "name:sg": "Sâde",
+          "name:sh": "Čad",
+          "name:si": "චෑඩ්",
+          "name:sk": "Čad",
+          "name:sl": "Čad",
+          "name:sn": "Chad",
+          "name:so": "Jad",
+          "name:sq": "Çadi",
+          "name:sr": "Чад",
+          "name:ss": "IShedi",
+          "name:su": "Chad",
+          "name:sv": "Tchad",
+          "name:sw": "Chad",
+          "name:ta": "சாட்",
+          "name:te": "చాద్",
+          "name:tg": "Чад",
+          "name:th": "ประเทศชาด",
+          "name:ti": "ቻድ",
+          "name:tk": "Çad",
+          "name:tl": "Tsad",
+          "name:tr": "Çad",
+          "name:ts": "Chad",
+          "name:tt": "Чад",
+          "name:ug": "چاد",
+          "name:uk": "Чад",
+          "name:ur": "چاڈ",
+          "name:uz": "Chad",
+          "name:vi": "Tchad",
+          "name:vo": "Tjadän",
+          "name:wa": "Tchad",
+          "name:wo": "Cadd",
+          "name:yi": "טשאד",
+          "name:yo": "Tsad",
+          "name:zh": "乍得 / 查德",
+          "name:zu": "ITshedi",
+          "boundary": "administrative",
+          "currency": "XAF",
+          "name:ace": "Chad",
+          "name:als": "Tschad",
+          "name:ang": "Cead",
+          "name:arc": "ܬܫܐܕ",
+          "name:arz": "تشاد",
+          "name:ast": "Chad",
+          "name:bcl": "Tsad",
+          "name:ber": "ⵜⵛⴰⴷ",
+          "name:bjn": "Chad",
+          "name:bpy": "চাদ",
+          "name:bxr": "Чад",
+          "name:ceb": "Chad",
+          "name:ckb": "چاد",
+          "name:crh": "Çad",
+          "name:din": "Cad",
+          "name:diq": "Çad",
+          "name:dsb": "Čad",
+          "name:ext": "Chad",
+          "name:frp": "Tch·ad",
+          "name:gag": "Çad",
+          "name:hif": "Chad",
+          "name:hsb": "Čad",
+          "name:ilo": "Chad",
+          "name:jbo": "tcad",
+          "name:kaa": "Chad",
+          "name:kab": "Ččad",
+          "name:lij": "Ciad",
+          "name:lmo": "Ciad",
+          "name:min": "Chad",
+          "name:mrj": "Чад",
+          "name:mzn": "چاد",
+          "name:nah": "Chad",
+          "name:nan": "Tchad",
+          "name:nds": "Tschad",
+          "name:nov": "Chad",
+          "name:nso": "Chad",
+          "name:pag": "Jhad",
+          "name:pam": "Chad",
+          "name:pih": "Chad",
+          "name:pms": "Ciad",
+          "name:pnb": "چڈ",
+          "name:rue": "Чад",
+          "name:sah": "Чад",
+          "name:scn": "Ciad",
+          "name:sco": "Chad",
+          "name:smn": "Tšad",
+          "name:sms": "Tšaad",
+          "name:stq": "Tschad",
+          "name:szl": "Czad",
+          "name:tet": "Xade",
+          "name:tzl": "Tschad",
+          "name:vec": "Ciad",
+          "name:vro": "Tšaad",
+          "name:war": "Chad",
+          "name:xal": "Чадигин Орн",
+          "name:yue": "乍得",
+          "name:zgh": "ⵜⵛⴰⴷ",
+          "timezone": "Africa/Ndjamena",
+          "way_area": "107.399",
+          "wikidata": "Q657",
+          "ISO3166-1": "TD",
+          "wikipedia": "ar:تشاد",
+          "admin_level": "2",
+          "name:simple": "Chad",
+          "name:bat-smg": "Čads",
+          "name:zh-Hans": "乍得",
+          "name:zh-Hant": "查德",
+          "official_name": "جمهورية تشاد",
+          "name:be-tarask": "Чад",
+          "ISO3166-1:alpha2": "TD",
+          "ISO3166-1:alpha3": "TCD",
+          "official_name:ar": "جمهورية تشاد",
+          "official_name:cs": "Čadská republika",
+          "official_name:en": "Republic of Chad",
+          "official_name:es": "República de Chad",
+          "official_name:fa": "جمهوری چاد",
+          "official_name:fr": "République du Tchad",
+          "official_name:gn": "Tavakuairetã Cháde",
+          "official_name:ku": "Komara Çad",
+          "official_name:pt": "República do Chade",
+          "official_name:ru": "Республика Чад",
+          "official_name:ur": "جمہوریہ چاڈ",
+          "ISO3166-1:numeric": "148",
+          "official_name:ckb": "کۆماری چاد",
+          "official_name:din": "Paankɔc ke Cad"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.194473306968996,
+              22
+            ],
+            [
+              15.194722,
+              21.998889
+            ],
+            [
+              15.194722,
+              21.9575
+            ],
+            [
+              15.195556,
+              21.943889
+            ],
+            [
+              15.195278,
+              21.93
+            ],
+            [
+              15.195278,
+              21.916389
+            ],
+            [
+              15.196111,
+              21.9025
+            ],
+            [
+              15.196111,
+              21.875278
+            ],
+            [
+              15.196667,
+              21.861389
+            ],
+            [
+              15.196667,
+              21.833889
+            ],
+            [
+              15.1975,
+              21.82
+            ],
+            [
+              15.1975,
+              21.778889
+            ],
+            [
+              15.198056,
+              21.765278
+            ],
+            [
+              15.198056,
+              21.737778
+            ],
+            [
+              15.198889,
+              21.723889
+            ],
+            [
+              15.198889,
+              21.696389
+            ],
+            [
+              15.199444,
+              21.682778
+            ],
+            [
+              15.199444,
+              21.655278
+            ],
+            [
+              15.200278,
+              21.641389
+            ],
+            [
+              15.200278,
+              21.627778
+            ],
+            [
+              15.2,
+              21.614167
+            ],
+            [
+              15.200833,
+              21.600278
+            ],
+            [
+              15.200833,
+              21.559167
+            ],
+            [
+              15.201389,
+              21.545278
+            ],
+            [
+              15.201389,
+              21.517778
+            ],
+            [
+              15.202222,
+              21.504167
+            ],
+            [
+              15.2025,
+              21.495833
+            ],
+            [
+              15.216667,
+              21.487778
+            ],
+            [
+              15.259444,
+              21.460833
+            ],
+            [
+              15.284444,
+              21.445278
+            ],
+            [
+              15.293889,
+              21.431111
+            ],
+            [
+              15.304167,
+              21.416944
+            ],
+            [
+              15.313889,
+              21.4025
+            ],
+            [
+              15.334444,
+              21.374167
+            ],
+            [
+              15.343889,
+              21.36
+            ],
+            [
+              15.354167,
+              21.345833
+            ],
+            [
+              15.363611,
+              21.331389
+            ],
+            [
+              15.384167,
+              21.303056
+            ],
+            [
+              15.393611,
+              21.288889
+            ],
+            [
+              15.403889,
+              21.274722
+            ],
+            [
+              15.413333,
+              21.260556
+            ],
+            [
+              15.433889,
+              21.231944
+            ],
+            [
+              15.443333,
+              21.217778
+            ],
+            [
+              15.453611,
+              21.203611
+            ],
+            [
+              15.463056,
+              21.189167
+            ],
+            [
+              15.483611,
+              21.160833
+            ],
+            [
+              15.493056,
+              21.146667
+            ],
+            [
+              15.503333,
+              21.1325
+            ],
+            [
+              15.512778,
+              21.118333
+            ],
+            [
+              15.533333,
+              21.089722
+            ],
+            [
+              15.542778,
+              21.075556
+            ],
+            [
+              15.553056,
+              21.061389
+            ],
+            [
+              15.5625,
+              21.046944
+            ],
+            [
+              15.583056,
+              21.018611
+            ],
+            [
+              15.5925,
+              21.004444
+            ],
+            [
+              15.595662242592079,
+              21
+            ],
+            [
+              16,
+              21
+            ],
+            [
+              16,
+              22
+            ],
+            [
+              15.194473306968996,
+              22
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

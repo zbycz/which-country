@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -4474651,
+        "boundary": "land_area",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Lithuania (land mass)",
+        "local_name": "Lietuva (sausuma)",
+        "name_en": "Lithuania (land mass)",
+        "all_tags": {
+          "name": "Lietuva (sausuma)",
+          "name:de": "Litauen (Landmasse)",
+          "name:en": "Lithuania (land mass)",
+          "name:lt": "Lietuva (sausuma)",
+          "name:pl": "Litwa (Ląd)",
+          "boundary": "land_area",
+          "way_area": "9.18712",
+          "ISO3166-1": "LT",
+          "land_area": "administrative",
+          "admin_level": "2"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23,
+              55
+            ],
+            [
+              24,
+              55
+            ],
+            [
+              24,
+              56
+            ],
+            [
+              23,
+              56
+            ],
+            [
+              23,
+              55
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

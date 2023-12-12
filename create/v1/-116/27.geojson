@@ -1,0 +1,651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -114686,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Mexico",
+        "local_name": "México",
+        "name_en": "Mexico",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+          "name": "México",
+          "name:af": "Meksiko",
+          "name:am": "ሜክሲኮ",
+          "name:an": "Mexico",
+          "name:ar": "المكسيك",
+          "name:ay": "Mïxiku",
+          "name:az": "Meksika",
+          "name:ba": "Мексика",
+          "name:be": "Мексіка",
+          "name:bg": "Мексико",
+          "name:bi": "Mexico",
+          "name:bm": "Mɛkisiki",
+          "name:bn": "মেক্সিকো",
+          "name:bo": "མེག་སི་ཀོ།",
+          "name:br": "Mec'hiko",
+          "name:bs": "Meksiko",
+          "name:ca": "Mèxic",
+          "name:ce": "Мексика",
+          "name:co": "Messicu",
+          "name:cr": "ᒣᐠᓰᑰ",
+          "name:cs": "Mexiko",
+          "name:cv": "Мексика",
+          "name:cy": "Mexico",
+          "name:da": "Mexico",
+          "name:de": "Mexiko",
+          "name:dv": "މެކްސިކޯ",
+          "name:dz": "མེཀ་སི་ཀོ",
+          "name:ee": "Mexico",
+          "name:el": "Μεξικό",
+          "name:en": "Mexico",
+          "name:eo": "Meksiko",
+          "name:es": "México",
+          "name:et": "Mehhiko",
+          "name:eu": "Mexiko",
+          "name:fa": "مکزیک",
+          "name:fi": "Meksiko",
+          "name:fo": "Meksiko",
+          "name:fr": "Mexique",
+          "name:fy": "Meksiko",
+          "name:ga": "Meicsiceo",
+          "name:gd": "Meagsago",
+          "name:gl": "México",
+          "name:gn": "Méhiko",
+          "name:gu": "મેક્સિકો",
+          "name:gv": "Meksico",
+          "name:he": "מקסיקו",
+          "name:hi": "मेक्सिको",
+          "name:hr": "Meksiko",
+          "name:ht": "Meksik",
+          "name:hu": "Mexikó",
+          "name:hy": "Մեքսիկա",
+          "name:ia": "Mexico",
+          "name:id": "Meksiko",
+          "name:ik": "Miasiku",
+          "name:io": "Mexikia",
+          "name:is": "Mexíkó",
+          "name:it": "Messico",
+          "name:iu": "ᒦᒃᓰᖂ",
+          "name:ja": "メキシコ",
+          "name:jv": "Mèksiko",
+          "name:ka": "მექსიკა",
+          "name:kk": "Мексика",
+          "name:kl": "Mexico",
+          "name:km": "ម៉ិកស៊ិក",
+          "name:kn": "ಮೆಕ್ಸಿಕೋ",
+          "name:ko": "멕시코",
+          "name:ku": "Meksîk",
+          "name:kv": "Мексика",
+          "name:kw": "Meksiko",
+          "name:ky": "Мексика",
+          "name:la": "Mexicum",
+          "name:lb": "Mexiko",
+          "name:li": "Mexico",
+          "name:ln": "Mexiko",
+          "name:lt": "Meksika",
+          "name:lv": "Meksika",
+          "name:mg": "Meksika",
+          "name:mi": "Mēhiko",
+          "name:mk": "Мексико",
+          "name:ml": "മെക്സിക്കോ",
+          "name:mn": "Мексик",
+          "name:mr": "मेक्सिको",
+          "name:ms": "Mexico",
+          "name:mt": "Messiku",
+          "name:my": "မက္ကဆီကိုနိုင်ငံ",
+          "name:na": "Meketiko",
+          "name:ne": "मेक्सिको",
+          "name:nl": "Mexico",
+          "name:nn": "Mexico",
+          "name:no": "Mexico",
+          "name:nv": "Naakaii Bikéyah",
+          "name:oc": "Mexic",
+          "name:or": "ମେକ୍ସିକୋ",
+          "name:os": "Мексикæ",
+          "name:pa": "ਮੈਕਸੀਕੋ",
+          "name:pl": "Meksyk",
+          "name:pt": "México",
+          "name:qu": "Mishiku",
+          "name:rm": "Mexico",
+          "name:ro": "Mexic",
+          "name:ru": "Мексика",
+          "name:rw": "Megizike",
+          "name:sc": "Mèssico",
+          "name:se": "Meksiko",
+          "name:sh": "Meksiko",
+          "name:sk": "Mexiko",
+          "name:sl": "Mehika",
+          "name:sm": "Mexico",
+          "name:sn": "Mexico",
+          "name:so": "Meksiko",
+          "name:sq": "Meksika",
+          "name:sr": "Мексико",
+          "name:ss": "IMekisikho",
+          "name:su": "Méksiko",
+          "name:sv": "Mexiko",
+          "name:sw": "Mexiko",
+          "name:ta": "மெக்சிக்கோ",
+          "name:te": "మెక్సికో",
+          "name:tg": "Мексика",
+          "name:th": "ประเทศเม็กซิโก",
+          "name:tk": "Meksika",
+          "name:tl": "Mehiko",
+          "name:tr": "Meksika",
+          "name:tt": "Мексика",
+          "name:tw": "Mexico",
+          "name:ug": "مېكسىكا",
+          "name:uk": "Мексика",
+          "name:ur": "میکسیکو",
+          "name:uz": "Meksika",
+          "name:vi": "México",
+          "name:vo": "Mäxikän",
+          "name:wo": "Meksik",
+          "name:yi": "מעקסיקא",
+          "name:yo": "Mẹ́ksíkò",
+          "name:zh": "墨西哥",
+          "name:zu": "IMekisiko",
+          "boundary": "administrative",
+          "currency": "MXN",
+          "name:ace": "Meksiko",
+          "name:als": "Mexiko",
+          "name:ang": "Mexico",
+          "name:arc": "ܡܟܣܝܩܘ",
+          "name:arz": "الميكسيك",
+          "name:ast": "Méxicu",
+          "name:atj": "Meksiko",
+          "name:azb": "مکزیک",
+          "name:bar": "Mexiko",
+          "name:bcl": "Mehiko",
+          "name:bpy": "মেক্সিকো",
+          "name:bxr": "Мексико",
+          "name:cdo": "Mĕ̤k-să̤-gŏ̤",
+          "name:ceb": "Mehiko",
+          "name:chr": "ᎠᏂᏍᏆᏂ",
+          "name:chy": "Mé'šeeséve'ho'évenó",
+          "name:ckb": "مەکسیک",
+          "name:crh": "Meksika",
+          "name:crk": "mêksîkô",
+          "name:diq": "Meksika",
+          "name:dsb": "Mexiko",
+          "name:ext": "Méjicu",
+          "name:frp": "Mexique",
+          "name:frr": "Meksikoo",
+          "name:fur": "Messic",
+          "name:gag": "Meksika",
+          "name:gan": "墨西哥",
+          "name:hak": "Me̍t-sî-kô",
+          "name:haw": "Mekiko",
+          "name:hif": "Mexico",
+          "name:hsb": "Mexiko",
+          "name:ilo": "Méhiko",
+          "name:jbo": "mexygu'e",
+          "name:kbd": "Мексикэ",
+          "name:krc": "Мексика",
+          "name:lad": "Meksiko",
+          "name:lez": "Мексика",
+          "name:lij": "Mescico",
+          "name:lmo": "Messich",
+          "name:ltg": "Meksika",
+          "name:lzh": "墨西哥",
+          "name:mdf": "Мексик",
+          "name:mhr": "Мексике",
+          "name:mia": "iihpaawalonki",
+          "name:mrj": "Мексика",
+          "name:mwl": "México",
+          "name:mzn": "مکزیک",
+          "name:nah": "Mēxihco",
+          "name:nan": "Be̍k-se-ko",
+          "name:nap": "Messico",
+          "name:nds": "Mexiko",
+          "name:new": "मेक्सिको",
+          "name:nov": "Mexiko",
+          "name:nrm": "Mexique",
+          "name:pag": "Mexico",
+          "name:pam": "Mexico",
+          "name:pap": "Mexico",
+          "name:pdc": "Mexiko",
+          "name:pfl": "Mexiko",
+          "name:pih": "Meksikoe",
+          "name:pms": "Méssich",
+          "name:pnb": "میکسیکو",
+          "name:rmy": "Mexiko",
+          "name:rue": "Мексіко",
+          "name:sah": "Мексика",
+          "name:scn": "Mèssicu",
+          "name:sco": "Mexico",
+          "name:smn": "Meksiko",
+          "name:sms": "Meksiko",
+          "name:srn": "Meksikokondre",
+          "name:stq": "Mexiko",
+          "name:szl": "Meksyk",
+          "name:tpi": "Meksiko",
+          "name:tzl": "Mexico",
+          "name:vec": "Mèsico",
+          "name:vep": "Meksik",
+          "name:vro": "Mehhiko",
+          "name:war": "Mehiko",
+          "name:win": "Reeziporoporo Mąą",
+          "name:xal": "Мексикудин Ниицәтә Орн Нутгуд",
+          "name:xmf": "მექსიკა",
+          "name:yue": "墨西哥",
+          "way_area": "200.236",
+          "wikidata": "Q96",
+          "ISO3166-1": "MX",
+          "wikipedia": "es:México",
+          "admin_level": "2",
+          "alt_name:nv": "Méhigo",
+          "alt_name:vi": "Mê-hi-cô;Mễ Tây Cơ;Mễ",
+          "border_type": "nation",
+          "name:nds-nl": "Mexico",
+          "name:simple": "Mexico",
+          "alt_name:chr": "ᎺᏏᎪ",
+          "name:bat-smg": "Meksėka",
+          "name:cbk-zam": "México",
+          "name:zh-Hans": "墨西哥",
+          "name:zh-Hant": "墨西哥",
+          "name:roa-tara": "Messeche",
+          "official_name": "Estados Unidos Mexicanos",
+          "name:be-tarask": "Мэксыка",
+          "ISO3166-1:alpha2": "MX",
+          "ISO3166-1:alpha3": "MEX",
+          "default_language": "es",
+          "official_name:cs": "Spojené státy mexické",
+          "official_name:sv": "Mexikos förenta stater",
+          "ISO3166-1:numeric": "484"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.57043651865848,
+              28
+            ],
+            [
+              -115.568905,
+              27.997963
+            ],
+            [
+              -115.563588,
+              27.991395
+            ],
+            [
+              -115.559223,
+              27.986347
+            ],
+            [
+              -115.55187,
+              27.978534
+            ],
+            [
+              -115.540603,
+              27.967595
+            ],
+            [
+              -115.534539,
+              27.96218
+            ],
+            [
+              -115.528247,
+              27.956974
+            ],
+            [
+              -115.520017,
+              27.950703
+            ],
+            [
+              -115.514399,
+              27.946752
+            ],
+            [
+              -115.506303,
+              27.941492
+            ],
+            [
+              -115.49916,
+              27.93724
+            ],
+            [
+              -115.490605,
+              27.932589
+            ],
+            [
+              -115.482491,
+              27.928583
+            ],
+            [
+              -115.474618,
+              27.925035
+            ],
+            [
+              -115.465514,
+              27.921295
+            ],
+            [
+              -115.457459,
+              27.918341
+            ],
+            [
+              -115.450985,
+              27.91537
+            ],
+            [
+              -115.451607,
+              27.906479
+            ],
+            [
+              -115.451778,
+              27.900117
+            ],
+            [
+              -115.451723,
+              27.893753
+            ],
+            [
+              -115.451356,
+              27.886124
+            ],
+            [
+              -115.450663,
+              27.878513
+            ],
+            [
+              -115.449837,
+              27.872192
+            ],
+            [
+              -115.448548,
+              27.864642
+            ],
+            [
+              -115.447228,
+              27.858387
+            ],
+            [
+              -115.44535,
+              27.850935
+            ],
+            [
+              -115.443543,
+              27.844778
+            ],
+            [
+              -115.441517,
+              27.838674
+            ],
+            [
+              -115.4388,
+              27.83143
+            ],
+            [
+              -115.436266,
+              27.825389
+            ],
+            [
+              -115.433358,
+              27.819059
+            ],
+            [
+              -115.429827,
+              27.812098
+            ],
+            [
+              -115.426659,
+              27.806392
+            ],
+            [
+              -115.420451,
+              27.796356
+            ],
+            [
+              -115.413609,
+              27.786652
+            ],
+            [
+              -115.406157,
+              27.777311
+            ],
+            [
+              -115.398119,
+              27.768363
+            ],
+            [
+              -115.390503,
+              27.760763
+            ],
+            [
+              -115.381857,
+              27.75292
+            ],
+            [
+              -115.373451,
+              27.746011
+            ],
+            [
+              -115.365662,
+              27.740198
+            ],
+            [
+              -115.359011,
+              27.732777
+            ],
+            [
+              -115.352417,
+              27.726074
+            ],
+            [
+              -115.33775,
+              27.712601
+            ],
+            [
+              -115.33164,
+              27.70724
+            ],
+            [
+              -115.326376,
+              27.702932
+            ],
+            [
+              -115.320963,
+              27.698775
+            ],
+            [
+              -115.315404,
+              27.694773
+            ],
+            [
+              -115.309705,
+              27.69093
+            ],
+            [
+              -115.303873,
+              27.687249
+            ],
+            [
+              -115.297913,
+              27.683735
+            ],
+            [
+              -115.291831,
+              27.680391
+            ],
+            [
+              -115.285634,
+              27.677219
+            ],
+            [
+              -115.279327,
+              27.674224
+            ],
+            [
+              -115.272916,
+              27.671409
+            ],
+            [
+              -115.266409,
+              27.668775
+            ],
+            [
+              -115.259812,
+              27.666327
+            ],
+            [
+              -115.25313,
+              27.664065
+            ],
+            [
+              -115.246372,
+              27.661994
+            ],
+            [
+              -115.239544,
+              27.660114
+            ],
+            [
+              -115.232406,
+              27.658371
+            ],
+            [
+              -115.227573,
+              27.649394
+            ],
+            [
+              -115.222119,
+              27.640445
+            ],
+            [
+              -115.216163,
+              27.631755
+            ],
+            [
+              -115.20972,
+              27.623344
+            ],
+            [
+              -115.204579,
+              27.617233
+            ],
+            [
+              -115.1991,
+              27.611216
+            ],
+            [
+              -115.19151,
+              27.601189
+            ],
+            [
+              -115.187248,
+              27.596082
+            ],
+            [
+              -115.182806,
+              27.591098
+            ],
+            [
+              -115.177246,
+              27.585286
+            ],
+            [
+              -115.172426,
+              27.58059
+            ],
+            [
+              -115.167442,
+              27.576032
+            ],
+            [
+              -115.161251,
+              27.570752
+            ],
+            [
+              -115.15375,
+              27.564862
+            ],
+            [
+              -115.147092,
+              27.560054
+            ],
+            [
+              -115.139074,
+              27.554734
+            ],
+            [
+              -115.130798,
+              27.549737
+            ],
+            [
+              -115.121048,
+              27.544433
+            ],
+            [
+              -115.109735,
+              27.539
+            ],
+            [
+              -115.099402,
+              27.534661
+            ],
+            [
+              -115.087865,
+              27.530467
+            ],
+            [
+              -115.081174,
+              27.525053
+            ],
+            [
+              -115.074611,
+              27.520146
+            ],
+            [
+              -115.066696,
+              27.514707
+            ],
+            [
+              -115.059703,
+              27.510298
+            ],
+            [
+              -115.052527,
+              27.50613
+            ],
+            [
+              -115.045178,
+              27.502207
+            ],
+            [
+              -115.026646,
+              27.493304
+            ],
+            [
+              -115.014871,
+              27.481475
+            ],
+            [
+              -115.006956,
+              27.474138
+            ],
+            [
+              -115,
+              27.468312078346553
+            ],
+            [
+              -115,
+              28
+            ],
+            [
+              -115.57043651865848,
+              28
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1739 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192830,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cameroon",
+        "local_name": "Cameroun",
+        "name_en": "Cameroon",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+          "name": "Cameroun",
+          "name:af": "Kameroen",
+          "name:am": "ካሜሩን",
+          "name:an": "Camerún",
+          "name:ar": "الكاميرون",
+          "name:az": "Kamerun",
+          "name:ba": "Камерун",
+          "name:be": "Камерун",
+          "name:bg": "Камерун",
+          "name:bm": "Kamerun",
+          "name:bn": "ক্যামেরুন",
+          "name:bo": "ཁམ་མུ་རོན།",
+          "name:br": "Kameroun",
+          "name:bs": "Kamerun",
+          "name:ca": "Camerun",
+          "name:cs": "Kamerun",
+          "name:cv": "Камерун",
+          "name:cy": "Camerŵn",
+          "name:da": "Cameroun",
+          "name:de": "Kamerun",
+          "name:dv": "ކެމަރޫން",
+          "name:ee": "Cameroon",
+          "name:el": "Καμερούν",
+          "name:en": "Cameroon",
+          "name:eo": "Kameruno",
+          "name:es": "Camerún",
+          "name:et": "Kamerun",
+          "name:eu": "Kamerun",
+          "name:fa": "کامرون",
+          "name:ff": "Kamerun",
+          "name:fi": "Kamerun",
+          "name:fo": "Kamerun",
+          "name:fr": "Cameroun",
+          "name:fy": "Kameroen",
+          "name:ga": "Camarún",
+          "name:gd": "Camarun",
+          "name:gl": "Camerún",
+          "name:gn": "Kamerũ",
+          "name:gv": "Cameroon",
+          "name:ha": "Kameru",
+          "name:he": "קמרון",
+          "name:hi": "कैमरुन",
+          "name:hr": "Kamerun",
+          "name:ht": "Kamewoun",
+          "name:hu": "Kamerun",
+          "name:hy": "Կամերուն",
+          "name:ia": "Camerun",
+          "name:id": "Kamerun",
+          "name:ie": "Cameroon",
+          "name:ig": "Kameroon",
+          "name:io": "Kamerun",
+          "name:is": "Kamerún",
+          "name:it": "Camerun",
+          "name:ja": "カメルーン",
+          "name:jv": "Kamerun",
+          "name:ka": "კამერუნი",
+          "name:kg": "Kamerun",
+          "name:ki": "Cameroon",
+          "name:kk": "Камерун",
+          "name:kn": "ಕ್ಯಾಮರೂನ್",
+          "name:ko": "카메룬",
+          "name:ks": "کیٚمِروٗن",
+          "name:ku": "Kamerûn",
+          "name:kw": "Kameroun",
+          "name:la": "Cameronia",
+          "name:lb": "Kamerun",
+          "name:li": "Kameroen",
+          "name:ln": "Kamerun",
+          "name:lt": "Kamerūnas",
+          "name:lv": "Kamerūna",
+          "name:mi": "Kamarūna",
+          "name:mk": "Камерун",
+          "name:ml": "കാമറൂൺ",
+          "name:mn": "Камерун",
+          "name:mr": "कामेरून",
+          "name:ms": "Cameroon",
+          "name:mt": "Kamerun",
+          "name:my": "ကင်မရွန်းနိုင်ငံ",
+          "name:na": "Kamerun",
+          "name:ne": "क्यामेरून",
+          "name:nl": "Kameroen",
+          "name:nn": "Kamerun",
+          "name:no": "Kamerun",
+          "name:nv": "Táłtłʼááh Chʼosh Daadánígíí Bitooh",
+          "name:oc": "Cameron",
+          "name:or": "କାମେରୁନ",
+          "name:os": "Камерун",
+          "name:pa": "ਕੈਮਰੂਨ",
+          "name:pl": "Kamerun",
+          "name:ps": "کامرون",
+          "name:pt": "Camarões",
+          "name:qu": "Kamirun",
+          "name:rm": "Camerun",
+          "name:ro": "Camerun",
+          "name:ru": "Камерун",
+          "name:rw": "Kameruni",
+          "name:sa": "केमेरून",
+          "name:sc": "Camerùn",
+          "name:se": "Kamerun",
+          "name:sg": "Kamerün",
+          "name:sh": "Kamerun",
+          "name:sk": "Kamerun",
+          "name:sl": "Kamerun",
+          "name:sn": "Cameroon",
+          "name:so": "Kamiruun",
+          "name:sq": "Kameruni",
+          "name:sr": "Камерун",
+          "name:ss": "IKhameruni",
+          "name:su": "Kamerun",
+          "name:sv": "Kamerun",
+          "name:sw": "Kamerun",
+          "name:ta": "கமரூன்",
+          "name:te": "కామెరూన్",
+          "name:tg": "Камерун",
+          "name:th": "ประเทศแคเมอรูน",
+          "name:tk": "Kamerun",
+          "name:tl": "Kamerun",
+          "name:tr": "Kamerun",
+          "name:ts": "Cameroon",
+          "name:tt": "Камерун",
+          "name:ug": "كامېرۇن",
+          "name:uk": "Камерун",
+          "name:ur": "کیمرون",
+          "name:uz": "Kamerun",
+          "name:vi": "Cameroon",
+          "name:vo": "Kamerunän",
+          "name:wo": "Kamerun",
+          "name:yi": "קאמערון",
+          "name:yo": "Kamẹrúùn",
+          "name:zh": "喀麦隆 / 喀麥隆",
+          "name:zu": "IKamerooni",
+          "boundary": "administrative",
+          "currency": "XAF",
+          "name:als": "Kamerun",
+          "name:ang": "Camerun",
+          "name:arc": "ܩܐܡܪܘܢ",
+          "name:arz": "الكاميرون",
+          "name:ast": "Camerún",
+          "name:azb": "کامرون",
+          "name:bar": "Kamerun",
+          "name:bcl": "Kameron",
+          "name:bjn": "Kamerun",
+          "name:bpy": "ক্যামেরুন",
+          "name:bxr": "Камерун",
+          "name:ceb": "Kamerun",
+          "name:ckb": "کامیروون",
+          "name:crh": "Kamerun",
+          "name:din": "Kameröön",
+          "name:diq": "Kamerun",
+          "name:dsb": "Kamerun",
+          "name:ext": "Camerún",
+          "name:frp": "Cameron",
+          "name:gag": "Kamerun",
+          "name:grc": "Καμεροῦνον",
+          "name:hif": "Cameroon",
+          "name:hsb": "Kamerun",
+          "name:ilo": "Kamerun",
+          "name:jbo": "kamerun",
+          "name:kaa": "Kamerun",
+          "name:kab": "Kamirun",
+          "name:lad": "Kamerun",
+          "name:lij": "Camerun",
+          "name:lmo": "Camerun",
+          "name:min": "Kamerun",
+          "name:mrj": "Камерун",
+          "name:mzn": "کامرون",
+          "name:nah": "Camerun",
+          "name:nan": "Cameroon",
+          "name:nds": "Kamerun",
+          "name:new": "क्यामेरून",
+          "name:nov": "Kamerun",
+          "name:nso": "Cameroon",
+          "name:pam": "Cameroon",
+          "name:pih": "Cameroon",
+          "name:pms": "Cameron",
+          "name:pnb": "کیمرون",
+          "name:pnt": "Καμερούν",
+          "name:sah": "Камерун",
+          "name:scn": "Camerun",
+          "name:sco": "Cameroon",
+          "name:smn": "Kamerun",
+          "name:sms": "Kameruun",
+          "name:stq": "Kamerun",
+          "name:syc": "ܩܐܡܪܘܢ",
+          "name:szl": "Kamerun",
+          "name:tzl": "Camerun",
+          "name:vec": "Camerun",
+          "name:vep": "Kamerun",
+          "name:vro": "Kamõrun",
+          "name:war": "Camerun",
+          "name:wuu": "喀麦隆",
+          "name:xal": "Камерудин Орн",
+          "name:yue": "喀麥隆",
+          "timezone": "Africa/Douala",
+          "way_area": "38.7059",
+          "wikidata": "Q1009",
+          "ISO3166-1": "CM",
+          "wikipedia": "fr:Cameroun",
+          "admin_level": "2",
+          "name:simple": "Cameroon",
+          "name:bat-smg": "Kamerūns",
+          "name:roa-rup": "Camerun",
+          "name:zh-Hans": "喀麦隆",
+          "name:zh-Hant": "喀麥隆",
+          "official_name": "République du Cameroun",
+          "name:be-tarask": "Камэрун",
+          "ISO3166-1:alpha2": "CM",
+          "ISO3166-1:alpha3": "CMR",
+          "official_name:ar": "جمهورية الكاميرون",
+          "official_name:cs": "Kamerunská republika",
+          "official_name:de": "Republik Kamerun",
+          "official_name:es": "República de Camerún",
+          "official_name:fa": "جمهوری کامرون",
+          "official_name:fr": "République du Cameroun",
+          "official_name:gn": "Kamerũ Tavakuairetã",
+          "official_name:pt": "República dos Camarões",
+          "official_name:sr": "Република Камерун",
+          "official_name:ur": "جمہوریہ کیمرون",
+          "ISO3166-1:numeric": "120",
+          "official_name:azb": "کامرون جومهوریتی",
+          "official_name:ckb": "کۆماری کامیروون",
+          "official_name:din": "Paankɔc Kameröön"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3822176,
+              4.3475256
+            ],
+            [
+              8.391364,
+              4.3401748
+            ],
+            [
+              8.4030455,
+              4.3320797
+            ],
+            [
+              8.4152737,
+              4.324832
+            ],
+            [
+              8.4279868,
+              4.3184682
+            ],
+            [
+              8.4587283,
+              4.3066776
+            ],
+            [
+              8.4884967,
+              4.2988122
+            ],
+            [
+              8.4954825,
+              4.295935
+            ],
+            [
+              8.5140523,
+              4.2904353
+            ],
+            [
+              8.5378842,
+              4.2854217
+            ],
+            [
+              8.5558662,
+              4.2835879
+            ],
+            [
+              8.5790725,
+              4.2829505
+            ],
+            [
+              8.5966547,
+              4.2836621
+            ],
+            [
+              8.609994,
+              4.2853145
+            ],
+            [
+              8.6184012,
+              4.2847148
+            ],
+            [
+              8.7473387,
+              4.1782282
+            ],
+            [
+              8.748249,
+              4.1767515
+            ],
+            [
+              8.7806836,
+              4.0592487
+            ],
+            [
+              8.7829554,
+              4.04707
+            ],
+            [
+              8.7919165,
+              4.0208896
+            ],
+            [
+              8.802119558032699,
+              4
+            ],
+            [
+              9,
+              4
+            ],
+            [
+              9,
+              5
+            ],
+            [
+              8.683702100622115,
+              5
+            ],
+            [
+              8.6837618,
+              4.9993533
+            ],
+            [
+              8.6870607,
+              4.9978854
+            ],
+            [
+              8.694205,
+              4.9962115
+            ],
+            [
+              8.6959942,
+              4.9936843
+            ],
+            [
+              8.6975839,
+              4.9902688
+            ],
+            [
+              8.6980935,
+              4.9876448
+            ],
+            [
+              8.6979594,
+              4.9864959
+            ],
+            [
+              8.6972405,
+              4.9857317
+            ],
+            [
+              8.695248,
+              4.9850712
+            ],
+            [
+              8.6939992,
+              4.9857096
+            ],
+            [
+              8.6926846,
+              4.9866755
+            ],
+            [
+              8.6916329,
+              4.9863808
+            ],
+            [
+              8.6888887,
+              4.9840562
+            ],
+            [
+              8.6876717,
+              4.9822829
+            ],
+            [
+              8.6869882,
+              4.9824259
+            ],
+            [
+              8.6866328,
+              4.9827565
+            ],
+            [
+              8.6865685,
+              4.9844453
+            ],
+            [
+              8.6862895,
+              4.9848087
+            ],
+            [
+              8.6857745,
+              4.9846376
+            ],
+            [
+              8.6837039,
+              4.982671
+            ],
+            [
+              8.6814612,
+              4.9809622
+            ],
+            [
+              8.6803142,
+              4.979527
+            ],
+            [
+              8.6809599,
+              4.9776314
+            ],
+            [
+              8.6808437,
+              4.9738809
+            ],
+            [
+              8.6789846,
+              4.9720288
+            ],
+            [
+              8.66837,
+              4.9653422
+            ],
+            [
+              8.6670208,
+              4.9636817
+            ],
+            [
+              8.6665606,
+              4.9617955
+            ],
+            [
+              8.6664124,
+              4.9593222
+            ],
+            [
+              8.6672902,
+              4.9573063
+            ],
+            [
+              8.6684484,
+              4.9553112
+            ],
+            [
+              8.669188,
+              4.9543581
+            ],
+            [
+              8.6693126,
+              4.9536026
+            ],
+            [
+              8.6692711,
+              4.952833
+            ],
+            [
+              8.667451,
+              4.950799
+            ],
+            [
+              8.6648373,
+              4.9497875
+            ],
+            [
+              8.6640896,
+              4.9493136
+            ],
+            [
+              8.6632454,
+              4.9485141
+            ],
+            [
+              8.6619416,
+              4.9464699
+            ],
+            [
+              8.6598676,
+              4.9445076
+            ],
+            [
+              8.6577606,
+              4.944363
+            ],
+            [
+              8.6560883,
+              4.9450742
+            ],
+            [
+              8.6544196,
+              4.9463139
+            ],
+            [
+              8.6531818,
+              4.9466709
+            ],
+            [
+              8.6523771,
+              4.9465854
+            ],
+            [
+              8.6519126,
+              4.9463591
+            ],
+            [
+              8.6514528,
+              4.9457816
+            ],
+            [
+              8.6512104,
+              4.9437713
+            ],
+            [
+              8.6507413,
+              4.9428406
+            ],
+            [
+              8.649942,
+              4.9419501
+            ],
+            [
+              8.6485369,
+              4.9387887
+            ],
+            [
+              8.6485233,
+              4.9369733
+            ],
+            [
+              8.6488724,
+              4.9353842
+            ],
+            [
+              8.6530652,
+              4.926035
+            ],
+            [
+              8.6535978,
+              4.9208486
+            ],
+            [
+              8.6529474,
+              4.9175087
+            ],
+            [
+              8.6516008,
+              4.9150875
+            ],
+            [
+              8.6501,
+              4.9132672
+            ],
+            [
+              8.6459262,
+              4.9100998
+            ],
+            [
+              8.6399235,
+              4.9082074
+            ],
+            [
+              8.6275242,
+              4.9086481
+            ],
+            [
+              8.6240228,
+              4.9077161
+            ],
+            [
+              8.6202485,
+              4.9057923
+            ],
+            [
+              8.6163446,
+              4.9004778
+            ],
+            [
+              8.6149071,
+              4.8977343
+            ],
+            [
+              8.6123849,
+              4.8920599
+            ],
+            [
+              8.6115204,
+              4.8908661
+            ],
+            [
+              8.6062852,
+              4.8864183
+            ],
+            [
+              8.6054896,
+              4.8855791
+            ],
+            [
+              8.6039876,
+              4.8825031
+            ],
+            [
+              8.6037396,
+              4.8816859
+            ],
+            [
+              8.6035399,
+              4.8744936
+            ],
+            [
+              8.604467,
+              4.869504
+            ],
+            [
+              8.6067181,
+              4.8642689
+            ],
+            [
+              8.6106683,
+              4.8594212
+            ],
+            [
+              8.6171484,
+              4.8555639
+            ],
+            [
+              8.6258896,
+              4.8465362
+            ],
+            [
+              8.6297381,
+              4.8364869
+            ],
+            [
+              8.6306148,
+              4.8289027
+            ],
+            [
+              8.6291346,
+              4.8245839
+            ],
+            [
+              8.6252706,
+              4.8213379
+            ],
+            [
+              8.6167364,
+              4.8178876
+            ],
+            [
+              8.6041579,
+              4.8091119
+            ],
+            [
+              8.5941315,
+              4.8038354
+            ],
+            [
+              8.5894762,
+              4.8025151
+            ],
+            [
+              8.5854127,
+              4.8019477
+            ],
+            [
+              8.5813357,
+              4.8019263
+            ],
+            [
+              8.5756924,
+              4.8028671
+            ],
+            [
+              8.5735466,
+              4.8028457
+            ],
+            [
+              8.570564,
+              4.8024181
+            ],
+            [
+              8.5649421,
+              4.8001943
+            ],
+            [
+              8.5628392,
+              4.7988686
+            ],
+            [
+              8.561187,
+              4.798163
+            ],
+            [
+              8.559921,
+              4.7978423
+            ],
+            [
+              8.5582473,
+              4.7978209
+            ],
+            [
+              8.5572173,
+              4.7981844
+            ],
+            [
+              8.5527327,
+              4.8006647
+            ],
+            [
+              8.551059,
+              4.8014345
+            ],
+            [
+              8.5478403,
+              4.8017552
+            ],
+            [
+              8.54548,
+              4.8014131
+            ],
+            [
+              8.5440852,
+              4.8006434
+            ],
+            [
+              8.5423257,
+              4.7989755
+            ],
+            [
+              8.5397014,
+              4.7955255
+            ],
+            [
+              8.5379269,
+              4.792069
+            ],
+            [
+              8.5344078,
+              4.7827461
+            ],
+            [
+              8.5293438,
+              4.7721828
+            ],
+            [
+              8.5283567,
+              4.7674998
+            ],
+            [
+              8.5261251,
+              4.7464368
+            ],
+            [
+              8.5263183,
+              4.7414543
+            ],
+            [
+              8.5265972,
+              4.7386316
+            ],
+            [
+              8.5276057,
+              4.7352956
+            ],
+            [
+              8.5366179,
+              4.7198559
+            ],
+            [
+              8.5389997,
+              4.7147235
+            ],
+            [
+              8.5402494,
+              4.7116295
+            ],
+            [
+              8.5406571,
+              4.7077374
+            ],
+            [
+              8.5393696,
+              4.7029043
+            ],
+            [
+              8.5340052,
+              4.6975152
+            ],
+            [
+              8.5305949,
+              4.6934515
+            ],
+            [
+              8.5122222,
+              4.6744444
+            ],
+            [
+              8.5,
+              4.6666667
+            ],
+            [
+              8.4805556,
+              4.65
+            ],
+            [
+              8.4644444,
+              4.6333333
+            ],
+            [
+              8.4525,
+              4.6166667
+            ],
+            [
+              8.4341667,
+              4.5833333
+            ],
+            [
+              8.4283333,
+              4.5716667
+            ],
+            [
+              8.4263889,
+              4.5666667
+            ],
+            [
+              8.4188889,
+              4.55
+            ],
+            [
+              8.4075,
+              4.5333333
+            ],
+            [
+              8.4105556,
+              4.5238889
+            ],
+            [
+              8.4066667,
+              4.525
+            ],
+            [
+              8.4066667,
+              4.5222222
+            ],
+            [
+              8.4027778,
+              4.4422222
+            ],
+            [
+              8.395,
+              4.3911111
+            ],
+            [
+              8.3822176,
+              4.3475256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192787,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Nigeria",
+        "local_name": "Nigeria",
+        "name_en": "Nigeria",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+          "name": "Nigeria",
+          "name:af": "Nigerië",
+          "name:ak": "Nigeria",
+          "name:am": "ናይጄሪያ",
+          "name:an": "Nicheria",
+          "name:ar": "نيجيريا",
+          "name:az": "Nigeriya",
+          "name:ba": "Нигерия",
+          "name:be": "Нігерыя",
+          "name:bg": "Нигерия",
+          "name:bm": "Nijeria",
+          "name:bn": "নাইজেরিয়া",
+          "name:bo": "ནི་ཇི་རི་ཡ།",
+          "name:br": "Nigeria",
+          "name:bs": "Nigerija",
+          "name:ca": "Nigèria",
+          "name:ce": "Нигери",
+          "name:cs": "Nigérie",
+          "name:cv": "Нигери",
+          "name:cy": "Nigeria",
+          "name:da": "Nigeria",
+          "name:de": "Nigeria",
+          "name:dv": "ނައިޖީރިއާ",
+          "name:ee": "Nigeria",
+          "name:el": "Νιγηρία",
+          "name:en": "Nigeria",
+          "name:eo": "Niĝerio",
+          "name:es": "Nigeria",
+          "name:et": "Nigeeria",
+          "name:eu": "Nigeria",
+          "name:fa": "نیجریه",
+          "name:ff": "Niiseriya",
+          "name:fi": "Nigeria",
+          "name:fo": "Nigeria",
+          "name:fr": "Nigéria",
+          "name:fy": "Nigearia",
+          "name:ga": "An Nigéir",
+          "name:gd": "Nìgeiria",
+          "name:gl": "Nixeria",
+          "name:gn": "Niheria",
+          "name:gu": "નાઈજેરિયા",
+          "name:gv": "Yn Naigeer",
+          "name:ha": "Nijeriya",
+          "name:he": "ניגריה",
+          "name:hi": "नाईजीरिया",
+          "name:hr": "Nigerija",
+          "name:ht": "Nijerya",
+          "name:hu": "Nigéria",
+          "name:hy": "Նիգերիա",
+          "name:ia": "Nigeria",
+          "name:id": "Nigeria",
+          "name:ie": "Nigeria",
+          "name:ig": "Naigeria",
+          "name:io": "Nigeria",
+          "name:is": "Nígería",
+          "name:it": "Nigeria",
+          "name:ja": "ナイジェリア",
+          "name:jv": "Nigeria",
+          "name:ka": "ნიგერია",
+          "name:kg": "Nizeria",
+          "name:kk": "Нигерия",
+          "name:kn": "ನೈಜೀರಿಯ",
+          "name:ko": "나이지리아",
+          "name:ks": "نایجیرِیا",
+          "name:ku": "Nîjerya",
+          "name:kw": "Nijeri",
+          "name:la": "Nigeria",
+          "name:lb": "Nigeria",
+          "name:li": "Nigeria",
+          "name:ln": "Nizeria",
+          "name:lt": "Nigerija",
+          "name:lv": "Nigērija",
+          "name:mg": "Nizeria",
+          "name:mi": "Ngāitiria",
+          "name:mk": "Нигерија",
+          "name:ml": "നൈജീരിയ",
+          "name:mn": "Нигери",
+          "name:mr": "नायजेरिया",
+          "name:ms": "Nigeria",
+          "name:mt": "Niġerja",
+          "name:my": "နိုင်ဂျီးရီးယားနိုင်ငံ",
+          "name:ne": "नाइजेरिया",
+          "name:nl": "Nigeria",
+          "name:nn": "Nigeria",
+          "name:no": "Nigeria",
+          "name:oc": "Nigèria",
+          "name:or": "ନାଇଜେରିଆ",
+          "name:os": "Нигери",
+          "name:pa": "ਨਾਈਜੀਰੀਆ",
+          "name:pl": "Nigeria",
+          "name:ps": "نايجېريا",
+          "name:pt": "Nigéria",
+          "name:qu": "Niqirya",
+          "name:ro": "Nigeria",
+          "name:ru": "Нигерия",
+          "name:rw": "Nijeriya",
+          "name:sa": "नैजीरिया",
+          "name:sc": "Nigéria",
+          "name:se": "Nigeria",
+          "name:sg": "Nizerïa",
+          "name:sh": "Nigerija",
+          "name:sk": "Nigéria",
+          "name:sl": "Nigerija",
+          "name:sn": "Nigeria",
+          "name:so": "Nayjeeriya",
+          "name:sq": "Nigeria",
+          "name:sr": "Нигерија",
+          "name:ss": "INayijeriya",
+          "name:su": "Nigeria",
+          "name:sv": "Nigeria",
+          "name:sw": "Nigeria",
+          "name:ta": "நைஜீரியா",
+          "name:te": "నైజీరియా",
+          "name:tg": "Ниҷерия",
+          "name:th": "ประเทศไนจีเรีย",
+          "name:ti": "ናይጂሪያ",
+          "name:tk": "Nigeriýa",
+          "name:tl": "Nigerya",
+          "name:tr": "Nijerya",
+          "name:ts": "Nigeria",
+          "name:tt": "Нигерия",
+          "name:ug": "نىگېرىيە",
+          "name:uk": "Нігерія",
+          "name:ur": "نائجیریا",
+          "name:uz": "Nigeriya",
+          "name:vi": "Nigeria",
+          "name:vo": "Nigeriyän",
+          "name:wa": "Nidjeria",
+          "name:xh": "INigeria",
+          "name:yi": "ניגעריע",
+          "name:yo": "Nàìjíríà",
+          "name:za": "Nizywlihya",
+          "name:zh": "尼日利亚 / 奈及利亞",
+          "name:zu": "INigeria",
+          "boundary": "administrative",
+          "name:als": "Nigeria",
+          "name:ang": "Nigeria",
+          "name:arz": "نايجيريا",
+          "name:ast": "Nixeria",
+          "name:bar": "Nigeria",
+          "name:bcl": "Nigerya",
+          "name:bjn": "Nigeria",
+          "name:bpy": "নাইজেরিয়া",
+          "name:bxr": "Нигери",
+          "name:ceb": "Nigeria",
+          "name:ckb": "نێجیریا",
+          "name:crh": "Nigeriya",
+          "name:din": "Naijeria",
+          "name:diq": "Nicerya",
+          "name:dsb": "Nigerija",
+          "name:ext": "Nigéria",
+          "name:frp": "Nig·èria",
+          "name:gag": "Nigeriya",
+          "name:gan": "尼日利亞",
+          "name:hak": "Nai-khi̍p-li-â",
+          "name:hif": "Nigeria",
+          "name:hsb": "Nigerija",
+          "name:ilo": "Nigeria",
+          "name:jbo": "gugdrnaidjiria",
+          "name:lad": "Nijeria",
+          "name:lez": "Нигерия",
+          "name:lij": "Nigeria",
+          "name:lmo": "Nigeria",
+          "name:ltg": "Nigereja",
+          "name:lzh": "尼日利亞",
+          "name:mrj": "Нигери",
+          "name:nah": "Nigeria",
+          "name:nan": "Nigeria",
+          "name:nds": "Nigeria",
+          "name:nov": "Nigeria",
+          "name:nso": "Nigeria",
+          "name:pam": "Nigeria",
+          "name:pap": "Nigeria",
+          "name:pih": "Niijiirya",
+          "name:pms": "Nigeria",
+          "name:pnb": "نائیجیریا",
+          "name:rue": "Ніґерія",
+          "name:sah": "Нигерия",
+          "name:scn": "Nigeria",
+          "name:sco": "Nigerie",
+          "name:smn": "Nigeria",
+          "name:sms": "Nigeria",
+          "name:stq": "Nigeria",
+          "name:szl": "Ńigeryjo",
+          "name:tpi": "Naijiria",
+          "name:tzl": "Nigeria",
+          "name:vec": "Nigeria",
+          "name:vro": "Nigeeriä",
+          "name:war": "Nigerya",
+          "name:wuu": "尼日利亚",
+          "name:xal": "Нигермудин Ниицәтә Орн",
+          "name:yue": "尼日利亞",
+          "timezone": "Africa/Lagos",
+          "way_area": "76.459",
+          "wikidata": "Q1033",
+          "ISO3166-1": "NG",
+          "wikipedia": "en:Nigeria",
+          "admin_level": "2",
+          "name:simple": "Nigeria",
+          "name:bat-smg": "Nigerėjė",
+          "name:zh-Hans": "尼日利亚",
+          "name:zh-Hant": "奈及利亞",
+          "name:roa-tara": "Nigerie",
+          "name:be-tarask": "Нігерыя",
+          "ISO3166-1:alpha2": "NG",
+          "ISO3166-1:alpha3": "NGA",
+          "default_language": "en",
+          "official_name:ar": "جمهورية نيجيريا الاتحادية",
+          "official_name:cs": "Nigerijská federativní republika",
+          "official_name:en": "Federal Republic of Nigeria",
+          "official_name:fa": "جمهوری فدرال نیجریه",
+          "ISO3166-1:numeric": "566"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              4.338806469485086
+            ],
+            [
+              8.0475694,
+              4.3432198
+            ],
+            [
+              8.0674231,
+              4.3435476
+            ],
+            [
+              8.0793237,
+              4.34447
+            ],
+            [
+              8.0836334,
+              4.3440363
+            ],
+            [
+              8.0892235,
+              4.3447985
+            ],
+            [
+              8.1440911,
+              4.3446106
+            ],
+            [
+              8.1630852,
+              4.345702
+            ],
+            [
+              8.1863182,
+              4.3443619
+            ],
+            [
+              8.2150295,
+              4.3389109
+            ],
+            [
+              8.2400841,
+              4.3353373
+            ],
+            [
+              8.2562387,
+              4.3340496
+            ],
+            [
+              8.2752361,
+              4.3339462
+            ],
+            [
+              8.2919716,
+              4.3349958
+            ],
+            [
+              8.3108257,
+              4.3374793
+            ],
+            [
+              8.3359236,
+              4.343482
+            ],
+            [
+              8.3546106,
+              4.349924
+            ],
+            [
+              8.3669918,
+              4.3553895
+            ],
+            [
+              8.3789745,
+              4.3616767
+            ],
+            [
+              8.388005,
+              4.3672597
+            ],
+            [
+              8.395,
+              4.3911111
+            ],
+            [
+              8.4027778,
+              4.4422222
+            ],
+            [
+              8.4066667,
+              4.5222222
+            ],
+            [
+              8.4066667,
+              4.525
+            ],
+            [
+              8.4105556,
+              4.5238889
+            ],
+            [
+              8.4075,
+              4.5333333
+            ],
+            [
+              8.4188889,
+              4.55
+            ],
+            [
+              8.4263889,
+              4.5666667
+            ],
+            [
+              8.4283333,
+              4.5716667
+            ],
+            [
+              8.4341667,
+              4.5833333
+            ],
+            [
+              8.4525,
+              4.6166667
+            ],
+            [
+              8.4644444,
+              4.6333333
+            ],
+            [
+              8.4805556,
+              4.65
+            ],
+            [
+              8.5,
+              4.6666667
+            ],
+            [
+              8.5122222,
+              4.6744444
+            ],
+            [
+              8.5305949,
+              4.6934515
+            ],
+            [
+              8.5340052,
+              4.6975152
+            ],
+            [
+              8.5393696,
+              4.7029043
+            ],
+            [
+              8.5406571,
+              4.7077374
+            ],
+            [
+              8.5402494,
+              4.7116295
+            ],
+            [
+              8.5389997,
+              4.7147235
+            ],
+            [
+              8.5366179,
+              4.7198559
+            ],
+            [
+              8.5276057,
+              4.7352956
+            ],
+            [
+              8.5265972,
+              4.7386316
+            ],
+            [
+              8.5263183,
+              4.7414543
+            ],
+            [
+              8.5261251,
+              4.7464368
+            ],
+            [
+              8.5283567,
+              4.7674998
+            ],
+            [
+              8.5293438,
+              4.7721828
+            ],
+            [
+              8.5344078,
+              4.7827461
+            ],
+            [
+              8.5379269,
+              4.792069
+            ],
+            [
+              8.5397014,
+              4.7955255
+            ],
+            [
+              8.5423257,
+              4.7989755
+            ],
+            [
+              8.5440852,
+              4.8006434
+            ],
+            [
+              8.54548,
+              4.8014131
+            ],
+            [
+              8.5478403,
+              4.8017552
+            ],
+            [
+              8.551059,
+              4.8014345
+            ],
+            [
+              8.5527327,
+              4.8006647
+            ],
+            [
+              8.5572173,
+              4.7981844
+            ],
+            [
+              8.5582473,
+              4.7978209
+            ],
+            [
+              8.559921,
+              4.7978423
+            ],
+            [
+              8.561187,
+              4.798163
+            ],
+            [
+              8.5628392,
+              4.7988686
+            ],
+            [
+              8.5649421,
+              4.8001943
+            ],
+            [
+              8.570564,
+              4.8024181
+            ],
+            [
+              8.5735466,
+              4.8028457
+            ],
+            [
+              8.5756924,
+              4.8028671
+            ],
+            [
+              8.5813357,
+              4.8019263
+            ],
+            [
+              8.5854127,
+              4.8019477
+            ],
+            [
+              8.5894762,
+              4.8025151
+            ],
+            [
+              8.5941315,
+              4.8038354
+            ],
+            [
+              8.6041579,
+              4.8091119
+            ],
+            [
+              8.6167364,
+              4.8178876
+            ],
+            [
+              8.6252706,
+              4.8213379
+            ],
+            [
+              8.6291346,
+              4.8245839
+            ],
+            [
+              8.6306148,
+              4.8289027
+            ],
+            [
+              8.6297381,
+              4.8364869
+            ],
+            [
+              8.6258896,
+              4.8465362
+            ],
+            [
+              8.6171484,
+              4.8555639
+            ],
+            [
+              8.6106683,
+              4.8594212
+            ],
+            [
+              8.6067181,
+              4.8642689
+            ],
+            [
+              8.604467,
+              4.869504
+            ],
+            [
+              8.6035399,
+              4.8744936
+            ],
+            [
+              8.6037396,
+              4.8816859
+            ],
+            [
+              8.6039876,
+              4.8825031
+            ],
+            [
+              8.6054896,
+              4.8855791
+            ],
+            [
+              8.6062852,
+              4.8864183
+            ],
+            [
+              8.6115204,
+              4.8908661
+            ],
+            [
+              8.6123849,
+              4.8920599
+            ],
+            [
+              8.6149071,
+              4.8977343
+            ],
+            [
+              8.6163446,
+              4.9004778
+            ],
+            [
+              8.6202485,
+              4.9057923
+            ],
+            [
+              8.6240228,
+              4.9077161
+            ],
+            [
+              8.6275242,
+              4.9086481
+            ],
+            [
+              8.6399235,
+              4.9082074
+            ],
+            [
+              8.6459262,
+              4.9100998
+            ],
+            [
+              8.6501,
+              4.9132672
+            ],
+            [
+              8.6516008,
+              4.9150875
+            ],
+            [
+              8.6529474,
+              4.9175087
+            ],
+            [
+              8.6535978,
+              4.9208486
+            ],
+            [
+              8.6530652,
+              4.926035
+            ],
+            [
+              8.6488724,
+              4.9353842
+            ],
+            [
+              8.6485233,
+              4.9369733
+            ],
+            [
+              8.6485369,
+              4.9387887
+            ],
+            [
+              8.649942,
+              4.9419501
+            ],
+            [
+              8.6507413,
+              4.9428406
+            ],
+            [
+              8.6512104,
+              4.9437713
+            ],
+            [
+              8.6514528,
+              4.9457816
+            ],
+            [
+              8.6519126,
+              4.9463591
+            ],
+            [
+              8.6523771,
+              4.9465854
+            ],
+            [
+              8.6531818,
+              4.9466709
+            ],
+            [
+              8.6544196,
+              4.9463139
+            ],
+            [
+              8.6560883,
+              4.9450742
+            ],
+            [
+              8.6577606,
+              4.944363
+            ],
+            [
+              8.6598676,
+              4.9445076
+            ],
+            [
+              8.6619416,
+              4.9464699
+            ],
+            [
+              8.6632454,
+              4.9485141
+            ],
+            [
+              8.6640896,
+              4.9493136
+            ],
+            [
+              8.6648373,
+              4.9497875
+            ],
+            [
+              8.667451,
+              4.950799
+            ],
+            [
+              8.6692711,
+              4.952833
+            ],
+            [
+              8.6693126,
+              4.9536026
+            ],
+            [
+              8.669188,
+              4.9543581
+            ],
+            [
+              8.6684484,
+              4.9553112
+            ],
+            [
+              8.6672902,
+              4.9573063
+            ],
+            [
+              8.6664124,
+              4.9593222
+            ],
+            [
+              8.6665606,
+              4.9617955
+            ],
+            [
+              8.6670208,
+              4.9636817
+            ],
+            [
+              8.66837,
+              4.9653422
+            ],
+            [
+              8.6789846,
+              4.9720288
+            ],
+            [
+              8.6808437,
+              4.9738809
+            ],
+            [
+              8.6809599,
+              4.9776314
+            ],
+            [
+              8.6803142,
+              4.979527
+            ],
+            [
+              8.6814612,
+              4.9809622
+            ],
+            [
+              8.6837039,
+              4.982671
+            ],
+            [
+              8.6857745,
+              4.9846376
+            ],
+            [
+              8.6862895,
+              4.9848087
+            ],
+            [
+              8.6865685,
+              4.9844453
+            ],
+            [
+              8.6866328,
+              4.9827565
+            ],
+            [
+              8.6869882,
+              4.9824259
+            ],
+            [
+              8.6876717,
+              4.9822829
+            ],
+            [
+              8.6888887,
+              4.9840562
+            ],
+            [
+              8.6916329,
+              4.9863808
+            ],
+            [
+              8.6926846,
+              4.9866755
+            ],
+            [
+              8.6939992,
+              4.9857096
+            ],
+            [
+              8.695248,
+              4.9850712
+            ],
+            [
+              8.6972405,
+              4.9857317
+            ],
+            [
+              8.6979594,
+              4.9864959
+            ],
+            [
+              8.6980935,
+              4.9876448
+            ],
+            [
+              8.6975839,
+              4.9902688
+            ],
+            [
+              8.6959942,
+              4.9936843
+            ],
+            [
+              8.694205,
+              4.9962115
+            ],
+            [
+              8.6870607,
+              4.9978854
+            ],
+            [
+              8.6837618,
+              4.9993533
+            ],
+            [
+              8.683702100622115,
+              5
+            ],
+            [
+              8,
+              5
+            ],
+            [
+              8,
+              4.338806469485086
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

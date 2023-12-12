@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -287082,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Suriname",
+        "local_name": "Suriname",
+        "name_en": "Suriname",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+          "name": "Suriname",
+          "name:af": "Suriname",
+          "name:am": "ሱሪናም",
+          "name:an": "Surinam",
+          "name:ar": "سورينام",
+          "name:ay": "Suriname",
+          "name:az": "Surinam",
+          "name:ba": "Суринам",
+          "name:be": "Сурынам",
+          "name:bg": "Суринам",
+          "name:bn": "সুরিনাম",
+          "name:bo": "སུ་རི་ནེམ།",
+          "name:br": "Surinam",
+          "name:bs": "Surinam",
+          "name:ca": "Surinam",
+          "name:ce": "Суринам",
+          "name:cs": "Surinam",
+          "name:cv": "Суринам",
+          "name:cy": "Suriname",
+          "name:da": "Surinam",
+          "name:de": "Suriname",
+          "name:dv": "ސުރިނާމް",
+          "name:ee": "Suriname",
+          "name:el": "Σουρινάμ",
+          "name:en": "Suriname",
+          "name:eo": "Surinamo",
+          "name:es": "Surinam",
+          "name:et": "Suriname",
+          "name:eu": "Surinam",
+          "name:fa": "سورینام",
+          "name:fi": "Suriname",
+          "name:fo": "Surinam",
+          "name:fr": "Suriname",
+          "name:fy": "Suriname",
+          "name:ga": "Suranam",
+          "name:gd": "Suranam",
+          "name:gl": "Suriname",
+          "name:gn": "Surinam",
+          "name:gu": "સુરીનામ",
+          "name:gv": "Yn Toorinam",
+          "name:he": "סורינאם",
+          "name:hi": "सूरीनाम",
+          "name:hr": "Surinam",
+          "name:ht": "Sirinam",
+          "name:hu": "Suriname",
+          "name:hy": "Սուրինամ",
+          "name:id": "Suriname",
+          "name:ie": "Surinam",
+          "name:io": "Surinam",
+          "name:is": "Súrínam",
+          "name:it": "Suriname",
+          "name:ja": "スリナム",
+          "name:jv": "Suriname",
+          "name:ka": "სურინამი",
+          "name:kk": "Суринам",
+          "name:kl": "Suriname",
+          "name:kn": "ಸುರಿನಾಮ್",
+          "name:ko": "수리남",
+          "name:ku": "Sûrînam",
+          "name:kw": "Surinam",
+          "name:la": "Surinamia",
+          "name:lb": "Surinam",
+          "name:li": "Suriname",
+          "name:ln": "Suriname",
+          "name:lt": "Surinamas",
+          "name:lv": "Surinama",
+          "name:mi": "Hurināme",
+          "name:mk": "Суринам",
+          "name:ml": "സുരിനാം",
+          "name:mn": "Суринам",
+          "name:mr": "सुरिनाम",
+          "name:ms": "Suriname",
+          "name:mt": "Surinam",
+          "name:my": "ဆူရာနမ်နိုင်ငံ",
+          "name:nb": "Surinam",
+          "name:nl": "Suriname",
+          "name:nn": "Surinam",
+          "name:no": "Surinam",
+          "name:nv": "Sówinam",
+          "name:oc": "Surinam",
+          "name:or": "ସରିନମ",
+          "name:os": "Суринам",
+          "name:pa": "ਸੂਰੀਨਾਮ",
+          "name:pl": "Surinam",
+          "name:ps": "سورينام",
+          "name:pt": "Suriname",
+          "name:qu": "Surinam",
+          "name:rm": "Suriname",
+          "name:ro": "Surinam",
+          "name:ru": "Суринам",
+          "name:rw": "Surinamu",
+          "name:se": "Suriname",
+          "name:sh": "Surinam",
+          "name:sk": "Surinam",
+          "name:sl": "Surinam",
+          "name:so": "Surinam",
+          "name:sq": "Surinami",
+          "name:sr": "Суринам",
+          "name:su": "Suriname",
+          "name:sv": "Surinam",
+          "name:sw": "Surinam",
+          "name:ta": "சுரிநாம்",
+          "name:te": "సురినామ్",
+          "name:th": "ประเทศซูรินาม",
+          "name:tl": "Surinam",
+          "name:tr": "Surinam",
+          "name:tt": "Суринам",
+          "name:ug": "سۇرىنام",
+          "name:uk": "Суринам",
+          "name:ur": "سرینام",
+          "name:uz": "Surinam",
+          "name:vi": "Suriname",
+          "name:vo": "Surinän",
+          "name:wo": "Surinaam",
+          "name:yi": "סורינאם",
+          "name:yo": "Sùrìnámù",
+          "name:zh": "苏里南 / 蘇利南 / 蘇里南",
+          "boundary": "administrative",
+          "name:ace": "Suriname",
+          "name:als": "Suriname",
+          "name:arz": "سورينام",
+          "name:ast": "Surinam",
+          "name:bcl": "Surinam",
+          "name:bpy": "সুরিনাম",
+          "name:ceb": "Surinam",
+          "name:ckb": "سورینام",
+          "name:crh": "Surinam",
+          "name:diq": "Surinam",
+          "name:dsb": "Surinam",
+          "name:ext": "Surinam",
+          "name:frp": "Suriname",
+          "name:frr": "Suurinam",
+          "name:gag": "Surinam",
+          "name:hak": "Sû-li-nàm",
+          "name:hif": "Suriname",
+          "name:hsb": "Surinamska",
+          "name:ilo": "Surinam",
+          "name:jbo": "surinam",
+          "name:lij": "Suriname",
+          "name:lmo": "Suriname",
+          "name:ltg": "Surinams",
+          "name:mdf": "Суринам",
+          "name:mhr": "Суринам",
+          "name:mrj": "Суринам",
+          "name:nah": "Surinam",
+          "name:nan": "Suriname",
+          "name:nds": "Surinam",
+          "name:nov": "Suriname",
+          "name:pam": "Surinam",
+          "name:pap": "Suriname",
+          "name:pdc": "Surinaem",
+          "name:pms": "Suriname",
+          "name:pnb": "سورینام",
+          "name:sah": "Суринам",
+          "name:scn": "Surinami",
+          "name:sco": "Suriname",
+          "name:smn": "Suriname",
+          "name:sms": "Surinaam",
+          "name:srn": "Sranan",
+          "name:tet": "Suriname",
+          "name:tzl": "Surinam",
+          "name:vec": "Suriname",
+          "name:vro": "Suriname",
+          "name:war": "Surinam",
+          "name:wuu": "苏里南",
+          "name:xal": "Суринамудин Орн",
+          "name:yue": "蘇里南",
+          "name:zea": "Surinaome",
+          "timezone": "America/Paramaribo",
+          "way_area": "12.5262",
+          "wikidata": "Q730",
+          "ISO3166-1": "SR",
+          "wikipedia": "en:Suriname",
+          "name:zh-HK": "蘇里南",
+          "name:zh-TW": "蘇利南",
+          "admin_level": "2",
+          "alt_name:de": "Surinam",
+          "border_type": "nation",
+          "name:simple": "Suriname",
+          "driving_side": "left",
+          "name:bat-smg": "Sorėnams",
+          "name:zh-Hans": "苏里南",
+          "name:zh-Hant": "蘇利南 / 蘇里南",
+          "official_name": "Republiek Suriname",
+          "name:be-tarask": "Сурынам",
+          "ISO3166-1:alpha2": "SR",
+          "ISO3166-1:alpha3": "SUR",
+          "default_language": "nl",
+          "official_name:cs": "Surinamská republika",
+          "official_name:en": "Republic of Surinam",
+          "official_name:es": "República de Surinam",
+          "official_name:ru": "Республика Суринам",
+          "ISO3166-1:numeric": "740",
+          "official_name:ckb": "کۆماری سورینام"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -57,
+              6
+            ],
+            [
+              -56,
+              6
+            ],
+            [
+              -56,
+              6.087008196179522
+            ],
+            [
+              -56.0030382,
+              6.085
+            ],
+            [
+              -56.0123502,
+              6.078
+            ],
+            [
+              -56.019519,
+              6.072
+            ],
+            [
+              -56.0260601,
+              6.066
+            ],
+            [
+              -56.0310933,
+              6.061
+            ],
+            [
+              -56.035804,
+              6.056
+            ],
+            [
+              -56.0413772,
+              6.051
+            ],
+            [
+              -56.0475481,
+              6.045
+            ],
+            [
+              -56.0532209,
+              6.039
+            ],
+            [
+              -56.0584504,
+              6.033
+            ],
+            [
+              -56.059091,
+              6.033
+            ],
+            [
+              -56.0668557,
+              6.035
+            ],
+            [
+              -56.0775491,
+              6.039
+            ],
+            [
+              -56.0918671,
+              6.044
+            ],
+            [
+              -56.1013237,
+              6.047
+            ],
+            [
+              -56.1087339,
+              6.049
+            ],
+            [
+              -56.1175828,
+              6.051
+            ],
+            [
+              -56.1244841,
+              6.053
+            ],
+            [
+              -56.1325255,
+              6.055
+            ],
+            [
+              -56.1371837,
+              6.056
+            ],
+            [
+              -56.1483049,
+              6.058
+            ],
+            [
+              -56.1618868,
+              6.06
+            ],
+            [
+              -56.1726332,
+              6.063
+            ],
+            [
+              -56.181488,
+              6.065
+            ],
+            [
+              -56.1867931,
+              6.066
+            ],
+            [
+              -56.1989536,
+              6.068
+            ],
+            [
+              -56.2089171,
+              6.07
+            ],
+            [
+              -56.2152281,
+              6.071
+            ],
+            [
+              -56.2304652,
+              6.073
+            ],
+            [
+              -56.2431445,
+              6.076
+            ],
+            [
+              -56.2509405,
+              6.079
+            ],
+            [
+              -56.2598958,
+              6.082
+            ],
+            [
+              -56.2667975,
+              6.084
+            ],
+            [
+              -56.2748393,
+              6.086
+            ],
+            [
+              -56.2848031,
+              6.088
+            ],
+            [
+              -56.2911143,
+              6.089
+            ],
+            [
+              -56.299215,
+              6.09
+            ],
+            [
+              -56.3108316,
+              6.092
+            ],
+            [
+              -56.3190687,
+              6.093
+            ],
+            [
+              -56.324103,
+              6.094
+            ],
+            [
+              -56.3468499,
+              6.1
+            ],
+            [
+              -56.3557054,
+              6.102
+            ],
+            [
+              -56.3673222,
+              6.104
+            ],
+            [
+              -56.3978176,
+              6.108
+            ],
+            [
+              -56.4155195,
+              6.109
+            ],
+            [
+              -56.42569,
+              6.11
+            ],
+            [
+              -56.4339273,
+              6.111
+            ],
+            [
+              -56.4461398,
+              6.112
+            ],
+            [
+              -56.4543772,
+              6.113
+            ],
+            [
+              -56.4720793,
+              6.114
+            ],
+            [
+              -56.4854429,
+              6.114
+            ],
+            [
+              -56.4922863,
+              6.12
+            ],
+            [
+              -56.4985037,
+              6.125
+            ],
+            [
+              -56.5052685,
+              6.13
+            ],
+            [
+              -56.5111415,
+              6.134
+            ],
+            [
+              -56.5174991,
+              6.138
+            ],
+            [
+              -56.5244363,
+              6.142
+            ],
+            [
+              -56.5320871,
+              6.146
+            ],
+            [
+              -56.5384111,
+              6.149
+            ],
+            [
+              -56.5453745,
+              6.152
+            ],
+            [
+              -56.5531716,
+              6.155
+            ],
+            [
+              -56.5713746,
+              6.161
+            ],
+            [
+              -56.5817534,
+              6.164
+            ],
+            [
+              -56.589315,
+              6.166
+            ],
+            [
+              -56.5982718,
+              6.169
+            ],
+            [
+              -56.6051745,
+              6.171
+            ],
+            [
+              -56.6172885,
+              6.174
+            ],
+            [
+              -56.6272538,
+              6.176
+            ],
+            [
+              -56.6335661,
+              6.177
+            ],
+            [
+              -56.6506634,
+              6.179
+            ],
+            [
+              -56.6569757,
+              6.18
+            ],
+            [
+              -56.6652142,
+              6.181
+            ],
+            [
+              -56.6829185,
+              6.182
+            ],
+            [
+              -56.6923342,
+              6.182
+            ],
+            [
+              -56.7100385,
+              6.181
+            ],
+            [
+              -56.718277,
+              6.18
+            ],
+            [
+              -56.7245893,
+              6.179
+            ],
+            [
+              -56.7345547,
+              6.177
+            ],
+            [
+              -56.7425979,
+              6.175
+            ],
+            [
+              -56.7495007,
+              6.173
+            ],
+            [
+              -56.7592071,
+              6.173
+            ],
+            [
+              -56.7769112,
+              6.174
+            ],
+            [
+              -56.7831902,
+              6.174
+            ],
+            [
+              -56.8008943,
+              6.173
+            ],
+            [
+              -56.8091326,
+              6.172
+            ],
+            [
+              -56.8140386,
+              6.172
+            ],
+            [
+              -56.8231741,
+              6.176
+            ],
+            [
+              -56.8282635,
+              6.178
+            ],
+            [
+              -56.8399286,
+              6.182
+            ],
+            [
+              -56.8468315,
+              6.184
+            ],
+            [
+              -56.8548748,
+              6.186
+            ],
+            [
+              -56.8595342,
+              6.187
+            ],
+            [
+              -56.8711528,
+              6.189
+            ],
+            [
+              -56.8759466,
+              6.19
+            ],
+            [
+              -56.8833658,
+              6.194024
+            ],
+            [
+              -56.8896787,
+              6.1977118
+            ],
+            [
+              -56.8930525,
+              6.1990531
+            ],
+            [
+              -56.8975751,
+              6.2021197
+            ],
+            [
+              -56.903053,
+              6.2043143
+            ],
+            [
+              -56.9083356,
+              6.2071915
+            ],
+            [
+              -56.9176043,
+              6.2116046
+            ],
+            [
+              -56.9343222,
+              6.2142471
+            ],
+            [
+              -56.9410239,
+              6.2150409
+            ],
+            [
+              -56.9480015,
+              6.2156336
+            ],
+            [
+              -56.9563067,
+              6.2160368
+            ],
+            [
+              -56.9639254,
+              6.2160842
+            ],
+            [
+              -56.9718242,
+              6.2158298
+            ],
+            [
+              -56.9808598,
+              6.2152011
+            ],
+            [
+              -56.9858887,
+              6.2146619
+            ],
+            [
+              -56.9991379,
+              6.2126592
+            ],
+            [
+              -57,
+              6.212470059750129
+            ],
+            [
+              -57,
+              6
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4028 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -1252792,
+        "boundary": "land_area",
+        "admin_level": 2,
+        "parents": null,
+        "name": "South Africa (land mass)",
+        "local_name": "South Africa (land mass)",
+        "name_en": "South Africa (land mass)",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+          "name": "South Africa (land mass)",
+          "name:af": "Suid-Afrika",
+          "name:ak": "Afrika Anaafo",
+          "name:am": "ደቡብ አፍሪካ",
+          "name:an": "Sudafrica",
+          "name:ar": "جنوب أفريقيا",
+          "name:az": "Cənub Afrika",
+          "name:be": "Паўднёва-Афрыканская Рэспубліка",
+          "name:bg": "Южна Африка",
+          "name:bm": "Worodugu Afriki",
+          "name:bn": "দক্ষিণ আফ্রিকা",
+          "name:bo": "ལྷོ་ ཨཕྲི་ཀ།",
+          "name:br": "Suafrika",
+          "name:bs": "Južna Afrika",
+          "name:ca": "Sud-àfrica",
+          "name:cs": "Jižní Afrika",
+          "name:cv": "Кăнтăр Африка",
+          "name:cy": "De Affrica",
+          "name:da": "Sydafrika",
+          "name:de": "Südafrika (Landmass)",
+          "name:dv": "ދެކުނު އެފްރިކާ",
+          "name:dz": "སཱའུཐ་ ཨཕ་རི་ཀ",
+          "name:ee": "Anyiehe Afrika nutome",
+          "name:el": "Νότια Αφρική",
+          "name:en": "South Africa (land mass)",
+          "name:eo": "Sudafriko",
+          "name:es": "Sudáfrica",
+          "name:et": "Lõuna-Aafrika",
+          "name:eu": "Hegoafrika",
+          "name:fa": "آفریقای جنوبی",
+          "name:ff": "Afrik bŋ Worgo",
+          "name:fi": "Etelä-Afrikka",
+          "name:fo": "Suðurafrika",
+          "name:fr": "Afrique du Sud (terres)",
+          "name:fy": "Súd-Afrika",
+          "name:ga": "An Afraic Theas",
+          "name:gd": "Afraga a Deas",
+          "name:gl": "Sudáfrica",
+          "name:gn": "Yvyafrika",
+          "name:gu": "દક્ષિણ આફ્રિકા",
+          "name:gv": "Yn Affrick Yiass",
+          "name:ha": "Afirka ta Kudu",
+          "name:he": "דרום אפריקה",
+          "name:hi": "दक्षिण अफ़्रीका",
+          "name:hr": "Južna Afrika",
+          "name:ht": "Afrik disid",
+          "name:hu": "Dél-Afrika",
+          "name:hy": "Հարավային Աֆրիկա",
+          "name:ia": "Africa del Sud",
+          "name:id": "Afrika Selatan",
+          "name:ie": "Sudafrica",
+          "name:io": "Sud-Afrika",
+          "name:is": "Suður-Afríka",
+          "name:it": "Sudafrica",
+          "name:ja": "南アフリカ",
+          "name:jv": "Afrika Kidul",
+          "name:ka": "სამხრეთ აფრიკა",
+          "name:kg": "Afelika ya Sudi",
+          "name:ki": "Abĩrika Kusini",
+          "name:kk": "Оңтүстік Африка",
+          "name:km": "អាព្រិក​ភាគ​ខាង​ត្បូង",
+          "name:kn": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ",
+          "name:ko": "남아프리카",
+          "name:ks": "جَنوٗبی اَفریٖکا",
+          "name:ku": "Afrîkaya Başûr",
+          "name:kv": "Лунвыв Африкаса Республика",
+          "name:kw": "Afrika Dhyhow",
+          "name:ky": "Африкаанс тили",
+          "name:la": "Africa Australis",
+          "name:lb": "Südafrika",
+          "name:lg": "Sawusafirika",
+          "name:li": "Zuud-Afrika",
+          "name:ln": "Sidafríka",
+          "name:lo": "ອາຟະລິກາໃຕ້",
+          "name:lt": "Pietų Afrika",
+          "name:lv": "Dienvidāfrika",
+          "name:mg": "Afrika Atsimo",
+          "name:mi": "Āwherika-ki-te-tonga",
+          "name:mk": "Јужна Африка",
+          "name:ml": "ദക്ഷിണാഫ്രിക്ക",
+          "name:mn": "Өмнөд Африк",
+          "name:mr": "दक्षिण अफ्रिका",
+          "name:ms": "Afrika Selatan",
+          "name:mt": "Afrika t’Isfel",
+          "name:my": "တောင်အာဖရိက",
+          "name:ne": "दक्षिण अफ्रिका",
+          "name:nl": "Zuid-Afrika",
+          "name:nn": "Sør-Afrika",
+          "name:no": "Sør-Afrika",
+          "name:oc": "Sud-Africa",
+          "name:or": "ଦକ୍ଷିଣ ଆଫ୍ରିକା",
+          "name:os": "Хуссар Африкæйы",
+          "name:pa": "ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ",
+          "name:pl": "Republika Południowej Afryki",
+          "name:ps": "سویلي افریقا",
+          "name:pt": "África do Sul",
+          "name:qu": "Urin Aphrika",
+          "name:rm": "Africa dal Sid",
+          "name:rn": "Afurika y'Epfo",
+          "name:ro": "Africa de Sud",
+          "name:ru": "Южная Африка",
+          "name:rw": "Afurika y’Epfo",
+          "name:sa": "दक्षिण-आफ्रिका",
+          "name:sc": "Sudàfrica",
+          "name:se": "Lulli-Afrihká",
+          "name:sg": "Afrîka-Mbongo",
+          "name:sh": "Južna Afrika",
+          "name:si": "දකුණු අප්‍රිකාව",
+          "name:sk": "Južná Afrika",
+          "name:sl": "Južna Afrika",
+          "name:so": "Koonfur Afrika",
+          "name:sq": "Afrika e Jugut",
+          "name:sr": "Јужна Африка",
+          "name:ss": "INingizimu Afrika",
+          "name:st": "Afrika Borwa",
+          "name:su": "Afrika Kidul",
+          "name:sv": "Sydafrika",
+          "name:sw": "Afrika Kusini",
+          "name:ta": "தென் ஆப்பிரிக்கா",
+          "name:te": "దక్షిణ ఆఫ్రికా రాజ్యం",
+          "name:tg": "Африқои Ҷанубӣ",
+          "name:th": "แอฟริกาใต้",
+          "name:ti": "ደቡብ አፍሪካ",
+          "name:tk": "Günorta Afrika",
+          "name:tn": "Aferika Borwa",
+          "name:to": "ʻAfilika tonga",
+          "name:tr": "Güney Afrika",
+          "name:ts": "Afrika-Dzonga",
+          "name:tt": "Көньяк Африка",
+          "name:ug": "جەنۇبىي ئافرىقا",
+          "name:uk": "Південний Африки",
+          "name:ur": "جنوبی افریقہ",
+          "name:uz": "Janubiy Afrika",
+          "name:ve": "Afurika Tshipembe",
+          "name:vi": "Nam Phi",
+          "name:vo": "Sulüdafrikän",
+          "name:wa": "Nonne-Afrike",
+          "name:wo": "Afrig gu Bëj-saalum",
+          "name:xh": "uMzantsi Afrika",
+          "name:yi": "דרום אפריקע",
+          "name:yo": "Gúúsù Áfríkà",
+          "name:zh": "南非",
+          "name:zu": "iNingizimu Afrika",
+          "boundary": "land_area",
+          "int_name": "South Africa",
+          "name:ace": "Afrika Seulatan",
+          "name:als": "Südafrika",
+          "name:ang": "Sūðaffrica",
+          "name:arz": "جنوب افريقيا",
+          "name:ast": "Sudáfrica",
+          "name:bar": "Südafrika",
+          "name:bjn": "Aprika Salatan",
+          "name:bpy": "খা আফ্রিকা",
+          "name:ceb": "Habagatang Aprika",
+          "name:chy": "Mo'hetaneho'e hánêsóvóne",
+          "name:ckb": "ئەفریقای باشوور",
+          "name:crh": "Cenübiy Afrika",
+          "name:diq": "Afrikaya Veroci",
+          "name:dsb": "Pódpołdnjowa Afrika",
+          "name:ext": "Sudáfrica",
+          "name:frp": "Africa du Sud",
+          "name:fur": "Sud Afriche",
+          "name:gag": "Üülen Afrika Respublikası",
+          "name:gan": "南非",
+          "name:hak": "Nàm-fî",
+          "name:haw": "ʻApelika Hema",
+          "name:hif": "South Africa",
+          "name:ilo": "Abagatan nga Áprika",
+          "name:jbo": "nanfi'ogu'e",
+          "name:kaa": "Qubla Afrika",
+          "name:kab": "Tafriqt Wadda",
+          "name:krc": "Къыбыла-Африкан Республика",
+          "name:ksh": "Södaffrika",
+          "name:lad": "Sud-Afrika",
+          "name:lij": "Sudafrica",
+          "name:lmo": "Südafrica",
+          "name:ltg": "Dīnavydu Afrikys",
+          "name:mdf": "Лямбеширень Африк",
+          "name:min": "Afrika Selatan",
+          "name:mzn": "جنوبی آفریخا",
+          "name:nah": "Africa Huitztlāmpa",
+          "name:nan": "Lâm-hui",
+          "name:nds": "Süüdafrika",
+          "name:new": "दक्षिण अफ्रिका",
+          "name:nov": "Sud Afrika",
+          "name:nso": "Afrika Borwa",
+          "name:pam": "Mauling Aprika",
+          "name:pap": "Sur Afrika",
+          "name:pdc": "Saut Afrikaa",
+          "name:pih": "Sowth Afreka",
+          "name:pms": "Sudàfrica",
+          "name:pnb": "دکھنی افریقہ",
+          "name:rue": "Южна Африка",
+          "name:sah": "Соҕуруу Африка",
+          "name:scn": "Àfrica dû Sud",
+          "name:sco": "Sooth Africae",
+          "name:stq": "Suud-Afrikoa",
+          "name:szl": "Połedńowyj Afriki",
+          "name:tzl": "Südafrica",
+          "name:vec": "Sudàfrica",
+          "name:war": "Salatan nga Apriká",
+          "name:wuu": "南非",
+          "name:xal": "Өмн Априкин",
+          "name:xmf": "ობჟათე აფრიკა",
+          "name:yue": "南非",
+          "name:zea": "Zuud-Afrika",
+          "timezone": "Africa/Johannesburg",
+          "way_area": "113.121",
+          "wikidata": "Q258",
+          "ISO3166-1": "ZA",
+          "land_area": "administrative",
+          "wikipedia": "en:South Africa",
+          "population": "49991300",
+          "admin_level": "2",
+          "alt_name:gl": "África do Sur",
+          "alt_name:ln": "Afríka ya Súdi",
+          "alt_name:oc": "Africa del Sud",
+          "alt_name:wo": "Afrig gu Bëj-gànnaar",
+          "name:nds-nl": "Zuud-Afrika",
+          "capital_city": "Pretoria;Bloemfontein;Cape Town",
+          "official_name": "Republic of South Africa",
+          "short_name:af": "ZAR",
+          "short_name:be": "ПАР",
+          "short_name:bg": "РЮА",
+          "short_name:cv": "КАР",
+          "short_name:en": "RSA",
+          "short_name:fr": "RSA",
+          "short_name:kv": "ЛАР",
+          "short_name:ky": "ТАР",
+          "short_name:mn": "ӨАБНУ",
+          "short_name:os": "ХАР",
+          "short_name:pl": "RPA",
+          "short_name:ru": "ЮАР",
+          "short_name:sl": "JAR",
+          "short_name:tk": "GAR",
+          "short_name:tt": "КАҖ",
+          "short_name:uk": "ПАР",
+          "short_name:uz": "JAR",
+          "name:zh_pinyin": "Nán Fēi",
+          "short_name:kbd": "ИАР",
+          "short_name:krc": "КъАР",
+          "short_name:mdf": "ЛАР",
+          "short_name:sah": "САР",
+          "ISO3166-1:alpha2": "ZA",
+          "ISO3166-1:alpha3": "ZAF",
+          "official_name:af": "Zuid-Afrikaansche Republiek",
+          "official_name:am": "የደቡብ አፍሪካ ሬፑብሊክ",
+          "official_name:an": "Republica de Sudafrica",
+          "official_name:ar": "جمهورية جنوب أفريقيا",
+          "official_name:az": "Cənubi Afrika Respublikası",
+          "official_name:be": "Паўднёва-Афрыканская Рэспубліка",
+          "official_name:bg": "Република Южна Африка",
+          "official_name:bm": "Worodugu Afrika ka Fasojamana",
+          "official_name:bn": "রিপাবলিক অফ সাউথ আফ্রিকা",
+          "official_name:br": "Republik Suafrika",
+          "official_name:bs": "Južnoafrička Republika",
+          "official_name:ca": "República de Sud-àfrica",
+          "official_name:cs": "Jihoafrická republika",
+          "official_name:cv": "Кăнтăр Африка Республики",
+          "official_name:cy": "Gweriniaeth De Affrica",
+          "official_name:da": "Republikken Sydafrika",
+          "official_name:de": "Republik Südafrika",
+          "official_name:el": "Δημοκρατία της Νοτίου Αφρικής",
+          "official_name:en": "Republic of South Africa",
+          "official_name:eo": "Respubliko de Sud-Afriko",
+          "official_name:es": "República de Sudáfrica",
+          "official_name:et": "Lõuna-Aafrika Vabariik",
+          "official_name:eu": "Hegoafrikako Errepublika",
+          "official_name:fa": "جمهوری آفریقای جنوبی",
+          "official_name:fi": "Etelä-Afrikan tasavalta",
+          "official_name:fo": "Tjóðveldið Suðurafrika",
+          "official_name:fr": "République d'Afrique du Sud",
+          "official_name:fy": "Súd-Afrikaanske Republyk",
+          "official_name:ga": "Poblacht na hAfraice Theas",
+          "official_name:gd": "Poblachd Afraga a Deas",
+          "official_name:gl": "República de Sudáfrica",
+          "official_name:gn": "Tetã Yvyafrika",
+          "official_name:gu": "દક્ષિણ આફ્રિકાનું ગણરાજ્ય",
+          "official_name:gv": "Pobblaght yn Affrick Yiass",
+          "official_name:ha": "Jamhuriyar Afrika ta Kudu",
+          "official_name:he": "רפובליקת דרום אפריקה",
+          "official_name:hi": "दक्षिण अफ़्रीका गणराज्य",
+          "official_name:hr": "Južnoafrička Republika",
+          "official_name:ht": "Repiblik Afrik disid",
+          "official_name:hu": "Dél-Afrikai Köztársaság",
+          "official_name:ia": "Republica del Africa del Sud",
+          "official_name:id": "Republik Afrika Selatan",
+          "official_name:ie": "Republic de Sudafrica",
+          "official_name:io": "Republiko di Sud-Afrika",
+          "official_name:is": "Lýðveldið Suður-Afríku",
+          "official_name:it": "Repubblica del Sudafrica",
+          "official_name:ja": "南アフリカ共和国",
+          "official_name:jv": "Republik Afrika Kidul",
+          "official_name:ka": "სამხრეთ აფრიკის რესპუბლიკა",
+          "official_name:kg": "Repubilika ya Afelika ya Sudi",
+          "official_name:kk": "Оңтүстік Африка Республикасы",
+          "official_name:ku": "Komara Afrîkaya Başûr",
+          "official_name:kv": "Лунвыв Африкаса Республика",
+          "official_name:ky": "Түштүк-Африка Республикасы",
+          "official_name:la": "Res Publica Africae Australis",
+          "official_name:lb": "Republik Südafrika",
+          "official_name:ln": "Republíki ya Sidafríka",
+          "official_name:lt": "Pietų Afrikos Respublika",
+          "official_name:lv": "Dienvidāfrikas Republika",
+          "official_name:mk": "Јужноафриканска Република",
+          "official_name:ml": "റിപബ്ലിക്ക് ഓഫ് സൗത്ത് ആഫ്രിക്ക",
+          "official_name:mn": "Өмнөд Африкийн Бүгд Найрамдах Улс",
+          "official_name:mr": "दक्षिण आफ्रिकेचे गणराज्य",
+          "official_name:ms": "Republik Afrika Selatan",
+          "official_name:mt": "Repubblika tal-Afrika t'Isfel",
+          "official_name:my": "တောင်အာဖရိက သမ္မတနိုင်ငံ",
+          "official_name:nl": "Republiek Zuid-Afrika",
+          "official_name:nn": "Sørafrikanske republikken",
+          "official_name:no": "Republikken Sør-Afrika",
+          "official_name:nr": "iRiphabliki yeSewula Afrika",
+          "official_name:nv": "Kéyah Naakai Łizhinii Bikéyah Shádiʼááhjí Siʼánígíí",
+          "official_name:oc": "Republica Sud-Africana",
+          "official_name:os": "Хуссар Африкæйы Республикæ",
+          "official_name:pa": "ਦੱਖਣ ਅਫ਼ਰੀਕਾ ਗਣਰਾਜ",
+          "official_name:pl": "Republika Południowej Afryki",
+          "official_name:pt": "República da África do Sul",
+          "official_name:qu": "Urin Aphrika Republika",
+          "official_name:rm": "Republica Sidafricana",
+          "official_name:ro": "Republica Africa de Sud",
+          "official_name:ru": "Южно-Африканская Республика",
+          "official_name:rw": "Repubulika ’Afurika y ’Epfo",
+          "official_name:sc": "Repubblica de su Sudàfrica",
+          "official_name:se": "Lulli-Afrihká dásseváldi",
+          "official_name:sg": "Ködörösêse tî Afrîka-Mbongo",
+          "official_name:sh": "Južnoafrička Republika;Republika Južna Afrika",
+          "official_name:sk": "Juhoafrická republika",
+          "official_name:sl": "Južnoafriška republika;Republika Južna Afrika",
+          "official_name:so": "Jamhuuriyadda Koonfur Afrika",
+          "official_name:sq": "Republika Jugafrikane",
+          "official_name:sr": "Јужноафричка Република;Република Јужна Африка",
+          "official_name:ss": "iRiphabhulikhi yeNingizimu Afrika",
+          "official_name:st": "Rephabliki ya Afrika Borwa",
+          "official_name:su": "Republik Afrika Kidul",
+          "official_name:sv": "Republiken Sydafrika",
+          "official_name:sw": "Jamhuri ya Afrika Kusini",
+          "official_name:tg": "Ҷазираҳои Африқои Ҷанубӣ",
+          "official_name:th": "ประเทศแอฟริกาใต้",
+          "official_name:tk": "Günorta Afrika Respublikasy",
+          "official_name:tn": "Rephaboliki ya Aforika Borwa",
+          "official_name:ts": "Riphabliki ya Afrika-Dzonga",
+          "official_name:tt": "Көньяк Африка Җөмһүрияте",
+          "official_name:uk": "Південно-Африканська Республіка",
+          "official_name:uz": "Janubiy Afrika Respublikasi",
+          "official_name:ve": "Riphabuḽiki ya Afurika Tshipembe",
+          "official_name:vi": "Cộng hòa Nam Phi",
+          "official_name:vo": "Repüblikän Sulüdafrikäna",
+          "official_name:wa": "Republike di Nonne-Afrike",
+          "official_name:wo": "Republik bu Afrig gu Bëj-saalum",
+          "official_name:xh": "iRiphabliki yaseMzantsi Afrika",
+          "official_name:yi": "רעפובליק פון דרום אפריקע",
+          "official_name:yo": "Orílẹ̀-èdè Olómìnira ilẹ̀ Gúúsù Áfríkà",
+          "official_name:zh": "南非共和国",
+          "official_name:zu": "iRiphabliki yaseNingizimu Afrika",
+          "ISO3166-1:numeric": "710",
+          "country_code_fips": "SF",
+          "official_name:ace": "Republik Afrika Seulatan",
+          "official_name:als": "Republik Südafrika",
+          "official_name:ang": "Cynewīse Sūþaffrice",
+          "official_name:arz": "جمهورية جنوب افريقيا",
+          "official_name:ast": "República Sudafricana",
+          "official_name:bar": "Republik Südafrika",
+          "official_name:bjn": "Republik Aprika Salatan",
+          "official_name:bpy": "প্রজাতন্ত্রি খা আফ্রিকা",
+          "official_name:ceb": "Republikang Habagatang Aprikano",
+          "official_name:ckb": "کۆماری ئافریقای باشوور",
+          "official_name:crh": "Cenübiy Afrika Cumhuriyeti",
+          "official_name:diq": "Cumhuriyetê Afrikaya Veroci",
+          "official_name:dsb": "Pódpołdnjowa Afrika Republika",
+          "official_name:ext": "Repúbrica de Sudáfrica",
+          "official_name:frp": "Rèpublica de l'Africa du Sud",
+          "official_name:gag": "Üülen Afrika Respublikası",
+          "official_name:gan": "南非共和國",
+          "official_name:hif": "Republic of South Africa",
+          "official_name:hsb": "Republika Južna Afrika",
+          "official_name:ilo": "Republika iti Abagatan nga Áprika",
+          "official_name:kaa": "Qubla Afrika Respublikası",
+          "official_name:kbd": "Ипшъэ Африкэ Республикэ",
+          "official_name:krc": "Къыбыла-Африкан Республика",
+          "official_name:lad": "Repuvlika de Sud-Afrika",
+          "official_name:lmo": "Repübliga de Südafrica",
+          "official_name:ltg": "Dīnavydu Afrikys Republika",
+          "official_name:mdf": "Лямбеширень Африконь Республик",
+          "official_name:nah": "Tlācatlahtohcāyōtl Africa Huitztlāmpa",
+          "official_name:nan": "Lâm-hui Kiōng-hô-kok",
+          "official_name:nds": "Süüdafrikaansche Republiek",
+          "official_name:nov": "Sud Afrikani Republike",
+          "official_name:nso": "Repabliki le Afrika Borwa",
+          "official_name:pam": "Republika ning Mauling Aprika",
+          "official_name:pap": "Republika di Sur Afrika",
+          "official_name:pdc": "Republik vun Saut Afrikaa",
+          "official_name:pih": "Sowth Afrekan Repablik",
+          "official_name:pms": "Repùblica Sudafrican-a",
+          "official_name:sah": "Соҕуруу Африка Республиката",
+          "official_name:scn": "Ripùbbrica dû Àfrica dû Sud",
+          "official_name:sco": "Sooth African Republic",
+          "official_name:stq": "Suud-afrikoanske Republik",
+          "official_name:szl": "Połedńowoafrikańsko Republika;Republika Połedńowyj Afriki",
+          "official_name:vec": "Republica Sudafricana",
+          "official_name:war": "Republika han Salatan nga Aprika",
+          "official_name:xal": "Өмн Априкин Орн",
+          "official_name:xmf": "ობჟათე აფრიკაშ რესპუბლიკა",
+          "official_name:yue": "南非共和國",
+          "official_name:zea": "Zuud-Afrikaonse Republiek",
+          "official_name:nds-nl": "Rippebliek Zuud-Afrika",
+          "capital_city:judicial": "Bloemfontein",
+          "capital_city:legislative": "Cape Town",
+          "capital_city:administrative": "Pretoria",
+          "country_code_iso3166_1_alpha_2": "ZA"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27,
+              -33.570900632399905
+            ],
+            [
+              27.0018622,
+              -33.5708942
+            ],
+            [
+              27.0050597,
+              -33.5702356
+            ],
+            [
+              27.0084465,
+              -33.5702797
+            ],
+            [
+              27.00944,
+              -33.56964
+            ],
+            [
+              27.00948,
+              -33.56893
+            ],
+            [
+              27.0087638,
+              -33.5676633
+            ],
+            [
+              27.0088765,
+              -33.5671001
+            ],
+            [
+              27.0095083,
+              -33.5661119
+            ],
+            [
+              27.0150185,
+              -33.5620697
+            ],
+            [
+              27.0173283,
+              -33.560996
+            ],
+            [
+              27.0209561,
+              -33.5598786
+            ],
+            [
+              27.0220649,
+              -33.5593267
+            ],
+            [
+              27.0238552,
+              -33.5589504
+            ],
+            [
+              27.0252407,
+              -33.5589825
+            ],
+            [
+              27.0270351,
+              -33.5586003
+            ],
+            [
+              27.0273918,
+              -33.5584304
+            ],
+            [
+              27.0277847,
+              -33.5578973
+            ],
+            [
+              27.0282099,
+              -33.5577475
+            ],
+            [
+              27.0293847,
+              -33.5580258
+            ],
+            [
+              27.0302966,
+              -33.5584438
+            ],
+            [
+              27.0312461,
+              -33.5583589
+            ],
+            [
+              27.0312005,
+              -33.5571854
+            ],
+            [
+              27.0332402,
+              -33.5559908
+            ],
+            [
+              27.0340283,
+              -33.5556709
+            ],
+            [
+              27.0381045,
+              -33.5550664
+            ],
+            [
+              27.0401425,
+              -33.5543497
+            ],
+            [
+              27.0410347,
+              -33.5543315
+            ],
+            [
+              27.0419214,
+              -33.5540976
+            ],
+            [
+              27.0427691,
+              -33.5536372
+            ],
+            [
+              27.0430452,
+              -33.5531106
+            ],
+            [
+              27.0428896,
+              -33.552668
+            ],
+            [
+              27.0417255,
+              -33.5515883
+            ],
+            [
+              27.0413955,
+              -33.5510802
+            ],
+            [
+              27.0417232,
+              -33.5496115
+            ],
+            [
+              27.0415632,
+              -33.5484915
+            ],
+            [
+              27.0417014,
+              -33.5478419
+            ],
+            [
+              27.0436031,
+              -33.5451705
+            ],
+            [
+              27.0458856,
+              -33.5428098
+            ],
+            [
+              27.0490158,
+              -33.5405094
+            ],
+            [
+              27.0518643,
+              -33.5389646
+            ],
+            [
+              27.0535675,
+              -33.5383878
+            ],
+            [
+              27.0558393,
+              -33.5372621
+            ],
+            [
+              27.0575801,
+              -33.5367132
+            ],
+            [
+              27.0616554,
+              -33.5350267
+            ],
+            [
+              27.0672843,
+              -33.5330432
+            ],
+            [
+              27.0711118,
+              -33.5322685
+            ],
+            [
+              27.0738683,
+              -33.5319469
+            ],
+            [
+              27.0770822,
+              -33.531908
+            ],
+            [
+              27.07786,
+              -33.53154
+            ],
+            [
+              27.0791745,
+              -33.5304798
+            ],
+            [
+              27.0804888,
+              -33.5299276
+            ],
+            [
+              27.0859739,
+              -33.529505
+            ],
+            [
+              27.0875468,
+              -33.5291982
+            ],
+            [
+              27.088082,
+              -33.5290065
+            ],
+            [
+              27.0897461,
+              -33.5278055
+            ],
+            [
+              27.0910889,
+              -33.5272646
+            ],
+            [
+              27.0929413,
+              -33.5270144
+            ],
+            [
+              27.0951113,
+              -33.5270444
+            ],
+            [
+              27.1000585,
+              -33.5259239
+            ],
+            [
+              27.10364,
+              -33.5255896
+            ],
+            [
+              27.1067707,
+              -33.5255401
+            ],
+            [
+              27.1100306,
+              -33.5251829
+            ],
+            [
+              27.1109846,
+              -33.5250274
+            ],
+            [
+              27.1121299,
+              -33.5245516
+            ],
+            [
+              27.1136831,
+              -33.5234956
+            ],
+            [
+              27.1142739,
+              -33.5227993
+            ],
+            [
+              27.1144563,
+              -33.5220323
+            ],
+            [
+              27.1144938,
+              -33.5201987
+            ],
+            [
+              27.1147276,
+              -33.5195569
+            ],
+            [
+              27.1153897,
+              -33.5185708
+            ],
+            [
+              27.116184,
+              -33.5178506
+            ],
+            [
+              27.1191589,
+              -33.5162722
+            ],
+            [
+              27.1197832,
+              -33.5157286
+            ],
+            [
+              27.1210036,
+              -33.5135147
+            ],
+            [
+              27.1228035,
+              -33.5112563
+            ],
+            [
+              27.1241258,
+              -33.5087351
+            ],
+            [
+              27.1250564,
+              -33.5075815
+            ],
+            [
+              27.1274945,
+              -33.5056246
+            ],
+            [
+              27.1287395,
+              -33.5048053
+            ],
+            [
+              27.129869,
+              -33.5042852
+            ],
+            [
+              27.1314239,
+              -33.5039796
+            ],
+            [
+              27.1328334,
+              -33.5045723
+            ],
+            [
+              27.1337038,
+              -33.5046629
+            ],
+            [
+              27.1336153,
+              -33.504229
+            ],
+            [
+              27.1343022,
+              -33.5039303
+            ],
+            [
+              27.1342798,
+              -33.5036021
+            ],
+            [
+              27.1338118,
+              -33.502849
+            ],
+            [
+              27.1333786,
+              -33.5025879
+            ],
+            [
+              27.1321508,
+              -33.5010564
+            ],
+            [
+              27.1324083,
+              -33.50023
+            ],
+            [
+              27.1344271,
+              -33.4972795
+            ],
+            [
+              27.1356821,
+              -33.4961685
+            ],
+            [
+              27.1361232,
+              -33.4953539
+            ],
+            [
+              27.1365523,
+              -33.4949983
+            ],
+            [
+              27.1385507,
+              -33.4941867
+            ],
+            [
+              27.1393907,
+              -33.4942367
+            ],
+            [
+              27.1409445,
+              -33.4949636
+            ],
+            [
+              27.141894,
+              -33.4943832
+            ],
+            [
+              27.1422118,
+              -33.4938832
+            ],
+            [
+              27.1422762,
+              -33.4933604
+            ],
+            [
+              27.1420193,
+              -33.4930724
+            ],
+            [
+              27.1412247,
+              -33.4930836
+            ],
+            [
+              27.1410491,
+              -33.492625
+            ],
+            [
+              27.1410384,
+              -33.4913341
+            ],
+            [
+              27.141395,
+              -33.489556
+            ],
+            [
+              27.1417512,
+              -33.4887646
+            ],
+            [
+              27.1423352,
+              -33.4880886
+            ],
+            [
+              27.1449772,
+              -33.4859685
+            ],
+            [
+              27.1462874,
+              -33.4853483
+            ],
+            [
+              27.1479249,
+              -33.4843036
+            ],
+            [
+              27.1482816,
+              -33.483628
+            ],
+            [
+              27.1485901,
+              -33.4834065
+            ],
+            [
+              27.1499285,
+              -33.482524
+            ],
+            [
+              27.1510591,
+              -33.4822421
+            ],
+            [
+              27.1520448,
+              -33.4815665
+            ],
+            [
+              27.1532437,
+              -33.4799356
+            ],
+            [
+              27.1556,
+              -33.4783024
+            ],
+            [
+              27.1576626,
+              -33.4771239
+            ],
+            [
+              27.1621996,
+              -33.4750193
+            ],
+            [
+              27.1648282,
+              -33.4734431
+            ],
+            [
+              27.1662605,
+              -33.4727663
+            ],
+            [
+              27.1702757,
+              -33.4713097
+            ],
+            [
+              27.1734226,
+              -33.4711399
+            ],
+            [
+              27.1744794,
+              -33.4704545
+            ],
+            [
+              27.1751735,
+              -33.4697581
+            ],
+            [
+              27.1767318,
+              -33.4690097
+            ],
+            [
+              27.1776129,
+              -33.4683507
+            ],
+            [
+              27.1843895,
+              -33.4657988
+            ],
+            [
+              27.1938893,
+              -33.4635531
+            ],
+            [
+              27.19751,
+              -33.46295
+            ],
+            [
+              27.20185,
+              -33.4626799
+            ],
+            [
+              27.20397,
+              -33.4628199
+            ],
+            [
+              27.2052764,
+              -33.4626302
+            ],
+            [
+              27.2077905,
+              -33.4626438
+            ],
+            [
+              27.21127,
+              -33.46224
+            ],
+            [
+              27.21208,
+              -33.46176
+            ],
+            [
+              27.2129595,
+              -33.4609728
+            ],
+            [
+              27.21444,
+              -33.4605
+            ],
+            [
+              27.21561,
+              -33.45988
+            ],
+            [
+              27.21749,
+              -33.45863
+            ],
+            [
+              27.21811,
+              -33.458
+            ],
+            [
+              27.2185,
+              -33.45737
+            ],
+            [
+              27.2189283,
+              -33.4553109
+            ],
+            [
+              27.2203858,
+              -33.4535629
+            ],
+            [
+              27.221698,
+              -33.4525163
+            ],
+            [
+              27.2232449,
+              -33.4519581
+            ],
+            [
+              27.2237749,
+              -33.4511381
+            ],
+            [
+              27.2248131,
+              -33.4504882
+            ],
+            [
+              27.2262098,
+              -33.4491237
+            ],
+            [
+              27.2264,
+              -33.44859
+            ],
+            [
+              27.2263835,
+              -33.4475341
+            ],
+            [
+              27.2268113,
+              -33.446837
+            ],
+            [
+              27.2265156,
+              -33.4457842
+            ],
+            [
+              27.2267505,
+              -33.4445339
+            ],
+            [
+              27.2277264,
+              -33.4430236
+            ],
+            [
+              27.2300228,
+              -33.4405582
+            ],
+            [
+              27.2324641,
+              -33.438181
+            ],
+            [
+              27.2397718,
+              -33.4337648
+            ],
+            [
+              27.2416896,
+              -33.4327799
+            ],
+            [
+              27.2431591,
+              -33.4314141
+            ],
+            [
+              27.2451724,
+              -33.4304523
+            ],
+            [
+              27.2503839,
+              -33.428772
+            ],
+            [
+              27.2529535,
+              -33.4272867
+            ],
+            [
+              27.2557362,
+              -33.4259178
+            ],
+            [
+              27.2580112,
+              -33.4244723
+            ],
+            [
+              27.2615593,
+              -33.4230334
+            ],
+            [
+              27.264145,
+              -33.4223932
+            ],
+            [
+              27.2659716,
+              -33.4215201
+            ],
+            [
+              27.2699037,
+              -33.4189683
+            ],
+            [
+              27.2709283,
+              -33.4180231
+            ],
+            [
+              27.2731417,
+              -33.4154084
+            ],
+            [
+              27.2749883,
+              -33.4137146
+            ],
+            [
+              27.2760483,
+              -33.4130946
+            ],
+            [
+              27.2791707,
+              -33.411929
+            ],
+            [
+              27.2821641,
+              -33.4097393
+            ],
+            [
+              27.2858636,
+              -33.4078649
+            ],
+            [
+              27.2892478,
+              -33.4057931
+            ],
+            [
+              27.2925012,
+              -33.4035528
+            ],
+            [
+              27.2940621,
+              -33.4026696
+            ],
+            [
+              27.2964584,
+              -33.4000253
+            ],
+            [
+              27.3008425,
+              -33.3983185
+            ],
+            [
+              27.3016621,
+              -33.3973874
+            ],
+            [
+              27.3038757,
+              -33.3954345
+            ],
+            [
+              27.3052981,
+              -33.3948913
+            ],
+            [
+              27.3075136,
+              -33.3934626
+            ],
+            [
+              27.3105513,
+              -33.3918178
+            ],
+            [
+              27.3150426,
+              -33.3901706
+            ],
+            [
+              27.3180027,
+              -33.3892737
+            ],
+            [
+              27.3188876,
+              -33.3884216
+            ],
+            [
+              27.31954,
+              -33.38746
+            ],
+            [
+              27.3209059,
+              -33.3859446
+            ],
+            [
+              27.3253021,
+              -33.383042
+            ],
+            [
+              27.3272871,
+              -33.3828602
+            ],
+            [
+              27.3311627,
+              -33.3814183
+            ],
+            [
+              27.3349741,
+              -33.380612
+            ],
+            [
+              27.3379773,
+              -33.3790058
+            ],
+            [
+              27.3388576,
+              -33.3783878
+            ],
+            [
+              27.3410423,
+              -33.3763376
+            ],
+            [
+              27.3421613,
+              -33.3755707
+            ],
+            [
+              27.3435413,
+              -33.3742507
+            ],
+            [
+              27.3460248,
+              -33.372674
+            ],
+            [
+              27.3504242,
+              -33.3674922
+            ],
+            [
+              27.3533707,
+              -33.3653879
+            ],
+            [
+              27.3556214,
+              -33.3640592
+            ],
+            [
+              27.3616419,
+              -33.361623
+            ],
+            [
+              27.3634189,
+              -33.3614735
+            ],
+            [
+              27.3644489,
+              -33.3610031
+            ],
+            [
+              27.3670506,
+              -33.3603445
+            ],
+            [
+              27.368558,
+              -33.3591146
+            ],
+            [
+              27.3714247,
+              -33.3576326
+            ],
+            [
+              27.3722008,
+              -33.3574019
+            ],
+            [
+              27.3737151,
+              -33.3574261
+            ],
+            [
+              27.3747539,
+              -33.3571767
+            ],
+            [
+              27.3771062,
+              -33.3555323
+            ],
+            [
+              27.3793553,
+              -33.3543112
+            ],
+            [
+              27.3798019,
+              -33.3537735
+            ],
+            [
+              27.3811108,
+              -33.3529042
+            ],
+            [
+              27.3891319,
+              -33.3489363
+            ],
+            [
+              27.3911834,
+              -33.3481679
+            ],
+            [
+              27.3937373,
+              -33.3474934
+            ],
+            [
+              27.3959246,
+              -33.345739
+            ],
+            [
+              27.3983842,
+              -33.3443924
+            ],
+            [
+              27.40018,
+              -33.34394
+            ],
+            [
+              27.40228,
+              -33.3429
+            ],
+            [
+              27.40583,
+              -33.342
+            ],
+            [
+              27.4076915,
+              -33.3413316
+            ],
+            [
+              27.4098185,
+              -33.3409439
+            ],
+            [
+              27.4113473,
+              -33.3399961
+            ],
+            [
+              27.4133266,
+              -33.3391307
+            ],
+            [
+              27.413933,
+              -33.3386157
+            ],
+            [
+              27.4152875,
+              -33.3365385
+            ],
+            [
+              27.4160466,
+              -33.3358483
+            ],
+            [
+              27.4182803,
+              -33.3347645
+            ],
+            [
+              27.4202174,
+              -33.3342415
+            ],
+            [
+              27.4224275,
+              -33.3330919
+            ],
+            [
+              27.4238518,
+              -33.3310728
+            ],
+            [
+              27.4247329,
+              -33.3293551
+            ],
+            [
+              27.4262765,
+              -33.3280788
+            ],
+            [
+              27.4266171,
+              -33.3264428
+            ],
+            [
+              27.4272957,
+              -33.3255037
+            ],
+            [
+              27.42914,
+              -33.3235
+            ],
+            [
+              27.4312674,
+              -33.321567
+            ],
+            [
+              27.43197,
+              -33.32047
+            ],
+            [
+              27.4327312,
+              -33.3197068
+            ],
+            [
+              27.4354322,
+              -33.31761
+            ],
+            [
+              27.4370791,
+              -33.3168793
+            ],
+            [
+              27.4389114,
+              -33.3156943
+            ],
+            [
+              27.44177,
+              -33.31449
+            ],
+            [
+              27.4436304,
+              -33.3134713
+            ],
+            [
+              27.4448719,
+              -33.3130867
+            ],
+            [
+              27.4485371,
+              -33.3110038
+            ],
+            [
+              27.4536431,
+              -33.3091059
+            ],
+            [
+              27.455416,
+              -33.3087181
+            ],
+            [
+              27.4569623,
+              -33.3086542
+            ],
+            [
+              27.4587419,
+              -33.3080897
+            ],
+            [
+              27.4634636,
+              -33.306172
+            ],
+            [
+              27.4649136,
+              -33.305412
+            ],
+            [
+              27.4668315,
+              -33.3050777
+            ],
+            [
+              27.4675015,
+              -33.3047585
+            ],
+            [
+              27.4685387,
+              -33.3037013
+            ],
+            [
+              27.4697712,
+              -33.303059
+            ],
+            [
+              27.4725258,
+              -33.3009921
+            ],
+            [
+              27.4769454,
+              -33.298933
+            ],
+            [
+              27.477846,
+              -33.2987716
+            ],
+            [
+              27.4785273,
+              -33.2980783
+            ],
+            [
+              27.4794272,
+              -33.2977824
+            ],
+            [
+              27.4810928,
+              -33.2967125
+            ],
+            [
+              27.4815407,
+              -33.2965544
+            ],
+            [
+              27.4821509,
+              -33.2967842
+            ],
+            [
+              27.4822488,
+              -33.2964872
+            ],
+            [
+              27.4820691,
+              -33.2961038
+            ],
+            [
+              27.4805738,
+              -33.2953057
+            ],
+            [
+              27.4806771,
+              -33.2945008
+            ],
+            [
+              27.4808085,
+              -33.2942968
+            ],
+            [
+              27.4812444,
+              -33.2942396
+            ],
+            [
+              27.4812725,
+              -33.2938663
+            ],
+            [
+              27.4806771,
+              -33.292057
+            ],
+            [
+              27.480323,
+              -33.2917925
+            ],
+            [
+              27.4802345,
+              -33.2914629
+            ],
+            [
+              27.4827531,
+              -33.2874855
+            ],
+            [
+              27.483547,
+              -33.2870303
+            ],
+            [
+              27.4847326,
+              -33.286037
+            ],
+            [
+              27.4858806,
+              -33.2845863
+            ],
+            [
+              27.4899391,
+              -33.2823886
+            ],
+            [
+              27.4910586,
+              -33.2822331
+            ],
+            [
+              27.4939366,
+              -33.2810335
+            ],
+            [
+              27.49441,
+              -33.2810212
+            ],
+            [
+              27.4948364,
+              -33.2814517
+            ],
+            [
+              27.495338,
+              -33.2813429
+            ],
+            [
+              27.4957095,
+              -33.2814371
+            ],
+            [
+              27.4961239,
+              -33.280446
+            ],
+            [
+              27.4969031,
+              -33.2806669
+            ],
+            [
+              27.4972504,
+              -33.2800368
+            ],
+            [
+              27.4981664,
+              -33.280187
+            ],
+            [
+              27.4985191,
+              -33.2797632
+            ],
+            [
+              27.4982536,
+              -33.2788797
+            ],
+            [
+              27.4984574,
+              -33.2781442
+            ],
+            [
+              27.4997315,
+              -33.2769984
+            ],
+            [
+              27.5009841,
+              -33.2765163
+            ],
+            [
+              27.5028992,
+              -33.2762696
+            ],
+            [
+              27.5050154,
+              -33.2753076
+            ],
+            [
+              27.5065201,
+              -33.2744016
+            ],
+            [
+              27.508387,
+              -33.2737289
+            ],
+            [
+              27.5110182,
+              -33.2717218
+            ],
+            [
+              27.5126249,
+              -33.27078
+            ],
+            [
+              27.5150388,
+              -33.2688536
+            ],
+            [
+              27.5156236,
+              -33.2686719
+            ],
+            [
+              27.5167635,
+              -33.2686809
+            ],
+            [
+              27.5169271,
+              -33.2680844
+            ],
+            [
+              27.5177827,
+              -33.2678489
+            ],
+            [
+              27.5175977,
+              -33.2670752
+            ],
+            [
+              27.5179169,
+              -33.2663194
+            ],
+            [
+              27.518582,
+              -33.2664439
+            ],
+            [
+              27.5185364,
+              -33.2660077
+            ],
+            [
+              27.5189522,
+              -33.2656309
+            ],
+            [
+              27.5192606,
+              -33.265678
+            ],
+            [
+              27.5196925,
+              -33.266205
+            ],
+            [
+              27.5203161,
+              -33.2661097
+            ],
+            [
+              27.5204194,
+              -33.2655031
+            ],
+            [
+              27.5201511,
+              -33.2640745
+            ],
+            [
+              27.5197434,
+              -33.263442
+            ],
+            [
+              27.5196308,
+              -33.2629486
+            ],
+            [
+              27.5199258,
+              -33.2623318
+            ],
+            [
+              27.5217122,
+              -33.2599791
+            ],
+            [
+              27.5229782,
+              -33.2586671
+            ],
+            [
+              27.5249174,
+              -33.257097
+            ],
+            [
+              27.5261083,
+              -33.2564982
+            ],
+            [
+              27.5272116,
+              -33.2556569
+            ],
+            [
+              27.5310355,
+              -33.2540287
+            ],
+            [
+              27.5321285,
+              -33.2533367
+            ],
+            [
+              27.5350428,
+              -33.2522545
+            ],
+            [
+              27.536872,
+              -33.2511823
+            ],
+            [
+              27.5463107,
+              -33.2481496
+            ],
+            [
+              27.5491834,
+              -33.2469159
+            ],
+            [
+              27.5522196,
+              -33.245201
+            ],
+            [
+              27.5542903,
+              -33.2446884
+            ],
+            [
+              27.5556824,
+              -33.2448499
+            ],
+            [
+              27.5562322,
+              -33.2438786
+            ],
+            [
+              27.5572085,
+              -33.24308
+            ],
+            [
+              27.5585631,
+              -33.2422948
+            ],
+            [
+              27.5595528,
+              -33.2419516
+            ],
+            [
+              27.5612748,
+              -33.241974
+            ],
+            [
+              27.5618219,
+              -33.2412808
+            ],
+            [
+              27.5636002,
+              -33.2402893
+            ],
+            [
+              27.5641581,
+              -33.2402938
+            ],
+            [
+              27.56448,
+              -33.2400246
+            ],
+            [
+              27.5653464,
+              -33.2398137
+            ],
+            [
+              27.5679803,
+              -33.23836
+            ],
+            [
+              27.5686079,
+              -33.2376645
+            ],
+            [
+              27.569595,
+              -33.2370005
+            ],
+            [
+              27.5702038,
+              -33.2367627
+            ],
+            [
+              27.5714081,
+              -33.2366326
+            ],
+            [
+              27.5718802,
+              -33.2361659
+            ],
+            [
+              27.5732267,
+              -33.2358317
+            ],
+            [
+              27.5736022,
+              -33.2354884
+            ],
+            [
+              27.5741091,
+              -33.2357307
+            ],
+            [
+              27.5745061,
+              -33.2355826
+            ],
+            [
+              27.5746402,
+              -33.2347301
+            ],
+            [
+              27.574832,
+              -33.2346011
+            ],
+            [
+              27.5752035,
+              -33.2347481
+            ],
+            [
+              27.5765151,
+              -33.2339898
+            ],
+            [
+              27.576841,
+              -33.233412
+            ],
+            [
+              27.5774512,
+              -33.2329869
+            ],
+            [
+              27.5774606,
+              -33.2320715
+            ],
+            [
+              27.5778173,
+              -33.2320154
+            ],
+            [
+              27.5782371,
+              -33.231486
+            ],
+            [
+              27.5788352,
+              -33.2316946
+            ],
+            [
+              27.5792831,
+              -33.2314007
+            ],
+            [
+              27.5798947,
+              -33.2302206
+            ],
+            [
+              27.5807878,
+              -33.2296215
+            ],
+            [
+              27.5811124,
+              -33.2288273
+            ],
+            [
+              27.5819841,
+              -33.2281755
+            ],
+            [
+              27.5819278,
+              -33.2276606
+            ],
+            [
+              27.5823382,
+              -33.2264871
+            ],
+            [
+              27.58204,
+              -33.2259
+            ],
+            [
+              27.582255,
+              -33.2252262
+            ],
+            [
+              27.584433,
+              -33.2243646
+            ],
+            [
+              27.5859457,
+              -33.2241133
+            ],
+            [
+              27.5869757,
+              -33.2235164
+            ],
+            [
+              27.5878233,
+              -33.2232517
+            ],
+            [
+              27.5887191,
+              -33.223328
+            ],
+            [
+              27.5890249,
+              -33.2235748
+            ],
+            [
+              27.5893226,
+              -33.2244341
+            ],
+            [
+              27.5901648,
+              -33.2243444
+            ],
+            [
+              27.5918761,
+              -33.2232393
+            ],
+            [
+              27.5930241,
+              -33.2229639
+            ],
+            [
+              27.5934787,
+              -33.222564
+            ],
+            [
+              27.5957224,
+              -33.2217495
+            ],
+            [
+              27.5961488,
+              -33.2218336
+            ],
+            [
+              27.5964197,
+              -33.2212502
+            ],
+            [
+              27.59738,
+              -33.2209989
+            ],
+            [
+              27.5991046,
+              -33.2207981
+            ],
+            [
+              27.5998718,
+              -33.2210034
+            ],
+            [
+              27.600376,
+              -33.2213579
+            ],
+            [
+              27.6004511,
+              -33.2216081
+            ],
+            [
+              27.6002768,
+              -33.2219144
+            ],
+            [
+              27.6004243,
+              -33.2220647
+            ],
+            [
+              27.6027404,
+              -33.2212536
+            ],
+            [
+              27.6029402,
+              -33.2218897
+            ],
+            [
+              27.6033881,
+              -33.2220557
+            ],
+            [
+              27.6036859,
+              -33.2214611
+            ],
+            [
+              27.6029241,
+              -33.2204783
+            ],
+            [
+              27.6028919,
+              -33.2202405
+            ],
+            [
+              27.6029992,
+              -33.2199936
+            ],
+            [
+              27.604807,
+              -33.2185665
+            ],
+            [
+              27.6059335,
+              -33.2181492
+            ],
+            [
+              27.6075965,
+              -33.2178709
+            ],
+            [
+              27.6086131,
+              -33.2182703
+            ],
+            [
+              27.6089779,
+              -33.2185677
+            ],
+            [
+              27.6093453,
+              -33.2185194
+            ],
+            [
+              27.6116386,
+              -33.2162822
+            ],
+            [
+              27.6117955,
+              -33.2154396
+            ],
+            [
+              27.6116306,
+              -33.2146778
+            ],
+            [
+              27.6111639,
+              -33.2144197
+            ],
+            [
+              27.6109479,
+              -33.2139978
+            ],
+            [
+              27.6108889,
+              -33.2135681
+            ],
+            [
+              27.6112651,
+              -33.2134548
+            ],
+            [
+              27.6110505,
+              -33.213029
+            ],
+            [
+              27.6116775,
+              -33.2127804
+            ],
+            [
+              27.6118197,
+              -33.2122161
+            ],
+            [
+              27.6116574,
+              -33.2119019
+            ],
+            [
+              27.6140204,
+              -33.2095119
+            ],
+            [
+              27.6145515,
+              -33.2082126
+            ],
+            [
+              27.6148787,
+              -33.2079175
+            ],
+            [
+              27.6149055,
+              -33.2076504
+            ],
+            [
+              27.6151885,
+              -33.2074787
+            ],
+            [
+              27.6151751,
+              -33.2071825
+            ],
+            [
+              27.6158094,
+              -33.2067224
+            ],
+            [
+              27.6175287,
+              -33.2059459
+            ],
+            [
+              27.6201828,
+              -33.2060323
+            ],
+            [
+              27.6211832,
+              -33.2058573
+            ],
+            [
+              27.6217076,
+              -33.2055644
+            ],
+            [
+              27.621831,
+              -33.2053355
+            ],
+            [
+              27.6233572,
+              -33.2050976
+            ],
+            [
+              27.6244301,
+              -33.2046734
+            ],
+            [
+              27.6273939,
+              -33.2038992
+            ],
+            [
+              27.6288772,
+              -33.2031361
+            ],
+            [
+              27.6288651,
+              -33.2028769
+            ],
+            [
+              27.6290622,
+              -33.2026828
+            ],
+            [
+              27.6295772,
+              -33.2026974
+            ],
+            [
+              27.6307131,
+              -33.2022103
+            ],
+            [
+              27.6314869,
+              -33.2022294
+            ],
+            [
+              27.6332599,
+              -33.2016998
+            ],
+            [
+              27.6338124,
+              -33.2009614
+            ],
+            [
+              27.6341611,
+              -33.2001242
+            ],
+            [
+              27.6332384,
+              -33.1981806
+            ],
+            [
+              27.6333162,
+              -33.1976464
+            ],
+            [
+              27.6338688,
+              -33.1969708
+            ],
+            [
+              27.6348773,
+              -33.1961022
+            ],
+            [
+              27.6379377,
+              -33.1942909
+            ],
+            [
+              27.6396811,
+              -33.1935412
+            ],
+            [
+              27.6403691,
+              -33.1934795
+            ],
+            [
+              27.6413602,
+              -33.1928364
+            ],
+            [
+              27.6427174,
+              -33.192594
+            ],
+            [
+              27.6435891,
+              -33.1927354
+            ],
+            [
+              27.6444286,
+              -33.1921272
+            ],
+            [
+              27.6450187,
+              -33.1919139
+            ],
+            [
+              27.6451394,
+              -33.1916636
+            ],
+            [
+              27.644155,
+              -33.1908949
+            ],
+            [
+              27.6441845,
+              -33.1901878
+            ],
+            [
+              27.6444796,
+              -33.1895436
+            ],
+            [
+              27.6451743,
+              -33.1886547
+            ],
+            [
+              27.6462887,
+              -33.1878096
+            ],
+            [
+              27.6468198,
+              -33.1877232
+            ],
+            [
+              27.64708,
+              -33.1878814
+            ],
+            [
+              27.6482508,
+              -33.1877288
+            ],
+            [
+              27.6485834,
+              -33.1874561
+            ],
+            [
+              27.6496482,
+              -33.1871856
+            ],
+            [
+              27.6499459,
+              -33.186832
+            ],
+            [
+              27.6508807,
+              -33.1865739
+            ],
+            [
+              27.65283,
+              -33.1855761
+            ],
+            [
+              27.6529741,
+              -33.1853101
+            ],
+            [
+              27.652958,
+              -33.1847242
+            ],
+            [
+              27.6535991,
+              -33.18419
+            ],
+            [
+              27.6537627,
+              -33.1837792
+            ],
+            [
+              27.6547551,
+              -33.1831753
+            ],
+            [
+              27.6549348,
+              -33.1828184
+            ],
+            [
+              27.6547497,
+              -33.1822841
+            ],
+            [
+              27.6555678,
+              -33.1813649
+            ],
+            [
+              27.6565455,
+              -33.1807846
+            ],
+            [
+              27.6581545,
+              -33.1803393
+            ],
+            [
+              27.6579127,
+              -33.1801212
+            ],
+            [
+              27.6581655,
+              -33.1790324
+            ],
+            [
+              27.6579416,
+              -33.1779919
+            ],
+            [
+              27.6583278,
+              -33.1770715
+            ],
+            [
+              27.6594892,
+              -33.1754506
+            ],
+            [
+              27.6607525,
+              -33.1746199
+            ],
+            [
+              27.6619837,
+              -33.1743977
+            ],
+            [
+              27.662614,
+              -33.1738768
+            ],
+            [
+              27.6628809,
+              -33.1734031
+            ],
+            [
+              27.6628286,
+              -33.1730102
+            ],
+            [
+              27.6637727,
+              -33.1717238
+            ],
+            [
+              27.6654209,
+              -33.1706259
+            ],
+            [
+              27.6668304,
+              -33.1700444
+            ],
+            [
+              27.6679945,
+              -33.1701163
+            ],
+            [
+              27.6686409,
+              -33.1705361
+            ],
+            [
+              27.6690178,
+              -33.1704991
+            ],
+            [
+              27.6705748,
+              -33.1692362
+            ],
+            [
+              27.6711769,
+              -33.1690976
+            ],
+            [
+              27.6723477,
+              -33.1683651
+            ],
+            [
+              27.6751949,
+              -33.1673738
+            ],
+            [
+              27.6758856,
+              -33.1673334
+            ],
+            [
+              27.6764622,
+              -33.1670179
+            ],
+            [
+              27.6769423,
+              -33.1670303
+            ],
+            [
+              27.6778449,
+              -33.1665667
+            ],
+            [
+              27.6779911,
+              -33.166387
+            ],
+            [
+              27.6777846,
+              -33.1660907
+            ],
+            [
+              27.6773688,
+              -33.1660368
+            ],
+            [
+              27.6769222,
+              -33.1657303
+            ],
+            [
+              27.6770335,
+              -33.1648558
+            ],
+            [
+              27.6776612,
+              -33.1638207
+            ],
+            [
+              27.6789004,
+              -33.1633705
+            ],
+            [
+              27.6783586,
+              -33.1624061
+            ],
+            [
+              27.6790586,
+              -33.1612835
+            ],
+            [
+              27.6799142,
+              -33.1604931
+            ],
+            [
+              27.6804775,
+              -33.1604033
+            ],
+            [
+              27.6809536,
+              -33.1609085
+            ],
+            [
+              27.6816228,
+              -33.1608591
+            ],
+            [
+              27.683039,
+              -33.160062
+            ],
+            [
+              27.683444,
+              -33.1594198
+            ],
+            [
+              27.6839523,
+              -33.1590145
+            ],
+            [
+              27.6852599,
+              -33.1586126
+            ],
+            [
+              27.6855154,
+              -33.1583487
+            ],
+            [
+              27.6872286,
+              -33.1581792
+            ],
+            [
+              27.6873064,
+              -33.1578861
+            ],
+            [
+              27.6878898,
+              -33.1576246
+            ],
+            [
+              27.6889546,
+              -33.1575617
+            ],
+            [
+              27.690165,
+              -33.1577127
+            ],
+            [
+              27.6908684,
+              -33.1574202
+            ],
+            [
+              27.6926748,
+              -33.1570475
+            ],
+            [
+              27.6936364,
+              -33.1564749
+            ],
+            [
+              27.6950486,
+              -33.1560752
+            ],
+            [
+              27.6952216,
+              -33.1557103
+            ],
+            [
+              27.6959673,
+              -33.1553218
+            ],
+            [
+              27.6964608,
+              -33.1546863
+            ],
+            [
+              27.6972641,
+              -33.1542271
+            ],
+            [
+              27.6974237,
+              -33.1539138
+            ],
+            [
+              27.6996915,
+              -33.1528685
+            ],
+            [
+              27.6999691,
+              -33.1524969
+            ],
+            [
+              27.7002937,
+              -33.1523622
+            ],
+            [
+              27.7004224,
+              -33.1519692
+            ],
+            [
+              27.7007369,
+              -33.1517194
+            ],
+            [
+              27.7009642,
+              -33.1509272
+            ],
+            [
+              27.7019271,
+              -33.1495124
+            ],
+            [
+              27.7030443,
+              -33.1490678
+            ],
+            [
+              27.7033487,
+              -33.147635
+            ],
+            [
+              27.7030094,
+              -33.1470601
+            ],
+            [
+              27.7029678,
+              -33.1466705
+            ],
+            [
+              27.7023885,
+              -33.1462135
+            ],
+            [
+              27.7022731,
+              -33.1453332
+            ],
+            [
+              27.7025011,
+              -33.1444663
+            ],
+            [
+              27.7031422,
+              -33.1436915
+            ],
+            [
+              27.7037778,
+              -33.1431121
+            ],
+            [
+              27.7056956,
+              -33.1429504
+            ],
+            [
+              27.7079688,
+              -33.1418437
+            ],
+            [
+              27.7083457,
+              -33.1414468
+            ],
+            [
+              27.7086568,
+              -33.1403541
+            ],
+            [
+              27.7089143,
+              -33.1400487
+            ],
+            [
+              27.7113712,
+              -33.1389908
+            ],
+            [
+              27.7123636,
+              -33.1389414
+            ],
+            [
+              27.7139944,
+              -33.1382227
+            ],
+            [
+              27.7145188,
+              -33.1376466
+            ],
+            [
+              27.7149734,
+              -33.1363698
+            ],
+            [
+              27.7150217,
+              -33.135979
+            ],
+            [
+              27.714799,
+              -33.1352603
+            ],
+            [
+              27.7150136,
+              -33.1346044
+            ],
+            [
+              27.7165237,
+              -33.1335263
+            ],
+            [
+              27.7176502,
+              -33.1329423
+            ],
+            [
+              27.7183516,
+              -33.1327829
+            ],
+            [
+              27.718699,
+              -33.1323651
+            ],
+            [
+              27.7199301,
+              -33.1315542
+            ],
+            [
+              27.7204451,
+              -33.1308444
+            ],
+            [
+              27.7212471,
+              -33.1303391
+            ],
+            [
+              27.7228993,
+              -33.1277941
+            ],
+            [
+              27.7246213,
+              -33.1256287
+            ],
+            [
+              27.7259892,
+              -33.1228253
+            ],
+            [
+              27.7272284,
+              -33.1213382
+            ],
+            [
+              27.7289933,
+              -33.1202285
+            ],
+            [
+              27.7297872,
+              -33.1195321
+            ],
+            [
+              27.7324748,
+              -33.1188099
+            ],
+            [
+              27.7333975,
+              -33.118045
+            ],
+            [
+              27.7343523,
+              -33.1175597
+            ],
+            [
+              27.7374986,
+              -33.116587
+            ],
+            [
+              27.738322,
+              -33.1166139
+            ],
+            [
+              27.7392876,
+              -33.1163871
+            ],
+            [
+              27.7400896,
+              -33.115904
+            ],
+            [
+              27.7415809,
+              -33.1158097
+            ],
+            [
+              27.7431929,
+              -33.1151762
+            ],
+            [
+              27.7438796,
+              -33.1146617
+            ],
+            [
+              27.744589,
+              -33.1143674
+            ],
+            [
+              27.7455828,
+              -33.1129992
+            ],
+            [
+              27.7457638,
+              -33.1124039
+            ],
+            [
+              27.7462962,
+              -33.1120017
+            ],
+            [
+              27.7502981,
+              -33.1100955
+            ],
+            [
+              27.7527275,
+              -33.1093647
+            ],
+            [
+              27.7539097,
+              -33.1083902
+            ],
+            [
+              27.7550375,
+              -33.1082105
+            ],
+            [
+              27.7574589,
+              -33.1072399
+            ],
+            [
+              27.7580483,
+              -33.1071697
+            ],
+            [
+              27.7579477,
+              -33.1069697
+            ],
+            [
+              27.7581757,
+              -33.106804
+            ],
+            [
+              27.762832,
+              -33.1047156
+            ],
+            [
+              27.7637547,
+              -33.1039966
+            ],
+            [
+              27.7654499,
+              -33.1037922
+            ],
+            [
+              27.7679872,
+              -33.1030125
+            ],
+            [
+              27.7713185,
+              -33.1022553
+            ],
+            [
+              27.7744292,
+              -33.1019823
+            ],
+            [
+              27.7765006,
+              -33.1015992
+            ],
+            [
+              27.7779892,
+              -33.1020284
+            ],
+            [
+              27.7785914,
+              -33.1026159
+            ],
+            [
+              27.7791593,
+              -33.1027524
+            ],
+            [
+              27.7795342,
+              -33.1030698
+            ],
+            [
+              27.7797427,
+              -33.1030322
+            ],
+            [
+              27.779744,
+              -33.1028418
+            ],
+            [
+              27.7803388,
+              -33.1029695
+            ],
+            [
+              27.780257,
+              -33.1027193
+            ],
+            [
+              27.7803911,
+              -33.1026395
+            ],
+            [
+              27.7813809,
+              -33.1025205
+            ],
+            [
+              27.7820393,
+              -33.1021699
+            ],
+            [
+              27.782325,
+              -33.1021947
+            ],
+            [
+              27.7824014,
+              -33.1020228
+            ],
+            [
+              27.7828588,
+              -33.1019554
+            ],
+            [
+              27.7842589,
+              -33.1012341
+            ],
+            [
+              27.7844815,
+              -33.1008207
+            ],
+            [
+              27.7859782,
+              -33.1002612
+            ],
+            [
+              27.7863443,
+              -33.0998264
+            ],
+            [
+              27.7868365,
+              -33.0998781
+            ],
+            [
+              27.7874896,
+              -33.0994175
+            ],
+            [
+              27.7879255,
+              -33.0994242
+            ],
+            [
+              27.7880958,
+              -33.0990209
+            ],
+            [
+              27.788714,
+              -33.0987996
+            ],
+            [
+              27.7896059,
+              -33.0987962
+            ],
+            [
+              27.7898929,
+              -33.0985378
+            ],
+            [
+              27.7899599,
+              -33.0980019
+            ],
+            [
+              27.7902268,
+              -33.0976918
+            ],
+            [
+              27.7901557,
+              -33.0973087
+            ],
+            [
+              27.7911159,
+              -33.0968503
+            ],
+            [
+              27.791706,
+              -33.096939
+            ],
+            [
+              27.7918777,
+              -33.0963795
+            ],
+            [
+              27.7923015,
+              -33.0959391
+            ],
+            [
+              27.7943614,
+              -33.0955262
+            ],
+            [
+              27.7952754,
+              -33.0951083
+            ],
+            [
+              27.7959211,
+              -33.0951139
+            ],
+            [
+              27.796302,
+              -33.0948347
+            ],
+            [
+              27.796357,
+              -33.0944336
+            ],
+            [
+              27.7975827,
+              -33.0937347
+            ],
+            [
+              27.7987274,
+              -33.093351
+            ],
+            [
+              27.7985711,
+              -33.0931067
+            ],
+            [
+              27.7991746,
+              -33.0926337
+            ],
+            [
+              27.80021,
+              -33.0921651
+            ],
+            [
+              27.8021241,
+              -33.0909145
+            ],
+            [
+              27.8035191,
+              -33.0902741
+            ],
+            [
+              27.8039382,
+              -33.0897393
+            ],
+            [
+              27.8045022,
+              -33.0896219
+            ],
+            [
+              27.8062195,
+              -33.0886921
+            ],
+            [
+              27.8126836,
+              -33.0868359
+            ],
+            [
+              27.8162214,
+              -33.0863572
+            ],
+            [
+              27.817989,
+              -33.0854875
+            ],
+            [
+              27.8201267,
+              -33.0857909
+            ],
+            [
+              27.820529,
+              -33.0862471
+            ],
+            [
+              27.8204083,
+              -33.0868477
+            ],
+            [
+              27.8205116,
+              -33.0869527
+            ],
+            [
+              27.821032,
+              -33.0866921
+            ],
+            [
+              27.822184,
+              -33.0867966
+            ],
+            [
+              27.8229202,
+              -33.0865022
+            ],
+            [
+              27.8232173,
+              -33.086614
+            ],
+            [
+              27.8234124,
+              -33.086219
+            ],
+            [
+              27.8236914,
+              -33.0861392
+            ],
+            [
+              27.8238805,
+              -33.0863083
+            ],
+            [
+              27.8243968,
+              -33.0858662
+            ],
+            [
+              27.8241809,
+              -33.0854841
+            ],
+            [
+              27.8242037,
+              -33.0847201
+            ],
+            [
+              27.8243807,
+              -33.0846661
+            ],
+            [
+              27.8246033,
+              -33.0849774
+            ],
+            [
+              27.8252578,
+              -33.0849212
+            ],
+            [
+              27.826218,
+              -33.0840492
+            ],
+            [
+              27.8261094,
+              -33.0839267
+            ],
+            [
+              27.8250915,
+              -33.0840919
+            ],
+            [
+              27.8247428,
+              -33.0838537
+            ],
+            [
+              27.8243566,
+              -33.0832626
+            ],
+            [
+              27.8243512,
+              -33.0824086
+            ],
+            [
+              27.8251719,
+              -33.0815322
+            ],
+            [
+              27.8251612,
+              -33.0813299
+            ],
+            [
+              27.8247026,
+              -33.0808456
+            ],
+            [
+              27.8248394,
+              -33.080214
+            ],
+            [
+              27.825931,
+              -33.0795881
+            ],
+            [
+              27.8261516,
+              -33.0789493
+            ],
+            [
+              27.8264594,
+              -33.0788172
+            ],
+            [
+              27.8271393,
+              -33.0780857
+            ],
+            [
+              27.8269462,
+              -33.0778003
+            ],
+            [
+              27.8270575,
+              -33.0775171
+            ],
+            [
+              27.8269409,
+              -33.0772631
+            ],
+            [
+              27.8275645,
+              -33.0765079
+            ],
+            [
+              27.82899,
+              -33.07579
+            ],
+            [
+              27.83038,
+              -33.0747
+            ],
+            [
+              27.8321752,
+              -33.0741648
+            ],
+            [
+              27.8325185,
+              -33.0741873
+            ],
+            [
+              27.8331247,
+              -33.0739626
+            ],
+            [
+              27.8331683,
+              -33.0737856
+            ],
+            [
+              27.8335458,
+              -33.0739805
+            ],
+            [
+              27.8343773,
+              -33.0737816
+            ],
+            [
+              27.8344336,
+              -33.0735434
+            ],
+            [
+              27.8348266,
+              -33.0734906
+            ],
+            [
+              27.835764,
+              -33.0729601
+            ],
+            [
+              27.8361288,
+              -33.0722521
+            ],
+            [
+              27.8368637,
+              -33.0716947
+            ],
+            [
+              27.8378534,
+              -33.0713418
+            ],
+            [
+              27.8395647,
+              -33.0709979
+            ],
+            [
+              27.8403532,
+              -33.0710878
+            ],
+            [
+              27.8413638,
+              -33.0708052
+            ],
+            [
+              27.8420256,
+              -33.0703214
+            ],
+            [
+              27.8423287,
+              -33.0703832
+            ],
+            [
+              27.8426164,
+              -33.0707917
+            ],
+            [
+              27.8431548,
+              -33.0704562
+            ],
+            [
+              27.8436148,
+              -33.0707417
+            ],
+            [
+              27.8439367,
+              -33.0706743
+            ],
+            [
+              27.8440064,
+              -33.070227
+            ],
+            [
+              27.843816,
+              -33.0695212
+            ],
+            [
+              27.8440627,
+              -33.0691683
+            ],
+            [
+              27.8445509,
+              -33.0688941
+            ],
+            [
+              27.8455487,
+              -33.0687412
+            ],
+            [
+              27.8472868,
+              -33.0676735
+            ],
+            [
+              27.8483254,
+              -33.0676056
+            ],
+            [
+              27.8499636,
+              -33.0670577
+            ],
+            [
+              27.8503123,
+              -33.0668183
+            ],
+            [
+              27.8503713,
+              -33.0665631
+            ],
+            [
+              27.8512819,
+              -33.0662338
+            ],
+            [
+              27.8513396,
+              -33.065863
+            ],
+            [
+              27.8518707,
+              -33.0655932
+            ],
+            [
+              27.851935,
+              -33.0653066
+            ],
+            [
+              27.8521583,
+              -33.0652487
+            ],
+            [
+              27.8535444,
+              -33.0637916
+            ],
+            [
+              27.8538706,
+              -33.063684
+            ],
+            [
+              27.8548003,
+              -33.0628761
+            ],
+            [
+              27.8555225,
+              -33.0625586
+            ],
+            [
+              27.8566101,
+              -33.0624226
+            ],
+            [
+              27.8569306,
+              -33.0621147
+            ],
+            [
+              27.8585333,
+              -33.0618146
+            ],
+            [
+              27.8592843,
+              -33.0612914
+            ],
+            [
+              27.8600045,
+              -33.0612374
+            ],
+            [
+              27.8606898,
+              -33.0607142
+            ],
+            [
+              27.8620349,
+              -33.0604096
+            ],
+            [
+              27.8623755,
+              -33.0601207
+            ],
+            [
+              27.8628328,
+              -33.0601455
+            ],
+            [
+              27.862743,
+              -33.0598611
+            ],
+            [
+              27.8632271,
+              -33.0596858
+            ],
+            [
+              27.8638836,
+              -33.0588796
+            ],
+            [
+              27.8634551,
+              -33.0573675
+            ],
+            [
+              27.8641056,
+              -33.0567263
+            ],
+            [
+              27.8645086,
+              -33.0565369
+            ],
+            [
+              27.8647573,
+              -33.056896
+            ],
+            [
+              27.8665155,
+              -33.0563503
+            ],
+            [
+              27.8680538,
+              -33.0562339
+            ],
+            [
+              27.8711142,
+              -33.0552324
+            ],
+            [
+              27.8723091,
+              -33.0543073
+            ],
+            [
+              27.8728107,
+              -33.0541584
+            ],
+            [
+              27.8732157,
+              -33.0536655
+            ],
+            [
+              27.8737233,
+              -33.0535272
+            ],
+            [
+              27.8744964,
+              -33.0525555
+            ],
+            [
+              27.8746352,
+              -33.0520412
+            ],
+            [
+              27.8751536,
+              -33.0515241
+            ],
+            [
+              27.8758094,
+              -33.0514365
+            ],
+            [
+              27.8760065,
+              -33.051097
+            ],
+            [
+              27.8764357,
+              -33.0512555
+            ],
+            [
+              27.8770915,
+              -33.0511476
+            ],
+            [
+              27.8787518,
+              -33.050418
+            ],
+            [
+              27.8794827,
+              -33.0496165
+            ],
+            [
+              27.8802927,
+              -33.0495435
+            ],
+            [
+              27.88064,
+              -33.0490579
+            ],
+            [
+              27.8817404,
+              -33.0483845
+            ],
+            [
+              27.8828247,
+              -33.0480085
+            ],
+            [
+              27.8829159,
+              -33.0475819
+            ],
+            [
+              27.8833008,
+              -33.047456
+            ],
+            [
+              27.8838144,
+              -33.046976
+            ],
+            [
+              27.8847136,
+              -33.0466657
+            ],
+            [
+              27.8849128,
+              -33.0464195
+            ],
+            [
+              27.8864457,
+              -33.0460845
+            ],
+            [
+              27.887361,
+              -33.0455989
+            ],
+            [
+              27.8875829,
+              -33.045283
+            ],
+            [
+              27.8883353,
+              -33.0452639
+            ],
+            [
+              27.888578,
+              -33.0450033
+            ],
+            [
+              27.8892553,
+              -33.0450705
+            ],
+            [
+              27.8902464,
+              -33.0445163
+            ],
+            [
+              27.8903852,
+              -33.0446579
+            ],
+            [
+              27.8906541,
+              -33.044459
+            ],
+            [
+              27.8911972,
+              -33.0446
+            ],
+            [
+              27.8912508,
+              -33.0444314
+            ],
+            [
+              27.8916834,
+              -33.0444983
+            ],
+            [
+              27.8919234,
+              -33.0442302
+            ],
+            [
+              27.8926463,
+              -33.0442718
+            ],
+            [
+              27.8931592,
+              -33.0440464
+            ],
+            [
+              27.8941758,
+              -33.0439157
+            ],
+            [
+              27.8959782,
+              -33.0441689
+            ],
+            [
+              27.8984016,
+              -33.0440318
+            ],
+            [
+              27.8991255,
+              -33.0442493
+            ],
+            [
+              27.901393,
+              -33.0429992
+            ],
+            [
+              27.9018912,
+              -33.043328
+            ],
+            [
+              27.9020628,
+              -33.0429334
+            ],
+            [
+              27.9028487,
+              -33.0425636
+            ],
+            [
+              27.903188,
+              -33.0421825
+            ],
+            [
+              27.90364,
+              -33.0421398
+            ],
+            [
+              27.9039457,
+              -33.041676
+            ],
+            [
+              27.905193,
+              -33.0406558
+            ],
+            [
+              27.9058971,
+              -33.0404113
+            ],
+            [
+              27.9063316,
+              -33.0399801
+            ],
+            [
+              27.9071228,
+              -33.0398865
+            ],
+            [
+              27.9072006,
+              -33.0396586
+            ],
+            [
+              27.9078618,
+              -33.0392471
+            ],
+            [
+              27.9084411,
+              -33.0383826
+            ],
+            [
+              27.9090265,
+              -33.0380391
+            ],
+            [
+              27.909333,
+              -33.0380981
+            ],
+            [
+              27.9090889,
+              -33.0377766
+            ],
+            [
+              27.9091626,
+              -33.0374269
+            ],
+            [
+              27.9101705,
+              -33.0361846
+            ],
+            [
+              27.910485,
+              -33.0351896
+            ],
+            [
+              27.9114076,
+              -33.0345353
+            ],
+            [
+              27.9128963,
+              -33.0328241
+            ],
+            [
+              27.917338,
+              -33.0303483
+            ],
+            [
+              27.9190922,
+              -33.0297141
+            ],
+            [
+              27.9196568,
+              -33.0298367
+            ],
+            [
+              27.9197654,
+              -33.0294173
+            ],
+            [
+              27.9200242,
+              -33.0291621
+            ],
+            [
+              27.9251835,
+              -33.0280433
+            ],
+            [
+              27.9250605,
+              -33.0278667
+            ],
+            [
+              27.9187703,
+              -33.0277352
+            ],
+            [
+              27.9174406,
+              -33.0275801
+            ],
+            [
+              27.9174723,
+              -33.0274034
+            ],
+            [
+              27.9153907,
+              -33.0259947
+            ],
+            [
+              27.9157072,
+              -33.0242495
+            ],
+            [
+              27.915895,
+              -33.0239437
+            ],
+            [
+              27.9161726,
+              -33.0238672
+            ],
+            [
+              27.9165213,
+              -33.0233421
+            ],
+            [
+              27.9170027,
+              -33.0232882
+            ],
+            [
+              27.9171476,
+              -33.0230307
+            ],
+            [
+              27.917114,
+              -33.0225797
+            ],
+            [
+              27.9177484,
+              -33.0223953
+            ],
+            [
+              27.9178932,
+              -33.02204
+            ],
+            [
+              27.9185564,
+              -33.0220271
+            ],
+            [
+              27.9185262,
+              -33.0214924
+            ],
+            [
+              27.9194042,
+              -33.0208783
+            ],
+            [
+              27.9194556,
+              -33.0205163
+            ],
+            [
+              27.9198124,
+              -33.0203713
+            ],
+            [
+              27.9197587,
+              -33.0198945
+            ],
+            [
+              27.9201798,
+              -33.0192209
+            ],
+            [
+              27.9205091,
+              -33.0190776
+            ],
+            [
+              27.920381,
+              -33.0187295
+            ],
+            [
+              27.9208282,
+              -33.0186727
+            ],
+            [
+              27.9210904,
+              -33.0180975
+            ],
+            [
+              27.9214083,
+              -33.017993
+            ],
+            [
+              27.9213184,
+              -33.0175229
+            ],
+            [
+              27.921482,
+              -33.0163613
+            ],
+            [
+              27.9213265,
+              -33.0159261
+            ],
+            [
+              27.9216845,
+              -33.0143596
+            ],
+            [
+              27.9215384,
+              -33.0138839
+            ],
+            [
+              27.9219883,
+              -33.0127048
+            ],
+            [
+              27.9223886,
+              -33.0125063
+            ],
+            [
+              27.9221821,
+              -33.0123016
+            ],
+            [
+              27.922217,
+              -33.0120092
+            ],
+            [
+              27.9228795,
+              -33.0107452
+            ],
+            [
+              27.9256153,
+              -33.008361
+            ],
+            [
+              27.9283458,
+              -33.0069045
+            ],
+            [
+              27.9298706,
+              -33.0067437
+            ],
+            [
+              27.9304326,
+              -33.0063017
+            ],
+            [
+              27.9310548,
+              -33.0064434
+            ],
+            [
+              27.9316355,
+              -33.0060273
+            ],
+            [
+              27.9328787,
+              -33.0056697
+            ],
+            [
+              27.933033,
+              -33.0052288
+            ],
+            [
+              27.9334755,
+              -33.0049746
+            ],
+            [
+              27.9334494,
+              -33.004811
+            ],
+            [
+              27.9340562,
+              -33.0042818
+            ],
+            [
+              27.9348287,
+              -33.0043403
+            ],
+            [
+              27.9354912,
+              -33.0041603
+            ],
+            [
+              27.9362529,
+              -33.0034428
+            ],
+            [
+              27.9377483,
+              -33.0028354
+            ],
+            [
+              27.9378274,
+              -33.0025801
+            ],
+            [
+              27.9385503,
+              -33.0026364
+            ],
+            [
+              27.9389848,
+              -33.0024294
+            ],
+            [
+              27.939245,
+              -33.0024722
+            ],
+            [
+              27.9393093,
+              -33.0022337
+            ],
+            [
+              27.940287,
+              -33.0018789
+            ],
+            [
+              27.9410005,
+              -33.0020898
+            ],
+            [
+              27.9410655,
+              -33.0023226
+            ],
+            [
+              27.941549,
+              -33.0025396
+            ],
+            [
+              27.9422665,
+              -33.0021707
+            ],
+            [
+              27.9428391,
+              -33.0021887
+            ],
+            [
+              27.9432334,
+              -33.0019762
+            ],
+            [
+              27.9433407,
+              -33.0016612
+            ],
+            [
+              27.9437618,
+              -33.0014779
+            ],
+            [
+              27.9438315,
+              -33.0011315
+            ],
+            [
+              27.9445423,
+              -33.0010944
+            ],
+            [
+              27.9446858,
+              -33.0008323
+            ],
+            [
+              27.9445396,
+              -33.0001935
+            ],
+            [
+              27.9451069,
+              -33.0003431
+            ],
+            [
+              27.945023688616025,
+              -33
+            ],
+            [
+              27,
+              -33
+            ],
+            [
+              27,
+              -33.570900632399905
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

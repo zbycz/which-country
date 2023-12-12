@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -307787,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cyprus",
+        "local_name": "Κύπρος - Kıbrıs",
+        "name_en": "Cyprus",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+          "name": "Κύπρος - Kıbrıs",
+          "name:af": "Siprus",
+          "name:am": "ቆጵሮስ",
+          "name:an": "Chipre",
+          "name:ar": "قبرص",
+          "name:az": "Kipr",
+          "name:be": "Кіпр",
+          "name:bg": "Кипър",
+          "name:bi": "Cyprus",
+          "name:bn": "সাইপ্রাস",
+          "name:bo": "སེ་པི་རི་སི།",
+          "name:br": "Kiprenez",
+          "name:bs": "Kipar",
+          "name:ca": "Xipre",
+          "name:ce": "Кипр",
+          "name:co": "Cipru",
+          "name:cs": "Kypr",
+          "name:cu": "Кѷпръ",
+          "name:cv": "Кипр",
+          "name:cy": "Cyprus",
+          "name:da": "Cypern",
+          "name:de": "Zypern",
+          "name:ee": "Cyprus",
+          "name:el": "Κύπρος",
+          "name:en": "Cyprus",
+          "name:eo": "Kipro",
+          "name:es": "Chipre",
+          "name:et": "Küpros",
+          "name:eu": "Zipre",
+          "name:fa": "قبرس",
+          "name:fi": "Kypros",
+          "name:fo": "Kýpros",
+          "name:fr": "Chypre",
+          "name:fy": "Syprus",
+          "name:ga": "An Chipir",
+          "name:gd": "Cìopras",
+          "name:gl": "Chipre",
+          "name:gn": "Chipre",
+          "name:gu": "સાયપ્રસ",
+          "name:gv": "Yn Cheeprey",
+          "name:he": "קפריסין",
+          "name:hi": "साइप्रस",
+          "name:hr": "Cipar",
+          "name:ht": "Chip",
+          "name:hu": "Ciprus",
+          "name:hy": "Կիպրոս",
+          "name:ia": "Cypro",
+          "name:id": "Siprus",
+          "name:ie": "Cypria",
+          "name:io": "Chipro",
+          "name:is": "Kýpur",
+          "name:it": "Cipro",
+          "name:ja": "キプロス",
+          "name:jv": "Siprus",
+          "name:ka": "კვიპროსი",
+          "name:kg": "Kipros",
+          "name:kk": "Кипр",
+          "name:kl": "Cyperni",
+          "name:kn": "ಕಿಪ್ರೊಸ್",
+          "name:ko": "키프로스",
+          "name:ku": "Kîpros",
+          "name:kv": "Кипр",
+          "name:kw": "Kobros",
+          "name:la": "Cyprus",
+          "name:lb": "Zypern",
+          "name:li": "Cyprus",
+          "name:lt": "Kipras",
+          "name:lv": "Kipra",
+          "name:mg": "Kipra",
+          "name:mi": "Haipara",
+          "name:mk": "Кипар",
+          "name:ml": "സൈപ്രസ്",
+          "name:mn": "Кипр",
+          "name:mr": "सायप्रस",
+          "name:ms": "Cyprus",
+          "name:mt": "Ċipru",
+          "name:my": "ဆိုက်ပရပ်စ်နိုင်ငံ",
+          "name:na": "Taiprus",
+          "name:nb": "Kypros",
+          "name:ne": "साइप्रस",
+          "name:nl": "Cyprus",
+          "name:nn": "Kypros",
+          "name:no": "Kypros",
+          "name:nv": "Béésh Łichíiʼii Bikéyah",
+          "name:oc": "Chipre",
+          "name:or": "ସାଇପ୍ରସ",
+          "name:os": "Кипр",
+          "name:pa": "ਸਾਇਪ੍ਰਸ",
+          "name:pl": "Cypr",
+          "name:pt": "Chipre",
+          "name:qu": "Kipru",
+          "name:rm": "Cipra",
+          "name:ro": "Cipru",
+          "name:ru": "Кипр",
+          "name:rw": "Shipure",
+          "name:sc": "Tzipru",
+          "name:se": "Kypros",
+          "name:sh": "Cipar",
+          "name:si": "සයිප්‍රස්",
+          "name:sk": "Cyprus",
+          "name:sl": "Ciper",
+          "name:sm": "Cyprus",
+          "name:so": "Qabrus",
+          "name:sq": "Qiproja",
+          "name:sr": "Кипар",
+          "name:ss": "ISayiphro",
+          "name:su": "Siprus",
+          "name:sv": "Cypern",
+          "name:sw": "Kupro",
+          "name:ta": "சைப்பிரஸ்",
+          "name:te": "సైప్రస్",
+          "name:tg": "Кипр",
+          "name:th": "ประเทศไซปรัส",
+          "name:tk": "Kipr",
+          "name:tl": "Tsipre",
+          "name:tr": "Kıbrıs",
+          "name:tt": "Кипр",
+          "name:ug": "سىپرۇس",
+          "name:uk": "Кіпр",
+          "name:ur": "قبرص",
+          "name:uz": "Qibris",
+          "name:vi": "Síp",
+          "name:vo": "Sipreän",
+          "name:wo": "Ciipër",
+          "name:yi": "קיפראס",
+          "name:yo": "Kíprù",
+          "name:zh": "赛普勒斯/塞浦路斯/塞浦路斯",
+          "boundary": "administrative",
+          "name:ace": "Siprus",
+          "name:ang": "Cipros",
+          "name:arc": "ܩܘܦܪܘܣ",
+          "name:arz": "قبرص",
+          "name:ast": "Xipre",
+          "name:bar": "Zypern",
+          "name:bcl": "Siprus",
+          "name:bpy": "সাইপ্রাস",
+          "name:bxr": "Кипр",
+          "name:ceb": "Tsipre",
+          "name:ckb": "قوبرس",
+          "name:crh": "Qıbrız",
+          "name:csb": "Cyper",
+          "name:diq": "Qıbrısi",
+          "name:dsb": "Cypern",
+          "name:ext": "Chipri",
+          "name:frp": "Ch·ipre",
+          "name:frr": "Zypern",
+          "name:fur": "Cipri",
+          "name:gsw": "Zypern",
+          "name:hak": "Set-phû-lu-sṳ̂",
+          "name:haw": "Kupelo",
+          "name:hif": "Cyprus",
+          "name:hsb": "Cypernska",
+          "name:ilo": "Cyprus",
+          "name:kaa": "Kipr",
+          "name:krc": "Кипр",
+          "name:lad": "Kipre",
+          "name:lez": "Кипр",
+          "name:lij": "Çipro",
+          "name:lmo": "Cipru",
+          "name:ltg": "Kipra",
+          "name:mdf": "Кипра",
+          "name:mhr": "Кипр",
+          "name:nah": "Chipre",
+          "name:nan": "Ku-pí-lō͘",
+          "name:nap": "Cipro",
+          "name:nds": "Zypern",
+          "name:new": "साइप्रस",
+          "name:nov": "Kiprus",
+          "name:nrm": "Chypre",
+          "name:pag": "Kiprô",
+          "name:pam": "Sipre",
+          "name:pih": "Siipris",
+          "name:pms": "Cipro",
+          "name:pnb": "قبرص",
+          "name:pnt": "Κύπρος",
+          "name:rue": "Ціпрус",
+          "name:sah": "Кипр",
+          "name:scn": "Cipru",
+          "name:sco": "Cyprus",
+          "name:smn": "Kypros",
+          "name:sms": "Kypros",
+          "name:srn": "Sipruskondre",
+          "name:stq": "Zypern",
+          "name:szl": "Cypr",
+          "name:tet": "Xipre",
+          "name:tpi": "Saipras",
+          "name:tzl": "Cüpris",
+          "name:udm": "Кипр",
+          "name:vec": "Sipro",
+          "name:vep": "Kipr",
+          "name:vls": "Cyprus",
+          "name:vro": "Küprüs",
+          "name:war": "Tsipre",
+          "name:wuu": "塞浦路斯",
+          "name:xal": "Кипр",
+          "name:xmf": "კვიპროსი",
+          "name:yue": "塞浦路斯",
+          "name:zea": "Cyprus",
+          "timezone": "Europe/Nicosia",
+          "way_area": "2.26543",
+          "wikidata": "Q229",
+          "ISO3166-1": "CY",
+          "wikipedia": "en:Cyprus",
+          "admin_level": "2",
+          "border_type": "nation",
+          "description": "This is the full country, de jure, as recognized by the United Nations",
+          "name:nds-nl": "Cyprus",
+          "driving_side": "left",
+          "name:zh-Hans": "塞浦路斯",
+          "name:zh-Hant": "赛普勒斯",
+          "official_name": "Κυπριακή Δημοκρατία - Kıbrıs Cumhuriyeti",
+          "ISO3166-1:alpha2": "CY",
+          "ISO3166-1:alpha3": "CYP",
+          "official_name:ar": "جمهورية قبرص",
+          "official_name:az": "Kipr Respublikası",
+          "official_name:br": "Republik Kiprenez",
+          "official_name:cs": "Kyperská republika",
+          "official_name:cv": "Кипр Республики",
+          "official_name:de": "Republik Zypern",
+          "official_name:el": "Κυπριακή Δημοκρατία",
+          "official_name:en": "Republic of Cyprus",
+          "official_name:eo": "Respubliko Kipro",
+          "official_name:fi": "Kyproksen tasavalta",
+          "official_name:fr": "République de Chypre",
+          "official_name:hu": "Ciprusi Köztársaság",
+          "official_name:mg": "Repoblikan'i Kipra",
+          "official_name:nb": "Republikken Kypros",
+          "official_name:nn": "Republikken Kypros",
+          "official_name:no": "Republikken Kypros",
+          "official_name:ru": "Республика Кипр",
+          "official_name:so": "Jasiirada Qabrus",
+          "official_name:tk": "Kipr Respublikasy",
+          "official_name:tr": "Kıbrıs Cumhuriyeti",
+          "official_name:tt": "Кипр Республикасы",
+          "official_name:uz": "Qibris Respublikasi",
+          "official_name:vi": "Cộng hòa Síp",
+          "ISO3166-1:numeric": "196",
+          "official_name:ast": "República de Xipre",
+          "official_name:bar": "Republik Zypern",
+          "official_name:crh": "Qıbrız Cumhuriyeti",
+          "official_name:diq": "Cumhuriyetê Qıbrısi",
+          "official_name:gsw": "Republik Zypern",
+          "official_name:lad": "Repuvlika Kipriyota",
+          "official_name:nds": "Republiek Zypern",
+          "official_name:xal": "Кипрудин Орн"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                33,
+                34.64384357475965
+              ],
+              [
+                33.0009157,
+                34.6440274
+              ],
+              [
+                33.0028301,
+                34.6446823
+              ],
+              [
+                33.0031889,
+                34.6440934
+              ],
+              [
+                33.0117835,
+                34.6441667
+              ],
+              [
+                33.0139011,
+                34.6443212
+              ],
+              [
+                33.0669961,
+                34.6171336
+              ],
+              [
+                33.1192167,
+                34.612985
+              ],
+              [
+                33.1514557,
+                34.6063085
+              ],
+              [
+                33.1710623,
+                34.593649
+              ],
+              [
+                33.2053154,
+                34.5678765
+              ],
+              [
+                33.2309852,
+                34.5449126
+              ],
+              [
+                33.2677321,
+                34.4992906
+              ],
+              [
+                33.3106622,
+                34.5060485
+              ],
+              [
+                33.3262987,
+                34.5091206
+              ],
+              [
+                33.3915831,
+                34.5238417
+              ],
+              [
+                33.4029491,
+                34.5266461
+              ],
+              [
+                33.444251,
+                34.5377311
+              ],
+              [
+                33.448103,
+                34.5387933
+              ],
+              [
+                33.4631354,
+                34.5435114
+              ],
+              [
+                33.597078,
+                34.5936503
+              ],
+              [
+                33.7045677,
+                34.6329447
+              ],
+              [
+                33.7140238,
+                34.6365951
+              ],
+              [
+                33.7282205,
+                34.6428653
+              ],
+              [
+                33.741893,
+                34.6498879
+              ],
+              [
+                33.7549829,
+                34.6576331
+              ],
+              [
+                33.7674343,
+                34.6660678
+              ],
+              [
+                33.7791939,
+                34.6751561
+              ],
+              [
+                33.7902116,
+                34.6848594
+              ],
+              [
+                33.80044,
+                34.6951363
+              ],
+              [
+                33.8098354,
+                34.705943
+              ],
+              [
+                33.814419,
+                34.7118111
+              ],
+              [
+                33.8357357,
+                34.7401438
+              ],
+              [
+                33.8248657,
+                34.7594212
+              ],
+              [
+                33.8116439,
+                34.7840178
+              ],
+              [
+                33.7728987,
+                34.8579481
+              ],
+              [
+                33.7593011,
+                34.879748
+              ],
+              [
+                33.7501666,
+                34.8876854
+              ],
+              [
+                33.7431605,
+                34.8940761
+              ],
+              [
+                33.7400452,
+                34.8980686
+              ],
+              [
+                33.7161599,
+                34.9236791
+              ],
+              [
+                33.7155614,
+                34.9296159
+              ],
+              [
+                33.7010114,
+                34.9789422
+              ],
+              [
+                33.7009525,
+                34.9981258
+              ],
+              [
+                33.7027962,
+                34.9988618
+              ],
+              [
+                33.705376,
+                34.9982383
+              ],
+              [
+                33.7102193,
+                34.9964276
+              ],
+              [
+                33.71188449765034,
+                35
+              ],
+              [
+                33,
+                35
+              ],
+              [
+                33,
+                34.64384357475965
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                33.740506,
+                34.983488
+              ],
+              [
+                33.740862,
+                34.982747
+              ],
+              [
+                33.741435,
+                34.982333
+              ],
+              [
+                33.745741,
+                34.982152
+              ],
+              [
+                33.745722,
+                34.981941
+              ],
+              [
+                33.74589,
+                34.98193
+              ],
+              [
+                33.745911,
+                34.982153
+              ],
+              [
+                33.748789,
+                34.982384
+              ],
+              [
+                33.748255,
+                34.983554
+              ],
+              [
+                33.747651,
+                34.983497
+              ],
+              [
+                33.745476,
+                34.987432
+              ],
+              [
+                33.743664,
+                34.987509
+              ],
+              [
+                33.740506,
+                34.983488
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                33.740526,
+                34.982462
+              ],
+              [
+                33.74053,
+                34.981753
+              ],
+              [
+                33.7412151,
+                34.9818863
+              ],
+              [
+                33.7424324,
+                34.9812945
+              ],
+              [
+                33.7425171,
+                34.9806701
+              ],
+              [
+                33.7427239,
+                34.9804537
+              ],
+              [
+                33.7430535,
+                34.9805044
+              ],
+              [
+                33.7433594,
+                34.9802605
+              ],
+              [
+                33.7433746,
+                34.979572
+              ],
+              [
+                33.743565,
+                34.9792942
+              ],
+              [
+                33.7452709,
+                34.9789693
+              ],
+              [
+                33.7459758,
+                34.9781406
+              ],
+              [
+                33.7462461,
+                34.978216
+              ],
+              [
+                33.7455423,
+                34.9791129
+              ],
+              [
+                33.7456668,
+                34.9791597
+              ],
+              [
+                33.7459701,
+                34.9788757
+              ],
+              [
+                33.746701,
+                34.979057
+              ],
+              [
+                33.746811,
+                34.9788529
+              ],
+              [
+                33.7461413,
+                34.9786612
+              ],
+              [
+                33.7463078,
+                34.9785254
+              ],
+              [
+                33.7480196,
+                34.9790427
+              ],
+              [
+                33.7480789,
+                34.9792025
+              ],
+              [
+                33.7479271,
+                34.9793232
+              ],
+              [
+                33.747282,
+                34.9790276
+              ],
+              [
+                33.7466356,
+                34.9792847
+              ],
+              [
+                33.7467335,
+                34.9793911
+              ],
+              [
+                33.747363,
+                34.9791586
+              ],
+              [
+                33.7476591,
+                34.9793082
+              ],
+              [
+                33.749319,
+                34.981418
+              ],
+              [
+                33.749053,
+                34.981986
+              ],
+              [
+                33.746998,
+                34.981754
+              ],
+              [
+                33.743984,
+                34.981717
+              ],
+              [
+                33.741405,
+                34.981939
+              ],
+              [
+                33.740526,
+                34.982462
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                33.756785,
+                34.999242
+              ],
+              [
+                33.75724,
+                34.998762
+              ],
+              [
+                33.759806,
+                34.998431
+              ],
+              [
+                33.760791,
+                34.998043
+              ],
+              [
+                33.761331,
+                34.997648
+              ],
+              [
+                33.760724,
+                34.996984
+              ],
+              [
+                33.762521,
+                34.996242
+              ],
+              [
+                33.766259,
+                34.995386
+              ],
+              [
+                33.767235,
+                34.991971
+              ],
+              [
+                33.777548,
+                34.989912
+              ],
+              [
+                33.778495,
+                34.987924
+              ],
+              [
+                33.779894,
+                34.988098
+              ],
+              [
+                33.779679,
+                34.987439
+              ],
+              [
+                33.780241,
+                34.987248
+              ],
+              [
+                33.780388,
+                34.9879
+              ],
+              [
+                33.781008,
+                34.988246
+              ],
+              [
+                33.780896,
+                34.988511
+              ],
+              [
+                33.782387,
+                34.988623
+              ],
+              [
+                33.782274,
+                34.987256
+              ],
+              [
+                33.783344,
+                34.98694
+              ],
+              [
+                33.78368,
+                34.988474
+              ],
+              [
+                33.78399,
+                34.988689
+              ],
+              [
+                33.785118,
+                34.988744
+              ],
+              [
+                33.785607,
+                34.989602
+              ],
+              [
+                33.788442,
+                34.988649
+              ],
+              [
+                33.78978,
+                34.988438
+              ],
+              [
+                33.789853,
+                34.988629
+              ],
+              [
+                33.791913,
+                34.988978
+              ],
+              [
+                33.791444,
+                34.989692
+              ],
+              [
+                33.790692,
+                34.989861
+              ],
+              [
+                33.785128,
+                34.995724
+              ],
+              [
+                33.782836,
+                34.995988
+              ],
+              [
+                33.779338,
+                34.995271
+              ],
+              [
+                33.775295,
+                34.995513
+              ],
+              [
+                33.773173,
+                34.997636
+              ],
+              [
+                33.766578,
+                34.999231
+              ],
+              [
+                33.76398072529645,
+                35
+              ],
+              [
+                33.757997644831114,
+                35
+              ],
+              [
+                33.756785,
+                34.999242
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                33.8346204,
+                34.9745595
+              ],
+              [
+                33.8402937,
+                34.9717682
+              ],
+              [
+                33.8473687,
+                34.9716495
+              ],
+              [
+                33.8600647,
+                34.973761
+              ],
+              [
+                33.883078,
+                34.96866
+              ],
+              [
+                33.8926522,
+                34.9671524
+              ],
+              [
+                33.9010915,
+                34.9646733
+              ],
+              [
+                33.9121007,
+                34.9618638
+              ],
+              [
+                33.9170498,
+                34.9600371
+              ],
+              [
+                33.9207791,
+                34.9583502
+              ],
+              [
+                33.9257013,
+                34.9536137
+              ],
+              [
+                33.929288,
+                34.9496932
+              ],
+              [
+                33.9390494,
+                34.9377393
+              ],
+              [
+                33.944512,
+                34.9285976
+              ],
+              [
+                33.9807151,
+                34.8751471
+              ],
+              [
+                33.9832178,
+                34.8546821
+              ],
+              [
+                33.9865233,
+                34.7659733
+              ],
+              [
+                34,
+                34.76328445565306
+              ],
+              [
+                34,
+                35
+              ],
+              [
+                33.85371516572712,
+                35
+              ],
+              [
+                33.8537403,
+                34.9955827
+              ],
+              [
+                33.8551308,
+                34.9900383
+              ],
+              [
+                33.8549052,
+                34.9845491
+              ],
+              [
+                33.8461993,
+                34.9850752
+              ],
+              [
+                33.8399251,
+                34.9776544
+              ],
+              [
+                33.8377492,
+                34.9784473
+              ],
+              [
+                33.8371399,
+                34.9773029
+              ],
+              [
+                33.8354313,
+                34.9758717
+              ],
+              [
+                33.8346204,
+                34.9745595
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

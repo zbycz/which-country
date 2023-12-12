@@ -1,0 +1,921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -49898,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Cambodia",
+        "local_name": "ព្រះរាជាណាចក្រ​កម្ពុជា",
+        "name_en": "Cambodia",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+          "name": "ព្រះរាជាណាចក្រ​កម្ពុជា",
+          "name:af": "Kambodja",
+          "name:am": "ካምቦዲያ",
+          "name:an": "Cambocha",
+          "name:ar": "كمبوديا",
+          "name:az": "Kamboca",
+          "name:ba": "Камбоджа",
+          "name:be": "Камбоджа",
+          "name:bg": "Камбоджа",
+          "name:bn": "কম্বোডিয়া",
+          "name:bo": "ཁམ་པོ་ཛ།",
+          "name:br": "Kambodja",
+          "name:bs": "Kambodža",
+          "name:ca": "Cambodja",
+          "name:ce": "Камбоджа",
+          "name:cs": "Kambodža",
+          "name:cv": "Камбоджа",
+          "name:cy": "Cambodia",
+          "name:da": "Cambodja",
+          "name:de": "Kambodscha",
+          "name:dv": "ކެންބޯޑިއާ",
+          "name:dz": "ཀམ་བོ་ཌི་ཡ་",
+          "name:el": "Καμπότζη",
+          "name:en": "Cambodia",
+          "name:eo": "Kamboĝo",
+          "name:es": "Camboya",
+          "name:et": "Kambodža",
+          "name:eu": "Kanbodia",
+          "name:fa": "کامبوج",
+          "name:fi": "Kambodža",
+          "name:fo": "Kambodja",
+          "name:fr": "Cambodge",
+          "name:fy": "Kambodja",
+          "name:ga": "An Chambóid",
+          "name:gd": "Cambuidea",
+          "name:gl": "Camboxa",
+          "name:gn": "Kamboja",
+          "name:gu": "કમ્બોડીયા",
+          "name:gv": "Yn Chamboyd",
+          "name:ha": "Kambodiya",
+          "name:he": "קמבודיה",
+          "name:hi": "कम्बोडिया",
+          "name:hr": "Kambodža",
+          "name:ht": "Kanbòdj",
+          "name:hu": "Kambodzsa",
+          "name:hy": "Կամբոջա",
+          "name:ia": "Cambodgia",
+          "name:id": "Kamboja",
+          "name:ie": "Cambodja",
+          "name:io": "Kambodja",
+          "name:is": "Kambódía",
+          "name:it": "Cambogia",
+          "name:ja": "カンボジア",
+          "name:jv": "Kamboja",
+          "name:ka": "კამბოჯა",
+          "name:kk": "Камбоджа",
+          "name:km": "ព្រះរាជាណាចក្រកម្ពុជា",
+          "name:kn": "ಕಾಂಬೋಡಿಯ",
+          "name:ko": "캄보디아",
+          "name:ku": "Kamboca",
+          "name:kv": "Камбоджа",
+          "name:kw": "Kamboji",
+          "name:la": "Cambosia",
+          "name:lb": "Kambodscha",
+          "name:li": "Cambodja",
+          "name:ln": "Kamboji",
+          "name:lo": "ປະເທດກຳປູເຈຍ",
+          "name:lt": "Kambodža",
+          "name:lv": "Kambodža",
+          "name:mg": "Kambodia",
+          "name:mi": "Kamapōtia",
+          "name:mk": "Камбоџа",
+          "name:ml": "കംബോഡിയ",
+          "name:mn": "Камбож",
+          "name:mr": "कंबोडिया",
+          "name:ms": "Kemboja",
+          "name:mt": "Kambodja",
+          "name:my": "ကမ္ဘောဒီးယားနိုင်ငံ",
+          "name:na": "Kambodja",
+          "name:nl": "Cambodja",
+          "name:nn": "Kambodsja",
+          "name:no": "Kambodsja",
+          "name:oc": "Cambòtja",
+          "name:or": "କମ୍ବୋଡ଼ିଆ",
+          "name:os": "Камбоджæ",
+          "name:pa": "ਕੰਬੋਡੀਆ",
+          "name:pl": "Kambodża",
+          "name:ps": "کمبودیا",
+          "name:pt": "Camboja",
+          "name:qu": "Kambuya",
+          "name:rm": "Cambodscha",
+          "name:ro": "Cambodgia",
+          "name:ru": "Камбоджа",
+          "name:rw": "Kambodiya",
+          "name:se": "Kambodja",
+          "name:sh": "Kambodža",
+          "name:si": "කාම්බෝජය",
+          "name:sk": "Kambodža",
+          "name:sl": "Kambodža",
+          "name:so": "Kambodiya",
+          "name:sq": "Kamboxhia",
+          "name:sr": "Камбоџа",
+          "name:ss": "IKhambodiya",
+          "name:su": "Kamboja",
+          "name:sv": "Kambodja",
+          "name:sw": "Kamboja",
+          "name:ta": "கம்போடியா",
+          "name:te": "కంబోడియా",
+          "name:tg": "Камбоҷа",
+          "name:th": "ประเทศกัมพูชา",
+          "name:tk": "Kamboçiýa",
+          "name:tl": "Kamboya",
+          "name:tr": "Kamboçya",
+          "name:tt": "Камбоҗа",
+          "name:ug": "كامبوجا",
+          "name:uk": "Камбоджа",
+          "name:ur": "کمبوڈیا",
+          "name:uz": "Kambodja",
+          "name:vi": "Cao Miên",
+          "name:vo": "Kambocän",
+          "name:wo": "Kamboodi",
+          "name:yi": "קאמבאדיע",
+          "name:yo": "Kàmbódíà",
+          "name:zh": "柬埔寨",
+          "boundary": "administrative",
+          "int_name": "Cambodia",
+          "name:ace": "Kamboja",
+          "name:als": "Kambodscha",
+          "name:ang": "Cambodia",
+          "name:arz": "كامبوديا",
+          "name:ast": "Camboya",
+          "name:bar": "Kambodscha",
+          "name:bcl": "Kambodya",
+          "name:bpy": "কম্বোডিয়া",
+          "name:bug": "Kamboja",
+          "name:bxr": "Камбож",
+          "name:ceb": "Kamboya",
+          "name:ckb": "کەمبۆدیا",
+          "name:crh": "Kamboçiya",
+          "name:csb": "Kambòdżô",
+          "name:diq": "Kamboçya",
+          "name:dsb": "Kambodža",
+          "name:ext": "Camboya",
+          "name:frp": "Cambodg·e",
+          "name:gag": "Kamboca",
+          "name:gan": "柬埔寨",
+          "name:hak": "Kán-pu-chhài",
+          "name:haw": "Kamabodia",
+          "name:hif": "Cambodia",
+          "name:hsb": "Kambodźa",
+          "name:ilo": "Cambodia",
+          "name:jbo": "kamputceas",
+          "name:kbd": "Камбоджэ",
+          "name:lij": "Camboggia",
+          "name:lmo": "Cambogia",
+          "name:lzh": "柬埔寨",
+          "name:mdf": "Камбоджа",
+          "name:nah": "Camboya",
+          "name:nan": "Kampuchea",
+          "name:nap": "Cambogia",
+          "name:nds": "Kambodscha",
+          "name:nov": "Kambodia",
+          "name:pam": "Kambodya",
+          "name:pih": "Kamboedya",
+          "name:pms": "Cambògia",
+          "name:pnb": "کمپوچیا",
+          "name:sah": "Камбодьа",
+          "name:scn": "Camboggia",
+          "name:sco": "Cambodie",
+          "name:smn": "Kambodža",
+          "name:sms": "Kambodža",
+          "name:szl": "Kambodża",
+          "name:tzl": "Camputsch",
+          "name:udm": "Камбоджа",
+          "name:vro": "Kambodža",
+          "name:war": "Camboya",
+          "name:wuu": "柬埔寨",
+          "name:xal": "Камбудин Нутг",
+          "name:yue": "柬埔寨",
+          "name:zea": "Cambodja",
+          "timezone": "Asia/Phnom_Penh",
+          "way_area": "16.9133",
+          "wikidata": "Q424",
+          "ISO3166-1": "KH",
+          "wikipedia": "en:Cambodia",
+          "admin_level": "2",
+          "name:km:IPA": "prĕəh riə.ciə.naː.caʔ kam.pu.ciə",
+          "name:bat-smg": "Kambuodža",
+          "name:map-bms": "Kamboja",
+          "name:roa-rup": "Cambogia",
+          "name:zh-Hans": "柬埔寨",
+          "name:zh-Hant": "柬埔寨",
+          "name:be-tarask": "Камбоджа",
+          "ISO3166-1:alpha2": "KH",
+          "ISO3166-1:alpha3": "KHM",
+          "default_language": "km",
+          "official_name:cs": "Kambodžské království",
+          "official_name:de": "Königreich Kambodscha",
+          "official_name:en": "Kingdom of Cambodia",
+          "official_name:es": "Reino de Camboya",
+          "official_name:fr": "Royaume du Cambodge",
+          "official_name:ru": "Королевство Камбоджа",
+          "ISO3166-1:numeric": "116",
+          "official_name:ckb": "شانشینی کەمبۆدیا"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105,
+              13
+            ],
+            [
+              106,
+              13
+            ],
+            [
+              106,
+              13.930205480476587
+            ],
+            [
+              105.997507,
+              13.9306999
+            ],
+            [
+              105.996003,
+              13.9307242
+            ],
+            [
+              105.9951719,
+              13.9304993
+            ],
+            [
+              105.993749,
+              13.9298824
+            ],
+            [
+              105.9923848,
+              13.929037
+            ],
+            [
+              105.9913256,
+              13.9280988
+            ],
+            [
+              105.9905826,
+              13.9268158
+            ],
+            [
+              105.9903565,
+              13.9254978
+            ],
+            [
+              105.9897022,
+              13.9240193
+            ],
+            [
+              105.9856722,
+              13.9240861
+            ],
+            [
+              105.9790095,
+              13.9247572
+            ],
+            [
+              105.9746091,
+              13.9253769
+            ],
+            [
+              105.971744,
+              13.9263734
+            ],
+            [
+              105.965312,
+              13.9300004
+            ],
+            [
+              105.9589702,
+              13.9327287
+            ],
+            [
+              105.9465124,
+              13.9343237
+            ],
+            [
+              105.9377154,
+              13.9325015
+            ],
+            [
+              105.9214844,
+              13.9299095
+            ],
+            [
+              105.9135934,
+              13.9299392
+            ],
+            [
+              105.9107769,
+              13.9304002
+            ],
+            [
+              105.8985683,
+              13.9375029
+            ],
+            [
+              105.8974074,
+              13.9392251
+            ],
+            [
+              105.8961906,
+              13.9414287
+            ],
+            [
+              105.8959107,
+              13.9428051
+            ],
+            [
+              105.8948727,
+              13.9459928
+            ],
+            [
+              105.8938994,
+              13.9479122
+            ],
+            [
+              105.8897139,
+              13.9505351
+            ],
+            [
+              105.88575,
+              13.954115
+            ],
+            [
+              105.8844458,
+              13.9550244
+            ],
+            [
+              105.8792777,
+              13.957225
+            ],
+            [
+              105.8774307,
+              13.9587218
+            ],
+            [
+              105.8749307,
+              13.9604337
+            ],
+            [
+              105.8738453,
+              13.9616083
+            ],
+            [
+              105.8721901,
+              13.9627873
+            ],
+            [
+              105.8708785,
+              13.9652896
+            ],
+            [
+              105.8700335,
+              13.9658306
+            ],
+            [
+              105.8686479,
+              13.9663486
+            ],
+            [
+              105.8671572,
+              13.9672106
+            ],
+            [
+              105.865384,
+              13.9677526
+            ],
+            [
+              105.8626946,
+              13.9682266
+            ],
+            [
+              105.8603462,
+              13.9693662
+            ],
+            [
+              105.8580933,
+              13.9709869
+            ],
+            [
+              105.8542097,
+              13.9744791
+            ],
+            [
+              105.8524961,
+              13.9756515
+            ],
+            [
+              105.8484224,
+              13.9776762
+            ],
+            [
+              105.8463083,
+              13.9780803
+            ],
+            [
+              105.8428242,
+              13.9816863
+            ],
+            [
+              105.8416743,
+              13.982617
+            ],
+            [
+              105.8373301,
+              13.9849522
+            ],
+            [
+              105.8335509,
+              13.9876979
+            ],
+            [
+              105.8311352,
+              13.9908095
+            ],
+            [
+              105.828768,
+              13.9950681
+            ],
+            [
+              105.82534171745867,
+              14
+            ],
+            [
+              105,
+              14
+            ],
+            [
+              105,
+              13
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -49903,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Laos",
+        "local_name": "ປະເທດລາວ",
+        "name_en": "Laos",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+          "name": "ປະເທດລາວ",
+          "name:af": "Laos",
+          "name:am": "ላዎስ",
+          "name:an": "Laos",
+          "name:ar": "لاوس",
+          "name:az": "Laos",
+          "name:ba": "Лаос",
+          "name:be": "Лаос",
+          "name:bg": "Лаос",
+          "name:bi": "Laos",
+          "name:bn": "লাওস",
+          "name:bo": "ལའོ་སུ།",
+          "name:br": "Laos",
+          "name:bs": "Laos",
+          "name:ca": "Laos",
+          "name:ce": "Лаос",
+          "name:cs": "Laos",
+          "name:cv": "Лаос",
+          "name:cy": "Laos",
+          "name:da": "Laos",
+          "name:de": "Laos",
+          "name:dv": "ލާއޯސް",
+          "name:el": "Λάος",
+          "name:en": "Laos",
+          "name:eo": "Laoso",
+          "name:es": "Laos",
+          "name:et": "Laos",
+          "name:eu": "Laos",
+          "name:fa": "لائوس",
+          "name:fi": "Laos",
+          "name:fo": "Laos",
+          "name:fr": "Laos",
+          "name:fy": "Laos",
+          "name:ga": "Laos",
+          "name:gd": "Làthos",
+          "name:gl": "Laos",
+          "name:gn": "Láo",
+          "name:gu": "લાઓસ",
+          "name:gv": "Yn Laos",
+          "name:he": "לאוס",
+          "name:hi": "लाओस",
+          "name:hr": "Laos",
+          "name:ht": "Laos",
+          "name:hu": "Laosz",
+          "name:hy": "Լաոս",
+          "name:ia": "Laos",
+          "name:id": "Laos",
+          "name:ie": "Laos",
+          "name:io": "Laos",
+          "name:is": "Laos",
+          "name:it": "Laos",
+          "name:ja": "ラオス",
+          "name:jv": "Laos",
+          "name:ka": "ლაოსი",
+          "name:ki": "Laos",
+          "name:kk": "Лаос",
+          "name:km": "ឡាវ",
+          "name:kn": "ಲಾವೋಸ್",
+          "name:ko": "라오스",
+          "name:ku": "Laos",
+          "name:kv": "Лаос",
+          "name:kw": "Pow Lao",
+          "name:la": "Laotia",
+          "name:lb": "Laos",
+          "name:li": "Laos",
+          "name:ln": "Laos",
+          "name:lo": "ປະເທດລາວ",
+          "name:lt": "Laosas",
+          "name:lv": "Laosa",
+          "name:mi": "Rāoho",
+          "name:mk": "Лаос",
+          "name:ml": "ലാവോസ്",
+          "name:mn": "Лаос",
+          "name:mr": "लाओस",
+          "name:ms": "Laos",
+          "name:my": "လာအိုနိုင်ငံ",
+          "name:na": "Raot",
+          "name:nl": "Laos",
+          "name:nn": "Laos",
+          "name:no": "Laos",
+          "name:nv": "Lááʼos",
+          "name:oc": "Laos",
+          "name:or": "ଲାଓସ",
+          "name:os": "Лаос",
+          "name:pa": "ਲਾਓਸ",
+          "name:pl": "Laos",
+          "name:ps": "لاووس",
+          "name:pt": "Laos",
+          "name:qu": "Law suyu",
+          "name:ro": "Laos",
+          "name:ru": "Лаос",
+          "name:rw": "Lawosi",
+          "name:sa": "लाओस",
+          "name:se": "Laos",
+          "name:sh": "Laos",
+          "name:si": "ලාඕසය",
+          "name:sk": "Laos",
+          "name:sl": "Laos",
+          "name:so": "Laos",
+          "name:sq": "Laosi",
+          "name:sr": "Лаос",
+          "name:ss": "ILawoso",
+          "name:su": "Laos",
+          "name:sv": "Laos",
+          "name:sw": "Laos",
+          "name:ta": "லாவோஸ்",
+          "name:te": "లావోస్",
+          "name:tg": "Лаос",
+          "name:th": "ประเทศลาว",
+          "name:tk": "Laos",
+          "name:tl": "Laos",
+          "name:tr": "Laos",
+          "name:tt": "Лаос",
+          "name:ug": "لائوس",
+          "name:uk": "Лаос",
+          "name:ur": "لاؤس",
+          "name:uz": "Laos",
+          "name:vi": "Lào",
+          "name:vo": "Laosän",
+          "name:wo": "Réewum Lawos",
+          "name:yo": "Láọ̀s",
+          "name:za": "Lao",
+          "name:zh": "老挝 / 寮國",
+          "boundary": "administrative",
+          "int_name": "Laos",
+          "name:ace": "Laos",
+          "name:als": "Laos",
+          "name:arz": "لاوس",
+          "name:ast": "Laos",
+          "name:bar": "Laos",
+          "name:bcl": "Laos",
+          "name:bpy": "লাওস",
+          "name:bug": "Laos",
+          "name:bxr": "Лаос",
+          "name:ceb": "Laos",
+          "name:ckb": "لاوس",
+          "name:crh": "Laos",
+          "name:csb": "Laòs",
+          "name:diq": "Laos",
+          "name:dsb": "Laos",
+          "name:ext": "Laos",
+          "name:frp": "Laos",
+          "name:gag": "Laos",
+          "name:gan": "老撾",
+          "name:hak": "Liàu-koet",
+          "name:haw": "Laosa",
+          "name:hif": "Laos",
+          "name:hsb": "Laos",
+          "name:ilo": "Laos",
+          "name:jbo": "luaos",
+          "name:kbd": "Лаос",
+          "name:lij": "Laòs",
+          "name:lmo": "Laos",
+          "name:lzh": "老撾",
+          "name:mdf": "Лаос",
+          "name:mhr": "Лаос",
+          "name:mzn": "لائوس",
+          "name:nah": "Lao",
+          "name:nan": "Lao-kok",
+          "name:nap": "Laos",
+          "name:nds": "Laos",
+          "name:new": "लाओस",
+          "name:nov": "Laos",
+          "name:pam": "Laos",
+          "name:pap": "Laos",
+          "name:pih": "Layos",
+          "name:pms": "Làos",
+          "name:pnb": "لاؤس",
+          "name:sah": "Лаос",
+          "name:scn": "Laos",
+          "name:sco": "Laos",
+          "name:smn": "Laos",
+          "name:sms": "Laos",
+          "name:szl": "Laos",
+          "name:tet": "Laos",
+          "name:udm": "Лаос",
+          "name:vro": "Laos",
+          "name:war": "Laos",
+          "name:wuu": "老挝",
+          "name:xal": "Лаосин Улс Орн",
+          "name:yue": "老撾",
+          "name:zea": "Laos",
+          "timezone": "Asia/Vientiane",
+          "way_area": "19.6613",
+          "wikidata": "Q819",
+          "ISO3166-1": "LA",
+          "wikipedia": "en:Laos",
+          "name:UN:ar": "جمهورية لاو الديمقراطية الشعبية",
+          "name:UN:en": "Lao People's Democratic Republic (the)",
+          "name:UN:es": "República Democrática Popular Lao (la)",
+          "name:UN:fr": "République démocratique populaire lao (la)",
+          "name:UN:ru": "Лаосская Народно-Демократическая Республика",
+          "name:UN:zh": "老挝人民民主共和国",
+          "wdb:source": "CIA World database II - asia-bdy.txt - segment 99",
+          "admin_level": "2",
+          "name:bat-smg": "Lauosos",
+          "name:map-bms": "Laos",
+          "name:zh-Hans": "老挝",
+          "name:zh-Hant": "寮國",
+          "name:be-tarask": "Лаос",
+          "ISO3166-1:alpha2": "LA",
+          "ISO3166-1:alpha3": "LAO",
+          "default_language": "lo",
+          "official_name:cs": "Laoská lidově demokratická republika",
+          "official_name:en": "Lao People's Democratic Republic",
+          "official_name:es": "República Democrática Popular Lao",
+          "official_name:fr": "République populaire démocratique du Laos",
+          "official_name:gn": "Láo Tekoha Tavakuairetã Jekopytyjojápe",
+          "official_name:pl": "Laotańska Republika Ludowo-Demokratyczna",
+          "official_name:pt": "República Democrática Popular do Laos",
+          "official_name:ru": "Лаосская Народно-Демократическая Республика",
+          "ISO3166-1:numeric": "418"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.82534171745867,
+              14
+            ],
+            [
+              105.828768,
+              13.9950681
+            ],
+            [
+              105.8311352,
+              13.9908095
+            ],
+            [
+              105.8335509,
+              13.9876979
+            ],
+            [
+              105.8373301,
+              13.9849522
+            ],
+            [
+              105.8416743,
+              13.982617
+            ],
+            [
+              105.8428242,
+              13.9816863
+            ],
+            [
+              105.8463083,
+              13.9780803
+            ],
+            [
+              105.8484224,
+              13.9776762
+            ],
+            [
+              105.8524961,
+              13.9756515
+            ],
+            [
+              105.8542097,
+              13.9744791
+            ],
+            [
+              105.8580933,
+              13.9709869
+            ],
+            [
+              105.8603462,
+              13.9693662
+            ],
+            [
+              105.8626946,
+              13.9682266
+            ],
+            [
+              105.865384,
+              13.9677526
+            ],
+            [
+              105.8671572,
+              13.9672106
+            ],
+            [
+              105.8686479,
+              13.9663486
+            ],
+            [
+              105.8700335,
+              13.9658306
+            ],
+            [
+              105.8708785,
+              13.9652896
+            ],
+            [
+              105.8721901,
+              13.9627873
+            ],
+            [
+              105.8738453,
+              13.9616083
+            ],
+            [
+              105.8749307,
+              13.9604337
+            ],
+            [
+              105.8774307,
+              13.9587218
+            ],
+            [
+              105.8792777,
+              13.957225
+            ],
+            [
+              105.8844458,
+              13.9550244
+            ],
+            [
+              105.88575,
+              13.954115
+            ],
+            [
+              105.8897139,
+              13.9505351
+            ],
+            [
+              105.8938994,
+              13.9479122
+            ],
+            [
+              105.8948727,
+              13.9459928
+            ],
+            [
+              105.8959107,
+              13.9428051
+            ],
+            [
+              105.8961906,
+              13.9414287
+            ],
+            [
+              105.8974074,
+              13.9392251
+            ],
+            [
+              105.8985683,
+              13.9375029
+            ],
+            [
+              105.9107769,
+              13.9304002
+            ],
+            [
+              105.9135934,
+              13.9299392
+            ],
+            [
+              105.9214844,
+              13.9299095
+            ],
+            [
+              105.9377154,
+              13.9325015
+            ],
+            [
+              105.9465124,
+              13.9343237
+            ],
+            [
+              105.9589702,
+              13.9327287
+            ],
+            [
+              105.965312,
+              13.9300004
+            ],
+            [
+              105.971744,
+              13.9263734
+            ],
+            [
+              105.9746091,
+              13.9253769
+            ],
+            [
+              105.9790095,
+              13.9247572
+            ],
+            [
+              105.9856722,
+              13.9240861
+            ],
+            [
+              105.9897022,
+              13.9240193
+            ],
+            [
+              105.9903565,
+              13.9254978
+            ],
+            [
+              105.9905826,
+              13.9268158
+            ],
+            [
+              105.9913256,
+              13.9280988
+            ],
+            [
+              105.9923848,
+              13.929037
+            ],
+            [
+              105.993749,
+              13.9298824
+            ],
+            [
+              105.9951719,
+              13.9304993
+            ],
+            [
+              105.996003,
+              13.9307242
+            ],
+            [
+              105.997507,
+              13.9306999
+            ],
+            [
+              106,
+              13.930205480476587
+            ],
+            [
+              106,
+              14
+            ],
+            [
+              105.82534171745867,
+              14
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

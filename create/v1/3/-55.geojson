@@ -1,0 +1,835 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -2978650,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Norway",
+        "local_name": "Norge",
+        "name_en": "Norway",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+          "name": "Norge",
+          "name:af": "Noorweë",
+          "name:am": "ኖርዌይ",
+          "name:an": "Noruega",
+          "name:ar": "النرويج",
+          "name:ay": "Nurweka",
+          "name:az": "Norveç",
+          "name:ba": "Норвегия",
+          "name:be": "Нарвегія",
+          "name:bg": "Норвегия",
+          "name:bi": "Norway",
+          "name:bm": "Norwij",
+          "name:bn": "নরওয়ে",
+          "name:bo": "ནོར་ཝེ།",
+          "name:br": "Norvegia",
+          "name:bs": "Norveška",
+          "name:ca": "Noruega",
+          "name:ce": "Норвеги",
+          "name:co": "Nurvegia",
+          "name:cs": "Norsko",
+          "name:cu": "Норєгъ",
+          "name:cv": "Норвеги",
+          "name:cy": "Norwy",
+          "name:da": "Norge",
+          "name:de": "Norwegen",
+          "name:dv": "ނޯވޭ",
+          "name:dz": "ནོ་ཝེ་",
+          "name:ee": "Norway",
+          "name:el": "Νορβηγία",
+          "name:en": "Norway",
+          "name:eo": "Norvegio",
+          "name:es": "Noruega",
+          "name:et": "Norra",
+          "name:eu": "Norvegia",
+          "name:fa": "نروژ",
+          "name:fi": "Norja",
+          "name:fo": "Noregur",
+          "name:fr": "Norvège",
+          "name:fy": "Noarwegen",
+          "name:ga": "An Iorua",
+          "name:gd": "Nirribhidh",
+          "name:gl": "Noruega",
+          "name:gn": "Noruega",
+          "name:gu": "નોર્વે",
+          "name:gv": "Norlynn",
+          "name:he": "נורבגיה",
+          "name:hi": "नॉर्वे",
+          "name:hr": "Norveška",
+          "name:ht": "Nòvèj",
+          "name:hu": "Norvégia",
+          "name:hy": "Նորվեգիա",
+          "name:ia": "Norvegia",
+          "name:id": "Norwegia",
+          "name:ie": "Norvegia",
+          "name:io": "Norvegia",
+          "name:is": "Noregur",
+          "name:it": "Norvegia",
+          "name:iu": "ᓄᕐᒋ",
+          "name:ja": "ノルウェー",
+          "name:jv": "Norwégia",
+          "name:ka": "ნორვეგია",
+          "name:kg": "Norge",
+          "name:kk": "Норвегия",
+          "name:kl": "Norge",
+          "name:kn": "ನಾರ್ವೇ",
+          "name:ko": "노르웨이",
+          "name:ku": "Norwêc",
+          "name:kv": "Норвегия",
+          "name:kw": "Norgagh",
+          "name:ky": "Норвегия",
+          "name:la": "Norvegia",
+          "name:lb": "Norwegen",
+          "name:li": "Noorwege",
+          "name:ln": "Norvej",
+          "name:lt": "Norvegija",
+          "name:lv": "Norvēģija",
+          "name:mg": "Norvezy",
+          "name:mi": "Nōwei",
+          "name:mk": "Норвешка",
+          "name:ml": "നോർവെ",
+          "name:mn": "Норвеги",
+          "name:mr": "नॉर्वे",
+          "name:ms": "Norway",
+          "name:mt": "Norveġja",
+          "name:my": "နော်ဝေနိုင်ငံ",
+          "name:na": "Norwei",
+          "name:nb": "Norge",
+          "name:ne": "नर्वे",
+          "name:nl": "Noorwegen",
+          "name:nn": "Noreg",
+          "name:no": "Norge",
+          "name:oc": "Norvègia",
+          "name:om": "Norway",
+          "name:or": "ନରୱେ",
+          "name:os": "Норвеги",
+          "name:pa": "ਨਾਰਵੇ",
+          "name:pl": "Norwegia",
+          "name:ps": "ناروې",
+          "name:pt": "Noruega",
+          "name:qu": "Nurwiga",
+          "name:rm": "Norvegia",
+          "name:rn": "Noruega",
+          "name:ro": "Norvegia",
+          "name:ru": "Норвегия",
+          "name:rw": "Noruveje",
+          "name:sa": "नार्वे",
+          "name:sc": "Norvegia",
+          "name:se": "Norga",
+          "name:sh": "Norveška",
+          "name:sk": "Nórsko",
+          "name:sl": "Norveška",
+          "name:so": "Norway",
+          "name:sq": "Norvegjia",
+          "name:sr": "Норвешка",
+          "name:ss": "INoweyi",
+          "name:su": "Norwégia",
+          "name:sv": "Norge",
+          "name:sw": "Norwei",
+          "name:ta": "நோர்வே",
+          "name:te": "నార్వే",
+          "name:tg": "Норвегия",
+          "name:th": "ประเทศนอร์เวย์",
+          "name:tk": "Norwegiýa",
+          "name:tl": "Noruwega",
+          "name:tr": "Norveç",
+          "name:ts": "Norge",
+          "name:tt": "Норвегия",
+          "name:ug": "نورۋېگىيە",
+          "name:uk": "Норвегія",
+          "name:ur": "ناروے",
+          "name:uz": "Norvegiya",
+          "name:vi": "Na Uy",
+          "name:vo": "Norgän",
+          "name:wa": "Norvedje",
+          "name:wo": "Noorwees",
+          "name:yi": "נארוועגיע",
+          "name:yo": "Nọ́rwèy",
+          "name:za": "Nozveih",
+          "name:zh": "挪威",
+          "name:zu": "INoki",
+          "boundary": "administrative",
+          "int_name": "Norway",
+          "name:ace": "Norwègia",
+          "name:als": "Norwegen",
+          "name:ang": "Norþweg",
+          "name:arc": "ܢܘܪܒܝܓ",
+          "name:arz": "النرويج",
+          "name:ast": "Noruega",
+          "name:bar": "Norwegn",
+          "name:bcl": "Norwey",
+          "name:bpy": "নরৱে",
+          "name:bxr": "Норвеги",
+          "name:cdo": "Nò̤-ŭi",
+          "name:ceb": "Noruwega",
+          "name:chy": "Norway",
+          "name:ckb": "نۆرویژ",
+          "name:crh": "Norvegiya",
+          "name:csb": "Norweskô",
+          "name:diq": "Norwec",
+          "name:dsb": "Norwegska",
+          "name:ext": "Noruega",
+          "name:frp": "Norvèg·e",
+          "name:frr": "Norweegen",
+          "name:gag": "Norvegiya",
+          "name:gan": "挪威",
+          "name:hak": "Nò-vî",
+          "name:haw": "Nolewai",
+          "name:hif": "Norway",
+          "name:hsb": "Norwegska",
+          "name:ilo": "Norwéga",
+          "name:jbo": "noreg",
+          "name:kaa": "Norvegiya",
+          "name:kbd": "Норвегэ",
+          "name:koi": "Норвег",
+          "name:krc": "Норвегия",
+          "name:lad": "Norvejia",
+          "name:lez": "Норвегия",
+          "name:lij": "Norveggia",
+          "name:lmo": "Nurvegia",
+          "name:ltg": "Norvegeja",
+          "name:mdf": "Норвегие",
+          "name:mhr": "Норвегий",
+          "name:myv": "Норвегия Мастор",
+          "name:nah": "Noruegia",
+          "name:nan": "Lo̍k-ui-kok",
+          "name:nds": "Norwegen",
+          "name:nov": "Norvegia",
+          "name:nrm": "Norouague",
+          "name:pam": "Norwega",
+          "name:pap": "Noruega",
+          "name:pcd": "Norvège",
+          "name:pih": "Norwaii",
+          "name:pms": "Norvegia",
+          "name:pnb": "ناروے",
+          "name:pnt": "Νορβηγία",
+          "name:rmy": "Norvejiya",
+          "name:sah": "Норвегия",
+          "name:scn": "Norveggia",
+          "name:sco": "Norawa",
+          "name:sje": "Vuodna",
+          "name:sma": "Nöörje",
+          "name:smj": "Vuodna",
+          "name:smn": "Taažâ",
+          "name:sms": "Taarr",
+          "name:stq": "Norwegen",
+          "name:szl": "Norwegijŏ",
+          "name:tet": "Noruega",
+          "name:tok": "ma Nosiki",
+          "name:tpi": "Nowe",
+          "name:tzl": "Norvexhà",
+          "name:udm": "Норвегия",
+          "name:vec": "Norveja",
+          "name:vep": "Norvegii",
+          "name:vls": "Nôorweegn",
+          "name:vro": "Norra",
+          "name:war": "Noruega",
+          "name:wuu": "挪威",
+          "name:xal": "Ноорскгин Нутг",
+          "name:xmf": "ნორვეგია",
+          "name:yue": "挪威",
+          "name:zea": "Noorwegen",
+          "way_area": "153.801",
+          "wikidata": "Q20",
+          "ISO3166-1": "NO",
+          "wikipedia": "no:Norge",
+          "population": "5488984",
+          "admin_level": "2",
+          "alt_name:eo": "Norvegujo",
+          "name:nds-nl": "Noorwegen",
+          "alt_name:sma": "Nøørje",
+          "name:bat-smg": "Nuorvegėjė",
+          "name:iu-Latn": "nurgi",
+          "name:roa-rup": "Norveghia",
+          "name:roa-tara": "Norveggie",
+          "official_name": "Kongeriket Norge",
+          "name:be-tarask": "Нарвэгія",
+          "population:date": "2023-01-01",
+          "ISO3166-1:alpha2": "NO",
+          "ISO3166-1:alpha3": "NOR",
+          "default_language": "no",
+          "official_name:be": "Каралеўства Нарвегія",
+          "official_name:cs": "Norské království",
+          "official_name:de": "Königreich Norwegen",
+          "official_name:en": "Kingdom of Norway",
+          "official_name:eo": "Reĝlando Norvegio",
+          "official_name:fr": "Royaume de Norvège",
+          "official_name:sv": "Konungariket Norge",
+          "ISO3166-1:numeric": "578"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3,
+              -54.54955558272295
+            ],
+            [
+              3.0016984,
+              -54.551
+            ],
+            [
+              3.0121419,
+              -54.559
+            ],
+            [
+              3.0222291,
+              -54.566
+            ],
+            [
+              3.0316656,
+              -54.572
+            ],
+            [
+              3.0401519,
+              -54.577
+            ],
+            [
+              3.0531041,
+              -54.586
+            ],
+            [
+              3.0658698,
+              -54.594
+            ],
+            [
+              3.0746049,
+              -54.599
+            ],
+            [
+              3.0820656,
+              -54.603
+            ],
+            [
+              3.0899919,
+              -54.607
+            ],
+            [
+              3.1051469,
+              -54.614
+            ],
+            [
+              3.1196881,
+              -54.62
+            ],
+            [
+              3.1360343,
+              -54.626
+            ],
+            [
+              3.1450477,
+              -54.629
+            ],
+            [
+              3.1547477,
+              -54.632
+            ],
+            [
+              3.1728342,
+              -54.637
+            ],
+            [
+              3.1896468,
+              -54.641
+            ],
+            [
+              3.2096401,
+              -54.645
+            ],
+            [
+              3.2280652,
+              -54.648
+            ],
+            [
+              3.2432484,
+              -54.65
+            ],
+            [
+              3.2631677,
+              -54.652
+            ],
+            [
+              3.2772928,
+              -54.653
+            ],
+            [
+              3.3076487,
+              -54.654
+            ],
+            [
+              3.3193473,
+              -54.654
+            ],
+            [
+              3.3497032,
+              -54.653
+            ],
+            [
+              3.3638283,
+              -54.652
+            ],
+            [
+              3.3746506,
+              -54.651
+            ],
+            [
+              3.4034548,
+              -54.648
+            ],
+            [
+              3.4180828,
+              -54.647
+            ],
+            [
+              3.4484335,
+              -54.646
+            ],
+            [
+              3.4625562,
+              -54.645
+            ],
+            [
+              3.4733766,
+              -54.644
+            ],
+            [
+              3.4904583,
+              -54.642
+            ],
+            [
+              3.5103561,
+              -54.639
+            ],
+            [
+              3.5265664,
+              -54.636
+            ],
+            [
+              3.544785,
+              -54.632
+            ],
+            [
+              3.5604367,
+              -54.628
+            ],
+            [
+              3.5675501,
+              -54.626
+            ],
+            [
+              3.5806559,
+              -54.622
+            ],
+            [
+              3.5980938,
+              -54.616
+            ],
+            [
+              3.6134803,
+              -54.61
+            ],
+            [
+              3.6228247,
+              -54.606
+            ],
+            [
+              3.6377298,
+              -54.599
+            ],
+            [
+              3.645534,
+              -54.595
+            ],
+            [
+              3.6528839,
+              -54.591
+            ],
+            [
+              3.6663772,
+              -54.583
+            ],
+            [
+              3.6784645,
+              -54.575
+            ],
+            [
+              3.6853894,
+              -54.57
+            ],
+            [
+              3.6984613,
+              -54.56
+            ],
+            [
+              3.7083737,
+              -54.552
+            ],
+            [
+              3.718353,
+              -54.543
+            ],
+            [
+              3.7272092,
+              -54.534
+            ],
+            [
+              3.7308109,
+              -54.53
+            ],
+            [
+              3.7382795,
+              -54.521
+            ],
+            [
+              3.7427636,
+              -54.515
+            ],
+            [
+              3.7455327,
+              -54.511
+            ],
+            [
+              3.7574681,
+              -54.493
+            ],
+            [
+              3.7599399,
+              -54.489
+            ],
+            [
+              3.7643956,
+              -54.481
+            ],
+            [
+              3.7673232,
+              -54.475
+            ],
+            [
+              3.7699066,
+              -54.469
+            ],
+            [
+              3.7721536,
+              -54.463
+            ],
+            [
+              3.7740712,
+              -54.457
+            ],
+            [
+              3.775665,
+              -54.451
+            ],
+            [
+              3.7769398,
+              -54.445
+            ],
+            [
+              3.7784375,
+              -54.435
+            ],
+            [
+              3.7789288,
+              -54.429
+            ],
+            [
+              3.7791099,
+              -54.423
+            ],
+            [
+              3.7789816,
+              -54.417
+            ],
+            [
+              3.7785437,
+              -54.411
+            ],
+            [
+              3.777795,
+              -54.405
+            ],
+            [
+              3.7767338,
+              -54.399
+            ],
+            [
+              3.7753571,
+              -54.393
+            ],
+            [
+              3.7736613,
+              -54.387
+            ],
+            [
+              3.7723513,
+              -54.383
+            ],
+            [
+              3.7693995,
+              -54.375
+            ],
+            [
+              3.7669393,
+              -54.369
+            ],
+            [
+              3.7621064,
+              -54.359
+            ],
+            [
+              3.7587825,
+              -54.353
+            ],
+            [
+              3.7563656,
+              -54.349
+            ],
+            [
+              3.7524297,
+              -54.343
+            ],
+            [
+              3.7467866,
+              -54.335
+            ],
+            [
+              3.742268,
+              -54.329
+            ],
+            [
+              3.7390292,
+              -54.325
+            ],
+            [
+              3.7347265,
+              -54.32
+            ],
+            [
+              3.7272838,
+              -54.312
+            ],
+            [
+              3.7190045,
+              -54.304
+            ],
+            [
+              3.7085978,
+              -54.295
+            ],
+            [
+              3.7033816,
+              -54.29
+            ],
+            [
+              3.6967564,
+              -54.284
+            ],
+            [
+              3.6883469,
+              -54.277
+            ],
+            [
+              3.6777541,
+              -54.269
+            ],
+            [
+              3.6659886,
+              -54.261
+            ],
+            [
+              3.6528796,
+              -54.253
+            ],
+            [
+              3.6401267,
+              -54.246
+            ],
+            [
+              3.6280761,
+              -54.24
+            ],
+            [
+              3.6147992,
+              -54.234
+            ],
+            [
+              3.6000378,
+              -54.228
+            ],
+            [
+              3.5834103,
+              -54.222
+            ],
+            [
+              3.5710038,
+              -54.218
+            ],
+            [
+              3.5572291,
+              -54.214
+            ],
+            [
+              3.5416534,
+              -54.21
+            ],
+            [
+              3.5283609,
+              -54.207
+            ],
+            [
+              3.5134057,
+              -54.204
+            ],
+            [
+              3.5006359,
+              -54.201
+            ],
+            [
+              3.4911892,
+              -54.199
+            ],
+            [
+              3.4750697,
+              -54.196
+            ],
+            [
+              3.4624397,
+              -54.194
+            ],
+            [
+              3.4401031,
+              -54.191
+            ],
+            [
+              3.4203089,
+              -54.189
+            ],
+            [
+              3.4062739,
+              -54.188
+            ],
+            [
+              3.3761143,
+              -54.187
+            ],
+            [
+              3.347211,
+              -54.187
+            ],
+            [
+              3.3170514,
+              -54.188
+            ],
+            [
+              3.3030165,
+              -54.189
+            ],
+            [
+              3.2922625,
+              -54.19
+            ],
+            [
+              3.2832222,
+              -54.191
+            ],
+            [
+              3.268132,
+              -54.193
+            ],
+            [
+              3.2555024,
+              -54.195
+            ],
+            [
+              3.2393832,
+              -54.198
+            ],
+            [
+              3.2288828,
+              -54.199
+            ],
+            [
+              3.2033231,
+              -54.202
+            ],
+            [
+              3.189615,
+              -54.204
+            ],
+            [
+              3.1778495,
+              -54.206
+            ],
+            [
+              3.157965,
+              -54.21
+            ],
+            [
+              3.1412386,
+              -54.214
+            ],
+            [
+              3.1301198,
+              -54.217
+            ],
+            [
+              3.113582,
+              -54.222
+            ],
+            [
+              3.0989513,
+              -54.227
+            ],
+            [
+              3.0833144,
+              -54.233
+            ],
+            [
+              3.069333,
+              -54.239
+            ],
+            [
+              3.0547037,
+              -54.246
+            ],
+            [
+              3.0415695,
+              -54.253
+            ],
+            [
+              3.0280908,
+              -54.261
+            ],
+            [
+              3.0160068,
+              -54.269
+            ],
+            [
+              3.0104285,
+              -54.273
+            ],
+            [
+              3.0001068,
+              -54.281
+            ],
+            [
+              3,
+              -54.2810923946478
+            ],
+            [
+              3,
+              -54.54955558272295
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

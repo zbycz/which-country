@@ -1,0 +1,881 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -174737,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Turkey",
+        "local_name": "Türkiye",
+        "name_en": "Turkey",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+          "name": "Türkiye",
+          "name:aa": "Torusko",
+          "name:ab": "Ҭырқәтәыла",
+          "name:af": "Turkye",
+          "name:ak": "Turki",
+          "name:am": "ቱርክ",
+          "name:an": "Turquía",
+          "name:ar": "تركيا",
+          "name:av": "Туркия",
+          "name:ay": "Turkiya",
+          "name:az": "Türkiyə",
+          "name:ba": "Төркиә",
+          "name:be": "Турцыя",
+          "name:bg": "Турция",
+          "name:bi": "Turkey",
+          "name:bn": "তুরস্ক",
+          "name:bo": "ཏུར་ཀི།",
+          "name:br": "Turkia",
+          "name:bs": "Turska",
+          "name:ca": "Turquia",
+          "name:ce": "Туркойчоь",
+          "name:co": "Turchia",
+          "name:cr": "ᑐᕒᑭ",
+          "name:cs": "Turecko",
+          "name:cu": "Тѷрци",
+          "name:cv": "Турци",
+          "name:cy": "Twrci",
+          "name:da": "Tyrkiet",
+          "name:de": "Türkei",
+          "name:dv": "ތުރުކީވިލާތް",
+          "name:dz": "བྱའི་རིགས་ཅིག",
+          "name:ee": "Turkey",
+          "name:el": "Τουρκία",
+          "name:en": "Turkey",
+          "name:eo": "Turkio",
+          "name:es": "Turquía",
+          "name:et": "Türgi",
+          "name:eu": "Turkia",
+          "name:fa": "ترکیه",
+          "name:fi": "Turkki",
+          "name:fo": "Turkaland",
+          "name:fr": "Turquie",
+          "name:fy": "Turkije",
+          "name:ga": "An Tuirc",
+          "name:gd": "An Tuirc",
+          "name:gl": "Turquía",
+          "name:gn": "Tuykia",
+          "name:gu": "તુર્કસ્તાન",
+          "name:gv": "Yn Turkee",
+          "name:ha": "Turkiyya",
+          "name:he": "טורקיה",
+          "name:hi": "तुर्की",
+          "name:hr": "Turska",
+          "name:ht": "Tiki",
+          "name:hu": "Törökország",
+          "name:hy": "Թուրքիա",
+          "name:ia": "Turchia",
+          "name:id": "Turki",
+          "name:ie": "Turcia",
+          "name:ik": "Turkey",
+          "name:io": "Turkia",
+          "name:is": "Tyrkland",
+          "name:it": "Turchia",
+          "name:ja": "トルコ",
+          "name:jv": "Turki",
+          "name:ka": "თურქეთი",
+          "name:kg": "Turki",
+          "name:ki": "Turkey",
+          "name:kk": "Түркия",
+          "name:kl": "Tyrkia",
+          "name:km": "តួកគី",
+          "name:kn": "ಟರ್ಕಿ",
+          "name:ko": "튀르키예",
+          "name:ku": "Tirkiye",
+          "name:kv": "Турция",
+          "name:kw": "Turki",
+          "name:ky": "Түркия",
+          "name:la": "Turcia",
+          "name:lb": "Tierkei",
+          "name:lg": "Buturuki",
+          "name:li": "Turkije",
+          "name:ln": "Turkí",
+          "name:lt": "Turkija",
+          "name:lv": "Turcija",
+          "name:mg": "Torkia",
+          "name:mi": "Tākei",
+          "name:mk": "Турција",
+          "name:ml": "തുർക്കി",
+          "name:mn": "Турк",
+          "name:mr": "तुर्कस्तान",
+          "name:ms": "Turki",
+          "name:mt": "Turkija",
+          "name:my": "တူရကီနိုင်ငံ",
+          "name:na": "Terki",
+          "name:ne": "टर्की",
+          "name:nl": "Turkije",
+          "name:nn": "Tyrkia",
+          "name:no": "Tyrkia",
+          "name:nv": "Tʼóok Bikéyah",
+          "name:oc": "Turquia",
+          "name:or": "ତୁର୍କୀ",
+          "name:os": "Турк",
+          "name:pa": "ਤੁਰਕੀ",
+          "name:pl": "Turcja",
+          "name:ps": "تورکيه",
+          "name:pt": "Turquia",
+          "name:qu": "Turkiya",
+          "name:rm": "Tirchia",
+          "name:rn": "Turukiya",
+          "name:ro": "Turcia",
+          "name:ru": "Турция",
+          "name:rw": "Turukiya",
+          "name:sa": "तुर्की",
+          "name:sc": "Turkia",
+          "name:se": "Durka",
+          "name:sh": "Turska",
+          "name:si": "තුර්කිය",
+          "name:sk": "Turecko",
+          "name:sl": "Turčija",
+          "name:sm": "Take",
+          "name:so": "Turkiga",
+          "name:sq": "Turqia",
+          "name:sr": "Турска",
+          "name:ss": "IThekhi",
+          "name:su": "Turki",
+          "name:sv": "Turkiet",
+          "name:sw": "Uturuki",
+          "name:ta": "துருக்கி",
+          "name:te": "టర్కీ",
+          "name:tg": "Туркия",
+          "name:th": "ประเทศตุรกี",
+          "name:ti": "ቱርኪ",
+          "name:tk": "Türkiýe",
+          "name:tl": "Turkiya",
+          "name:tr": "Türkiye",
+          "name:tt": "Төркия",
+          "name:tw": "Turkey",
+          "name:ty": "Turiti",
+          "name:ug": "تۈركىيە",
+          "name:uk": "Туреччина",
+          "name:ur": "ترکی",
+          "name:uz": "Turkiya",
+          "name:vi": "Thổ Nhĩ Kỳ",
+          "name:vo": "Türkän",
+          "name:wa": "Tourkeye",
+          "name:wo": "Tirki",
+          "name:xh": "ITurkiya",
+          "name:yi": "טערקיי",
+          "name:yo": "Túrkì",
+          "name:za": "Dujwjgiz",
+          "name:zh": "土耳其",
+          "name:zu": "ITheki",
+          "boundary": "administrative",
+          "int_name": "Türkiye",
+          "name:ace": "Turuki",
+          "name:ady": "Тыркуе",
+          "name:als": "Türkei",
+          "name:ang": "Turcland",
+          "name:apc": "تركيا",
+          "name:arc": "ܛܘܪܩܝܐ",
+          "name:ary": "أنقارا",
+          "name:arz": "توركيا",
+          "name:ast": "Turquía",
+          "name:azb": "تورکیه",
+          "name:bar": "Tiakei",
+          "name:bcl": "Turkiya",
+          "name:bjn": "Turki",
+          "name:bpy": "তুরস্ক",
+          "name:bug": "Turki",
+          "name:bxr": "Тюрк Улас",
+          "name:cdo": "Tū-ī-gì",
+          "name:ceb": "Turkiya",
+          "name:chr": "ᎬᏂᏱ",
+          "name:chy": "Turkey",
+          "name:ckb": "تورکیا",
+          "name:cnr": "Турска",
+          "name:crh": "Türkiye",
+          "name:csb": "Tëreckô",
+          "name:din": "Turkia",
+          "name:diq": "Tırkiya",
+          "name:dsb": "Turkojska",
+          "name:eml": "Turchî",
+          "name:ext": "Turquia",
+          "name:frp": "Turquie",
+          "name:frr": "Türkei",
+          "name:fur": "Turchie",
+          "name:gag": "Türkiye",
+          "name:gan": "土耳其",
+          "name:glk": "تۊرکيه",
+          "name:got": "𐍄𐍅𐍂𐌺𐌾𐌰",
+          "name:hak": "Thú-ngí-khì",
+          "name:haw": "Tureke",
+          "name:hif": "Turkey",
+          "name:hsb": "Turkowska",
+          "name:hyw": "Թուրքիա",
+          "name:ilo": "Turkia",
+          "name:inh": "Туркий",
+          "name:jbo": "turk",
+          "name:kaa": "Túrkiya",
+          "name:kab": "Tturk",
+          "name:kbd": "Тырку",
+          "name:kiu": "Tırkiya",
+          "name:koi": "Тюркия",
+          "name:krc": "Тюрк",
+          "name:ksh": "Türkei",
+          "name:lad": "Turkia",
+          "name:lbe": "Туркия",
+          "name:lez": "Турция",
+          "name:lij": "Turchia",
+          "name:lmo": "Türchia",
+          "name:ltg": "Turceja",
+          "name:lzh": "土耳其",
+          "name:mdf": "Туркамастор",
+          "name:mhr": "Турций",
+          "name:mrj": "Турци",
+          "name:mwl": "Turquie",
+          "name:mzn": "ترکیه",
+          "name:nah": "Turquia",
+          "name:nan": "Türkiye",
+          "name:nap": "Turchia",
+          "name:nds": "Törkie",
+          "name:new": "टर्की",
+          "name:nov": "Turkia",
+          "name:nrm": "Turtchie",
+          "name:nso": "Turkey",
+          "name:pam": "Turkia",
+          "name:pap": "Turkia",
+          "name:pcd": "Turkie",
+          "name:pdc": "Turkie",
+          "name:pes": "ترکیه",
+          "name:pfl": "Tirkei",
+          "name:pih": "Turkii",
+          "name:pms": "Turchìa",
+          "name:pnb": "ترکی",
+          "name:pnt": "Τουρκία",
+          "name:prs": "ترکیه",
+          "name:rmy": "Turkiya",
+          "name:rue": "Турція",
+          "name:sah": "Түркийэ",
+          "name:scn": "Turchìa",
+          "name:sco": "Turkey",
+          "name:smn": "Turkki",
+          "name:sms": "Turkk",
+          "name:srn": "Turkiyakondre",
+          "name:stq": "Turkäi",
+          "name:szl": "Turcyjŏ",
+          "name:tet": "Turkia",
+          "name:tpi": "Teki",
+          "name:tsd": "Τουρκία",
+          "name:tum": "Turkey",
+          "name:tzl": "Türchia",
+          "name:udm": "Турция",
+          "name:vec": "Turchia",
+          "name:vep": "Turcii",
+          "name:vls": "Turkeye",
+          "name:vro": "Türgü",
+          "name:war": "Turkeya",
+          "name:wuu": "土耳其",
+          "name:xal": "Түргүдин Орн",
+          "name:xmf": "თურქეთი",
+          "name:yue": "土耳其",
+          "name:zea": "Turkije",
+          "name:zza": "Tırkiya",
+          "timezone": "Europe/Istanbul",
+          "way_area": "89.1987",
+          "wikidata": "Q43",
+          "ISO3166-1": "TR",
+          "name:vlca": "Turquia",
+          "wikipedia": "tr:Türkiye",
+          "population": "85279553",
+          "admin_level": "2",
+          "alt_name:ar": "تركيا",
+          "alt_name:eo": "Turkujo",
+          "alt_name:vi": "Thổ Nhĩ Kì",
+          "name:nds-nl": "Turkije",
+          "old_name:ko": "터키",
+          "alt_name:haw": "Kuleke",
+          "alt_name:lad": "Turkiya",
+          "alt_name:tzl": "ma Tuki",
+          "name:bat-smg": "Torkėjė",
+          "name:cbk-zam": "Turquía",
+          "name:ks-Arab": "تُرکی",
+          "name:mn-Mong": "ᠲᠦᠷᠻ",
+          "name:roa-rup": "Turchia",
+          "name:zh-Hans": "土耳其",
+          "name:zh-Hant": "土耳其",
+          "name:cnr-Latn": "Turska",
+          "name:lad-Hebr": "טורקײה",
+          "name:roa-tara": "Turchie",
+          "official_name": "Türkiye Cumhuriyeti",
+          "name:be-tarask": "Турэччына",
+          "population:date": "2022",
+          "ISO3166-1:alpha2": "TR",
+          "ISO3166-1:alpha3": "TUR",
+          "default_language": "tr",
+          "official_name:ar": "الجمهورية التركية",
+          "official_name:cs": "Turecká republika",
+          "official_name:de": "Republik Turkei",
+          "official_name:el": "Δημοκρατία της Τουρκίας",
+          "official_name:en": "Republic of Türkiye",
+          "official_name:eo": "Turka Respubliko",
+          "official_name:es": "República de Turquía",
+          "official_name:fi": "Turkin tasavalta",
+          "official_name:fr": "République de Turquie",
+          "official_name:he": "הרפובליקה הטורקית",
+          "official_name:ko": "튀르키예 공화국",
+          "official_name:ku": "Komara Tirkiyeyê",
+          "official_name:ky": "Түркия Республикасы",
+          "official_name:ru": "Турецкая Республика",
+          "official_name:zh": "土耳其共和國 / 土耳其共和国",
+          "ISO3166-1:numeric": "792",
+          "official_name:xal": "Түргүдин Орн",
+          "official_name:zh-Hans": "土耳其共和国",
+          "official_name:zh-Hant": "土耳其共和國"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34,
+              36.0350952252287
+            ],
+            [
+              34.007032,
+              36.036
+            ],
+            [
+              34.0135654,
+              36.037
+            ],
+            [
+              34.0244708,
+              36.039
+            ],
+            [
+              34.0335977,
+              36.041
+            ],
+            [
+              34.0415779,
+              36.043
+            ],
+            [
+              34.0487367,
+              36.045
+            ],
+            [
+              34.0583396,
+              36.048
+            ],
+            [
+              34.072186,
+              36.053
+            ],
+            [
+              34.0795412,
+              36.056
+            ],
+            [
+              34.0863423,
+              36.059
+            ],
+            [
+              34.0926773,
+              36.062
+            ],
+            [
+              34.1005106,
+              36.066
+            ],
+            [
+              34.1128366,
+              36.073
+            ],
+            [
+              34.1192246,
+              36.077
+            ],
+            [
+              34.1252079,
+              36.081
+            ],
+            [
+              34.1308301,
+              36.085
+            ],
+            [
+              34.1411265,
+              36.093
+            ],
+            [
+              34.1469963,
+              36.098
+            ],
+            [
+              34.1524805,
+              36.103
+            ],
+            [
+              34.1576119,
+              36.108
+            ],
+            [
+              34.1624179,
+              36.113
+            ],
+            [
+              34.1669215,
+              36.118
+            ],
+            [
+              34.1719542,
+              36.124
+            ],
+            [
+              34.1839207,
+              36.13
+            ],
+            [
+              34.1930637,
+              36.135
+            ],
+            [
+              34.2029919,
+              36.141
+            ],
+            [
+              34.2119777,
+              36.147
+            ],
+            [
+              34.2227441,
+              36.155
+            ],
+            [
+              34.2450291,
+              36.173
+            ],
+            [
+              34.2520327,
+              36.179
+            ],
+            [
+              34.260531,
+              36.187
+            ],
+            [
+              34.2654051,
+              36.192
+            ],
+            [
+              34.2734947,
+              36.201
+            ],
+            [
+              34.2777909,
+              36.206
+            ],
+            [
+              34.2841691,
+              36.214
+            ],
+            [
+              34.290692,
+              36.223
+            ],
+            [
+              34.2940695,
+              36.228
+            ],
+            [
+              34.300164,
+              36.238
+            ],
+            [
+              34.3034214,
+              36.244
+            ],
+            [
+              34.3073754,
+              36.252
+            ],
+            [
+              34.3118028,
+              36.262
+            ],
+            [
+              34.3141104,
+              36.268
+            ],
+            [
+              34.3161816,
+              36.274
+            ],
+            [
+              34.319399,
+              36.284
+            ],
+            [
+              34.3221472,
+              36.294
+            ],
+            [
+              34.3234802,
+              36.3
+            ],
+            [
+              34.324581,
+              36.306
+            ],
+            [
+              34.3254526,
+              36.312
+            ],
+            [
+              34.32632,
+              36.313
+            ],
+            [
+              34.333534,
+              36.318
+            ],
+            [
+              34.3415049,
+              36.324
+            ],
+            [
+              34.3464495,
+              36.328
+            ],
+            [
+              34.3522567,
+              36.333
+            ],
+            [
+              34.360772,
+              36.341
+            ],
+            [
+              34.3693402,
+              36.35
+            ],
+            [
+              34.3753892,
+              36.357
+            ],
+            [
+              34.3801813,
+              36.363
+            ],
+            [
+              34.3853289,
+              36.369
+            ],
+            [
+              34.3893488,
+              36.374
+            ],
+            [
+              34.390428,
+              36.375
+            ],
+            [
+              34.4015538,
+              36.383
+            ],
+            [
+              34.4090841,
+              36.389
+            ],
+            [
+              34.4137651,
+              36.393
+            ],
+            [
+              34.4224014,
+              36.401
+            ],
+            [
+              34.4292454,
+              36.408
+            ],
+            [
+              34.4354939,
+              36.415
+            ],
+            [
+              34.4411999,
+              36.422
+            ],
+            [
+              34.4442337,
+              36.426
+            ],
+            [
+              34.4491707,
+              36.433
+            ],
+            [
+              34.4588824,
+              36.438
+            ],
+            [
+              34.4677227,
+              36.443
+            ],
+            [
+              34.4726603,
+              36.446
+            ],
+            [
+              34.4818276,
+              36.452
+            ],
+            [
+              34.4874767,
+              36.456
+            ],
+            [
+              34.4965929,
+              36.463
+            ],
+            [
+              34.5083775,
+              36.473
+            ],
+            [
+              34.5142215,
+              36.476
+            ],
+            [
+              34.5260417,
+              36.48
+            ],
+            [
+              34.5368674,
+              36.484
+            ],
+            [
+              34.5442635,
+              36.487
+            ],
+            [
+              34.5532742,
+              36.491
+            ],
+            [
+              34.5614925,
+              36.495
+            ],
+            [
+              34.5690571,
+              36.499
+            ],
+            [
+              34.577744,
+              36.504
+            ],
+            [
+              34.5857081,
+              36.509
+            ],
+            [
+              34.5931003,
+              36.514
+            ],
+            [
+              34.6000099,
+              36.519
+            ],
+            [
+              34.6064314,
+              36.524
+            ],
+            [
+              34.6124161,
+              36.529
+            ],
+            [
+              34.6180057,
+              36.534
+            ],
+            [
+              34.6232344,
+              36.539
+            ],
+            [
+              34.6290722,
+              36.545
+            ],
+            [
+              34.6363466,
+              36.553
+            ],
+            [
+              34.6377349,
+              36.554
+            ],
+            [
+              34.6417274,
+              36.556
+            ],
+            [
+              34.6523478,
+              36.56
+            ],
+            [
+              34.6618343,
+              36.564
+            ],
+            [
+              34.6744604,
+              36.57
+            ],
+            [
+              34.6856055,
+              36.576
+            ],
+            [
+              34.6939968,
+              36.581
+            ],
+            [
+              34.7017102,
+              36.586
+            ],
+            [
+              34.7102014,
+              36.592
+            ],
+            [
+              34.7121838,
+              36.593
+            ],
+            [
+              34.7154608,
+              36.593
+            ],
+            [
+              34.7247239,
+              36.585
+            ],
+            [
+              34.7310591,
+              36.58
+            ],
+            [
+              34.7392967,
+              36.574
+            ],
+            [
+              34.7499255,
+              36.567
+            ],
+            [
+              34.7600848,
+              36.561
+            ],
+            [
+              34.7714485,
+              36.555
+            ],
+            [
+              34.7820821,
+              36.55
+            ],
+            [
+              34.7891011,
+              36.547
+            ],
+            [
+              34.799406,
+              36.543
+            ],
+            [
+              34.8050596,
+              36.541
+            ],
+            [
+              34.8177011,
+              36.537
+            ],
+            [
+              34.832532,
+              36.533
+            ],
+            [
+              34.8458516,
+              36.53
+            ],
+            [
+              34.8568261,
+              36.528
+            ],
+            [
+              34.8712222,
+              36.526
+            ],
+            [
+              34.8814299,
+              36.525
+            ],
+            [
+              34.9033655,
+              36.524
+            ],
+            [
+              34.9100915,
+              36.523
+            ],
+            [
+              34.9395099,
+              36.509
+            ],
+            [
+              34.9473544,
+              36.505
+            ],
+            [
+              34.9568079,
+              36.499
+            ],
+            [
+              34.9635716,
+              36.495
+            ],
+            [
+              34.9727571,
+              36.49
+            ],
+            [
+              34.9808001,
+              36.486
+            ],
+            [
+              34.9873178,
+              36.483
+            ],
+            [
+              34.9943307,
+              36.48
+            ],
+            [
+              35,
+              36.477787144074576
+            ],
+            [
+              35,
+              37
+            ],
+            [
+              34,
+              37
+            ],
+            [
+              34,
+              36.0350952252287
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

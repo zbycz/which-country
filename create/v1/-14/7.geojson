@@ -1,0 +1,668 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192777,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Sierra Leone",
+        "local_name": "Sierra Leone",
+        "name_en": "Sierra Leone",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+          "name": "Sierra Leone",
+          "name:af": "Sierra Leone",
+          "name:ak": "Sierra Leone",
+          "name:am": "ሴየራ ሌዎን",
+          "name:an": "Sierra Leone",
+          "name:ar": "سيراليون",
+          "name:az": "Syerra-Leone",
+          "name:ba": "Сьерра-Леоне",
+          "name:be": "Сьера-Леонэ",
+          "name:bg": "Сиера Леоне",
+          "name:bm": "Sera Leon",
+          "name:bn": "সিয়েরা লিওন",
+          "name:bo": "སི་ར་ལེ་ཨོན།",
+          "name:br": "Sierra Leone",
+          "name:bs": "Sijera Leone",
+          "name:ca": "Sierra Leone",
+          "name:ce": "Сьерра-Леоне",
+          "name:cs": "Sierra Leone",
+          "name:cy": "Sierra Leone",
+          "name:da": "Sierra Leone",
+          "name:de": "Sierra Leone",
+          "name:dv": "ސެރެލިއޯން",
+          "name:ee": "Sierra Leone",
+          "name:el": "Σιέρα Λεόνε",
+          "name:en": "Sierra Leone",
+          "name:eo": "Siera-Leono",
+          "name:es": "Sierra Leona",
+          "name:et": "Sierra Leone",
+          "name:eu": "Sierra Leona",
+          "name:fa": "سیرالئون",
+          "name:ff": "Sarliyon",
+          "name:fi": "Sierra Leone",
+          "name:fo": "Sierra Leona",
+          "name:fr": "Sierra Leone",
+          "name:fy": "Sierra Leöane",
+          "name:ga": "Siarra Leon",
+          "name:gd": "Siarra Leòmhann",
+          "name:gl": "Serra Leoa",
+          "name:gn": "Siérra Leõ",
+          "name:gv": "Sierra Leone",
+          "name:he": "סיירה לאונה",
+          "name:hi": "सिएरा लियोन",
+          "name:hr": "Sijera Leone",
+          "name:ht": "Syera Leòn",
+          "name:hu": "Sierra Leone",
+          "name:hy": "Սիերա Լեոնե",
+          "name:id": "Sierra Leone",
+          "name:ie": "Sierra Leone",
+          "name:io": "Sierra Leone",
+          "name:is": "Síerra Leóne",
+          "name:it": "Sierra Leone",
+          "name:ja": "シエラレオネ",
+          "name:jv": "Sierra Leone",
+          "name:ka": "სიერა-ლეონე",
+          "name:kg": "Siera Leone",
+          "name:kk": "Сиерра-Леоне",
+          "name:kn": "ಸಿಯೆರ್ರಾ ಲಿಯೋನ್",
+          "name:ko": "시에라리온",
+          "name:ku": "Sierra Leone",
+          "name:kw": "Sierra Leon",
+          "name:la": "Mons Leoninus",
+          "name:lb": "Sierra Leone",
+          "name:li": "Sierra Leone",
+          "name:ln": "Sierra Leone",
+          "name:lt": "Siera Leonė",
+          "name:lv": "Sjerraleone",
+          "name:mi": "Te Araone",
+          "name:mk": "Сиера Леоне",
+          "name:ml": "സീറാ ലിയോൺ",
+          "name:mn": "Сьерра-Леоне",
+          "name:mr": "सियेरा लिओन",
+          "name:ms": "Sierra Leone",
+          "name:mt": "Sierra Leone",
+          "name:my": "ဆီရာလီယွန်နိုင်ငံ",
+          "name:nl": "Sierra Leone",
+          "name:nn": "Sierra Leone",
+          "name:no": "Sierra Leone",
+          "name:nv": "Náshdóítsoh Bitsiijįʼ Daditłʼooʼígíí Bidził",
+          "name:oc": "Sierra Leone",
+          "name:or": "ସିଏରା ଲିଓନ",
+          "name:os": "Сьеррæ-Леоне",
+          "name:pa": "ਸਿਏਰਾ ਲਿਓਨ",
+          "name:pl": "Sierra Leone",
+          "name:ps": "سېرالیون",
+          "name:pt": "Serra Leoa",
+          "name:qu": "Liyun Urqu",
+          "name:ro": "Sierra Leone",
+          "name:ru": "Сьерра-Леоне",
+          "name:rw": "Siyera Lewone",
+          "name:sa": "सियारा-लियोन",
+          "name:sc": "Sierra Leone",
+          "name:se": "Sierra Leone",
+          "name:sg": "Sierä-Leône",
+          "name:sh": "Sijera Leone",
+          "name:si": "සියෙරා ලියෝන්",
+          "name:sk": "Sierra Leone",
+          "name:sl": "Sierra Leone",
+          "name:sn": "Sierra Leone",
+          "name:so": "Sierra Leone",
+          "name:sq": "Siera Leone",
+          "name:sr": "Сијера Леоне",
+          "name:ss": "ISiriya-Liyoni",
+          "name:su": "Sierra Leone",
+          "name:sv": "Sierra Leone",
+          "name:sw": "Sierra Leone",
+          "name:ta": "சியேரா லியோனி",
+          "name:tg": "Сиерра Леоне",
+          "name:th": "ประเทศเซียร์ราลีโอน",
+          "name:tk": "Sýerra-Leone",
+          "name:tl": "Bulubunduking Leona",
+          "name:tr": "Sierra Leone",
+          "name:ts": "Siyera Liyona",
+          "name:tw": "Sierra Leone",
+          "name:ug": "سيېررا لېئونې",
+          "name:uk": "Сьєрра-Леоне",
+          "name:ur": "سیرالیون",
+          "name:uz": "Syerra Leone",
+          "name:vi": "Sierra Leone",
+          "name:vo": "Sieraleonän",
+          "name:wo": "Siraa Leyoon",
+          "name:yi": "סיערע לעאנע",
+          "name:yo": "Siẹrra Léònè",
+          "name:zh": "塞拉利昂 / 獅子山",
+          "name:zu": "ISiera Liyoni",
+          "boundary": "administrative",
+          "name:ace": "Sierra Leone",
+          "name:als": "Sierra Leone",
+          "name:arz": "سييراليون",
+          "name:ast": "Sierra Lleona",
+          "name:bcl": "Sierra Leona",
+          "name:bjn": "Sierra Leone",
+          "name:bpy": "সিয়েরা লিওন",
+          "name:bxr": "Сьерра-Леоне",
+          "name:ceb": "Sierra Leone",
+          "name:ckb": "سیەرالیۆن",
+          "name:crh": "Syerra Leone",
+          "name:diq": "Sierra Leone",
+          "name:ext": "Sierra Leona",
+          "name:frp": "Siérra Leone",
+          "name:gag": "Syerra Leone",
+          "name:hif": "Sierra Leone",
+          "name:hsb": "Sierra Leone",
+          "name:ilo": "Sierra Leon",
+          "name:jbo": "sieras. leon",
+          "name:lij": "Sierra Lion",
+          "name:lmo": "Sierra Leone",
+          "name:mrj": "Сьерра-Леоне",
+          "name:nah": "Tepētlah Leona",
+          "name:nan": "Sierra Leone",
+          "name:nds": "Sierra Leone",
+          "name:nov": "Siera Leone",
+          "name:nso": "Sierra Leone",
+          "name:pam": "Sierra Leone",
+          "name:pms": "Sierra Leone",
+          "name:pnb": "سیرالیون",
+          "name:sah": "Сьерра Леоне",
+          "name:scn": "Serra Liuni",
+          "name:sco": "Sierra Leone",
+          "name:smn": "Sierra Leone",
+          "name:sms": "Sierra Leone",
+          "name:stq": "Sierra Leone",
+          "name:szl": "Sierra Leone",
+          "name:tpi": "Sierra Leone",
+          "name:tzl": "Sierra Leone",
+          "name:vec": "Siera Leon",
+          "name:vro": "Sierra Leone",
+          "name:war": "Sierra Leone",
+          "name:xal": "Сьералегонмудин Орн",
+          "name:yue": "塞拉利昂",
+          "timezone": "Africa/Freetown",
+          "way_area": "6.86017",
+          "wikidata": "Q1044",
+          "ISO3166-1": "SL",
+          "wikipedia": "en:Sierra Leone",
+          "admin_level": "2",
+          "alt_name:eo": "Sieraleono",
+          "name:bat-smg": "Sėira Leuonė",
+          "name:zh-Hans": "塞拉利昂",
+          "name:zh-Hant": "獅子山",
+          "name:be-tarask": "Сьера-Леонэ",
+          "ISO3166-1:alpha2": "SL",
+          "ISO3166-1:alpha3": "SLE",
+          "default_language": "en",
+          "official_name:ar": "جمهورية سيراليون",
+          "official_name:cs": "Republika Sierra Leone",
+          "official_name:fa": "جمهوری سیرالئون",
+          "official_name:gn": "Tavakuairetã Siérra Leõ",
+          "official_name:pt": "República da Serra Leoa",
+          "ISO3166-1:numeric": "694"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -13.4284628,
+              8
+            ],
+            [
+              -13.4262516,
+              7.996
+            ],
+            [
+              -13.4214583,
+              7.988
+            ],
+            [
+              -13.4168305,
+              7.981
+            ],
+            [
+              -13.4117618,
+              7.974
+            ],
+            [
+              -13.4062091,
+              7.967
+            ],
+            [
+              -13.4001187,
+              7.96
+            ],
+            [
+              -13.394419,
+              7.954
+            ],
+            [
+              -13.3882192,
+              7.948
+            ],
+            [
+              -13.3814484,
+              7.942
+            ],
+            [
+              -13.374013,
+              7.936
+            ],
+            [
+              -13.3700079,
+              7.933
+            ],
+            [
+              -13.3628366,
+              7.928
+            ],
+            [
+              -13.354934,
+              7.923
+            ],
+            [
+              -13.3479667,
+              7.919
+            ],
+            [
+              -13.3402828,
+              7.915
+            ],
+            [
+              -13.33168,
+              7.911
+            ],
+            [
+              -13.3269387,
+              7.909
+            ],
+            [
+              -13.3191085,
+              7.906
+            ],
+            [
+              -13.310114,
+              7.903
+            ],
+            [
+              -13.3031823,
+              7.901
+            ],
+            [
+              -13.2951057,
+              7.899
+            ],
+            [
+              -13.2850988,
+              7.897
+            ],
+            [
+              -13.2787604,
+              7.896
+            ],
+            [
+              -13.2704878,
+              7.895
+            ],
+            [
+              -13.2527104,
+              7.894
+            ],
+            [
+              -13.2405023,
+              7.894
+            ],
+            [
+              -13.2227248,
+              7.895
+            ],
+            [
+              -13.2144523,
+              7.896
+            ],
+            [
+              -13.2112179,
+              7.896
+            ],
+            [
+              -13.2102517,
+              7.886
+            ],
+            [
+              -13.2091077,
+              7.878
+            ],
+            [
+              -13.2076277,
+              7.87
+            ],
+            [
+              -13.2058041,
+              7.862
+            ],
+            [
+              -13.2036272,
+              7.854
+            ],
+            [
+              -13.2010851,
+              7.846
+            ],
+            [
+              -13.198163,
+              7.838
+            ],
+            [
+              -13.1952803,
+              7.831
+            ],
+            [
+              -13.1960092,
+              7.83
+            ],
+            [
+              -13.1998773,
+              7.827
+            ],
+            [
+              -13.2070724,
+              7.821
+            ],
+            [
+              -13.2146766,
+              7.814
+            ],
+            [
+              -13.2206125,
+              7.808
+            ],
+            [
+              -13.2243049,
+              7.804
+            ],
+            [
+              -13.2303078,
+              7.797
+            ],
+            [
+              -13.2365237,
+              7.789
+            ],
+            [
+              -13.2421246,
+              7.781
+            ],
+            [
+              -13.2471702,
+              7.773
+            ],
+            [
+              -13.2494999,
+              7.769
+            ],
+            [
+              -13.2537979,
+              7.761
+            ],
+            [
+              -13.2562518,
+              7.756
+            ],
+            [
+              -13.2598267,
+              7.748
+            ],
+            [
+              -13.2637196,
+              7.738
+            ],
+            [
+              -13.2675968,
+              7.726
+            ],
+            [
+              -13.2702006,
+              7.716
+            ],
+            [
+              -13.2722586,
+              7.706
+            ],
+            [
+              -13.2732386,
+              7.7
+            ],
+            [
+              -13.2742538,
+              7.692
+            ],
+            [
+              -13.2750615,
+              7.682
+            ],
+            [
+              -13.2753423,
+              7.674
+            ],
+            [
+              -13.2753409,
+              7.668
+            ],
+            [
+              -13.2750563,
+              7.66
+            ],
+            [
+              -13.2742439,
+              7.65
+            ],
+            [
+              -13.2732249,
+              7.642
+            ],
+            [
+              -13.2722422,
+              7.636
+            ],
+            [
+              -13.2724245,
+              7.624
+            ],
+            [
+              -13.2721698,
+              7.614
+            ],
+            [
+              -13.271195,
+              7.602
+            ],
+            [
+              -13.2704309,
+              7.596
+            ],
+            [
+              -13.2687404,
+              7.586
+            ],
+            [
+              -13.2670048,
+              7.578
+            ],
+            [
+              -13.2637409,
+              7.566
+            ],
+            [
+              -13.2611071,
+              7.558
+            ],
+            [
+              -13.2580894,
+              7.55
+            ],
+            [
+              -13.2523118,
+              7.536
+            ],
+            [
+              -13.2487872,
+              7.528
+            ],
+            [
+              -13.2448304,
+              7.52
+            ],
+            [
+              -13.242681,
+              7.516
+            ],
+            [
+              -13.2367741,
+              7.506
+            ],
+            [
+              -13.2335157,
+              7.501
+            ],
+            [
+              -13.2278407,
+              7.493
+            ],
+            [
+              -13.2192698,
+              7.482
+            ],
+            [
+              -13.2122699,
+              7.474
+            ],
+            [
+              -13.2084754,
+              7.47
+            ],
+            [
+              -13.2013009,
+              7.463
+            ],
+            [
+              -13.1912837,
+              7.454
+            ],
+            [
+              -13.1864134,
+              7.45
+            ],
+            [
+              -13.1812132,
+              7.446
+            ],
+            [
+              -13.1726937,
+              7.44
+            ],
+            [
+              -13.1648003,
+              7.435
+            ],
+            [
+              -13.1596419,
+              7.432
+            ],
+            [
+              -13.1481141,
+              7.426
+            ],
+            [
+              -13.1392473,
+              7.422
+            ],
+            [
+              -13.1317327,
+              7.419
+            ],
+            [
+              -13.1261732,
+              7.417
+            ],
+            [
+              -13.1200325,
+              7.415
+            ],
+            [
+              -13.1131088,
+              7.413
+            ],
+            [
+              -13.1055345,
+              7.407
+            ],
+            [
+              -13.0973169,
+              7.401
+            ],
+            [
+              -13.0881241,
+              7.395
+            ],
+            [
+              -13.0813217,
+              7.391
+            ],
+            [
+              -13.0738421,
+              7.387
+            ],
+            [
+              -13.0632548,
+              7.382
+            ],
+            [
+              -13.0560181,
+              7.379
+            ],
+            [
+              -13.0478561,
+              7.376
+            ],
+            [
+              -13.0383695,
+              7.373
+            ],
+            [
+              -13.0267264,
+              7.37
+            ],
+            [
+              -13.0167321,
+              7.368
+            ],
+            [
+              -13.0104016,
+              7.367
+            ],
+            [
+              -13.0021394,
+              7.366
+            ],
+            [
+              -13,
+              7.365879505722267
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -13.4284628,
+              8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

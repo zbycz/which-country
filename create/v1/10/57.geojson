@@ -1,0 +1,813 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -50046,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Denmark",
+        "local_name": "Danmark",
+        "name_en": "Denmark",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+          "name": "Danmark",
+          "name:af": "Denemarke",
+          "name:am": "ዴንማርክ",
+          "name:an": "Dinamarca",
+          "name:ar": "الدنمارك",
+          "name:az": "Danimarka",
+          "name:ba": "Дания",
+          "name:be": "Данія",
+          "name:bg": "Дания",
+          "name:bi": "Denmark",
+          "name:bn": "ডেনমার্ক",
+          "name:bo": "དན་མྲག",
+          "name:br": "Danmark",
+          "name:bs": "Danska",
+          "name:ca": "Dinamarca",
+          "name:ce": "Дани",
+          "name:co": "Danimarca",
+          "name:cs": "Dánsko",
+          "name:cu": "Данїꙗ",
+          "name:cv": "Дани",
+          "name:cy": "Denmarc",
+          "name:da": "Danmark",
+          "name:de": "Dänemark",
+          "name:dv": "ޑެންމާކު",
+          "name:dz": "ཌེན་མཱཀ་",
+          "name:ee": "Denmark",
+          "name:el": "Δανία",
+          "name:en": "Denmark",
+          "name:eo": "Danio",
+          "name:es": "Dinamarca",
+          "name:et": "Taani",
+          "name:eu": "Danimarka",
+          "name:fa": "دانمارک",
+          "name:fi": "Tanska",
+          "name:fo": "Danmark",
+          "name:fr": "Danemark",
+          "name:fy": "Denemark",
+          "name:ga": "An Danmhairg",
+          "name:gd": "An Danmhairg",
+          "name:gl": "Dinamarca",
+          "name:gn": "Ndinamayka",
+          "name:gv": "Yn Danvarg",
+          "name:he": "דנמרק",
+          "name:hi": "डेनमार्क",
+          "name:hr": "Danska",
+          "name:ht": "Danmak",
+          "name:hu": "Dánia",
+          "name:hy": "Դանիա",
+          "name:ia": "Danmark",
+          "name:id": "Denmark",
+          "name:ie": "Dania",
+          "name:io": "Dania",
+          "name:is": "Danmörk",
+          "name:it": "Danimarca",
+          "name:ja": "デンマーク",
+          "name:jv": "Denmark",
+          "name:ka": "დანია",
+          "name:kg": "Danemark",
+          "name:ki": "Denmark",
+          "name:kk": "Дания",
+          "name:kl": "Danmarki",
+          "name:kn": "ಡೆನ್ಮಾರ್ಕ್",
+          "name:ko": "덴마크",
+          "name:ku": "Danîmarka",
+          "name:kv": "Дания",
+          "name:kw": "Danmark",
+          "name:ky": "Дания",
+          "name:la": "Dania",
+          "name:lb": "Dänemark",
+          "name:lg": "Denimaaka",
+          "name:li": "Denemarke",
+          "name:ln": "Danemark",
+          "name:lt": "Danija",
+          "name:lv": "Dānija",
+          "name:mg": "Danmarka",
+          "name:mi": "Tenemāka",
+          "name:mk": "Данска",
+          "name:ml": "ഡെന്മാർക്ക്",
+          "name:mn": "Дани",
+          "name:mr": "डेन्मार्क",
+          "name:ms": "Denmark",
+          "name:mt": "Danimarka",
+          "name:my": "ဒိန်းမတ်နိုင်ငံ",
+          "name:na": "Denemark",
+          "name:ne": "डेनमार्क",
+          "name:nl": "Denemarken",
+          "name:nn": "Danmark",
+          "name:no": "Danmark",
+          "name:nv": "Déinish Dineʼé Bikéyah",
+          "name:oc": "Danemarc",
+          "name:or": "ଡେନମାର୍କ",
+          "name:os": "Дани",
+          "name:pl": "Dania",
+          "name:ps": "ډېنمارک",
+          "name:pt": "Dinamarca",
+          "name:qu": "Dansuyu",
+          "name:rm": "Danemarc",
+          "name:rn": "Danemarke",
+          "name:ro": "Danemarca",
+          "name:ru": "Дания",
+          "name:rw": "Danimarike",
+          "name:sa": "डेनमार्क",
+          "name:sc": "Danimarca",
+          "name:se": "Dánmárku",
+          "name:sh": "Danska",
+          "name:si": "ඩෙන්මාර්කය",
+          "name:sk": "Dánsko",
+          "name:sl": "Danska",
+          "name:so": "Denmark",
+          "name:sq": "Danimarka",
+          "name:sr": "Данска",
+          "name:ss": "IDenimakhi",
+          "name:st": "Denmark",
+          "name:su": "Dénmark",
+          "name:sv": "Danmark",
+          "name:sw": "Denmark",
+          "name:ta": "டென்மார்க்",
+          "name:te": "డెన్మార్క్",
+          "name:tg": "Дания",
+          "name:th": "ประเทศเดนมาร์ก",
+          "name:tk": "Daniýa",
+          "name:tl": "Dinamarka",
+          "name:tr": "Danimarka",
+          "name:tt": "Дания",
+          "name:ug": "دانىيە",
+          "name:uk": "Данія",
+          "name:ur": "ڈنمارک",
+          "name:uz": "Daniya",
+          "name:vi": "Đan Mạch",
+          "name:vo": "Danän",
+          "name:wo": "Danmaark",
+          "name:yi": "דענמארק",
+          "name:yo": "Dẹ́nmárkì",
+          "name:zh": "丹麦 / 丹麥",
+          "name:zu": "IDenimaki",
+          "boundary": "administrative",
+          "int_name": "Denmark",
+          "name:ace": "Denmark",
+          "name:als": "Dänemark",
+          "name:ang": "Denemearc",
+          "name:arc": "ܕܐܢܡܐܪܩ",
+          "name:arz": "دنمارك",
+          "name:ast": "Dinamarca",
+          "name:bar": "Dänemark",
+          "name:bcl": "Denmark",
+          "name:bpy": "ডেনমার্ক",
+          "name:bxr": "Дани",
+          "name:cdo": "Dăng-măk",
+          "name:ceb": "Dinamarka",
+          "name:chr": "ᏕᏂᎹᎩ",
+          "name:ckb": "دانمارک",
+          "name:crh": "Danimarka",
+          "name:csb": "Dëńskô",
+          "name:diq": "Danimarka",
+          "name:dsb": "Dańska",
+          "name:ext": "Dinamarca",
+          "name:frp": "Danemârc",
+          "name:frr": "Dånmark",
+          "name:fur": "Danimarcje",
+          "name:gag": "Daniya",
+          "name:gan": "丹麥",
+          "name:hak": "Tan-ma̍k",
+          "name:haw": "Kenemaka",
+          "name:hif": "Denmark",
+          "name:hsb": "Danska",
+          "name:ilo": "Dinamarka",
+          "name:jbo": "danmark",
+          "name:kaa": "Daniya",
+          "name:kbd": "Даниэ",
+          "name:koi": "Данмарк",
+          "name:krc": "Дания",
+          "name:ksh": "Dänemark",
+          "name:lad": "Danimarka",
+          "name:lij": "Danemarca",
+          "name:lmo": "Danimarca",
+          "name:ltg": "Daneja",
+          "name:lzh": "丹麥",
+          "name:mdf": "Данмастор",
+          "name:mhr": "Даний",
+          "name:nah": "Dinamarca",
+          "name:nan": "Tan-kok",
+          "name:nap": "Danemarca",
+          "name:nds": "Däänmark",
+          "name:nov": "Dania",
+          "name:nrm": "Dannemar",
+          "name:pag": "Dinamarka",
+          "name:pam": "Dinamarka",
+          "name:pap": "Dinamarka",
+          "name:pcd": "Danemark",
+          "name:pdc": "Denemarrick",
+          "name:pih": "Denmark",
+          "name:pms": "Danimarca",
+          "name:pnb": "ڈنمارک",
+          "name:pnt": "Δανία",
+          "name:rmy": "Danemarka",
+          "name:rue": "Даньско",
+          "name:sah": "Дания",
+          "name:scn": "Danimarca",
+          "name:sco": "Denmark",
+          "name:sje": "Danmarrka",
+          "name:smn": "Tanska",
+          "name:sms": "Tanska",
+          "name:stq": "Deenemäärk",
+          "name:szl": "Dynymark",
+          "name:tet": "Dinamarka",
+          "name:tok": "ma Tansi",
+          "name:tpi": "Denmak",
+          "name:tzl": "Danmarc",
+          "name:udm": "Дания",
+          "name:vec": "Danimarca",
+          "name:vep": "Danii",
+          "name:vls": "Denemarkn",
+          "name:vro": "Taani",
+          "name:war": "Dinamarka",
+          "name:xal": "Данскгин Нутг",
+          "name:xmf": "დანია",
+          "name:yue": "丹麥",
+          "name:zea": "Denemarken",
+          "ref:nuts": "DK0",
+          "timezone": "Europe/Copenhagen",
+          "way_area": "12.5361",
+          "wikidata": "Q35",
+          "ISO3166-1": "DK",
+          "wikipedia": "da:Danmark",
+          "ref:nuts:1": "DK0",
+          "admin_level": "2",
+          "alt_name:eo": "Danujo;Danlando",
+          "name:nds-nl": "Denmaark",
+          "name:bat-smg": "Danėjė",
+          "name:roa-rup": "Danimarca",
+          "name:zh-Hans": "丹麦",
+          "name:zh-Hant": "丹麥",
+          "wikipedia:en": "en:Denmark",
+          "name:roa-tara": "Danemarche",
+          "official_name": "Kongeriget Danmark",
+          "name:be-tarask": "Данія",
+          "ISO3166-1:alpha2": "DK",
+          "ISO3166-1:alpha3": "DNK",
+          "default_language": "da",
+          "official_name:cs": "Dánské království",
+          "official_name:de": "Königreich Dänemark",
+          "official_name:el": "Βασίλειο της Δανίας",
+          "official_name:en": "Kingdom of Denmark",
+          "official_name:eo": "Reĝlando Danio",
+          "ISO3166-1:numeric": "208",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "13"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10,
+              57
+            ],
+            [
+              10.739517715176888,
+              57
+            ],
+            [
+              10.7424481,
+              57.0054747
+            ],
+            [
+              10.7477211,
+              57.0184107
+            ],
+            [
+              10.7514351,
+              57.0315067
+            ],
+            [
+              10.7522816,
+              57.0367352
+            ],
+            [
+              10.7558431,
+              57.0447732
+            ],
+            [
+              10.7725721,
+              57.0377862
+            ],
+            [
+              10.7924646,
+              57.0301727
+            ],
+            [
+              10.8132201,
+              57.0232807
+            ],
+            [
+              10.8347501,
+              57.0171407
+            ],
+            [
+              10.8569646,
+              57.0117782
+            ],
+            [
+              10.8797681,
+              57.0072152
+            ],
+            [
+              10.9030646,
+              57.0034717
+            ],
+            [
+              10.9267566,
+              57.0005632
+            ],
+            [
+              10.933311280640472,
+              57
+            ],
+            [
+              11,
+              57
+            ],
+            [
+              11,
+              57.75783536118337
+            ],
+            [
+              10.9753056,
+              57.7845
+            ],
+            [
+              10.7263298,
+              57.9409608
+            ],
+            [
+              10.7166346,
+              57.9444237
+            ],
+            [
+              10.7116651,
+              57.9451952
+            ],
+            [
+              10.6873476,
+              57.9480637
+            ],
+            [
+              10.6742516,
+              57.9492437
+            ],
+            [
+              10.6476711,
+              57.9511862
+            ],
+            [
+              10.6256861,
+              57.9521557
+            ],
+            [
+              10.6007776,
+              57.9524297
+            ],
+            [
+              10.5758896,
+              57.9518327
+            ],
+            [
+              10.5511306,
+              57.9503667
+            ],
+            [
+              10.5407296,
+              57.9495882
+            ],
+            [
+              10.5162071,
+              57.9472582
+            ],
+            [
+              10.4999216,
+              57.9452132
+            ],
+            [
+              10.4859741,
+              57.9432392
+            ],
+            [
+              10.4720546,
+              57.9410207
+            ],
+            [
+              10.4501436,
+              57.9371072
+            ],
+            [
+              10.4118721,
+              57.9291627
+            ],
+            [
+              10.3893531,
+              57.9235147
+            ],
+            [
+              10.3675836,
+              57.9170917
+            ],
+            [
+              10.3527966,
+              57.9121327
+            ],
+            [
+              10.3416981,
+              57.9081997
+            ],
+            [
+              10.2972186,
+              57.8913092
+            ],
+            [
+              10.2840661,
+              57.8859902
+            ],
+            [
+              10.2651141,
+              57.8774147
+            ],
+            [
+              10.2505631,
+              57.8699917
+            ],
+            [
+              10.2302081,
+              57.8603582
+            ],
+            [
+              10.2140736,
+              57.8538682
+            ],
+            [
+              10.1768961,
+              57.8369312
+            ],
+            [
+              10.1647461,
+              57.8309187
+            ],
+            [
+              10.1452636,
+              57.8208167
+            ],
+            [
+              10.1406396,
+              57.8186522
+            ],
+            [
+              10.1296281,
+              57.8140227
+            ],
+            [
+              10.1107496,
+              57.8054242
+            ],
+            [
+              10.1057646,
+              57.8029537
+            ],
+            [
+              10.0966356,
+              57.7989022
+            ],
+            [
+              10.0863646,
+              57.7956167
+            ],
+            [
+              10.0761571,
+              57.7928442
+            ],
+            [
+              10.0681316,
+              57.7927307
+            ],
+            [
+              10.0468056,
+              57.7929037
+            ],
+            [
+              10.0244001,
+              57.7946292
+            ],
+            [
+              10,
+              57.79563939679382
+            ],
+            [
+              10,
+              57
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -52822,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Sweden",
+        "local_name": "Sverige",
+        "name_en": "Sweden",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+          "name": "Sverige",
+          "name:ab": "Швециа",
+          "name:af": "Swede",
+          "name:ak": "Sweden",
+          "name:am": "ስዊድን",
+          "name:an": "Suecia",
+          "name:ar": "السويد",
+          "name:az": "İsveç",
+          "name:ba": "Швеция",
+          "name:be": "Швецыя",
+          "name:bg": "Швеция",
+          "name:bi": "Sweden",
+          "name:bm": "Swedi",
+          "name:bn": "সুইডেন",
+          "name:bo": "སི་ཝེ་དེན།",
+          "name:br": "Sveden",
+          "name:bs": "Švedska",
+          "name:ca": "Suècia",
+          "name:ce": "Швеци",
+          "name:co": "Svezia",
+          "name:cs": "Švédsko",
+          "name:cu": "Свєньско",
+          "name:cv": "Швеци",
+          "name:cy": "Sweden",
+          "name:da": "Sverige",
+          "name:de": "Schweden",
+          "name:dv": "ސުވިޑަން",
+          "name:dz": "སུའི་ཌན་",
+          "name:ee": "Sweden",
+          "name:el": "Σουηδία",
+          "name:en": "Sweden",
+          "name:eo": "Svedio",
+          "name:es": "Suecia",
+          "name:et": "Rootsi",
+          "name:eu": "Suedia",
+          "name:fa": "سوئد",
+          "name:fi": "Ruotsi",
+          "name:fo": "Svøríki",
+          "name:fr": "Suède",
+          "name:fy": "Sweden",
+          "name:ga": "An tSualainn",
+          "name:gd": "An t-Suain",
+          "name:gl": "Suecia",
+          "name:gn": "Suesia",
+          "name:gu": "સ્વિડન",
+          "name:gv": "Yn Toolynn",
+          "name:he": "שבדיה",
+          "name:hi": "स्वीडन",
+          "name:hr": "Švedska",
+          "name:ht": "Syèd",
+          "name:hu": "Svédország",
+          "name:hy": "Շվեդիա",
+          "name:ia": "Svedia",
+          "name:id": "Swedia",
+          "name:ie": "Svedia",
+          "name:io": "Suedia",
+          "name:is": "Svíþjóð",
+          "name:it": "Svezia",
+          "name:iu": "ᔅᕗᕆᑭ",
+          "name:ja": "スウェーデン",
+          "name:jv": "Swédia",
+          "name:ka": "შვედეთი",
+          "name:kg": "Suedi",
+          "name:ki": "Sweden",
+          "name:kk": "Швеция",
+          "name:kl": "Svenskit Nunaat",
+          "name:km": "ស៊ុយអែត",
+          "name:kn": "ಸ್ವೀಡನ್",
+          "name:ko": "스웨덴",
+          "name:ku": "Swêd",
+          "name:kv": "Швеция",
+          "name:kw": "Swedherwyk",
+          "name:ky": "Швеция",
+          "name:la": "Suecia",
+          "name:lb": "Schweden",
+          "name:lg": "Swiiden",
+          "name:li": "Zwede",
+          "name:ln": "Swédi",
+          "name:lt": "Švedija",
+          "name:lv": "Zviedrija",
+          "name:mg": "Soeda",
+          "name:mi": "Huītene",
+          "name:mk": "Шведска",
+          "name:ml": "സ്വീഡൻ",
+          "name:mn": "Швед",
+          "name:mr": "स्वीडन",
+          "name:ms": "Sweden",
+          "name:mt": "Żvezja",
+          "name:my": "ဆွီဒင်နိုင်ငံ",
+          "name:na": "Widen",
+          "name:ne": "स्वीडेन",
+          "name:nl": "Zweden",
+          "name:nn": "Sverige",
+          "name:no": "Sverige",
+          "name:oc": "Suècia",
+          "name:or": "ସ୍ଵିଡେନ",
+          "name:os": "Швеци",
+          "name:pa": "ਸਵੀਡਨ",
+          "name:pl": "Szwecja",
+          "name:ps": "سويډن",
+          "name:pt": "Suécia",
+          "name:qu": "Suwidsuyu",
+          "name:rm": "Svezia",
+          "name:ro": "Suedia",
+          "name:ru": "Швеция",
+          "name:rw": "Suwede",
+          "name:sa": "स्वीडन",
+          "name:sc": "Isvetzia",
+          "name:se": "Ruoŧŧa",
+          "name:sh": "Švedska",
+          "name:sk": "Švédsko",
+          "name:sl": "Švedska",
+          "name:sm": "Sweden",
+          "name:so": "Iswiidhan",
+          "name:sq": "Suedia",
+          "name:sr": "Шведска",
+          "name:ss": "ISwideni",
+          "name:su": "Swédia",
+          "name:sv": "Sverige",
+          "name:sw": "Uswidi",
+          "name:ta": "சுவீடன்",
+          "name:te": "స్వీడన్",
+          "name:tg": "Шветсия",
+          "name:th": "ประเทศสวีเดน",
+          "name:tk": "Şwesiýa",
+          "name:tl": "Suwesya",
+          "name:tr": "İsveç",
+          "name:tt": "Швеция",
+          "name:tw": "Sweden",
+          "name:ug": "شۋېتسىيە",
+          "name:uk": "Швеція",
+          "name:ur": "سویڈن",
+          "name:uz": "Shvetsiya",
+          "name:vi": "Thụy Điển",
+          "name:vo": "Svedän",
+          "name:wa": "Suwedwesse",
+          "name:wo": "Suweed",
+          "name:yi": "שוועדן",
+          "name:yo": "Swídìn",
+          "name:zh": "瑞典",
+          "name:zu": "ISwidi",
+          "boundary": "administrative",
+          "int_name": "Sweden",
+          "name:ace": "Swèdia",
+          "name:als": "Schweden",
+          "name:ang": "Swēoland",
+          "name:arc": "ܣܘܝܕ",
+          "name:arz": "السويد",
+          "name:ast": "Suecia",
+          "name:bar": "Schwedn",
+          "name:bcl": "Suesya",
+          "name:bpy": "সুইডেন",
+          "name:bxr": "Швед",
+          "name:cdo": "Sôi-diēng",
+          "name:ceb": "Suwesya",
+          "name:chr": "ᏍᏫᏕᏂ",
+          "name:ckb": "سوید",
+          "name:crh": "İsveç",
+          "name:csb": "Szwedzkô",
+          "name:diq": "İswec",
+          "name:dsb": "Šwedska",
+          "name:ext": "Suécia",
+          "name:frp": "Suède",
+          "name:frr": "Swärik",
+          "name:fur": "Svezie",
+          "name:gag": "Şvețiya",
+          "name:gan": "瑞典",
+          "name:hak": "Shuì-tién",
+          "name:haw": "Kuekene",
+          "name:hif": "Sweden",
+          "name:hsb": "Šwedska",
+          "name:ilo": "Suésia",
+          "name:jbo": "sueriges",
+          "name:kaa": "Shvetsiya",
+          "name:kab": "Sswid",
+          "name:kbd": "Шуэц",
+          "name:koi": "Шведму",
+          "name:krc": "Швеция",
+          "name:krl": "Ruočči",
+          "name:lad": "Suesia",
+          "name:lez": "Швеция",
+          "name:lij": "Sveçia",
+          "name:lmo": "Svezia",
+          "name:ltg": "Švedeja",
+          "name:lzh": "瑞典",
+          "name:mdf": "Шведмастор",
+          "name:mhr": "Швеций",
+          "name:myv": "Швеция Мастор",
+          "name:mzn": "سوئد",
+          "name:nah": "Suecia",
+          "name:nan": "Sūi-tián",
+          "name:nap": "Sguezia",
+          "name:nds": "Sweden",
+          "name:new": "स्विदेन",
+          "name:nov": "Suedia",
+          "name:nrm": "Suède",
+          "name:pag": "Suesia",
+          "name:pam": "Sweden",
+          "name:pap": "Suecia",
+          "name:pcd": "Suède",
+          "name:pih": "Swiiden",
+          "name:pms": "Svessia",
+          "name:pnb": "سویڈن",
+          "name:pnt": "Σουηδία",
+          "name:rue": "Швеція",
+          "name:sah": "Швеция",
+          "name:scn": "Svezzia",
+          "name:sco": "Swaden",
+          "name:sje": "Sverrje",
+          "name:smn": "Ruotâ",
+          "name:sms": "Ruõcc",
+          "name:stq": "Sweeden",
+          "name:szl": "Szwedyjŏ",
+          "name:tet": "Suésia",
+          "name:tok": "ma Wensa",
+          "name:tpi": "Suwidan",
+          "name:tzl": "Sveiria",
+          "name:udm": "Швеция",
+          "name:vec": "Svèsia",
+          "name:vep": "Ročinma",
+          "name:vls": "Zweedn",
+          "name:vro": "Roodsi",
+          "name:war": "Suwesya",
+          "name:wuu": "瑞典",
+          "name:xal": "Сведин Нутг",
+          "name:xmf": "შვედეთი",
+          "name:yue": "瑞典",
+          "name:zea": "Zweden",
+          "timezone": "Europe/Stockholm",
+          "way_area": "92.383",
+          "wikidata": "Q34",
+          "ISO3166-1": "SE",
+          "wikipedia": "sv:Sverige",
+          "admin_level": "2",
+          "alt_name:eo": "Svedujo",
+          "name:nds-nl": "Sveden",
+          "name:bat-smg": "Švedėjė",
+          "name:roa-rup": "Suidia",
+          "name:zh-Hans": "瑞典",
+          "name:roa-tara": "Svezzie",
+          "official_name": "Konungariket Sverige",
+          "name:be-tarask": "Швэцыя",
+          "ISO3166-1:alpha2": "SE",
+          "ISO3166-1:alpha3": "SWE",
+          "default_language": "sv",
+          "official_name:be": "Каралеўства Швецыя",
+          "official_name:cs": "Švédské království",
+          "official_name:de": "Königreich Schweden",
+          "official_name:el": "Βασίλειο της Σουηδίας",
+          "official_name:eo": "Reĝlando Svedio",
+          "official_name:sv": "Konungariket Sverige",
+          "ISO3166-1:numeric": "752"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.985896348120583,
+              58
+            ],
+            [
+              10.9969169,
+              57.9803976
+            ],
+            [
+              11,
+              57.9774219869634
+            ],
+            [
+              11,
+              58
+            ],
+            [
+              10.985896348120583,
+              58
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

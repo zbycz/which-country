@@ -1,0 +1,928 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192776,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Guinea-Bissau",
+        "local_name": "Guiné-Bissau",
+        "name_en": "Guinea-Bissau",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+          "name": "Guiné-Bissau",
+          "name:af": "Guinee-Bissau",
+          "name:am": "ጊኔ-ቢሳው",
+          "name:an": "Guinea-Bissau",
+          "name:ar": "غينيا بيساو",
+          "name:az": "Qvineya-Bisau",
+          "name:ba": "Гвинея-Бисау",
+          "name:be": "Гвінея-Бісау",
+          "name:bg": "Гвинея-Бисау",
+          "name:bm": "Gine Bisau",
+          "name:bn": "গিনি-বিসাউ",
+          "name:bo": "གི་ནེ་-བི་སའོ།",
+          "name:br": "Ginea-Bissau",
+          "name:bs": "Gvineja-Bisau",
+          "name:ca": "Guinea Bissau",
+          "name:ce": "Гвине-Бисау",
+          "name:co": "Guinea-Bissau",
+          "name:cs": "Guinea-Bissau",
+          "name:cv": "Гвиней-Бисау",
+          "name:cy": "Guiné-Bissau",
+          "name:da": "Guinea-Bissau",
+          "name:de": "Guinea-Bissau",
+          "name:dv": "ގީނީ-ބިސާއޫ",
+          "name:ee": "Guinea-Bissau",
+          "name:el": "Γουινέα-Μπισσάου",
+          "name:en": "Guinea-Bissau",
+          "name:eo": "Gvineo Bisaŭa",
+          "name:es": "Guinea-Bisáu",
+          "name:et": "Guinea-Bissau",
+          "name:eu": "Ginea-Bissau",
+          "name:fa": "گینه بیسائو",
+          "name:ff": "Gine-Bisaawo",
+          "name:fi": "Guinea-Bissau",
+          "name:fo": "Guinea-Bissau",
+          "name:fr": "Guinée-Bissau",
+          "name:fy": "Guinee-Bissau",
+          "name:ga": "Guine-Bissau",
+          "name:gd": "Gini-Bissau",
+          "name:gl": "Guinea-Bisau",
+          "name:gn": "Ginéa Mbisáu",
+          "name:gv": "Yn Ghuinea-Bissau",
+          "name:he": "גינאה ביסאו",
+          "name:hi": "गिनी-बिसाऊ",
+          "name:hr": "Gvineja Bisau",
+          "name:ht": "Gine-Bisao",
+          "name:hu": "Bissau-Guinea",
+          "name:hy": "Գվինեա Բիսաու",
+          "name:ia": "Guinea-Bissau",
+          "name:id": "Guinea-Bissau",
+          "name:ie": "Guinea-Bissau",
+          "name:io": "Guinea Bisau",
+          "name:is": "Gínea-Bissá",
+          "name:it": "Guinea-Bissau",
+          "name:ja": "ギニアビサウ",
+          "name:jv": "Guinea-Bissau",
+          "name:ka": "გვინეა-ბისაუ",
+          "name:kg": "Ginea-Bisau",
+          "name:kk": "Гвинея-Бисау",
+          "name:ko": "기니비사우",
+          "name:ku": "Gîne-Bissau",
+          "name:kw": "Gyni-Bissaw",
+          "name:ky": "Гвинея-Бисау",
+          "name:la": "Guinea Bissaviensis",
+          "name:lb": "Guinea-Bissau",
+          "name:li": "Guinee-Bissau",
+          "name:ln": "Gine-Bisau",
+          "name:lt": "Bisau Gvinėja",
+          "name:lv": "Gvineja-Bisava",
+          "name:mi": "Kini Pihō",
+          "name:mk": "Гвинеја-Бисау",
+          "name:ml": "ഗിനി-ബിസൗ",
+          "name:mr": "गिनी-बिसाउ",
+          "name:ms": "Guinea-Bissau",
+          "name:my": "ဂင်းနီဗစ်ဆောနိုင်ငံ",
+          "name:na": "Gini-Bitau",
+          "name:ne": "गिनी-बिसाउ",
+          "name:nl": "Guinee-Bissau",
+          "name:nn": "Guinea-Bissau",
+          "name:no": "Guinea-Bissau",
+          "name:nv": "Gíní Bisó",
+          "name:oc": "Guinèa Bissau",
+          "name:os": "Гвиней-Бисау",
+          "name:pa": "ਗਿਨੀ-ਬਿਸਾਊ",
+          "name:pl": "Gwinea Bissau",
+          "name:pt": "Guiné-Bissau",
+          "name:qu": "Khiniya-Wisaw",
+          "name:ro": "Guineea-Bissau",
+          "name:ru": "Гвинея-Бисау",
+          "name:rw": "Gineya-Biso",
+          "name:sc": "Guinea-Bissau",
+          "name:se": "Guinea-Bissau",
+          "name:sg": "Ginëe-Bisau",
+          "name:sh": "Gvineja Bisau",
+          "name:sk": "Guinea-Bissau",
+          "name:sl": "Gvineja Bissau",
+          "name:sn": "Guinea-Bissau",
+          "name:so": "Guinea-Bissau",
+          "name:sq": "Guinea Bisau",
+          "name:sr": "Гвинеја Бисао",
+          "name:ss": "IGiniya-Bhasawu",
+          "name:st": "Guinea-Bissau",
+          "name:su": "Guinéa-Bissau",
+          "name:sv": "Guinea-Bissau",
+          "name:sw": "Guinea Bisau",
+          "name:ta": "கினி-பிசாவு",
+          "name:tg": "Гвинея Бисау",
+          "name:th": "ประเทศกินี-บิสเซา",
+          "name:tk": "Gwineýa-Bisau",
+          "name:tl": "Ginea-Bissau",
+          "name:tr": "Gine-Bissau",
+          "name:ts": "Guinea-Bissau",
+          "name:tt": "Гвинея-Бисау",
+          "name:ug": "گۋىنېيە بىسسائۇ",
+          "name:uk": "Гвінея-Бісау",
+          "name:ur": "گنی بساؤ",
+          "name:uz": "Gvineya-Bissau",
+          "name:vi": "Guiné-Bissau",
+          "name:vo": "Gineyän-Bisauän",
+          "name:wo": "Gine Bisaawóo",
+          "name:yi": "גינע-ביסאו",
+          "name:yo": "Guinea-Bissau",
+          "name:zh": "几内亚比绍 / 幾內亞比索",
+          "name:zu": "IGini Bisawu",
+          "boundary": "administrative",
+          "name:ace": "Guinea Bissau",
+          "name:als": "Guinea-Bissau",
+          "name:arz": "جينيا بيساو",
+          "name:ast": "Guinea-Bisáu",
+          "name:bcl": "Guineya-Bisau",
+          "name:bjn": "Guinea-Bissau",
+          "name:bpy": "গিনি-বিসাও",
+          "name:bxr": "Гвиней-Бисау",
+          "name:ceb": "Guinea-Bissau",
+          "name:ckb": "گینێ بیساو",
+          "name:crh": "Gvineya Bissau",
+          "name:diq": "Gineya-Bisau",
+          "name:ext": "Guinea-Bissau",
+          "name:frp": "Guinê-Bissaou",
+          "name:gag": "Gvineya Bissau",
+          "name:hif": "Guinea-Bissau",
+          "name:hsb": "Gineja-Bissau",
+          "name:ilo": "Guinea-Bissau",
+          "name:lij": "Guinea Bissau",
+          "name:lmo": "Guinea-Bissau",
+          "name:mrj": "Гвиней-Бисау",
+          "name:mwl": "Guiné-Bissau",
+          "name:nah": "Guinea Bissau",
+          "name:nan": "Guiné-Bissau",
+          "name:nds": "Guinea-Bissau",
+          "name:nov": "Gini-Bisau",
+          "name:nso": "Guinea-Bissau",
+          "name:pam": "Guinea-Bissau",
+          "name:pap": "Guinea-Bissau",
+          "name:pih": "Gini-Bisau",
+          "name:pms": "Guinea-Bissau",
+          "name:pnb": "گنی بساو",
+          "name:sah": "Гуинея-Биссау",
+          "name:scn": "Guinia Bissau",
+          "name:sco": "Guinea-Bissau",
+          "name:smn": "Guinea-Bissau",
+          "name:sms": "Guinea-Bissau",
+          "name:stq": "Guinea-Bissau",
+          "name:tet": "Giné-Bisau",
+          "name:tzl": "Guineia-Bissau",
+          "name:vec": "Guinea-Bissau",
+          "name:vro": "Ginea-Bissau",
+          "name:war": "Guinea-Bissau",
+          "name:xal": "Биса Гвинмудин Орн",
+          "name:yue": "畿內亞比紹",
+          "timezone": "Africa/Bissau",
+          "way_area": "4.43348",
+          "wikidata": "Q1007",
+          "ISO3166-1": "GW",
+          "wikipedia": "en:Guinea-Bissau",
+          "admin_level": "2",
+          "name:simple": "Guinea-Bissau",
+          "name:bat-smg": "Bisau Gvinėjė",
+          "name:zh-Hans": "几内亚比绍",
+          "name:zh-Hant": "幾內亞比索",
+          "name:be-tarask": "Гвінэя-Бісаў",
+          "ISO3166-1:alpha2": "GW",
+          "ISO3166-1:alpha3": "GNB",
+          "default_language": "pt",
+          "official_name:cs": "Republika Guinea-Bissau",
+          "ISO3166-1:numeric": "624"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -16,
+              12
+            ],
+            [
+              -15,
+              12
+            ],
+            [
+              -15,
+              12.681394345706893
+            ],
+            [
+              -15.1224301,
+              12.6858085
+            ],
+            [
+              -15.1414121,
+              12.6857991
+            ],
+            [
+              -15.1636456,
+              12.6862384
+            ],
+            [
+              -15.1704425,
+              12.6860081
+            ],
+            [
+              -15.1733524,
+              12.685328
+            ],
+            [
+              -15.1790715,
+              12.6847545
+            ],
+            [
+              -15.1838218,
+              12.6819299
+            ],
+            [
+              -15.1892176,
+              12.680226
+            ],
+            [
+              -15.1967669,
+              12.6766034
+            ],
+            [
+              -15.219756,
+              12.6676601
+            ],
+            [
+              -15.2349641,
+              12.661308
+            ],
+            [
+              -15.2397144,
+              12.6596127
+            ],
+            [
+              -15.2706645,
+              12.6404755
+            ],
+            [
+              -15.2783222,
+              12.6370765
+            ],
+            [
+              -15.2827397,
+              12.6348112
+            ],
+            [
+              -15.3081965,
+              12.6239316
+            ],
+            [
+              -15.3376388,
+              12.6137228
+            ],
+            [
+              -15.3507859,
+              12.5994634
+            ],
+            [
+              -15.3547663,
+              12.5949367
+            ],
+            [
+              -15.369429,
+              12.579544
+            ],
+            [
+              -15.3803073,
+              12.5710466
+            ],
+            [
+              -15.3917286,
+              12.5628916
+            ],
+            [
+              -15.3987352,
+              12.5576817
+            ],
+            [
+              -15.4047665,
+              12.5529252
+            ],
+            [
+              -15.417373,
+              12.5444237
+            ],
+            [
+              -15.429051,
+              12.5370445
+            ],
+            [
+              -15.480844,
+              12.5153384
+            ],
+            [
+              -15.4901314,
+              12.5121991
+            ],
+            [
+              -15.5079076,
+              12.5048234
+            ],
+            [
+              -15.5192262,
+              12.4994847
+            ],
+            [
+              -15.5374329,
+              12.4919888
+            ],
+            [
+              -15.5595244,
+              12.4813187
+            ],
+            [
+              -15.5741694,
+              12.474732
+            ],
+            [
+              -15.592162,
+              12.4676851
+            ],
+            [
+              -15.5973372,
+              12.4652955
+            ],
+            [
+              -15.6193099,
+              12.453156
+            ],
+            [
+              -15.6279217,
+              12.449067
+            ],
+            [
+              -15.6358914,
+              12.4458835
+            ],
+            [
+              -15.6661548,
+              12.4319032
+            ],
+            [
+              -15.675952,
+              12.4278098
+            ],
+            [
+              -15.6811256,
+              12.4254186
+            ],
+            [
+              -15.6830653,
+              12.4248531
+            ],
+            [
+              -15.6995673,
+              12.4270716
+            ],
+            [
+              -15.7493998,
+              12.4348504
+            ],
+            [
+              -15.816844,
+              12.4424136
+            ],
+            [
+              -15.8406464,
+              12.4454331
+            ],
+            [
+              -15.8683694,
+              12.4486279
+            ],
+            [
+              -15.8840058,
+              12.4499335
+            ],
+            [
+              -15.8900098,
+              12.4502763
+            ],
+            [
+              -15.8913766,
+              12.4502302
+            ],
+            [
+              -15.8935012,
+              12.4500108
+            ],
+            [
+              -15.8957626,
+              12.4494427
+            ],
+            [
+              -15.9019071,
+              12.4489702
+            ],
+            [
+              -15.9399436,
+              12.4442021
+            ],
+            [
+              -15.9534171,
+              12.4427987
+            ],
+            [
+              -15.9928163,
+              12.4558852
+            ],
+            [
+              -16,
+              12.457918656800583
+            ],
+            [
+              -16,
+              12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -192775,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Senegal",
+        "local_name": "Sénégal",
+        "name_en": "Senegal",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+          "name": "Sénégal",
+          "name:af": "Senegal",
+          "name:am": "ሴኔጋል",
+          "name:an": "Senegal",
+          "name:ar": "السنغال",
+          "name:az": "Seneqal",
+          "name:ba": "Сенегал",
+          "name:be": "Сенегал",
+          "name:bg": "Сенегал",
+          "name:bm": "Senegal",
+          "name:bn": "সেনেগাল",
+          "name:bo": "སི་ནི་གཱལ།",
+          "name:br": "Senegal",
+          "name:bs": "Senegal",
+          "name:ca": "Senegal",
+          "name:ce": "Сенегал",
+          "name:cs": "Senegal",
+          "name:cv": "Сенегал",
+          "name:cy": "Sénégal",
+          "name:da": "Senegal",
+          "name:de": "Senegal",
+          "name:dv": "ސެނެގާލް",
+          "name:ee": "Senegal",
+          "name:el": "Σενεγάλη",
+          "name:en": "Senegal",
+          "name:eo": "Senegalo",
+          "name:es": "Senegal",
+          "name:et": "Senegal",
+          "name:eu": "Senegal",
+          "name:fa": "سنگال",
+          "name:ff": "Senegaal",
+          "name:fi": "Senegal",
+          "name:fo": "Senegal",
+          "name:fr": "Sénégal",
+          "name:fy": "Senegal",
+          "name:ga": "An tSeineagáil",
+          "name:gd": "Seanagal",
+          "name:gl": "Senegal",
+          "name:gn": "Senegal",
+          "name:gv": "Yn Tenegaal",
+          "name:ha": "Senegal",
+          "name:he": "סנגל",
+          "name:hi": "सेनेगल",
+          "name:hr": "Senegal",
+          "name:ht": "Senegal",
+          "name:hu": "Szenegál",
+          "name:hy": "Սենեգալ",
+          "name:ia": "Senegal",
+          "name:id": "Senegal",
+          "name:ie": "Senegal",
+          "name:io": "Senegal",
+          "name:is": "Senegal",
+          "name:it": "Senegal",
+          "name:ja": "セネガル",
+          "name:jv": "Senegal",
+          "name:ka": "სენეგალი",
+          "name:kg": "Senangale",
+          "name:kk": "Сенегал",
+          "name:kn": "ಸೆನೆಗಲ್",
+          "name:ko": "세네갈",
+          "name:ku": "Senegal",
+          "name:kw": "Senegal",
+          "name:ky": "Сенегал",
+          "name:la": "Senegalia",
+          "name:lb": "Senegal",
+          "name:li": "Senegal",
+          "name:ln": "Senegale",
+          "name:lt": "Senegalas",
+          "name:lv": "Senegāla",
+          "name:mi": "Henekara",
+          "name:mk": "Сенегал",
+          "name:ml": "സെനെഗൽ",
+          "name:mr": "सेनेगाल",
+          "name:ms": "Senegal",
+          "name:mt": "Senegal",
+          "name:my": "ဆီနီဂေါနိုင်ငံ",
+          "name:na": "Senegal",
+          "name:nl": "Senegal",
+          "name:nn": "Senegal",
+          "name:no": "Senegal",
+          "name:oc": "Senegal",
+          "name:or": "ସେନେଗାଲ",
+          "name:os": "Сенегал",
+          "name:pa": "ਸੇਨੇਗਲ",
+          "name:pl": "Senegal",
+          "name:ps": "سېنېګال",
+          "name:pt": "Senegal",
+          "name:qu": "Sinigal",
+          "name:ro": "Senegal",
+          "name:ru": "Сенегал",
+          "name:rw": "Senegali",
+          "name:sa": "सेनेगल",
+          "name:sc": "Senegàl",
+          "name:sd": "سينيگال",
+          "name:se": "Senegal",
+          "name:sg": "Senegäle",
+          "name:sh": "Senegal",
+          "name:sk": "Senegal",
+          "name:sl": "Senegal",
+          "name:sn": "Senegal",
+          "name:so": "Sinigaal",
+          "name:sq": "Senegali",
+          "name:sr": "Сенегал",
+          "name:st": "Senegal",
+          "name:su": "Sénégal",
+          "name:sv": "Senegal",
+          "name:sw": "Senegal",
+          "name:ta": "செனிகல்",
+          "name:te": "సెనెగల్",
+          "name:tg": "Сенегал",
+          "name:th": "ประเทศเซเนกัล",
+          "name:ti": "ሴኔጋል",
+          "name:tk": "Senegal",
+          "name:tl": "Senegal",
+          "name:tr": "Senegal",
+          "name:ts": "Senegal",
+          "name:tt": "Сенегал",
+          "name:ug": "سېنېگال",
+          "name:uk": "Сенегал",
+          "name:ur": "سینیگال",
+          "name:uz": "Senegal",
+          "name:vi": "Sénégal",
+          "name:vo": "Senegalän",
+          "name:wa": "Senegal",
+          "name:wo": "Senegaal",
+          "name:yi": "סענעגאל",
+          "name:yo": "Sẹ̀nẹ̀gàl",
+          "name:zh": "塞内加尔 / 塞內加爾",
+          "name:zu": "ISenegal",
+          "boundary": "administrative",
+          "name:ace": "Senegal",
+          "name:als": "Senegal",
+          "name:arz": "سينيجال",
+          "name:ast": "Senegal",
+          "name:azb": "سنقال",
+          "name:bar": "Senegal",
+          "name:bcl": "Senegal",
+          "name:bjn": "Senegal",
+          "name:bpy": "সেনেগাল",
+          "name:bxr": "Сенегал",
+          "name:ceb": "Senegal",
+          "name:ckb": "سێنیگال",
+          "name:crh": "Senegal",
+          "name:diq": "Senegal",
+          "name:dsb": "Senegal",
+          "name:ext": "Senegal",
+          "name:frp": "Sènègal",
+          "name:gag": "Senegal",
+          "name:hif": "Senegal",
+          "name:hsb": "Senegal",
+          "name:ilo": "Senegal",
+          "name:jbo": "senegal",
+          "name:kmr": "سەنەگال",
+          "name:lij": "Senegal",
+          "name:lmo": "Senegal",
+          "name:lrc": "سنگال",
+          "name:mhr": "Сенегал",
+          "name:mrj": "Сенегал",
+          "name:mzn": "سنگال",
+          "name:nah": "Senegal",
+          "name:nan": "Senegal",
+          "name:nap": "Senegal",
+          "name:nds": "Senegal",
+          "name:nov": "Senegal",
+          "name:nso": "Senegal",
+          "name:pam": "Senegal",
+          "name:pap": "Senegal",
+          "name:pih": "Senegaal",
+          "name:pms": "Senegal",
+          "name:pnb": "سینیگال",
+          "name:sah": "Сенегал",
+          "name:scn": "Senegal",
+          "name:sco": "Senegal",
+          "name:smn": "Senegal",
+          "name:sms": "Senegal",
+          "name:stq": "Senegal",
+          "name:szl": "Synegal",
+          "name:tpi": "Senegal",
+          "name:tzl": "Senegal",
+          "name:vec": "Senegal",
+          "name:vro": "Senegal",
+          "name:war": "Senegal",
+          "name:xal": "Сенегалмудин Орн",
+          "name:yue": "塞內加爾",
+          "timezone": "Africa/Dakar",
+          "way_area": "17.3846",
+          "wikidata": "Q1041",
+          "ISO3166-1": "SN",
+          "wikipedia": "fr:Sénégal",
+          "admin_level": "2",
+          "name:simple": "Senegal",
+          "name:bat-smg": "Senegals",
+          "name:zh-Hans": "塞内加尔",
+          "name:zh-Hant": "塞內加爾",
+          "name:be-tarask": "Сэнэгал",
+          "ISO3166-1:alpha2": "SN",
+          "ISO3166-1:alpha3": "SEN",
+          "default_language": "fr",
+          "official_name:ar": "جمهورية السنغال",
+          "official_name:cs": "Senegalská republika",
+          "official_name:fa": "جمهوری سنگال",
+          "official_name:fr": "République du Sénégal",
+          "official_name:gn": "Tavakuairetã Senegal",
+          "official_name:pt": "República do Senegal",
+          "official_name:ur": "جمہوریہ سینیگال",
+          "ISO3166-1:numeric": "686"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -16,
+              12.457918656800583
+            ],
+            [
+              -15.9928163,
+              12.4558852
+            ],
+            [
+              -15.9534171,
+              12.4427987
+            ],
+            [
+              -15.9399436,
+              12.4442021
+            ],
+            [
+              -15.9019071,
+              12.4489702
+            ],
+            [
+              -15.8957626,
+              12.4494427
+            ],
+            [
+              -15.8935012,
+              12.4500108
+            ],
+            [
+              -15.8913766,
+              12.4502302
+            ],
+            [
+              -15.8900098,
+              12.4502763
+            ],
+            [
+              -15.8840058,
+              12.4499335
+            ],
+            [
+              -15.8683694,
+              12.4486279
+            ],
+            [
+              -15.8406464,
+              12.4454331
+            ],
+            [
+              -15.816844,
+              12.4424136
+            ],
+            [
+              -15.7493998,
+              12.4348504
+            ],
+            [
+              -15.6995673,
+              12.4270716
+            ],
+            [
+              -15.6830653,
+              12.4248531
+            ],
+            [
+              -15.6811256,
+              12.4254186
+            ],
+            [
+              -15.675952,
+              12.4278098
+            ],
+            [
+              -15.6661548,
+              12.4319032
+            ],
+            [
+              -15.6358914,
+              12.4458835
+            ],
+            [
+              -15.6279217,
+              12.449067
+            ],
+            [
+              -15.6193099,
+              12.453156
+            ],
+            [
+              -15.5973372,
+              12.4652955
+            ],
+            [
+              -15.592162,
+              12.4676851
+            ],
+            [
+              -15.5741694,
+              12.474732
+            ],
+            [
+              -15.5595244,
+              12.4813187
+            ],
+            [
+              -15.5374329,
+              12.4919888
+            ],
+            [
+              -15.5192262,
+              12.4994847
+            ],
+            [
+              -15.5079076,
+              12.5048234
+            ],
+            [
+              -15.4901314,
+              12.5121991
+            ],
+            [
+              -15.480844,
+              12.5153384
+            ],
+            [
+              -15.429051,
+              12.5370445
+            ],
+            [
+              -15.417373,
+              12.5444237
+            ],
+            [
+              -15.4047665,
+              12.5529252
+            ],
+            [
+              -15.3987352,
+              12.5576817
+            ],
+            [
+              -15.3917286,
+              12.5628916
+            ],
+            [
+              -15.3803073,
+              12.5710466
+            ],
+            [
+              -15.369429,
+              12.579544
+            ],
+            [
+              -15.3547663,
+              12.5949367
+            ],
+            [
+              -15.3507859,
+              12.5994634
+            ],
+            [
+              -15.3376388,
+              12.6137228
+            ],
+            [
+              -15.3081965,
+              12.6239316
+            ],
+            [
+              -15.2827397,
+              12.6348112
+            ],
+            [
+              -15.2783222,
+              12.6370765
+            ],
+            [
+              -15.2706645,
+              12.6404755
+            ],
+            [
+              -15.2397144,
+              12.6596127
+            ],
+            [
+              -15.2349641,
+              12.661308
+            ],
+            [
+              -15.219756,
+              12.6676601
+            ],
+            [
+              -15.1967669,
+              12.6766034
+            ],
+            [
+              -15.1892176,
+              12.680226
+            ],
+            [
+              -15.1838218,
+              12.6819299
+            ],
+            [
+              -15.1790715,
+              12.6847545
+            ],
+            [
+              -15.1733524,
+              12.685328
+            ],
+            [
+              -15.1704425,
+              12.6860081
+            ],
+            [
+              -15.1636456,
+              12.6862384
+            ],
+            [
+              -15.1414121,
+              12.6857991
+            ],
+            [
+              -15.1224301,
+              12.6858085
+            ],
+            [
+              -15,
+              12.681394345706893
+            ],
+            [
+              -15,
+              13
+            ],
+            [
+              -16,
+              13
+            ],
+            [
+              -16,
+              12.457918656800583
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

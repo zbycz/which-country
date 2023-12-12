@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -550727,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Grenada",
+        "local_name": "Grenada",
+        "name_en": "Grenada",
+        "all_tags": {
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+          "name": "Grenada",
+          "name:ar": "غرينادا",
+          "name:br": "Grenada",
+          "name:cs": "Grenada",
+          "name:da": "Grenada",
+          "name:de": "Grenada",
+          "name:en": "Grenada",
+          "name:eo": "Grenado",
+          "name:es": "Granada",
+          "name:fr": "Grenade",
+          "name:fy": "Grenada",
+          "name:gn": "Gyranáta",
+          "name:he": "גרנדה",
+          "name:hr": "Grenada",
+          "name:hu": "Grenada",
+          "name:it": "Grenada",
+          "name:ja": "グレナダ",
+          "name:ko": "그레나다",
+          "name:nb": "Grenada",
+          "name:nl": "Grenada",
+          "name:pl": "Grenada",
+          "name:pt": "Granada",
+          "name:ru": "Гренада",
+          "name:se": "Grenada",
+          "name:sl": "Grenada",
+          "name:sq": "Grenada",
+          "name:sr": "Гренада",
+          "name:sv": "Grenada",
+          "name:ta": "கிரெனடா",
+          "name:tr": "Grenada",
+          "name:uk": "Гренада",
+          "name:vo": "Grenadeän",
+          "name:zh": "格林纳达",
+          "boundary": "administrative",
+          "name:hak": "Grenada",
+          "name:jbo": "grenadas",
+          "name:nan": "Grenada",
+          "name:smn": "Grenada",
+          "name:sms": "Grenada",
+          "name:szl": "Grynada",
+          "name:tzl": "Grenada",
+          "timezone": "America/Grenada",
+          "way_area": "0.415294",
+          "wikidata": "Q769",
+          "ISO3166-1": "GD",
+          "wikipedia": "en:Grenada",
+          "admin_level": "2",
+          "driving_side": "left",
+          "name:zh-Hans": "格林纳达",
+          "name:zh-Hant": "格瑞那達",
+          "ISO3166-1:alpha2": "GD",
+          "ISO3166-1:alpha3": "GRD",
+          "default_language": "en",
+          "official_name:cs": "Grenadský stát",
+          "ISO3166-1:numeric": "308"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62,
+              11.948494907340887
+            ],
+            [
+              -61.9996711,
+              11.9471756
+            ],
+            [
+              -61.9970794,
+              11.9387843
+            ],
+            [
+              -61.9949167,
+              11.932597
+            ],
+            [
+              -61.9907945,
+              11.9223753
+            ],
+            [
+              -61.9851409,
+              11.9104568
+            ],
+            [
+              -61.9809375,
+              11.9027244
+            ],
+            [
+              -61.9765264,
+              11.8953849
+            ],
+            [
+              -61.9693978,
+              11.8848368
+            ],
+            [
+              -61.9616092,
+              11.8747518
+            ],
+            [
+              -61.9432349,
+              11.8529566
+            ],
+            [
+              -61.9372876,
+              11.846429
+            ],
+            [
+              -61.9310572,
+              11.8401631
+            ],
+            [
+              -61.9245555,
+              11.8341707
+            ],
+            [
+              -61.919535,
+              11.8298689
+            ],
+            [
+              -61.9143216,
+              11.8257196
+            ],
+            [
+              -61.907197,
+              11.8204596
+            ],
+            [
+              -61.896091,
+              11.8131556
+            ],
+            [
+              -61.888428,
+              11.8086904
+            ],
+            [
+              -61.880575,
+              11.8045586
+            ],
+            [
+              -61.8725466,
+              11.8007679
+            ],
+            [
+              -61.8643583,
+              11.7973256
+            ],
+            [
+              -61.8566568,
+              11.7944514
+            ],
+            [
+              -61.8477761,
+              11.7915686
+            ],
+            [
+              -61.8357446,
+              11.7883535
+            ],
+            [
+              -61.8036766,
+              11.7810535
+            ],
+            [
+              -61.7910141,
+              11.7786002
+            ],
+            [
+              -61.7777765,
+              11.7768843
+            ],
+            [
+              -61.7644535,
+              11.7760246
+            ],
+            [
+              -61.7577778,
+              11.7759051
+            ],
+            [
+              -61.751102,
+              11.7760246
+            ],
+            [
+              -61.737779,
+              11.7768843
+            ],
+            [
+              -61.728941,
+              11.7779335
+            ],
+            [
+              -61.7171572,
+              11.7799337
+            ],
+            [
+              -61.7102807,
+              11.7814311
+            ],
+            [
+              -61.7034607,
+              11.7831613
+            ],
+            [
+              -61.6950251,
+              11.7856411
+            ],
+            [
+              -61.6408493,
+              11.8029655
+            ],
+            [
+              -61.6287482,
+              11.807614
+            ],
+            [
+              -61.6196349,
+              11.8117249
+            ],
+            [
+              -61.6088468,
+              11.817405
+            ],
+            [
+              -61.5984006,
+              11.8232809
+            ],
+            [
+              -61.5520737,
+              11.8501929
+            ],
+            [
+              -61.5469899,
+              11.8533489
+            ],
+            [
+              -61.5370194,
+              11.8599498
+            ],
+            [
+              -61.5280177,
+              11.8665149
+            ],
+            [
+              -61.5205675,
+              11.8725219
+            ],
+            [
+              -61.5090106,
+              11.8828305
+            ],
+            [
+              -61.5019871,
+              11.8895625
+            ],
+            [
+              -61.4913578,
+              11.9004655
+            ],
+            [
+              -61.4848716,
+              11.9073833
+            ],
+            [
+              -61.479151,
+              11.9138091
+            ],
+            [
+              -61.4722532,
+              11.922378
+            ],
+            [
+              -61.4670609,
+              11.9295042
+            ],
+            [
+              -61.4621889,
+              11.9368466
+            ],
+            [
+              -61.4587237,
+              11.9425088
+            ],
+            [
+              -61.4364831,
+              11.9822102
+            ],
+            [
+              -61.426761193812595,
+              12
+            ],
+            [
+              -62,
+              12
+            ],
+            [
+              -62,
+              11.948494907340887
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -555717,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Trinidad and Tobago",
+        "local_name": "Trinidad and Tobago",
+        "name_en": "Trinidad and Tobago",
+        "all_tags": {
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+          "name": "Trinidad and Tobago",
+          "name:ar": "ترينيداد وتوباغو",
+          "name:be": "Трынідад і Табага",
+          "name:br": "Trinidad-ha-Tobago",
+          "name:cs": "Trinidad a Tobago",
+          "name:de": "Trinidad und Tobago",
+          "name:en": "Trinidad and Tobago",
+          "name:eo": "Trinidado kaj Tobago",
+          "name:es": "Trinidad y Tobago",
+          "name:fr": "Trinité-et-Tobago",
+          "name:fy": "Trinidad en Tobago",
+          "name:gn": "Trinidad ha Továgo",
+          "name:hr": "Trinidad i Tobago",
+          "name:it": "Trinidad e Tobago",
+          "name:ja": "トリニダード・トバゴ",
+          "name:ko": "트리니다드 토바고",
+          "name:lt": "Trinidadas ir Tobagas",
+          "name:nl": "Trinidad en Tobago",
+          "name:no": "Trinidad og Tobago",
+          "name:pa": "ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ",
+          "name:pl": "Trynidad i Tobago",
+          "name:pt": "Trindade e Tobago",
+          "name:ru": "Тринидад и Тобаго",
+          "name:se": "Trinidad ja Tobago",
+          "name:sk": "Trinidad a Tobago",
+          "name:sl": "Trinidad in Tobago",
+          "name:sr": "Тринидад и Тобаго",
+          "name:sv": "Trinidad och Tobago",
+          "name:ta": "டிரினிடாட் மற்றும் டொபாகோ",
+          "name:tr": "Trinidad ve Tobago",
+          "name:ug": "ترىنىداد ۋە توباگو",
+          "name:uk": "Тринідад і Тобаго",
+          "name:ur": "ٹرینیڈاڈ و ٹوباگو",
+          "name:vo": "Trinidadeän e Tobageäns",
+          "name:zh": "特立尼达和多巴哥 / 千里達及托巴哥",
+          "boundary": "administrative",
+          "name:ary": "طرينيضاض ؤ طوباݣو",
+          "name:azb": "ترینیداد و توباقو",
+          "name:grc": "Τριὰς καὶ Ταβάκον",
+          "name:smn": "Trinidad já Tobago",
+          "name:sms": "Trinidad da Tobago",
+          "name:tzl": "Þriadia-es-Tobago",
+          "timezone": "America/Port_of_Spain",
+          "way_area": "1.79095",
+          "wikidata": "Q754",
+          "ISO3166-1": "TT",
+          "wikipedia": "en:Trinidad and Tobago",
+          "admin_level": "2",
+          "driving_side": "left",
+          "name:zh-Hans": "特立尼达和多巴哥",
+          "name:zh-Hant": "千里達及托巴哥",
+          "wikipedia:es": "Trinidad y Tobago",
+          "name:be-tarask": "Трынідад і Табага",
+          "ISO3166-1:alpha2": "TT",
+          "ISO3166-1:alpha3": "TTO",
+          "default_language": "en",
+          "official_name:ar": "جمهورية ترينيداد وتوباغو",
+          "official_name:be": "Рэспубліка Трынідад і Табага",
+          "official_name:cs": "Republika Trinidad a Tobago",
+          "official_name:de": "Republik Trinidad und Tobago",
+          "official_name:en": "Republic of Trinidad and Tobago",
+          "official_name:es": "República de Trinidad y Tobago",
+          "official_name:fr": "République de Trinité-et-Tobago",
+          "official_name:gn": "Tavakuairetã Trinidad ha Továgo",
+          "official_name:lt": "Trinidado ir Tobago Respublika",
+          "official_name:pt": "República de Trindade e Tobago",
+          "official_name:ru": "Республика Тринидад и Тобаго",
+          "ISO3166-1:numeric": "780",
+          "official_name:grc": "Πολιτεία τῆς Τριάδος καὶ Ταβάκου"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.63794799336864,
+              11
+            ],
+            [
+              -61,
+              11
+            ],
+            [
+              -61,
+              11.363142121470817
+            ],
+            [
+              -61.63794799336864,
+              11
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

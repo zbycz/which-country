@@ -1,0 +1,833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -296961,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Eritrea",
+        "local_name": "ኤርትራ Eritrea إرتريا",
+        "name_en": "Eritrea",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+          "name": "ኤርትራ Eritrea إرتريا",
+          "name:af": "Eritrea",
+          "name:am": "ኤርትራ",
+          "name:an": "Eritrea",
+          "name:ar": "إرتريا",
+          "name:az": "Eritreya",
+          "name:ba": "Эритрея",
+          "name:be": "Эрытрэя",
+          "name:bg": "Еритрея",
+          "name:bm": "Eritrea",
+          "name:bn": "ইরিত্রিয়া",
+          "name:bo": "ཨི་རི་ཏྲའ།",
+          "name:br": "Eritrea",
+          "name:bs": "Eritreja",
+          "name:ca": "Eritrea",
+          "name:ce": "Эритре",
+          "name:cs": "Eritrea",
+          "name:cu": "Єрѷѳрїꙗ",
+          "name:cy": "Eritrea",
+          "name:da": "Eritrea",
+          "name:de": "Eritrea",
+          "name:dv": "އެރިތުރިއާ",
+          "name:ee": "Eritrea",
+          "name:el": "Ερυθραία",
+          "name:en": "Eritrea",
+          "name:eo": "Eritreo",
+          "name:es": "Eritrea",
+          "name:et": "Eritrea",
+          "name:eu": "Eritrea",
+          "name:fa": "اریتره",
+          "name:fi": "Eritrea",
+          "name:fo": "Eritrea",
+          "name:fr": "Érythrée",
+          "name:fy": "Eritreä",
+          "name:ga": "An Eiritré",
+          "name:gd": "Eartra",
+          "name:gl": "Eritrea",
+          "name:gn": "Erityrea",
+          "name:gr": "Ἐρυθραία",
+          "name:gv": "Eritrea",
+          "name:he": "אריתריאה",
+          "name:hi": "इरित्रिया",
+          "name:hr": "Eritreja",
+          "name:ht": "Eritre",
+          "name:hu": "Eritrea",
+          "name:hy": "Էրիթրեա",
+          "name:ia": "Eritrea",
+          "name:id": "Eritrea",
+          "name:ie": "Eritréa",
+          "name:io": "Eritrea",
+          "name:is": "Erítrea",
+          "name:it": "Eritrea",
+          "name:ja": "エリトリア",
+          "name:jv": "Eritrea",
+          "name:ka": "ერიტრეა",
+          "name:kg": "Eritrea",
+          "name:kk": "Эритрея",
+          "name:kn": "ಎರಿಟ್ರಿಯ",
+          "name:ko": "에리트레아",
+          "name:ks": "ارتریا",
+          "name:ku": "Erîtrea",
+          "name:kw": "Eritrea",
+          "name:ky": "Эритрея",
+          "name:la": "Erythraea",
+          "name:lb": "Eritrea",
+          "name:li": "Eritrea",
+          "name:ln": "Elitré",
+          "name:lt": "Eritrėja",
+          "name:lv": "Eritreja",
+          "name:mi": "Eritēria",
+          "name:mk": "Еритреја",
+          "name:ml": "എരിട്രിയ",
+          "name:mn": "Эритрей",
+          "name:mr": "इरिट्रिया",
+          "name:ms": "Eritrea",
+          "name:mt": "Eritrea",
+          "name:my": "အီရီထရီးယားနိုင်ငံ",
+          "name:na": "Eritrea",
+          "name:ne": "एरिट्रिया",
+          "name:nl": "Eritrea",
+          "name:nn": "Eritrea",
+          "name:no": "Eritrea",
+          "name:oc": "Eritrèa",
+          "name:om": "Eritrea",
+          "name:or": "ଇରିଟ୍ରିଆ",
+          "name:os": "Эритрей",
+          "name:pa": "ਇਰੀਤਰੀਆ",
+          "name:pl": "Erytrea",
+          "name:ps": "اریتریا",
+          "name:pt": "Eritreia",
+          "name:qu": "Iritriya",
+          "name:ro": "Eritreea",
+          "name:ru": "Эритрея",
+          "name:rw": "Eritereya",
+          "name:sa": "इरीट्रिया",
+          "name:sc": "Eritrea",
+          "name:se": "Eritrea",
+          "name:sg": "Eritrëe",
+          "name:sh": "Eritreja",
+          "name:sk": "Eritrea",
+          "name:sl": "Eritreja",
+          "name:sn": "Eritrea",
+          "name:so": "Eratareya",
+          "name:sq": "Eritrea",
+          "name:sr": "Еритреја",
+          "name:ss": "IRitheya",
+          "name:st": "Eritrea",
+          "name:su": "Éritréa",
+          "name:sv": "Eritrea",
+          "name:sw": "Eritrea",
+          "name:ta": "எரித்திரியா",
+          "name:te": "ఎరిత్రియా",
+          "name:tg": "Эритрея",
+          "name:th": "ประเทศเอริเทรีย",
+          "name:ti": "ኤርትራ",
+          "name:tk": "Eritreýa",
+          "name:tl": "Eritrea",
+          "name:tr": "Eritre",
+          "name:ts": "Eritreya",
+          "name:tt": "Эритрея",
+          "name:ug": "ئېرىترېيە",
+          "name:uk": "Еритрея",
+          "name:ur": "ارتریا",
+          "name:uz": "Eritriya",
+          "name:vi": "Eritrea",
+          "name:vo": "Lerüträn",
+          "name:wo": "Eritere",
+          "name:yi": "עריטרעא",
+          "name:yo": "Ẹritrẹ́à",
+          "name:zh": "厄立特里亚 / 厄利垂亞",
+          "name:zu": "I-Eritrea",
+          "boundary": "administrative",
+          "name:ace": "Eritrea",
+          "name:als": "Eritrea",
+          "name:ang": "Æriþrea",
+          "name:ast": "Eritrea",
+          "name:azb": "اریتره",
+          "name:bcl": "Eritreya",
+          "name:bjn": "Eritrea",
+          "name:bpy": "ইরিত্রিয়া",
+          "name:bxr": "Эритрей",
+          "name:ceb": "Eritrea",
+          "name:ckb": "ئێریتریا",
+          "name:crh": "Eritreya",
+          "name:din": "Eriteria",
+          "name:diq": "Eritreya",
+          "name:dsb": "Eritreja",
+          "name:ext": "Eritrea",
+          "name:frp": "Èritrê",
+          "name:gag": "Eritreya",
+          "name:grc": "Ἐρυθραία",
+          "name:hif": "Eritrea",
+          "name:hsb": "Eritreja",
+          "name:ilo": "Eritrea",
+          "name:jbo": "eritreas",
+          "name:kab": "Iritirya",
+          "name:lad": "Eritrea",
+          "name:lij": "Eritrea",
+          "name:lmo": "Eritrea",
+          "name:mhr": "Эритрей",
+          "name:min": "Eritrea",
+          "name:mrj": "Эритрей",
+          "name:nah": "Eritrea",
+          "name:nan": "Eritrea",
+          "name:nds": "Eritrea",
+          "name:nov": "Eritrea",
+          "name:nso": "Eritrea",
+          "name:pam": "Eritrea",
+          "name:pap": "Eritrea",
+          "name:pih": "Eritreya",
+          "name:pms": "Eritrea",
+          "name:pnb": "اریٹریا",
+          "name:sah": "Эритрея",
+          "name:scn": "Eritria",
+          "name:sco": "Eritrea",
+          "name:smn": "Eritrea",
+          "name:sms": "Eritrea",
+          "name:stq": "Eritrea",
+          "name:szl": "Erytryja",
+          "name:tok": "ma Eliteja",
+          "name:tzl": "Eriþraia",
+          "name:vec": "Eritrea",
+          "name:vro": "Eritrea",
+          "name:war": "Eritrea",
+          "name:xal": "Эритреймудин Орн",
+          "name:yue": "厄立特里亞",
+          "timezone": "Africa/Asmara",
+          "way_area": "13.4765",
+          "wikidata": "Q986",
+          "ISO3166-1": "ER",
+          "wikipedia": "ar:إريتريا",
+          "population": "3497000",
+          "admin_level": "2",
+          "alt_name:ar": "إريتريا",
+          "alt_name:ps": "اریتره;اریتریه",
+          "alt_name:pt": "Eritréia",
+          "name:az-Arab": "اریتره",
+          "name:bat-smg": "Eritrėjė",
+          "name:kk-Arab": "ەرىيترەيا",
+          "name:roa-rup": "Eritrea",
+          "name:zh-Hans": "厄立特里亚",
+          "name:zh-Hant": "厄利垂亞",
+          "name:be-tarask": "Эрытрэя",
+          "population:date": "2019-08",
+          "ISO3166-1:alpha2": "ER",
+          "ISO3166-1:alpha3": "ERI",
+          "official_name:af": "Staat Eritrea",
+          "official_name:ar": "دولة إرتريا",
+          "official_name:cs": "Stát Eritrea",
+          "official_name:de": "Staat Eritrea",
+          "official_name:el": "Κράτος της Ερυθραίας",
+          "official_name:en": "State of Eritrea",
+          "official_name:es": "Estado de Eritrea",
+          "official_name:nl": "Staat Eritrea",
+          "official_name:pa": "ਇਰੀਤਰੀਆ ਦਾ ਮੁਲਕ",
+          "official_name:ps": "د اریتریا هیواد ولسمشریزه",
+          "official_name:pt": "Estado da Eritreia",
+          "official_name:ru": "Государство Эритрея",
+          "ISO3166-1:numeric": "232",
+          "official_name:nds": "Staat Eritrea",
+          "official_name:kk-Arab": "ەرىيترەيا مەملەكەتى"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41,
+              15.340011964989928
+            ],
+            [
+              41.0174387,
+              15.3529415
+            ],
+            [
+              41.0446853,
+              15.3825966
+            ],
+            [
+              41.0621424,
+              15.4099523
+            ],
+            [
+              41.0745235,
+              15.4386065
+            ],
+            [
+              41.0822027,
+              15.4687696
+            ],
+            [
+              41.0849993,
+              15.5002352
+            ],
+            [
+              41.0787938,
+              15.5510765
+            ],
+            [
+              41.0652747,
+              15.5887487
+            ],
+            [
+              41.0443347,
+              15.6230866
+            ],
+            [
+              41.0405831,
+              15.6274866
+            ],
+            [
+              41.0481967,
+              15.6540216
+            ],
+            [
+              41.0522465,
+              15.6919086
+            ],
+            [
+              41.0494455,
+              15.727069
+            ],
+            [
+              41.0404246,
+              15.7609697
+            ],
+            [
+              41.0254576,
+              15.7928373
+            ],
+            [
+              41.0049971,
+              15.8217024
+            ],
+            [
+              41,
+              15.826630481842761
+            ],
+            [
+              41,
+              15.340011964989928
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -305092,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Yemen",
+        "local_name": "اليمن",
+        "name_en": "Yemen",
+        "all_tags": {
+          "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+          "name": "اليمن",
+          "name:af": "Jemen",
+          "name:am": "የመን (አገር)",
+          "name:an": "Yemen",
+          "name:ar": "اليمن",
+          "name:az": "Yəmən",
+          "name:ba": "Йемен",
+          "name:be": "Емен",
+          "name:bg": "Йемен",
+          "name:bn": "ইয়েমেন",
+          "name:bo": "ཡེ་མེན།",
+          "name:br": "Yemen",
+          "name:bs": "Jemen",
+          "name:ca": "Iemen",
+          "name:ce": "Йемен",
+          "name:co": "Yemen",
+          "name:cs": "Jemen",
+          "name:cv": "Йемен",
+          "name:cy": "Yemen",
+          "name:da": "Yemen",
+          "name:de": "Jemen",
+          "name:dv": "ޔަމަން",
+          "name:el": "Υεμένη",
+          "name:en": "Yemen",
+          "name:eo": "Jemeno",
+          "name:es": "Yemen",
+          "name:et": "Jeemen",
+          "name:eu": "Yemen",
+          "name:fa": "یمن",
+          "name:fi": "Jemen",
+          "name:fo": "Jemen",
+          "name:fr": "Yémen",
+          "name:fy": "Jemen",
+          "name:ga": "Poblacht Éimin",
+          "name:gd": "Iemen",
+          "name:gl": "Iemen - اليمن",
+          "name:gn": "Jemẽ",
+          "name:gu": "યેમેન",
+          "name:gv": "Yn Yeaman",
+          "name:he": "תימן",
+          "name:hi": "यमन",
+          "name:hr": "Jemen",
+          "name:ht": "Yemèn",
+          "name:hu": "Jemen",
+          "name:hy": "Եմեն",
+          "name:ia": "Yemen",
+          "name:id": "Yaman",
+          "name:ie": "Yemen",
+          "name:io": "Yemen",
+          "name:is": "Jemen",
+          "name:it": "Yemen",
+          "name:ja": "イエメン",
+          "name:jv": "Yaman",
+          "name:ka": "იემენი",
+          "name:ki": "Yemen",
+          "name:kk": "Йемен",
+          "name:kl": "Yemen",
+          "name:kn": "ಯೆಮೆನ್",
+          "name:ko": "예멘",
+          "name:ks": "یَمَن",
+          "name:ku": "Yemen",
+          "name:kv": "Йемен",
+          "name:kw": "Yemen",
+          "name:ky": "Йемен",
+          "name:la": "Iemenia",
+          "name:lb": "Jemen",
+          "name:li": "Jeme",
+          "name:ln": "Yeméni",
+          "name:lt": "Jemenas",
+          "name:lv": "Jemena",
+          "name:mk": "Јемен",
+          "name:ml": "യെമൻ",
+          "name:mn": "Йемен",
+          "name:mr": "येमेनचे प्रजासत्ताक",
+          "name:ms": "Yaman",
+          "name:mt": "Jemen",
+          "name:my": "ယီမင်နိုင်ငံ",
+          "name:na": "Yemen",
+          "name:ne": "गणतन्त्र यमन",
+          "name:nl": "Jemen",
+          "name:nn": "Jemen",
+          "name:no": "Jemen",
+          "name:nv": "Shádiʼááhjí Ásáí Bikéyah",
+          "name:oc": "Iemèn",
+          "name:or": "ୟେମେନ",
+          "name:os": "Йемен",
+          "name:pa": "ਯਮਨ",
+          "name:pl": "Jemen",
+          "name:ps": "یمن",
+          "name:pt": "Iémen",
+          "name:qu": "Yaman",
+          "name:ro": "Yemen",
+          "name:ru": "Йемен",
+          "name:rw": "Yemeni",
+          "name:sa": "यमन",
+          "name:sd": "يمن",
+          "name:se": "Jemen",
+          "name:sh": "Jemen",
+          "name:sk": "Jemen",
+          "name:sl": "Jemen",
+          "name:so": "Yemen",
+          "name:sq": "Jemeni",
+          "name:sr": "Јемен",
+          "name:ss": "IYemeni",
+          "name:su": "Yaman",
+          "name:sv": "Jemen",
+          "name:sw": "Yemen",
+          "name:ta": "யெமன்",
+          "name:te": "యెమన్",
+          "name:tg": "Яман",
+          "name:th": "ประเทศเยเมน",
+          "name:tk": "Ýemen",
+          "name:tl": "Yemen",
+          "name:tr": "Yemen",
+          "name:tt": "Йәмән",
+          "name:ug": "يەمەن",
+          "name:uk": "Ємен",
+          "name:ur": "یمن",
+          "name:uz": "Yaman",
+          "name:vi": "Yemen",
+          "name:vo": "Yämän",
+          "name:wo": "Yaman",
+          "name:yi": "תימן",
+          "name:yo": "Yemen",
+          "name:zh": "也门 / 葉門",
+          "name:zu": "IYemen",
+          "boundary": "administrative",
+          "name:ace": "Yaman",
+          "name:als": "Jemen",
+          "name:ang": "Gemen",
+          "name:arc": "ܝܡܢ",
+          "name:arz": "اليمن",
+          "name:ast": "Yeme",
+          "name:azb": "یمن",
+          "name:bar": "Jemen",
+          "name:bcl": "Yemen",
+          "name:ber": "ⵢⴰⵎⴰⵏ",
+          "name:bpy": "ইয়েমেন",
+          "name:bug": "Yaman",
+          "name:bxr": "Йемен",
+          "name:ceb": "Yemen",
+          "name:ckb": "یەمەن",
+          "name:crh": "Yemen",
+          "name:csb": "Jemen",
+          "name:diq": "Yemen",
+          "name:dsb": "Jemen",
+          "name:ext": "Yemen",
+          "name:frp": "Yèmen",
+          "name:gag": "Yemen",
+          "name:hak": "Ya̍p-mùn",
+          "name:haw": "Iemene",
+          "name:hif": "Yemen",
+          "name:hsb": "Jemen",
+          "name:ilo": "Yemen",
+          "name:jbo": "djemen",
+          "name:kaa": "Yemen",
+          "name:kab": "Yamen",
+          "name:kbd": "Йемен",
+          "name:kmr": "یەمەن",
+          "name:lad": "Teman",
+          "name:lez": "Йемен",
+          "name:lij": "Yemen",
+          "name:lmo": "Yemen",
+          "name:mzn": "یمن",
+          "name:nah": "Yemen",
+          "name:nan": "Yemen",
+          "name:nap": "Yemen",
+          "name:nds": "Jemen",
+          "name:new": "गणतन्त्र यमन",
+          "name:nov": "Yemen",
+          "name:pam": "Yemen",
+          "name:pap": "Yemen",
+          "name:pih": "Yemen",
+          "name:pms": "Yemen",
+          "name:pnb": "یمن",
+          "name:sah": "Йиэмэн",
+          "name:scn": "Yemen",
+          "name:sco": "Yemen",
+          "name:smn": "Jemen",
+          "name:sms": "Jemeeʹn",
+          "name:stq": "Jemen",
+          "name:szl": "Jymyn",
+          "name:tpi": "Yemen",
+          "name:tzl": "Iemén",
+          "name:udm": "Йемен",
+          "name:vec": "Jemen",
+          "name:vro": "Jeemen",
+          "name:war": "Yemen",
+          "name:wuu": "也门",
+          "name:xal": "Йеменмудин Орн",
+          "name:yue": "也門",
+          "name:zea": "Jeem’n",
+          "timezone": "Asia/Aden",
+          "way_area": "44.0982",
+          "wikidata": "Q805",
+          "ISO3166-1": "YE",
+          "wikipedia": "ar:اليمن",
+          "population": "30491000",
+          "admin_level": "2",
+          "border_type": "nation",
+          "name:bat-smg": "Jemens",
+          "name:zh-Hans": "也门",
+          "name:zh-Hant": "葉門",
+          "official_name": "الجمهورية اليمنية",
+          "name:be-tarask": "Емэн",
+          "population:date": "2021-07-01",
+          "ISO3166-1:alpha2": "YE",
+          "ISO3166-1:alpha3": "YEM",
+          "default_language": "ar",
+          "official_name:ar": "الجمهورية اليمنية",
+          "official_name:cs": "Jemenská republika",
+          "official_name:eo": "Jemena Respubliko",
+          "official_name:fa": "جمهوری یمن",
+          "official_name:ru": "Йеменская Республика",
+          "official_name:ur": "جمہوریہ یمن",
+          "ISO3166-1:numeric": "887",
+          "official_name:azb": "یمن جومهوریتی"
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                41.60825,
+                15.542463
+              ],
+              [
+                41.6083893,
+                15.5272993
+              ],
+              [
+                41.6106212,
+                15.505978
+              ],
+              [
+                41.6189302,
+                15.4706576
+              ],
+              [
+                41.6334293,
+                15.436747
+              ],
+              [
+                41.6463418,
+                15.4162693
+              ],
+              [
+                41.6677644,
+                15.3904516
+              ],
+              [
+                41.6864474,
+                15.3733601
+              ],
+              [
+                41.7028314,
+                15.3613075
+              ],
+              [
+                41.7167583,
+                15.3528676
+              ],
+              [
+                41.736675,
+                15.3426669
+              ],
+              [
+                41.7678956,
+                15.3316103
+              ],
+              [
+                41.7877483,
+                15.3271009
+              ],
+              [
+                41.8079643,
+                15.3244958
+              ],
+              [
+                41.8375009,
+                15.32405
+              ],
+              [
+                41.8643121,
+                15.3269429
+              ],
+              [
+                41.8806655,
+                15.3304199
+              ],
+              [
+                41.8982591,
+                15.3356966
+              ],
+              [
+                41.9093736,
+                15.3396762
+              ],
+              [
+                41.9396647,
+                15.3523161
+              ],
+              [
+                41.9639656,
+                15.366162
+              ],
+              [
+                41.975327,
+                15.3742495
+              ],
+              [
+                41.9962079,
+                15.3925656
+              ],
+              [
+                42,
+                15.396598800913537
+              ],
+              [
+                42,
+                15.690794406512243
+              ],
+              [
+                41.9874491,
+                15.7028596
+              ],
+              [
+                41.9663873,
+                15.7189414
+              ],
+              [
+                41.9550877,
+                15.7259624
+              ],
+              [
+                41.9355837,
+                15.7360755
+              ],
+              [
+                41.9193436,
+                15.7428307
+              ],
+              [
+                41.9000114,
+                15.7492122
+              ],
+              [
+                41.8801196,
+                15.7537299
+              ],
+              [
+                41.8598618,
+                15.7563397
+              ],
+              [
+                41.8394353,
+                15.7570164
+              ],
+              [
+                41.8090447,
+                15.7551102
+              ],
+              [
+                41.7911808,
+                15.752195
+              ],
+              [
+                41.7714406,
+                15.7471088
+              ],
+              [
+                41.7505654,
+                15.7396505
+              ],
+              [
+                41.7358689,
+                15.7330374
+              ],
+              [
+                41.7114697,
+                15.7195909
+              ],
+              [
+                41.6891875,
+                15.7030891
+              ],
+              [
+                41.676538,
+                15.6916375
+              ],
+              [
+                41.6589689,
+                15.6729231
+              ],
+              [
+                41.6452189,
+                15.6547002
+              ],
+              [
+                41.6251886,
+                15.6194672
+              ],
+              [
+                41.6141671,
+                15.5868703
+              ],
+              [
+                41.6106625,
+                15.5695886
+              ],
+              [
+                41.60825,
+                15.542463
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                41.8921129,
+                15.1607525
+              ],
+              [
+                41.8931149,
+                15.1381526
+              ],
+              [
+                41.8973876,
+                15.1119972
+              ],
+              [
+                41.8998769,
+                15.0809772
+              ],
+              [
+                41.9118688,
+                15.0378082
+              ],
+              [
+                41.93256515938653,
+                15
+              ],
+              [
+                42,
+                15
+              ],
+              [
+                42,
+                15.345026564185408
+              ],
+              [
+                41.9924932,
+                15.3406901
+              ],
+              [
+                41.9728063,
+                15.3259462
+              ],
+              [
+                41.9551024,
+                15.3090257
+              ],
+              [
+                41.9396383,
+                15.2901746
+              ],
+              [
+                41.9211991,
+                15.2616009
+              ],
+              [
+                41.9135084,
+                15.2478681
+              ],
+              [
+                41.9046505,
+                15.2277327
+              ],
+              [
+                41.8957721,
+                15.1960812
+              ],
+              [
+                41.8930426,
+                15.1770842
+              ],
+              [
+                41.8921129,
+                15.1607525
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

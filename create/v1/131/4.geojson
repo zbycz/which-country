@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm_id": -571805,
+        "boundary": "administrative",
+        "admin_level": 2,
+        "parents": null,
+        "name": "Palau",
+        "local_name": "Belau",
+        "name_en": "Palau",
+        "all_tags": {
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+          "name": "Belau",
+          "name:ar": "بالاو",
+          "name:cs": "Palau",
+          "name:de": "Palau",
+          "name:en": "Palau",
+          "name:eo": "Palaŭo",
+          "name:es": "Palaos",
+          "name:eu": "Palau",
+          "name:fr": "Palaos",
+          "name:gn": "Paláu",
+          "name:hr": "Palau",
+          "name:ia": "Palau",
+          "name:io": "Palau",
+          "name:ja": "パラオ",
+          "name:lt": "Palau",
+          "name:mi": "Pārau",
+          "name:oc": "Belau",
+          "name:pl": "Palau",
+          "name:pt": "Palau",
+          "name:ru": "Палау",
+          "name:se": "Palau",
+          "name:sk": "Palau",
+          "name:sl": "Palau",
+          "name:sr": "Палау",
+          "name:ta": "பலாவு",
+          "name:uk": "Палау",
+          "name:vi": "Palau",
+          "name:vo": "Palauäns",
+          "name:zh": "帕劳 / 帛琉",
+          "boundary": "administrative",
+          "name:jbo": "belaus",
+          "name:nan": "Palau",
+          "name:smn": "Palau",
+          "name:sms": "Palau",
+          "timezone": "Pacific/Palau",
+          "way_area": "7.32264",
+          "wikidata": "Q695",
+          "ISO3166-1": "PW",
+          "wikipedia": "en:Palau",
+          "admin_level": "2",
+          "driving_side": "right",
+          "name:zh-Hans": "帕劳",
+          "name:zh-Hant": "帛琉",
+          "ISO3166-1:alpha2": "PW",
+          "ISO3166-1:alpha3": "PLW",
+          "default_language": "en",
+          "official_name:ar": "جمهورية بالاو",
+          "official_name:cs": "Republika Palau",
+          "official_name:en": "Republic of Palau",
+          "official_name:es": "República de Palaos",
+          "official_name:gn": "Tavakuairetã Paláu",
+          "official_name:pt": "República de Palau",
+          "official_name:ru": "Республика Палау",
+          "ISO3166-1:numeric": "585"
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              131.36201778393007,
+              4
+            ],
+            [
+              132,
+              4
+            ],
+            [
+              132,
+              5
+            ],
+            [
+              131.8335263187777,
+              5
+            ],
+            [
+              131.4903195,
+              4.2727442
+            ],
+            [
+              131.36201778393007,
+              4
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
