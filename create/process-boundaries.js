@@ -28,19 +28,16 @@ console.log('Start with lat/lon pair, boundaries', boundaries.length);
 
 // run through all lon/lat pairs
 for (let lon = -180; lon < 180; lon += 1) {
-
-    const boundariesForCurrentLon = getCacheForLon(lon);
+    fs.mkdirSync(`./v1/${lon}`, {recursive: true});
 
     for (let lat = -90; lat < 90; lat += 1) {
         const name = `./v1/${lon}/${lat}.geojson`; // could make up to 360 * 180 = 64800 files (land is 1/3, so max more like 21600)
 
         const start = performance.now();
-        const intersections = getIntersections(boundariesForCurrentLon, lon, lat);
+        const intersections = getIntersections(lon, lat);
 
         if (intersections.length > 0) {
-            fs.mkdirSync(`./v1/${lon}`, {recursive: true});
-
-            fs.writeFileSync(name, JSON.stringify(turf.featureCollection(intersections), null, 2));
+            fs.writeFileSync(name, JSON.stringify(turf.featureCollection(intersections)));
 
             console.log(name, intersections.length, Math.round(performance.now() - start));
         }
@@ -48,15 +45,23 @@ for (let lon = -180; lon < 180; lon += 1) {
 }
 
 
-function getIntersections(boundaries, lon, lat) {
+function getIntersections(lon, lat) {
     let bbox = [lon, lat, lon + 1, lat + 1];
     const out = [];
 
     for (const boundary of boundaries) {
+        // this is 0 ms, unlike turf.intersect, which is ~300 ms
         if (isIntersectingBBox(bbox, boundary)) {
             const bboxPolygon = turf.bboxPolygon(bbox); // extent in minX, minY, maxX, maxY order
             const intersection = turf.intersect(boundary, bboxPolygon, {properties: boundary.properties});
             if (intersection) {
+                intersection.properties = {
+                    relation_id: boundary.properties.osm_id * -1,
+                    code: boundary.properties.all_tags["ISO3166-1"],
+                    name: boundary.properties.name,
+                    local_name: boundary.properties.local_name,
+                }
+
                 out.push(intersection);
             }
         }
@@ -65,21 +70,7 @@ function getIntersections(boundaries, lon, lat) {
     return out;
 }
 
-function getCacheForLon(lon) {
-    let bbox = [lon, -90, lon + 1, 90];
-    const out = [];
-
-    for (const boundary of boundaries) {
-        if (isIntersectingBBox(bbox, boundary)) {
-            out.push(boundary);
-        }
-    }
-    return out;
-}
-
-
 function isIntersectingBBox(bbox1, boundary) {
-    // this is 0 ms, unlike turf.intersect, which is 50 ms
     let bbox2 = boundary.bbox;
     if (!(
         bbox1[0] > bbox2[2] ||

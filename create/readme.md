@@ -16,9 +16,31 @@ It downloads 17 MB of gzipped data, 52 MB of raw geojsons. The biggest file is 2
 node process-boundaries.js
 ```
 
-Generates 20768 files of files (530 MB), each folder max 4 MB.
-Biggest files is 777 kB ([v1/88/26.geojson](./v1/88/26.geojson)).
-Takes 7h on Macbook M1 Air.
+Generates 20768 files of files (122 MB). Folder few MBs. Biggest files is 777 kB ([v1/88/26.geojson](./v1/88/26.geojson)).
+Takes 7h on Macbook M1 Air, or 4h on Macbook M1 Pro.
+
+
+# optional: tidy up
+
+```bash
+node tidy-up.js
+```
+- round to 5 decimals -> 116 MB
+- (ZIP 17.8 MB)
+
+v1/14/50.geojson = 269kB pretty json
+v2/14/50.geojson = 60kb no spaces, less tags
+v2/14/50.geojson = 53kb with rounded to 5 decimals
+
+
+Experiment:
+- polyline 5 dec -> 86 MB
+
+
+
+
+# use
+
 
 Download options:
 - https://github.com/zbycz/which-country/blob/main/create/v1/88/26.geojson
@@ -30,28 +52,7 @@ Download options:
     // TODO find if files can be permanent Expire +10y ..
 
 
-     
-
-# v2
-
-```bash
-node process-boundaries2.js
-```
-
-v1/14/50.geojson = 269kB pretty json
-v2/14/50.geojson = 60kb no spaces, less tags
-v2/14/50.geojson = 53kb with rounded to 5 decimals
-
-
-
 # notes
-
-TODO
-use polyline eg
-const polyline = require('@mapbox/polyline');
-const polyline = require('@googlemaps/polyline-codec');
-- but the handle only linestrings, not polygons
-
 
 // find biggest file in folder recursively using ls:
 ```bash
