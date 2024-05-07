@@ -1,10 +1,13 @@
-# which-country
+# which-country DEPREACTED
 Static API for fast country lookup
 
 
 
 The downloaded data itself follows the license of OpenStreetMap, which is [ODbL](https://opendatacommons.org/licenses/odbl/1-0/). 
 
+**INFO**
+
+More info about algorithms at [`/create` folder](create/). But after all this idea is not ideal, it generates eg 122MB of files which has to be hosted somewhere. It would be better to use utfgrid / codegrid ([lib](https://github.com/hlaw/codegrid-js)), which generates just 1.5MB for whole world, but the generator script is lost and the code is quite old.
 
 
 Similar projects
