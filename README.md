@@ -21,4 +21,5 @@ Similar projects
   - https://openlayers.org/en/latest/examples/utfgrid.html
   - fetches 35kb for world, then 100-300kb for tile
   - tile storage = 10 MB, zip = 1.5 MB
+- approximate tz lookup in 7kB - for inspiration: https://github.com/photostructure/tz-lookup
 
